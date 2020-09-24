@@ -24,7 +24,7 @@ A suggestion|
 Money|
 A mistake|
 ||A favour
-The right thing|
+||The right thing
 
 
 ### Esercizio 8
