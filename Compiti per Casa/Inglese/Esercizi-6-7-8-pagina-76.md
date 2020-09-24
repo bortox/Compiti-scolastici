@@ -1,6 +1,8 @@
 # Esercizi di Inglese
 
-#### **Esercizio 6**
+Pagina numero 76. Language for life B1. Esercizi 6,7 e 8.
+
+### **Esercizio 6**
 
 |Make|Do|
 |---|---|
@@ -10,7 +12,7 @@ Friends|
 ||Good
 ||Charity work
 
-#### Esercizio 7
+### Esercizio 7
 
 |Make|Do|
 |---|---|
@@ -25,7 +27,7 @@ A mistake|
 The right thing|
 
 
-#### Esercizio 8
+### Esercizio 8
 
 1. make a decision
 2. made a mistake
