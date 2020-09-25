@@ -27,7 +27,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: 'Risultati trovati:<br><br><li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'Nessun risultato trovato',
         limit: 50,
         fuzzy: false,
