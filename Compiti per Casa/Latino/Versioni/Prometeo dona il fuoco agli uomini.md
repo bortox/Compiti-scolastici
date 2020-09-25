@@ -1,16 +1,9 @@
 ---
-tags: ['23', '199', Dona, Fuoco, Giapeto, Il mio Latino, Latino, pagina 199, Prometeo, Splash, Uomini, Versione]
+tags: '23', '199', Dona, Fuoco, Giapeto, Il mio Latino, Latino, pagina 199, Prometeo, Splash, Uomini, Versione
 title: Prometeo dona il fuoco agli uomini
-created: '2020-09-25T16:27:59.088Z'
-modified: '2020-09-25T17:44:51.738Z'
+description: Per migliorare la vita degli uomini, Prometeo trafuga il fuoco agli dei e lo porta sulla terra. Giove per punizione lo fa incatenare a una rupe del Caucaso, dove ogni notte un' aquila gli divora il fegato.
 ---
 
-# Prometeo dona il fuoco agli uomini
-<br>
-
-> Per migliorare la vita degli uomini, Prometeo trafuga il fuoco agli dei e lo porta sulla terra. Giove per punizione lo fa incatenare a una rupe del Caucaso, dove ogni notte un' aquila gli divora il fegato
-
-<br>
 
 ## Versione numero 23 pagina 199
 
