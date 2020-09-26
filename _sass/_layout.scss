@@ -243,3 +243,43 @@
         }
     }
 }
+$red: #e74c3c;
+$blue: #3498db;
+button {
+  background-color: $red; /* Green */
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.12em;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: Abel;
+  font-weight:900;
+  border-radius: 1em;
+  &:hover,
+  &:focus {
+    border-radius:20;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    background-color: $blue;
+    outline: 0;
+  }
+}
+.troll {
+  margin: -15px 10px 20px 25px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+  display: inline-block;
+  cursor: none;
+}

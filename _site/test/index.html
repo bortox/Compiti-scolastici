@@ -394,6 +394,7 @@ with lazy continuation.</p>
     </div>
 
     <footer class="site-footer">
+  
 
   <div class="wrapper">
 
@@ -407,6 +408,11 @@ with lazy continuation.</p>
         </ul>
       </div>
       <div class="footer-col  footer-col-2">
+      
+        <form action="http://localhost:4000">
+            <button>🏠 Torna al menù principale </button>
+        </form>
+      
         <ul class="social-media-list">
           
 
@@ -431,8 +437,8 @@ with lazy continuation.</p>
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-        noResultsText: 'Nessun risultato trovato',
+        searchResultTemplate: '<br><li><button class="troll">{materia}</button></p><a href="{url}?query={query}" title="{description}">{title}</a></li>',
+        noResultsText: '🤔 Nessun risultato trovato',
         limit: 50,
         fuzzy: false,
         exclude: ['Benvenut@']

@@ -21,6 +21,8 @@ body { font-family: Open Sans; font-size: 16px; line-height: 1.5; font-weight: 4
 
 @font-face { font-family: "Abel"; src: url("../data/fonts/Abel.ttf"); }
 
+@font-face { font-family: "R2"; src: url("../data/fonts/R2.ttf"); }
+
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
 
@@ -164,6 +166,12 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .post-content h4 { font-size: 20px; }
 
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+button { background-color: #e74c3c; /* Green */ border: none; color: white; text-transform: uppercase; padding: 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.12em; margin: 4px 2px; cursor: pointer; transition: 0.3s; font-family: Abel; font-weight: 900; border-radius: 1em; }
+
+button:hover, button:focus { border-radius: 20; text-transform: uppercase; font-weight: 700; color: white; background-color: #3498db; outline: 0; }
+
+.troll { margin: -15px 10px 20px 25px; background-color: #4CAF50; /* Green */ border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; float: left; display: inline-block; cursor: none; }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
