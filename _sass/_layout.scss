@@ -11,6 +11,8 @@
 }
 
 .site-title {
+    animation: rubberBand;
+    animation-duration: 0.5s;
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
@@ -24,6 +26,10 @@
 }
 
 .site-nav {
+    animation: fadeInDown;
+    animation-fill-mode: both;
+    animation-duration: 0.5s;
+    animation-delay:2.5s;
     float: right;
     line-height: 56px;
 

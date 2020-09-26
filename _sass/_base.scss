@@ -13,6 +13,10 @@ dl, dd, ol, ul, figure {
  */
 
 table {
+  animation: bounceIn;
+  animation-fill-mode: both;
+  animation-duration: 1.6s;
+  animation-delay: 4.5s;
   border: 6px double #aaa;
   border-collapse: collapse;
   margin: 0;
@@ -128,6 +132,12 @@ ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
+p {
+    animation: fadeIn;
+    animation-fill-mode: both;
+    animation-duration: 1s;
+    animation-delay: 2.4s; 
+}
 h1 {
     font-family: "Title";
     background: black;
@@ -136,28 +146,49 @@ h1 {
     color: white;
     animation: zoomInDown;
     animation-duration: 1s;
+    animation-fill-mode: both;
     font-size: 3em;
 }
 
 h2 {
     font-family: "Title";
+    animation: fadeInDown;
+    animation-duration:0.9s;
+    animation-delay:1.3s;
+    animation-fill-mode: both;
     font-size: 2.4em;
 }
 h3 {
     font-family: "Title";
     font-size: 2em;
+    animation: fadeInDown;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+    animation-delay: 1.6s;
 }
 h4 {
     font-family: "Title";
     font-size: 1.76em;
+    animation: fadeInDown;
+    animation-duration: 0.7s;
+    animation-fill-mode: both;
+    animation-delay: 1.9s;
 }
 h5 {
     font-family: "Title";
     font-size: 1.2em;
+    animation: fadeInDown;
+    animation-duration: 0.6s;
+    animation-fill-mode: both;
+    animation-delay: 2.2s;
 }
 h6 {
     font-family: "Title";
     font-size: 1em;
+    animation: fadeInDown;
+    animation-fill-mode: both;
+    animation-duration: 0.5s;
+    animation-delay:2.5s;
 }
 
 /**
@@ -166,6 +197,10 @@ h6 {
 img {
     max-width: 100%;
     vertical-align: middle;
+    animation: fadeIn;
+    animation-fill-mode: both;
+    animation-duration: 1s;
+    animation-delay: 5s;
 }
 
 
@@ -175,6 +210,7 @@ img {
  */
 figure > img {
     display: block;
+    
 }
 
 figcaption {
@@ -187,6 +223,10 @@ figcaption {
  * Lists
  */
 ul, ol {
+    animation: backInLeft;
+    animation-fill-mode: both;
+    animation-duration: 0.7s;
+    animation-delay: 3.2s;
     margin-left: $spacing-unit;
 }
 
@@ -229,11 +269,12 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 5px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: 21px;
     letter-spacing: -1px;
     font-style: italic;
+    font-weight:400;
 
     > :last-child {
         margin-bottom: 0;
@@ -247,6 +288,10 @@ blockquote {
  */
 pre,
 code {
+    animation: fadeIn;
+    animation-fill-mode: both;
+    animation-duration: 0.9s;
+    animation-delay: 4s;
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;

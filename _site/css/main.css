@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Aggiunta tabelle con contorno */
-table { border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
+table { animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
 
 table caption { font-size: 1.5em; margin: .5em 0 .75em; }
 
@@ -24,20 +24,22 @@ body { font-family: Open Sans; font-size: 16px; line-height: 1.5; font-weight: 4
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
 
-h1 { font-family: "Title"; background: black; margin: 0.2em; padding: 0.3em; color: white; animation: zoomInDown; animation-duration: 1s; font-size: 3em; }
+p { animation: fadeIn; animation-fill-mode: both; animation-duration: 1s; animation-delay: 2.4s; }
 
-h2 { font-family: "Title"; font-size: 2.4em; }
+h1 { font-family: "Title"; background: black; margin: 0.2em; padding: 0.3em; color: white; animation: zoomInDown; animation-duration: 1s; animation-fill-mode: both; font-size: 3em; }
 
-h3 { font-family: "Title"; font-size: 2em; }
+h2 { font-family: "Title"; animation: fadeInDown; animation-duration: 0.9s; animation-delay: 1.3s; animation-fill-mode: both; font-size: 2.4em; }
 
-h4 { font-family: "Title"; font-size: 1.76em; }
+h3 { font-family: "Title"; font-size: 2em; animation: fadeInDown; animation-duration: 0.8s; animation-fill-mode: both; animation-delay: 1.6s; }
 
-h5 { font-family: "Title"; font-size: 1.2em; }
+h4 { font-family: "Title"; font-size: 1.76em; animation: fadeInDown; animation-duration: 0.7s; animation-fill-mode: both; animation-delay: 1.9s; }
 
-h6 { font-family: "Title"; font-size: 1em; }
+h5 { font-family: "Title"; font-size: 1.2em; animation: fadeInDown; animation-duration: 0.6s; animation-fill-mode: both; animation-delay: 2.2s; }
+
+h6 { font-family: "Title"; font-size: 1em; animation: fadeInDown; animation-fill-mode: both; animation-duration: 0.5s; animation-delay: 2.5s; }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; }
+img { max-width: 100%; vertical-align: middle; animation: fadeIn; animation-fill-mode: both; animation-duration: 1s; animation-delay: 5s; }
 
 /** Figures */
 figure > img { display: block; }
@@ -45,7 +47,7 @@ figure > img { display: block; }
 figcaption { font-size: 14px; }
 
 /** Lists */
-ul, ol { margin-left: 30px; }
+ul, ol { animation: backInLeft; animation-fill-mode: both; animation-duration: 0.7s; animation-delay: 3.2s; margin-left: 30px; }
 
 li > ul, li > ol { margin-bottom: 0; }
 
@@ -60,12 +62,12 @@ a:visited { color: #1756a9; }
 a:hover { color: #111; text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+blockquote { color: #828282; border-left: 5px solid #e8e8e8; padding-left: 15px; font-size: 21px; letter-spacing: -1px; font-style: italic; font-weight: 400; }
 
 blockquote > :last-child { margin-bottom: 0; }
 
 /** Code formatting */
-pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+pre, code { animation: fadeIn; animation-fill-mode: both; animation-duration: 0.9s; animation-delay: 4s; font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
 
 code { padding: 1px 5px; }
 
@@ -89,11 +91,11 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Site header */
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
 
-.site-title { font-size: 26px; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+.site-title { animation: rubberBand; animation-duration: 0.5s; font-size: 26px; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 
 .site-title, .site-title:visited { color: #424242; }
 
-.site-nav { float: right; line-height: 56px; }
+.site-nav { animation: fadeInDown; animation-fill-mode: both; animation-duration: 0.5s; animation-delay: 2.5s; float: right; line-height: 56px; }
 
 .site-nav .menu-icon { display: none; }
 
