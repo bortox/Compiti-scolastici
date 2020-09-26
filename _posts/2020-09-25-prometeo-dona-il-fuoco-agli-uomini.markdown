@@ -25,4 +25,5 @@ Ercole uccise l' aquila dopo molti anni e liberò Prometeo.
 
 ### Analisi del Periodo ad albero:
 
-![Schema visuale analisi del periodo non trovato ( trollazione non riesco a programmare decentemente)](../img/PrometheusIapetiFilius.png)
+![Schema visuale analisi del periodo non trovato ( trollazione non riesco a programmare decentemente)](
+/img/PrometheusIapetiFilius.png)
