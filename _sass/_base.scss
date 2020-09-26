@@ -138,15 +138,17 @@ p {
     animation-duration: 1s;
     animation-delay: 2.4s; 
 }
+@keyframes mymove {
+    from {background-color: red;}
+    to {background-color: purple;}
+}
 h1 {
     font-family: "Title";
-    background: black;
+    background: purple;
     margin:0.2em;
     padding:0.3em;
     color: white;
-    animation: zoomInDown;
-    animation-duration: 1s;
-    animation-fill-mode: both;
+    animation: zoomInDown 1s, mymove 3s;
     font-size: 3em;
 }
 

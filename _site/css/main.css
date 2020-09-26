@@ -26,7 +26,10 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 
 p { animation: fadeIn; animation-fill-mode: both; animation-duration: 1s; animation-delay: 2.4s; }
 
-h1 { font-family: "Title"; background: black; margin: 0.2em; padding: 0.3em; color: white; animation: zoomInDown; animation-duration: 1s; animation-fill-mode: both; font-size: 3em; }
+@keyframes mymove { from { background-color: red; }
+  to { background-color: purple; } }
+
+h1 { font-family: "Title"; background: purple; margin: 0.2em; padding: 0.3em; color: white; animation: zoomInDown 1s, mymove 3s; font-size: 3em; }
 
 h2 { font-family: "Title"; animation: fadeInDown; animation-duration: 0.9s; animation-delay: 1.3s; animation-fill-mode: both; font-size: 2.4em; }
 
