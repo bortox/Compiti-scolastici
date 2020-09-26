@@ -1,3 +1,10 @@
+---
+layout:  post
+title:  "Esercizi 6, 7 ed 8 pagina 76"
+date: 2020-09-25 20:00:00
+categories:  compiti inglese
+description: "Esercizi 6 7 e 8 a pagina 76 del libro Language For Life B1"
+---
 # Esercizi di Inglese
 
 Pagina numero 76. Language for life B1. Esercizi 6,7 e 8.
