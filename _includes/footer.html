@@ -18,6 +18,7 @@
       {% else %}
         <form action="{{prepend: site.baseurl | prepend: site.url | prepend: site.title }}">
             <button>🏠 Torna al menù principale </button>
+            <p> baseurl {{ site.baseurl }} url {{ site.url }} title {{ site.title }} </p>
         </form>
       {% endif %}
         <ul class="social-media-list">
