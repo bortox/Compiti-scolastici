@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Qui non c'è niente!</title>
+    <style>
+      #search-demo-container {
+        animation: bounceInLeft;
+        animation-fill-mode: both;
+        animation-duration: 1.5s;
+        animation-delay:0.5s;
+        max-width: 40em;
+        padding: .3em;
+        margin: .8em auto;
+        border: 1px solid grey;
+        border-radius: 10px;
+      }
+      #search-input {
+        margin: 2em auto;
+        border-radius: 12px;
+        display: inline-block;
+        padding: .6em;
+        width: 100%;
+        font-size: 0.8em;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+    </style>
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  </head>
+  <body>
+    <h1 style="text-align: center;"><b>ERRORE 404</b></h1>
+    <p style="text-align: center;">La seguente pagina web non esiste.</p>
+    <p style="text-align: center;">Se stavi cercando qualcosa, puoi trovarlo
+      attraverso la ricerca qui sotto.</p>
+    <div id="search-demo-container"> <input id="search-input" placeholder="🔍 Fai una ricerca ..."
+        type="search">
+      <ul id="results-container">
+      </ul>
+    </div>
+    <br>
+    <br>
+    <p> Oppure, se vuoi </p>
+    {% include footer.html %}
+  </body>
+</html>
