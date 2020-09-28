@@ -1,2 +1,15 @@
 title: Compiti e Appunti <br> scolastici
 url: https://bortox.github.io
+plugins:
+  - jekyll-seo-tag
+author: Andrea Bortolotti
+lang: it_IT
+description: Un blog ad uso e abuso degli studenti contenente i compiti scolastici e gli appunti presi da me, Andrea Bortolotti, durante il liceo. Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! Benvenuti
+tagline: Compiti ed Appunti scolastici del liceo ad uso e abuso degli studenti.
+social:
+  name: Andrea Bortolotti
+  links:
+    - https://github.com/bortox
+    - https://instagram.com/borto.jpg
+    - https://www.youtube.com/channel/UCHehfwRWUDOcyfeCjOh_fzg
+image: /data/img/cso.png
