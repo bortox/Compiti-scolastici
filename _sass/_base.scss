@@ -13,6 +13,7 @@ dl, dd, ol, ul, figure {
  */
 
 table {
+  word-break: break-all;
   animation: bounceIn;
   animation-fill-mode: both;
   animation-duration: 1.6s;

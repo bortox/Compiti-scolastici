@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Aggiunta tabelle con contorno */
-table { animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
+table { word-break: break-all; animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
 
 table caption { font-size: 1.5em; margin: .5em 0 .75em; }
 
