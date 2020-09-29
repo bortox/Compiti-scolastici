@@ -12,7 +12,7 @@ table th, table td { padding: .625em; border: 1px solid #ddd; text-align: center
 
 table th { font-size: .85em; letter-spacing: .1em; text-transform: uppercase; border: 4px ridge #f2a4a4; border-radius: 5px; font-style: bold; }
 
-@media screen and (max-width: 600px) { table { border: 0; } table caption { font-size: 1.3em; } table thead { border: none; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; } table tr { border-bottom: 6px solid #ddd; display: block; margin-bottom: .625em; } table td { border-bottom: 1px solid #ddd; display: block; font-size: .8em; text-align: right; } table td::before { /* aria-label has no advantage, it won't be read inside a table content: attr(aria-label); */ content: attr(data-label); float: left; font-weight: bold; text-transform: uppercase; } table td:last-child { border-bottom: 0; } }
+@media screen and (max-width: 600px) { table { font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; border-collapse: collapse; width: 100%; } table td, table th { border: 1px solid #ddd; padding: 8px; } table tr:nth-child(even) { background-color: #f2f2f2; } table tr:hover { background-color: #ddd; } table th { padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #4CAF50; color: white; } }
 
 /** Basic styling */
 body { font-family: Open Sans; font-size: 16px; line-height: 1.5; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
