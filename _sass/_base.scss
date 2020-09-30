@@ -7,11 +7,14 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
-
+@media print {
+   .nottoprint {
+       display: none;
+    }
+}
 /**
  * Aggiunta tabelle con contorno
  */
-
 table {
   word-break: break-word;
   animation: bounceIn;
@@ -20,15 +23,8 @@ table {
   animation-delay: 4.5s;
   border: 6px double #aaa;
   border-collapse: collapse;
-  margin: 0;
-  padding: 0;
   width: 100%;
   table-layout: fixed;
-}
-
-table caption {
-  font-size: 1.5em;
-  margin: .5em 0 .75em;
 }
 
 table tr {
@@ -52,6 +48,11 @@ table th {
   border-radius: 5px;
   font-style: bold;
   font-family: Abel;
+}
+.table-wrapper {
+    x-overflow: auto;
+    width: 100%;
+    max-width:100%;
 }
 /**
  * Basic styling

@@ -9,6 +9,9 @@ description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combu
 # Introduzione
 <sup><sub>NOTA: IN QUESTA LEZIONE ERO ASSENTE, MA SONO RIUSCITO A RIELABORARE UN DIARIO DI BORDO DAGLI APPUNTI DEI MIEI GENEROSI COMPAGNI **FANTECHI**, **BENVENUTI**, **PINOCHI** e **FANCIULLACCI**.</sub></sup><br><br>
 
+<div class="nottoprint" markdown="1">
+
+
 ## INDICE INTERATTIVO:<a name="int"></a>
 ---
 * #### [Che cosa abbiamo osservato?](#cao)
@@ -17,6 +20,8 @@ description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combu
 * #### [Termini nuovi](#tmn)
 
 ---
+
+</div>
 
 <details>
   <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>

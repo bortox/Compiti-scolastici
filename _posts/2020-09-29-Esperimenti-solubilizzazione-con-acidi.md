@@ -7,6 +7,9 @@ materia: scienze naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante Acidi e Basi. Resoconto della seconda lezione, in cui proviamo a far solubilizzare carbonato di calcio in acqua, acido cloridrico e aceto. Successivamente osserviamo la solubilizzazione di metalli in polvere in una soluzione contenente acido cloridrico."
 ---
 
+<div class="nottoprint" markdown="1">
+
+
 ## INDICE INTERATTIVO:<a name="int"></a>
 ---
 * #### [Esperimenti con acqua, aceto, acido cloridrico e marmo.](#eaaacm)
@@ -18,6 +21,7 @@ description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante
 ---
 
 
+</div>
 
 <details>
   <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>

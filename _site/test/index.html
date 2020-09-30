@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-
+  <div class="nottoprint">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1">
@@ -23,7 +23,7 @@
 <meta property="og:url" content="http://localhost:4000/test/" />
 <meta property="og:site_name" content="Compiti e Appunti scolastici" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/test/","author":{"@type":"Person","name":"Andrea Bortolotti"},"headline":"Test","description":"Un blog ad uso e abuso degli studenti contenente i compiti scolastici e gli appunti presi da me, Andrea Bortolotti, durante il liceo. Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell’ Arte e tante altre ancora! Benvenuti","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/test/","headline":"Test","author":{"@type":"Person","name":"Andrea Bortolotti"},"description":"Un blog ad uso e abuso degli studenti contenente i compiti scolastici e gli appunti presi da me, Andrea Bortolotti, durante il liceo. Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell’ Arte e tante altre ancora! Benvenuti","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <style>
@@ -54,7 +54,6 @@
 
 
   <body>
-
     <header class="site-header">
 
   <div class="wrapper">
@@ -84,6 +83,7 @@
         
           
         
+        <button class="print" onclick="window.print()"><img src="/data/img/printer.png" /></button>
       </div>
     </nav>
 
@@ -91,12 +91,11 @@
 
 </header>
 
-
-    <div id="search-demo-container">
+    </div>
+    <div id="search-demo-container" class="nottoprint">
       <input type="search" id="search-input" placeholder="🔍 Fai una ricerca ...">
       <ul id="results-container"></ul>
     </div>
-
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
@@ -408,7 +407,7 @@ with lazy continuation.</p>
 
       </div>
     </div>
-
+    <div class="nottoprint">
     <footer class="site-footer">
   
 
@@ -445,7 +444,7 @@ with lazy continuation.</p>
 
 </footer>
 
-
+    </div>
     <script src="/js/simple-jekyll-search.min.js"></script>
 
     <script>

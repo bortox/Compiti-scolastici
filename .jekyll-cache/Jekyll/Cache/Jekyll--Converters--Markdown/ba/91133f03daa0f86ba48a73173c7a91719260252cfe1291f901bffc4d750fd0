@@ -1,30 +1,16 @@
-I"�&<h2 id="indice-interattivo">INDICE INTERATTIVO:<a name="int"></a></h2>
-<hr />
-<ul>
-  <li>
-    <h4 id="esperimenti-con-acqua-aceto-acido-cloridrico-e-marmo"><a href="#eaaacm">Esperimenti con acqua, aceto, acido cloridrico e marmo.</a></h4>
-    <ul>
-      <li>
-        <h4 id="tabella-condivisa-sulle-nostre-osservazioni"><a href="#tcd">Tabella condivisa sulle nostre osservazioni</a></h4>
-      </li>
-      <li>
-        <h4 id="riflessioni-collettive-e-individuali"><a href="#dfo">Riflessioni collettive e individuali</a></h4>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <h4 id="esperimenti-con-acido-cloridrico-e-metalli-in-polvere"><a href="#tmn">Esperimenti con acido cloridrico e metalli in polvere</a></h4>
-    <ul>
-      <li>
-        <h4 id="tabella-riguardante-il-tempo-di-solubilizzazione-dei-metalli-in-acido-cloridrico"><a href="#tab">Tabella riguardante il tempo di solubilizzazione dei metalli in acido cloridrico</a></h4>
-      </li>
-      <li>
-        <h4 id="tabella-riguardante-il-tempo-di-solubilizzazione-dei-metalli-in-acido-cloridrico-1"><a href="#tab">Tabella riguardante il tempo di solubilizzazione dei metalli in acido cloridrico</a></h4>
-        <hr />
-      </li>
-    </ul>
-  </li>
-</ul>
+I"�#<div class="nottoprint">
+
+## INDICE INTERATTIVO:<a name="int"></a>
+---
+* #### [Esperimenti con acqua, aceto, acido cloridrico e marmo.](#eaaacm)
+  * #### [Tabella condivisa sulle nostre osservazioni](#tcd)
+  * #### [Riflessioni collettive e individuali](#dfo)
+* #### [Esperimenti con acido cloridrico e metalli in polvere](#tmn)
+  * #### [Tabella riguardante il tempo di solubilizzazione dei metalli in acido cloridrico](#tab)
+  * #### [Riflessioni individuali](#rfi)
+---
+
+</div>
 
 <details>
   <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
@@ -118,7 +104,7 @@
 <h5 id="confrontando-acido-cloridrico-e-aceto-quali-differenze-e-analogie-notate">Confrontando acido cloridrico e aceto, quali differenze e analogie notate?</h5>
 
 <blockquote>
-  <p>Io ho notato che la polvere di marmo si solubilizza sia inserita se in una soluzione con acido cloridrico, sia in una con aceto. L’ aceto corrode in maggiore tempo la polvere di marmo e il sasso, è più lento dell’ acido cloridrico ma è costante. Nella corrosione del sasso di marmo, ad esempio, si nota meno effervescenza nell’ aceto, ma essa è costante, solo più lenta di quella dell’ acido cloridrico: anche dopo numerosi minuti si continua a vedere una lieve schiuma.</p>
+  <p>Io ho notato che la polvere di marmo si solubilizza sia se inserita in una soluzione con acido cloridrico, sia in una con aceto. L’ aceto corrode in maggiore tempo la polvere di marmo e il sasso, è più lento dell’ acido cloridrico ma è costante. Nella corrosione del sasso di marmo, ad esempio, si nota meno effervescenza nella soluzione con aceto, ma essa è costante, solo più lenta di quella dell’ acido cloridrico: anche dopo numerosi minuti si continua a vedere una lieve schiuma.</p>
 </blockquote>
 
 <h3 id="osservazioni-1">Osservazioni<a name="tmn"></a></h3>
@@ -179,7 +165,7 @@
   </tbody>
 </table>
 
-<h3 id="riflessioni-individuali-1">Riflessioni individuali:</h3>
+<h3 id="riflessioni-individuali-1">Riflessioni individuali:<a name="rfi"></a></h3>
 
 <h5 id="perché-il-sasso-di-marmo-si-solubilizza-più-lentamente-della-polvere">Perché il sasso di marmo si solubilizza più lentamente della polvere?</h5>
 

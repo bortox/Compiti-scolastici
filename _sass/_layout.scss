@@ -269,6 +269,19 @@ button {
     outline: 0;
   }
 }
+.print {
+  background-color: transparent;
+  width: 32px;
+  height: 32px;
+  margin: 0px;
+  padding: 3px;
+  &:hover,
+  &:focus {
+    border: 2px black;
+    border-radius: 1em;
+    background-color: transparent;
+  }
+}
 .troll {
   margin: -15px 10px 20px 25px;
   background-color: #4CAF50; /* Green */

@@ -1,16 +1,18 @@
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
-/** Aggiunta tabelle con contorno */
-table { word-break: break-word; animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
+@media print { .nottoprint { display: none; } }
 
-table caption { font-size: 1.5em; margin: .5em 0 .75em; }
+/** Aggiunta tabelle con contorno */
+table { word-break: break-word; animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; width: 100%; table-layout: fixed; }
 
 table tr { background-color: #f8f8f8; border: 2px solid #ddd; padding: .35em; }
 
 table th, table td { padding: .625em; border: 1px solid #ddd; text-align: center; }
 
 table th { font-size: 1.2em; letter-spacing: .1em; text-transform: uppercase; color: blue; border: 4px ridge #f2a4a4; border-radius: 5px; font-style: bold; font-family: Abel; }
+
+.table-wrapper { x-overflow: auto; width: 100%; max-width: 100%; }
 
 /** Basic styling */
 body { font-family: Open Sans; font-size: 16px; line-height: 1.5; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
@@ -176,6 +178,10 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 button { background-color: #e74c3c; /* Green */ border: none; color: white; text-transform: uppercase; padding: 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.12em; margin: 4px 2px; cursor: pointer; transition: 0.3s; font-family: Abel; font-weight: 900; border-radius: 1em; }
 
 button:hover, button:focus { border-radius: 20; text-transform: uppercase; font-weight: 700; color: white; background-color: #3498db; outline: 0; }
+
+.print { background-color: transparent; width: 32px; height: 32px; margin: 0px; padding: 3px; }
+
+.print:hover, .print:focus { border: 2px black; border-radius: 1em; background-color: transparent; }
 
 .troll { margin: -15px 10px 20px 25px; background-color: #4CAF50; /* Green */ border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; float: left; display: inline-block; cursor: none; }
 

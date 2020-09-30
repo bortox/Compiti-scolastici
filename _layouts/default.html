@@ -1,25 +1,23 @@
 <!doctype html>
 <html lang="en">
-
+  <div class="nottoprint">
   {% include head.html %}
 
   <body>
-
     {% include header.html %}
-
-    <div id="search-demo-container">
+    </div>
+    <div id="search-demo-container" class="nottoprint">
       <input type="search" id="search-input" placeholder="🔍 Fai una ricerca ...">
       <ul id="results-container"></ul>
     </div>
-
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
-
+    <div class="nottoprint">
     {% include footer.html %}
-
+    </div>
     <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
 
     <script>
