@@ -186,17 +186,8 @@
 
 .post-meta {
     border-left: 4px solid darkblue;
-    transition: 1s;
-    color: $grey-color;
-    text-align: center;
-    font-family: Abel;
-    font-size: 1.2rem;
-    padding: 0.4em;
-    width: 30%;
-    margin-left: 10px;
-    margin-right: auto;
-    margin-bottom: -0.4em;
-    padding-bottom: 0px;
+    font-size: $small-font-size;
+    color: $grey-color
 }
 
 .post-link {
