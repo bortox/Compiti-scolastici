@@ -73,7 +73,7 @@ summary { font-size: 19px; letter-spacing: 0.05em; color: #5c5c5c; transition: 0
 
 summary:hover { color: #424242; }
 
-details { color: #424242; padding: 15px; margin: 30px; font-size: 16px; border-left: 3px solid #e8e8e8; letter-spacing: 0.005em; font-weight: 400; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.1); width: 100%; background: #ffffff; border-radius: 8px; position: relative; width: 500px; transition: 0.5s; }
+details { color: #424242; padding: 15px; margin: 30px; font-size: 16px; border-left: 3px solid #e8e8e8; letter-spacing: 0.005em; font-weight: 400; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.1); width: 100%; background: #ffffff; border-radius: 8px; position: relative; transition: 0.5s; }
 
 details:hover { border-radius: 9px; color: black; border-left: 5px solid red; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19), 0 10px 10px -5px rgba(0, 0, 0, 0.14); cursor: pointer; }
 
@@ -146,7 +146,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-list > li { margin-bottom: 30px; }
 
-.post-meta { border-left: 4px solid darkblue; transition: 1s; color: #828282; text-align: center; font-family: Abel; font-size: 1.2rem; padding: 0.4em; width: 30%; margin-left: 10px; margin-right: auto; margin-bottom: -0.4em; padding-bottom: 0px; }
+.post-meta { font-size: 14px; color: #828282; }
 
 .post-link { display: block; font-size: 24px; }
 
