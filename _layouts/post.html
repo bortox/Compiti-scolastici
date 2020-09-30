@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="post">
-
   <header class="post-header">
     <p class="post-meta">{{ page.date | date: "%A, %e %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     <h1 class="post-title">{{ page.title }}</h1>
@@ -11,7 +10,9 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+    <div class="onlyprint">
+        <h5><span style="text-align:center"><span style="color:blue"> Andrea Bortolotti </span><br> @borto.jpg su instagram <br> mail: broto777@zoho.com</h5>
+    </div>
 </div>
 
 <ul>

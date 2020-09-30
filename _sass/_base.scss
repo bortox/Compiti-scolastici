@@ -7,10 +7,21 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
+
 @media print {
+    .onlyprint {
+       display: block;
+       width: 40%;
+       margin: auto;
+       color: black;
+   }
    .nottoprint {
        display: none;
     }
+   
+}
+.onlyprint {
+    display: none;
 }
 /**
  * Aggiunta tabelle con contorno
@@ -103,6 +114,8 @@ h1 {
     font-family: "Title";
     background: purple;
     margin:0.2em;
+    margin-bottom: 0.4em;
+    padding-bottom: 0.2em;
     padding:0.3em;
     color: white;
     animation: zoomInDown 1s, mymove 3s;
@@ -259,8 +272,8 @@ details {
     border-left: 3px solid $grey-color-light;
     letter-spacing: 0.005em;
     font-weight:400;
-	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
-		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.1);
+	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19),
+    0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.14);
 	background: #ffffff;
 	border-radius: 8px;
 	position: relative;
@@ -269,8 +282,8 @@ details {
         border-radius:9px;
         color: black;
         border-left: 5px solid red;
-        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19),
-		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.14);
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.1);
 		cursor: pointer;
 	}
 }
