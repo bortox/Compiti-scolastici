@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
  */
 
 table {
-  word-break: break-all;
+  word-break: break-word;
   animation: bounceIn;
   animation-fill-mode: both;
   animation-duration: 1.6s;
@@ -43,40 +43,15 @@ table td {
   border: 1px solid #ddd;
   text-align: center;
 }
-
 table th {
-  font-size: .85em;
+  font-size: 1.2em;
   letter-spacing: .1em;
   text-transform: uppercase;
+  color: blue;
   border: 4px ridge #f2a4a4;
   border-radius: 5px;
   font-style: bold;
-}
-
-@media screen and (max-width: 600px) {
-    table {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-    }
-
-    table td, table th {
-    border: 1px solid #ddd;
-    padding: 8px;
-    }
-
-    table tr:nth-child(even){background-color: #f2f2f2;}
-
-    table tr:hover {background-color: #ddd;}
-
-    table th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #4CAF50;
-    color: white;
-    }
-
+  font-family: Abel;
 }
 /**
  * Basic styling
@@ -263,7 +238,42 @@ blockquote {
         margin-bottom: 0;
     }
 }
+summary {
 
+    font-size:19px;
+    letter-spacing: 0.05em;
+    color:$grey-color-mid;
+    transition:0.2s;
+    &:hover {
+        color:$grey-color-dark;
+    }
+    
+}
+details {
+    color:$grey-color-dark;
+    padding: $spacing-unit / 2;
+    margin: $spacing-unit;
+    font-size: 16px;
+    border-left: 3px solid $grey-color-light;
+    letter-spacing: 0.005em;
+    font-weight:400;
+	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.1);
+	width: 100%;
+	background: #ffffff;
+	border-radius: 8px;
+	position: relative;
+	width: 500px;
+    transition: 0.5s;
+	&:hover {
+        border-radius:9px;
+        color: black;
+        border-left: 5px solid red;
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19),
+		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.14);
+		cursor: pointer;
+	}
+}
 
 
 /**

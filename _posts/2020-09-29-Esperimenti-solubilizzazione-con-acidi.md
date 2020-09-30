@@ -1,11 +1,12 @@
 ---
 layout:  post
 title:  "Percorso LSS Acidi e Basi | Esperimenti sulla solubilizzazione di metalli e polvere di marmo con acido cloridrico, acqua e aceto. "
-date: 2020-09-18 10:00:00
+date: 2020-09-28 10:00:00
 categories:  appunti
 materia: scienze naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante Acidi e Basi. Resoconto della seconda lezione, in cui proviamo a far solubilizzare carbonato di calcio in acqua, acido cloridrico e aceto. Successivamente osserviamo la solubilizzazione di metalli in polvere in una soluzione contenente acido cloridrico."
 ---
+
 ## INDICE INTERATTIVO:<a name="int"></a>
 ---
 * #### [Esperimenti con acqua, aceto, acido cloridrico e marmo.](#eaaacm)
@@ -88,7 +89,7 @@ Pezzo di marmo|Depositato sul fondo.|Effervescenza più marcata. Opaco con resid
 ##### Confrontando acido cloridrico e aceto, quali differenze e analogie notate?
 
 
-> Io ho notato che la polvere di marmo si solubilizza sia inserita se in una soluzione con acido cloridrico, sia in una con aceto. L' aceto corrode in maggiore tempo la polvere di marmo e il sasso, è più lento ma continua. Ad esempio, nella corrosione del sasso di marmo, si nota meno effervescenza nell' aceto, ma essa è  ugualmente costante, solo più lenta di quella dell' acido cloridrico.
+> Io ho notato che la polvere di marmo si solubilizza sia inserita se in una soluzione con acido cloridrico, sia in una con aceto. L' aceto corrode in maggiore tempo la polvere di marmo e il sasso, è più lento dell' acido cloridrico ma è costante. Nella corrosione del sasso di marmo, ad esempio, si nota meno effervescenza nell' aceto, ma essa è costante, solo più lenta di quella dell' acido cloridrico: anche dopo numerosi minuti si continua a vedere una lieve schiuma.
 
 ### Osservazioni<a name="tmn"></a>
 
@@ -115,11 +116,19 @@ Metallo|Osservazioni|Velocità di solubilizzazione|
 Ferro in polvere|Resta un residuo sul fondo dopo una debole effervescenza, ma costante, che si prolunga per vari minuti.|Non si solubilizza
 Truciolo di rame|Il liquido diventa giallino, c'è una debolissima effervescenza e non succede niente al rame.| Molto tempo?
 Zinco in polvere|Si solubilizza velocemente con tanta effervescenza, poi il liquido diventa trasparente.|Meno di un minuto
-Alluminio|Inizialmente non succede niente per circa 1/2 minuti, poi inizia a spumeggiare, del fumo sale lungo le pareti della provetta. Si produce della nebbia dal fumo, che resta sulle pareti della provetta.|A scoppio ritardato, circa 4 minuti.
+Alluminio|Inizialmente non succede niente per circa 1/2 minuti, poi inizia a spumeggiare, del vapore sale lungo la provetta. Il vapore condensa sulle pareti della provetta e si crea della nebbia.|A scoppio ritardato, circa 4 minuti.
 Ossido di rame|C'è un' intensa effervescenza, poi si solubilizza. La soluzione finale è di un colore verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.
 
 
-> <span style="color:red"> IMPORTANTE: </span> Questo diario non è ancora completo, devo ancora rispondere a delle consegne.
+### Riflessioni individuali:
+
+
+##### Perché il sasso di marmo si solubilizza più lentamente della polvere?
+
+> Secondo me il sasso di marmo si solubilizza più lentamente della polvere siccome la superficie del sasso che va a contatto con l' acido è minore di quella della polvere che va a contatto con l' acido, con un' euguale massa, quindi il processo è più lento siccome l' acido agisce su una superficie più piccola.
+
+##### Perché si generano bollicine?
+
 
 
 

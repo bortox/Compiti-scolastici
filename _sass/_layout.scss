@@ -185,16 +185,24 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    border-left: 4px solid darkblue;
+    transition: 1s;
     color: $grey-color;
+    text-align: center;
+    font-family: Abel;
+    font-size: 1.2rem;
+    padding: 0.4em;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-bottom: -0.4em;
+    padding-bottom: 0px;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
 }
-
-
 
 /**
  * Posts

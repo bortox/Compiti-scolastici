@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Aggiunta tabelle con contorno */
-table { word-break: break-all; animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
+table { word-break: break-word; animation: bounceIn; animation-fill-mode: both; animation-duration: 1.6s; animation-delay: 4.5s; border: 6px double #aaa; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed; }
 
 table caption { font-size: 1.5em; margin: .5em 0 .75em; }
 
@@ -10,9 +10,7 @@ table tr { background-color: #f8f8f8; border: 2px solid #ddd; padding: .35em; }
 
 table th, table td { padding: .625em; border: 1px solid #ddd; text-align: center; }
 
-table th { font-size: .85em; letter-spacing: .1em; text-transform: uppercase; border: 4px ridge #f2a4a4; border-radius: 5px; font-style: bold; }
-
-@media screen and (max-width: 600px) { table { font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; border-collapse: collapse; width: 100%; } table td, table th { border: 1px solid #ddd; padding: 8px; } table tr:nth-child(even) { background-color: #f2f2f2; } table tr:hover { background-color: #ddd; } table th { padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #4CAF50; color: white; } }
+table th { font-size: 1.2em; letter-spacing: .1em; text-transform: uppercase; color: blue; border: 4px ridge #f2a4a4; border-radius: 5px; font-style: bold; font-family: Abel; }
 
 /** Basic styling */
 body { font-family: Open Sans; font-size: 16px; line-height: 1.5; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
@@ -70,6 +68,14 @@ a:hover { color: #111; text-decoration: underline; }
 blockquote { color: #828282; border-left: 5px solid #e8e8e8; padding-left: 15px; font-size: 21px; letter-spacing: -1px; font-style: italic; font-weight: 400; }
 
 blockquote > :last-child { margin-bottom: 0; }
+
+summary { font-size: 19px; letter-spacing: 0.05em; color: #5c5c5c; transition: 0.2s; }
+
+summary:hover { color: #424242; }
+
+details { color: #424242; padding: 15px; margin: 30px; font-size: 16px; border-left: 3px solid #e8e8e8; letter-spacing: 0.005em; font-weight: 400; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.1); width: 100%; background: #ffffff; border-radius: 8px; position: relative; width: 500px; transition: 0.5s; }
+
+details:hover { border-radius: 9px; color: black; border-left: 5px solid red; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19), 0 10px 10px -5px rgba(0, 0, 0, 0.14); cursor: pointer; }
 
 /** Code formatting */
 pre, code { animation: fadeIn; animation-fill-mode: both; animation-duration: 0.9s; animation-delay: 4s; font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
@@ -140,7 +146,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-list > li { margin-bottom: 30px; }
 
-.post-meta { font-size: 14px; color: #828282; }
+.post-meta { border-left: 4px solid darkblue; transition: 1s; color: #828282; text-align: center; font-family: Abel; font-size: 1.2rem; padding: 0.4em; width: 30%; margin-left: 10px; margin-right: auto; margin-bottom: -0.4em; padding-bottom: 0px; }
 
 .post-link { display: block; font-size: 24px; }
 
