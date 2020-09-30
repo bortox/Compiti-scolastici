@@ -65,15 +65,15 @@ a:visited { color: #1756a9; }
 a:hover { color: #111; text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #828282; border-left: 5px solid #e8e8e8; padding-left: 15px; font-size: 21px; letter-spacing: -1px; font-style: italic; font-weight: 400; }
+blockquote { color: #828282; border-left: 5px solid #e8e8e8; padding-left: 15px; font-size: 19px; letter-spacing: -1px; font-style: italic; font-weight: 400; }
 
 blockquote > :last-child { margin-bottom: 0; }
 
-summary { font-size: 19px; letter-spacing: 0.05em; color: #5c5c5c; transition: 0.2s; }
+summary { font-size: 15px; letter-spacing: 0.05em; color: #5c5c5c; transition: 0.2s; }
 
 summary:hover { color: #424242; }
 
-details { color: #424242; padding: 15px; margin: 30px; font-size: 16px; border-left: 3px solid #e8e8e8; letter-spacing: 0.005em; font-weight: 400; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.1); width: 100%; background: #ffffff; border-radius: 8px; position: relative; transition: 0.5s; }
+details { color: #424242; padding: 15px; margin: 45px; font-size: 16px; border-left: 3px solid #e8e8e8; letter-spacing: 0.005em; font-weight: 400; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.1); background: #ffffff; border-radius: 8px; position: relative; transition: 0.5s; }
 
 details:hover { border-radius: 9px; color: black; border-left: 5px solid red; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19), 0 10px 10px -5px rgba(0, 0, 0, 0.14); cursor: pointer; }
 

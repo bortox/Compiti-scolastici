@@ -13,7 +13,8 @@ description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante
   * #### [Tabella condivisa sulle nostre osservazioni](#tcd)
   * #### [Riflessioni collettive e individuali](#dfo)
 * #### [Esperimenti con acido cloridrico e metalli in polvere](#tmn)
-
+  * #### [Tabella riguardante il tempo di solubilizzazione dei metalli in acido cloridrico](#tab)
+  * #### [Riflessioni individuali](#rfi)
 ---
 
 
@@ -30,6 +31,8 @@ description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante
   • Spatola ( per inserire la polvere di marmo nelle provette )<br>
 
 </details>
+
+---
 
 ### Osservazioni
 
@@ -89,9 +92,11 @@ Pezzo di marmo|Depositato sul fondo.|Effervescenza più marcata. Opaco con resid
 ##### Confrontando acido cloridrico e aceto, quali differenze e analogie notate?
 
 
-> Io ho notato che la polvere di marmo si solubilizza sia inserita se in una soluzione con acido cloridrico, sia in una con aceto. L' aceto corrode in maggiore tempo la polvere di marmo e il sasso, è più lento dell' acido cloridrico ma è costante. Nella corrosione del sasso di marmo, ad esempio, si nota meno effervescenza nell' aceto, ma essa è costante, solo più lenta di quella dell' acido cloridrico: anche dopo numerosi minuti si continua a vedere una lieve schiuma.
+> Io ho notato che la polvere di marmo si solubilizza sia se inserita in una soluzione con acido cloridrico, sia in una con aceto. L’ aceto corrode in maggiore tempo la polvere di marmo e il sasso, è più lento dell’ acido cloridrico ma è costante. Nella corrosione del sasso di marmo, ad esempio, si nota meno effervescenza nella soluzione con aceto, ma essa è costante, solo più lenta di quella dell’ acido cloridrico: anche dopo numerosi minuti si continua a vedere una lieve schiuma.
 
 ### Osservazioni<a name="tmn"></a>
+
+## Solubilizzazione di vari metalli nell' acido cloridrico
 
 ![C'è stato un errore nel rinvenire le foto delle provette]({{ "/data/img/provetteac.jpg" | absolute_url }})
 
@@ -106,9 +111,9 @@ Pezzo di marmo|Depositato sul fondo.|Effervescenza più marcata. Opaco con resid
   • Ossido di rame<br>
 </details>
   
-## Solubilizzazione di vari metalli nell' acido cloridrico
-#### Solubilizzazione di ferro, rame, zinco e ossido di rame - in polvere - e di alluminio in una soluzione composta da acqua e acido cloridrico.
+#### Solubilizzazione di ferro, rame, zinco e ossido di rame - in polvere - e di alluminio in una soluzione composta da acqua e acido cloridrico.<a name="tab"></a>
 
+Inizialmente si preparano le provette mettendoci acqua e poi acido cloridrico, successivamente si inserisce il metallo e si osserva.
 
 
 Metallo|Osservazioni|Velocità di solubilizzazione|
@@ -120,15 +125,15 @@ Alluminio|Inizialmente non succede niente per circa 1/2 minuti, poi inizia a spu
 Ossido di rame|C'è un' intensa effervescenza, poi si solubilizza. La soluzione finale è di un colore verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.
 
 
-### Riflessioni individuali:
+### Riflessioni individuali:<a name="rfi"></a>
 
 
 ##### Perché il sasso di marmo si solubilizza più lentamente della polvere?
 
-> Secondo me il sasso di marmo si solubilizza più lentamente della polvere siccome la superficie del sasso che va a contatto con l' acido è minore di quella della polvere che va a contatto con l' acido, con un' euguale massa, quindi il processo è più lento siccome l' acido agisce su una superficie più piccola.
+> Secondo me il sasso di marmo si solubilizza più lentamente della polvere poichè la superficie del sasso che va a contatto con l' acido è minore di quella della polvere che va a contatto con l' acido, a parità di massa. Il processo è più lento siccome l' acido agisce su una superficie più piccola.
 
 ##### Perché si generano bollicine?
 
-
+> Secondo me si generano bollicine a causa del calore che viene sprigionato quando l' acido corrode la sostanza. Il calore aumenta a poco a poco la pressione delle bollicine, che poi vince quella dell' aria e quindi esse salgono e scoppiano.
 
 

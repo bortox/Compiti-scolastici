@@ -229,7 +229,7 @@ blockquote {
     color: $grey-color;
     border-left: 5px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 21px;
+    font-size: 19px;
     letter-spacing: -1px;
     font-style: italic;
     font-weight:400;
@@ -240,7 +240,7 @@ blockquote {
 }
 summary {
 
-    font-size:19px;
+    font-size: 15px;
     letter-spacing: 0.05em;
     color:$grey-color-mid;
     transition:0.2s;
@@ -248,18 +248,18 @@ summary {
         color:$grey-color-dark;
     }
     
+    
 }
 details {
     color:$grey-color-dark;
     padding: $spacing-unit / 2;
-    margin: $spacing-unit;
+    margin: $spacing-unit * 1.5;
     font-size: 16px;
     border-left: 3px solid $grey-color-light;
     letter-spacing: 0.005em;
     font-weight:400;
 	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
 		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.1);
-	width: 100%;
 	background: #ffffff;
 	border-radius: 8px;
 	position: relative;
