@@ -13,3 +13,5 @@ social:
     - https://instagram.com/borto.jpg
     - https://www.youtube.com/channel/UCHehfwRWUDOcyfeCjOh_fzg
 image: /data/img/cso.png
+exclude:
+  - .jekyll-cache
