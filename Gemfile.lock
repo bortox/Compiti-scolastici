@@ -1,10 +1,4 @@
 GIT
-  remote: https://github.com/hendrikschneider/jekyll-analytics.git
-  revision: 6bb1bf68a16ecb47c33e9d2fb1fbedf6980f6f37
-  specs:
-    jekyll-analytics (0.1.12)
-
-GIT
   remote: https://github.com/jekyll/jekyll.git
   revision: d26970cf2501e6d021dce37eb32e84ee2b4ee655
   specs:
@@ -74,7 +68,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll!
-  jekyll-analytics!
   jekyll-seo-tag
 
 BUNDLED WITH

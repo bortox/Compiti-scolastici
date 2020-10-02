@@ -12,6 +12,30 @@ layout: default
   </article>
     <div class="onlyprint">
         <h5><span style="text-align:center"><span style="color:blue"> Andrea Bortolotti </span><br> @borto.jpg su instagram <br> mail: broto777@zoho.com</h5>
+    
+    </div>
+    <br>
+    <div class="nottoprint">
+            <section id="more-work">
+                <br><blockquote><span style="font-size:1.3em"> Altri post della stessa materia: </blockquote></span>
+                {% assign materiapagina = page.materia | upper %}
+                {% assign i = 0 %}
+                {% for post in site.posts %}
+                    {% assign materia = post.materia | upper %}
+                    {% if materia == materiapagina %}
+                        {% assign i = i | plus:1 %}
+                        {% if post.url != page.url %}
+                        <h5><a href="{{ post.url | relative_url }}">➭ {{ post.title | escape }}</a></h5></li>
+                        {% else %}
+                        <h5><a href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
+                        {% endif %}
+                    {% endif %}
+                    {% if i == 5 %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            </section>
+            <br><hr /><br>
     </div>
 </div>
 

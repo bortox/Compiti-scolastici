@@ -10,7 +10,8 @@ dl, dd, ol, ul, figure {
 
 @media print {
     .onlyprint {
-       display: block;
+       display: block !important;
+       opacity: 1 !important;
        width: 40%;
        margin: auto;
        color: black;
