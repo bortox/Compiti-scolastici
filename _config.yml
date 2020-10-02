@@ -15,7 +15,3 @@ social:
 image: /data/img/cso.png
 exclude:
   - .jekyll-cache
-jekyll_analytics:
-  Matomo:
-    url: bortox.matomo.cloud
-    siteId: "1"

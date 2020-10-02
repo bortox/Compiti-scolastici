@@ -174,7 +174,7 @@ Sapore|Solubilità
 Nel XVI e XVII secolo inizia una sorta di rivoluzione della chimica: molte teorie, rispettate e - spesso - difese dalla Chiesa, vengono messe in discussione, così come molti pregiudizi sulla natura; ad esempio il fatto che essa aborrisca il vuoto. La presentazione che abbiamo visionato in classe intendeva mostrarci il confine tra la chimica fatta solo per gioco, senza delle solide basi come il metodo scientifico, e la chimica fatta come scienza, per far progredire la specie umana. In breve, questa presentazione, partendo dall' Età dei Metalli, ci ha mostrato la nascita della chimica, per caso,  nella cottura del vasellame, e la sua successiva purificazione da preconcetti e pregiudizi, avendo il bisogno di provare qualsiasi cosa e diventando di fatto una scienza.
 <br><br><br>
 
-<div class="nottoprint">
+<div class="nottoprint" markdown="1">
 
 * [Torna all' indice di questo documento](#int)
 * [Torna all' indice del Diario di Bordo sulla combustione]({% link _posts/2020-09-27-IndiceLSSCombustione.md %})
