@@ -10,9 +10,10 @@ dl, dd, ol, ul, figure {
 
 @media print {
     .onlyprint {
-       display: block !important;
-       opacity: 1 !important;
+       display: block;
        width: 40%;
+       text-align: center;
+       opacity: 1;
        margin: auto;
        color: black;
    }
@@ -21,8 +22,10 @@ dl, dd, ol, ul, figure {
     }
    
 }
-.onlyprint {
+@media screen {
+    .onlyprint {
     display: none;
+    }
 }
 /**
  * Aggiunta tabelle con contorno

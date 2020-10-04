@@ -1,4 +1,4 @@
-title: Compiti e Appunti <br> scolastici
+title: Compiti e Appunti scolastici
 url: https://bortox.github.io
 plugins:
   - jekyll-seo-tag
@@ -12,6 +12,7 @@ social:
     - https://github.com/bortox
     - https://instagram.com/borto.jpg
     - https://www.youtube.com/channel/UCHehfwRWUDOcyfeCjOh_fzg
-image: /data/img/cso.png
+logo: /data/img/cso.png
 exclude:
   - .jekyll-cache
+google-site-verification: uPvYR6a5fI_ch61-FoChm11ur0HkonsoCySFpaNtL6s

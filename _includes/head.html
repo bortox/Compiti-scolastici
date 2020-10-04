@@ -6,23 +6,24 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     {% seo %}
 
 
     <style>
       #search-demo-container {
-        animation: bounceInLeft;
-        animation-fill-mode: both;
+        animation: bounceIn;
         animation-duration: 1.5s;
         animation-delay:0.5s;
+        width: 90%;
         max-width: 40em;
         padding: .3em;
         margin: .8em auto;
         border: 1px solid grey;
         border-radius: 10px;
       }
-      #search-input {
+      #search-input { 
         margin: 2em auto;
         border-radius: 12px;
         display: inline-block;

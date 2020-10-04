@@ -5,13 +5,13 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
     animation: rubberBand;
+    width:85%;
     animation-duration: 0.5s;
     font-size: 26px;
     font-family: R2;
@@ -39,7 +39,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: darkblue;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -77,13 +77,16 @@
         }
 
         .trigger {
-            clear: both;
+            clear: both;     
             display: none;
+            transition: 0.2s;
         }
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 5px;
+            z-index: -1 !important;
+            position: relative;
+            padding-bottom: 0.1em;
         }
 
         .page-link {
@@ -272,17 +275,15 @@ button {
 }
 .print {
   background-color: transparent;
-  width: 15%;
-  height: 15%;
-  margin: 0px;
-  padding: 3px;
-  font-size:1.4em;
+  margin: auto;
+  padding: auto;
+  display: block;
   transition: 1s;
-  &:hover,
-  &:focus {
-    font-size:2em;
-    background-color: transparent;
-}
+  &:hover {
+  
+      font-size: 1.5em;
+      background-color: transparent;
+    }
 }
 .troll {
   margin: -15px 10px 20px 25px;
