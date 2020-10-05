@@ -1,16 +1,16 @@
 ---
 layout:  post
-title:  "Inizio del percorso LSS riguardante il moto. "
+title:  "Inizio del percorso LSS riguardante il moto. Fisica, Cinematica"
 date: 2020-10-04 20:30:00
 categories:  compiti
 materia: fisica
-description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante Acidi e Basi. Resoconto della seconda lezione, in cui proviamo a far solubilizzare carbonato di calcio in acqua, acido cloridrico e aceto. Successivamente osserviamo la solubilizzazione di metalli in polvere in una soluzione contenente acido cloridrico."
+description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante il moto. In questo post sono redatte tabelle e grafici contenenti misurazioni relative a tratti di corsa e camminata, ognuna scritta come media da tre cronometri diversi. Ci sono dei grafici per ogni moto regolare, con barre di errore. "
+tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di errore,media
 ---
 <sub> Non avevo carta millimetrata, quindi ho fatto al computer. </sub><br>
 <sub> Non mi è riuscito inserire le barre di errore nel primo grafico, poiché se le inserivo le varie tracce dei quattro moti si dividevano in più grafici.  </sub>
 <sub> Ho usato il modulo matplotlib  per python, ma è molto macchinoso da utilizzare e il design non è molto bello. Punto a migrare verso Plotly. </sub>
 
-# Fisica, Cinematica
 
 ##### Le medie delle camminate e delle corse fatte dai miei compagni sotto il portico, misurate da 3 cronometri diversi. Sono tutti dei moti regolari.
 
@@ -21,7 +21,7 @@ blu: moto 2
 rosso: moto 3
 verde: moto 4
 
-## Tabelle di Macina convertite
+## Tabelle di Macina riscritte con anche il tempo medio.
 
 
 ### 1) Camminata regolare
