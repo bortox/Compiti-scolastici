@@ -13,13 +13,13 @@ description: ""
 
 <details>
         <summary><b>A edicola</b> (clicca per espandere)</summary>
-        <img alt="Tomba a edicola vicino populonia" class="shortanimation" src='{{ "/data/img/artetombeetrusche/edicolasancerbone.jpg" | absolute_url }}'/>
+        <img alt="Tomba a edicola vicino populonia" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/edicolasancerbone.jpg" | absolute_url }}'/>
         • Costruzione interamente fuori terra, simile ad un' abitazione<br>
         📍 Populonia, Piombino LI
 </details>
 <details>
         <summary><b>A tumulo</b> (clicca per espandere)</summary>
-        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/img/artetombeetrusche/tumulomontagnola.jpg" | absolute_url }}'/>
+        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/imgarte/etruschi/tombe/tumulomontagnola.jpg" | absolute_url }}'/>
         • La struttura della tomba emerge con un tumulo, che poi viene sotterrato.<br>
         • Simile al tholos miceneo<br>
         • Siamo ancora incerti riguardo al pilastro centrale nel tumulo; ci sono pareri discordanti: la nostra prof. pensa che abbia una funzione strutturale, come descritto sul libro, ma alcuni nostri alunni che hanno fatto l' alternanza scuola-lavoro come guide alla montagnola hanno saputo che il pilastro non ha funzione strutturale ( cioè non sorregge il tumulo.<br>
@@ -27,8 +27,8 @@ description: ""
 </details>
 <details>
         <summary><b>Ipogea</b> (clicca per espandere)</summary>
-        <img alt="Tomba ipogea dei Volumni, Perugia, mappa" class="shortanimation" src='{{ "/data/img/artetombeetrusche/ipogeavolumnimappa.jpg" | absolute_url }}'/>
-        <img alt="Tomba ipogea dei Volumni, Perugia, foto" class="shortanimation" src='{{ "/data/img/artetombeetrusche/ipogeavolumni.jpg" | absolute_url }}'/>
+        <img alt="Tomba ipogea dei Volumni, Perugia, mappa" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumnimappa.jpg" | absolute_url }}'/>
+        <img alt="Tomba ipogea dei Volumni, Perugia, foto" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumni.jpg" | absolute_url }}'/>
         • Interamente sottoterra.<br>
         <br>
         📍 Perugia, tomba dei Volumni.

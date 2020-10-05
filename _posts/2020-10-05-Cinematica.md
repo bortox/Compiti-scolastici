@@ -16,10 +16,22 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 
 ![Grafico di camminata regolare]({{ "/data/img/fisica/lss/moto/graficida1a4.png" | absolute_url }})
 
-Arancione : moto 1
-blu: moto 2
-rosso: moto 3
-verde: moto 4
+<svg display="inline-block" float="left" width="345" height="45">
+  <rect x="8" y="5" rx="5" ry="5" width="330" height="30" style="fill:orange;stroke:black;stroke-width:.9;opacity:0.7" />
+  <text glyph-orientation-horizontal="90" x="16" y="25" fill="black">Moto uno: camminata regolare </text>
+</svg>
+<svg display="inline-block" float="left" width="345" height="45">
+  <rect x="8" y="5" rx="5" ry="5" width="330" height="30" style="fill:lightblue;stroke:black;stroke-width:.9;opacity:0.7" />
+  <text glyph-orientation-horizontal="90" x="16" y="25" fill="black">Moto due: corsa lenta </text>
+</svg>
+<svg display="inline-block" float="left" width="345" height="45">
+  <rect x="8" y="5" rx="5" ry="5" width="330" height="30" style="fill:red;stroke:black;stroke-width:.9;opacity:0.7" />
+  <text glyph-orientation-horizontal="90" x="16" y="25" fill="black">Moto tre: corsa veloce </text>
+</svg>
+<svg display="inline-block" float="left" width="345" height="45">
+  <rect x="8" y="5" rx="5" ry="5" width="330" height="30" style="fill:lightgreen;stroke:black;stroke-width:.9;opacity:0.7" />
+  <text glyph-orientation-horizontal="90" x="16" y="25" fill="black">Moto quattro: camminata dal pilone due. </text>
+</svg>
 
 ## Tabelle di Macina riscritte con anche il tempo medio.
 

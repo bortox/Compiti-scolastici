@@ -30,16 +30,13 @@ dl, dd, ol, ul, figure {
 /**
  * Aggiunta tabelle con contorno
  */
-table {
-  word-break: break-word;
+/**table {
   animation: bounceIn;
-  animation-fill-mode: both;
   animation-duration: 1.6s;
   animation-delay: 4.5s;
   border: 6px double #aaa;
   border-collapse: collapse;
   width: 100%;
-  table-layout: fixed;
 }
 
 table tr {
@@ -68,6 +65,45 @@ table th {
     x-overflow: auto;
     width: 100%;
     max-width:100%;
+}
+*/
+svg {
+
+    animation: fadeIn;
+    animation-duration: 0.3s;
+    animation-delay: 5s;
+    animation-fill-mode: both;
+}
+table {
+    animation: fadeIn;
+    animation-duration: 0.3s;
+    animation-delay: 2.5s;
+    animation-fill-mode: both;
+    border: 3px solid black;
+    border-radius: 1em;
+    margin : 0.1em;
+    border-collapse: collapse;
+    display: block;
+    width: 100%;
+    font-size: 1em;
+    overflow: auto;
+}
+table th {
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: darken(darkblue, 20%);
+    border: 4px ridge darkblue;
+    border-radius: 5px;
+    font-weight: 700;
+    font-style: bold;
+}
+table td,
+table th {
+    padding: 6px 13px;
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.02),
+		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.05);
 }
 /**
  * Basic styling
