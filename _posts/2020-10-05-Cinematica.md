@@ -1,20 +1,21 @@
 ---
 layout:  post
-title:  "Inizio del percorso LSS riguardante il moto. Fisica, Cinematica"
+title:  "Fisica, Cinematica | Percorso LSS Moto"
 date: 2020-10-04 20:30:00
 categories:  compiti
 materia: fisica
+lss: moto
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante il moto. In questo post sono redatte tabelle e grafici contenenti misurazioni relative a tratti di corsa e camminata, ognuna scritta come media da tre cronometri diversi. Ci sono dei grafici per ogni moto regolare, con barre di errore. "
 tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di errore,media
 ---
 <sub> Non avevo carta millimetrata, quindi ho fatto al computer. </sub><br>
 <sub> Non mi è riuscito inserire le barre di errore nel primo grafico, poiché se le inserivo le varie tracce dei quattro moti si dividevano in più grafici.  </sub>
-<sub> Ho usato il modulo matplotlib  per python, ma è molto macchinoso da utilizzare e il design non è molto bello. Punto a migrare verso Plotly. </sub>
+<sub> Ho usato il modulo matplotlib  per Python, ma è molto macchinoso da utilizzare e il design non è molto bello.</sub>
 
 
 ##### Le medie delle camminate e delle corse fatte dai miei compagni sotto il portico, misurate da 3 cronometri diversi. Sono tutti dei moti regolari.
 
-![Grafico di camminata regolare]({{ "/data/img/fisica/lss/moto/graficida1a4.png" | absolute_url }})
+![Grafici dei moti regolari, dal primo al quarto]({{ "/data/img/fisica/lss/moto/grafici1to4.png" | absolute_url }})
 
 <svg display="inline-block" float="left" width="345" height="45">
   <rect x="8" y="5" rx="5" ry="5" width="330" height="30" style="fill:orange;stroke:black;stroke-width:.9;opacity:0.7" />
@@ -131,7 +132,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 
 > Quante e quali informazioni contiene ciascun punto del grafico?
 
-Ciascun punto del grafico contiene tre informazioni: l'incertezza - attraverso le barre di errore - , la media del numero di secondi passati, sull' asse y, e il numero del pilone su cui è stata effettuata la misurazione. Siccome i piloni sono equidistanti, potremmo chiamare l' asse x l' asse della distanza.
+Ciascun punto del grafico contiene tre informazioni: l'incertezza - attraverso le barre di errore - , la media del numero di secondi passati, sull' asse x, e il numero del pilone su cui è stata effettuata la misurazione. Siccome i piloni sono equidistanti, potremmo chiamare l' asse y l' asse della distanza.
 
 >  Che tipo di andamento hai ottenuto per i moti da 1 a 3? Che cosa puoi dire confrontando i grafici 1), 2), 3) tra loro?
 
