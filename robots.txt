@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.py$
+Disallow: /*.rb$
+Disallow: /*.zip$
+Disallow: /*.yml$
+Disallow: /*.lock$
+Disallow: /*.save$
+
+Sitemap: https://bortox.github.io/sitemap.xml
