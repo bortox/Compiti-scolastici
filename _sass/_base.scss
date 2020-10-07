@@ -7,7 +7,11 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
-
+hr {
+    margin-bottom: 2.3em;
+    margin-top: 1.12em;
+    color: darkblue;
+}
 @media print {
     .onlyprint {
        display: block;
@@ -81,10 +85,11 @@ table {
     animation-fill-mode: both;
     border: 3px solid black;
     border-radius: 1em;
-    margin : 0.1em;
+    margin : 0.2em;
     border-collapse: collapse;
     display: block;
     width: 100%;
+    margin-bottom: 2em;
     font-size: 1em;
     overflow: auto;
 }
@@ -363,8 +368,33 @@ pre {
     }
 }
 
-
-
+.footnotes::before {
+    animation: fadeIn;
+    animation-fill-mode: both;
+    animation-duration: 0.9s;
+    animation-delay: 2s;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    display: block;
+    margin-bottom: 1.4em;
+    content: "Note a pié di pagina:";
+}
+.footnotes {
+    animation: fadeIn;
+    animation-fill-mode: both;
+    animation-duration: 0.9s;
+    animation-delay: 3s;
+    border-top: 7px dotted darkcyan;
+    padding-bottom: 1.6em;
+    padding-left: 1.6em;
+    padding-right: 1.6em;
+    margin-top:12em;
+    border-radius:5em;
+    border-bottom: 4px dotted dodgerblue;
+}
 /**
  * Wrapper
  */
