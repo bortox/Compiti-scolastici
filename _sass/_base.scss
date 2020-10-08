@@ -31,46 +31,6 @@ hr {
     display: none;
     }
 }
-/**
- * Aggiunta tabelle con contorno
- */
-/**table {
-  animation: bounceIn;
-  animation-duration: 1.6s;
-  animation-delay: 4.5s;
-  border: 6px double #aaa;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-table tr {
-  background-color: #f8f8f8;
-  border: 2px solid #ddd;
-  padding: .35em;
-}
-
-table th,
-table td {
-  padding: .625em;
-  border: 1px solid #ddd;
-  text-align: center;
-}
-table th {
-  font-size: 1.2em;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  color: blue;
-  border: 4px ridge #f2a4a4;
-  border-radius: 5px;
-  font-style: bold;
-  font-family: Abel;
-}
-.table-wrapper {
-    x-overflow: auto;
-    width: 100%;
-    max-width:100%;
-}
-*/
 svg {
 
     animation: fadeIn;
