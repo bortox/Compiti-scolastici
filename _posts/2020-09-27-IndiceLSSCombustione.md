@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "INDICE del Percorso LSS sulla Combustione"
+title:  "Indice del Percorso LSS sulla Combustione"
 date: 2020-09-27 10:00:00
 categories:  appunti
 materia: scienze naturali

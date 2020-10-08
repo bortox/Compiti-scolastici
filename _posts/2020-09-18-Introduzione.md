@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Percorso LSS Combustione | Introduzione "
+title:  "Percorso LSS Combustione | Introduzione"
 date: 2020-09-18 10:00:00
 categories:  appunti
 materia: scienze naturali

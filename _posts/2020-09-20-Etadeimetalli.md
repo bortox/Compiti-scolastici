@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Percorso LSS Combustione | L' Età dei metalli e una breve storia della Chimica "
+title:  "L' Età dei metalli e una breve storia della Chimica | LSS Combustione"
 date: 2020-09-21 10:00:00
 categories:  appunti
 materia: scienze naturali

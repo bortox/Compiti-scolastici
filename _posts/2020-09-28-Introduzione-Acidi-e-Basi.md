@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Percorso LSS Acidi e Basi | Introduzione"
+title:  "Cos' è per te un acido? | LSS Acidi e Basi"
 date: 2020-09-28 10:00:00
 categories:  appunti
 materia: scienze naturali

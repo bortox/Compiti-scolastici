@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Fisica, Cinematica | Percorso LSS Moto"
+title:  "Fisica, Cinematica | Percorso LSS sul moto"
 date: 2020-10-04 20:30:00
 categories:  compiti
 materia: fisica
