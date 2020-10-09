@@ -2,6 +2,7 @@
 layout:  post
 title:  "Indice del Percorso LSS sulla Combustione"
 date: 2020-09-27 10:00:00
+lss: combustione
 categories:  appunti
 materia: scienze naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combustione."
