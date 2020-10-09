@@ -3,7 +3,7 @@ layout:  post
 title:  "Annibale lascia Cartagine"
 date: 2020-07-20 10:00:00
 categories:  compiti
-materia: [LATINO]
+materia: LATINO
 description: "Esercizio 29 pagina 221. Hannibal ab Italia in patriam revocatus est et bellum gessit adversus P.
 Scipionem."
 tags: latino,versione,esercizio,pagina,compiti,bortolotti,221,Quia,iam,patriae, facultates,exhaustae,sunt,cupivit

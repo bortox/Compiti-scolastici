@@ -3,7 +3,7 @@ layout:  post
 title:  "Alessandro Magno tra crudeltà e magnanimità"
 date: 2020-07-14 10:00:00
 categories:  compiti
-materia: [LATINO]
+materia: LATINO
 description: "Esercizio 6 pagina 208. Alexander ad inhumanum supplicium tradit Callisthenem philosophum..."
 tags: latino,versione,esercizio,pagina,compiti,bortolotti,208,quia,ille,conscivit, credebatur,coniurationis,atque, insidiarum
 ---
