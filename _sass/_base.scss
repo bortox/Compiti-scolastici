@@ -86,15 +86,18 @@ body {
 @font-face {
     font-family: "Title";
     src: url("../data/fonts/Title.ttf");
+    font-display: swap;
     
 }
 @font-face {
     font-family: "Abel";
     src: url("../data/fonts/Abel.ttf");
+    font-display: swap;
 }
 @font-face {
     font-family: "R2";
     src: url("../data/fonts/R2.ttf");
+    font-display: swap;
 }
 /**
  * Set `margin-bottom` to maintain vertical rhythm
