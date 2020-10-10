@@ -8,7 +8,7 @@ description: "Diario di Bordo sul percorso LSS riguardante Acidi e Basi. In ques
 lss: acidi-e-basi
 ---
 
-![Word cloud sugli acidi e sulle basi](/data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg)
+![Word cloud sugli acidi e sulle basi]({{ "data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg" | absolute_url }})
 
 ### Cos'è per te un acido?
 
