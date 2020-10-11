@@ -4,6 +4,10 @@
     <meta name="viewport" content="width=device-width initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#8A2BE2"/>
+    <meta name="robots" content="index, follow, noarchive"/>
+    <meta name="revisit-after" content="6 days">
+    <meta name="distribution" content="global">
+    {% seo %}
     <link rel="preload" as="style" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     {% if page.math == "yes" %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
     <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
@@ -11,37 +15,7 @@
     <link rel="preload" href="{{ "/data/fonts/OpenSans-SemiBold.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin>
     {% if page.path == "index.html" %}<link rel="preload" href="{{ "/data/fonts/OpenSans-Bold.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin>{% else %}{% endif %}
     <link rel="preload" href="{{ "/data/fonts/Title.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin>
-    
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    {% seo %}
-
-
-    <style>
-      #search-demo-container {
-        animation: bounceIn;
-        animation-duration: 1.5s;
-        animation-delay:0.5s;
-        width: 90%;
-        max-width: 40em;
-        padding: .3em;
-        margin: .8em auto;
-        border: 1px solid grey;
-        border-radius: 10px;
-      }
-      #search-input { 
-        margin: 2em auto;
-        border-radius: 12px;
-        display: inline-block;
-        padding: .6em;
-        width: 100%;
-        font-size: 0.8em;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
-    </style>
+    
 </head>
