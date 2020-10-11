@@ -12,9 +12,10 @@
 .site-title {
     animation: rubberBand;
     width:85%;
+    font-family: OpenSans;
+    font-weight: 600;
     animation-duration: 0.5s;
     font-size: 26px;
-    font-family: R2;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -248,7 +249,7 @@
 $red: #e74c3c;
 $blue: #3498db;
 button {
-  background-color: $red; /* Green */
+  background-color: $red;
   border: none;
   color: white;
   text-transform: uppercase;
@@ -287,7 +288,7 @@ button {
 }
 .troll {
   margin: -15px 10px 20px 25px;
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50; 
   border: none;
   color: white;
   padding: 15px 32px;
@@ -296,4 +297,32 @@ button {
   float: left;
   display: inline-block;
   cursor: none;
+}
+.smallbutton {
+  background-color: steelblue; 
+  border-radius: 0px;
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  padding: 0.4em;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 1em;
+  margin: 0.2em 0.2em 0.2em 0.2em;
+  transition: 0.3s;
+  font-family: Abel;
+}
+.smallbutton.listio {
+  background-color: orangered;
+  border-radius: 0.4em;
+  letter-spacing: 0.3px;
+  margin: 0.2em 0.8em 0.2em 0.2em;
+}
+.alias {
+    cursor: alias;
+    &:hover {
+    
+        cursor: alias;
+    }
 }

@@ -124,7 +124,7 @@ Inizialmente si preparano le provette mettendoci acqua e poi acido cloridrico, s
 Metallo|Osservazioni|Velocità di solubilizzazione|
 |---|---|---|
 Ferro in polvere|Resta un residuo sul fondo dopo una debole effervescenza, ma costante, che si prolunga per vari minuti.|Non si solubilizza
-Truciolo di rame|Il liquido diventa giallino, c'è una debolissima effervescenza e non succede niente al rame.| Molto tempo?
+Truciolo di rame|Il liquido diventa giallino, non c'è effervescenza e non succede niente al rame.| Molto tempo?
 Zinco in polvere|Si solubilizza velocemente con tanta effervescenza, poi il liquido diventa trasparente.|Meno di un minuto
 Alluminio|Inizialmente non succede niente per circa 1/2 minuti, poi inizia a spumeggiare, del vapore sale lungo la provetta. Il vapore condensa sulle pareti della provetta e si crea della nebbia.|A scoppio ritardato, circa 4 minuti.
 Ossido di rame|C'è un' intensa effervescenza, poi si solubilizza. La soluzione finale è di un colore verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.

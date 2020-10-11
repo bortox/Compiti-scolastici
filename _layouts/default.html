@@ -25,7 +25,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<br><li><button class="troll">{materia}</button></p><a href="{url}?query={query}" title="{description}">{title}</a></li>',
+        searchResultTemplate: '<br><li><form action="{url}?query={query}"><button class="smallbutton listio">{materia}</button><a href="{url}?query={query}" title="{description}" class="alias">{title}</a></form></li>',
         noResultsText: '🤔 Nessun risultato trovato',
         limit: 50,
         fuzzy: false,

@@ -7,6 +7,10 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
+
+html {
+  scroll-behavior: smooth;
+}
 hr {
     margin-bottom: 2.3em;
     margin-top: 1.12em;
@@ -95,9 +99,24 @@ body {
     font-display: swap;
 }
 @font-face {
-    font-family: "R2";
-    src: url("../data/fonts/R2.ttf");
-    font-display: swap;
+  font-family: "OpenSans";
+  src: url("../data/fonts/OpenSans-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("../data/fonts/OpenSans-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("../data/fonts/OpenSans-SemiBold.ttf");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("../data/fonts/OpenSans-ExtraBold.ttf");
+  font-weight: 800;
 }
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -354,7 +373,7 @@ pre {
     padding-bottom: 1.6em;
     padding-left: 1.6em;
     padding-right: 1.6em;
-    margin-top:12em;
+    margin-top:6em;
     border-radius:5em;
     border-bottom: 4px dotted dodgerblue;
 }
