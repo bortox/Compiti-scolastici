@@ -8,7 +8,7 @@ description: "Traduzione delle frasi dell' esercizio 13 a pagina 216, in cui pri
 tags: "traduzione, latino, esercizio, 13, 216, Il mio latino, Populus, romanus, excellit, magnitudine, animi, homerus, narrant, aesopi, fabellae"
 ---
 
-1. Populus romanus _magnitudine_ animi excellit.
+1) Populus romanus _magnitudine_ animi excellit.
 
 Il popolo romano eccelle in grandezza d' animo.
 
@@ -16,7 +16,7 @@ Il popolo romano eccelle in grandezza d' animo.
 
 ---
 
-2. Homerus narravit _de Ulixis itineribus_.
+2) Homerus narravit _de Ulixis itineribus_.
 
 Omero narrò riguardo ai viaggi di Ulisse.
 
@@ -24,7 +24,7 @@ Omero narrò riguardo ai viaggi di Ulisse.
 
 ---
 
-3. Aesopi fabellae de vitiis hominum narrant.
+3) Aesopi fabellae de vitiis hominum narrant.
 
 Le favole di Esopo narrano riguardo ai vizi degli uomini 
 
@@ -32,7 +32,7 @@ Le favole di Esopo narrano riguardo ai vizi degli uomini
 
 ---
 
-4. Hamilcar, Hannibalis filius, _cognomine_ Barca, Poenus _natione_ fuit
+4) Hamilcar, Hannibalis filius, _cognomine_ Barca, Poenus _natione_ fuit
 
 Amilcare, figlio di Annibale, di cognome Barca, fu di nazionalità Cartaginese
 
@@ -40,7 +40,7 @@ Amilcare, figlio di Annibale, di cognome Barca, fu di nazionalità Cartaginese
 
 ---
 
-5. Pro castris _ligneum_ vallum legionarii exstruxerunt palisque _ex ferro_ firmaverunt
+5) Pro castris _ligneum_ vallum legionarii exstruxerunt palisque _ex ferro_ firmaverunt
 
 Davanti agli accampamenti i legionari innalzarono una trincea di legno e la fortificarono con dei pali di ferro.
 
@@ -48,7 +48,7 @@ Davanti agli accampamenti i legionari innalzarono una trincea di legno e la fort
 
 ---
 
-6. Amicus tuus _calliditate_ contubernales superat.
+6) Amicus tuus _calliditate_ contubernales superat.
 
 Il tuo amico supera in astuzia i (suoi) compagni di tenda.
 
@@ -56,7 +56,7 @@ Il tuo amico supera in astuzia i (suoi) compagni di tenda.
 
 ---
 
-7. Signa _eburnea_ vel _ex auro_ in deorum templis antiquitus vovebantur.
+7) Signa _eburnea_ vel _ex auro_ in deorum templis antiquitus vovebantur.
 
 Le statue d' avorio oppure d' oro erano consacrate nei templi degli dei antichi.
 
@@ -64,7 +64,7 @@ Le statue d' avorio oppure d' oro erano consacrate nei templi degli dei antichi.
 
 ---
 
-8. Domina de mensarum _comparatione_ ancellis praecepta tradidit.
+8) Domina de mensarum _comparatione_ ancellis praecepta tradidit.
 
 La padrona affidò alle ancelle i comandi riguardanti la preparazione delle mense.
 
