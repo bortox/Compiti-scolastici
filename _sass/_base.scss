@@ -44,9 +44,9 @@ svg {
 }
 table {
     animation: fadeIn;
+    animation-fill-mode: both;
     animation-duration: 0.3s;
     animation-delay: 2.5s;
-    animation-fill-mode: both;
     border: 3px solid black;
     border-radius: 1em;
     margin : 0.2em;
