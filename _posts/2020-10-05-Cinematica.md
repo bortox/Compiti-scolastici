@@ -44,7 +44,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 |---|:---:|:---:|:---:|:---:|
 0|0|0|0|0s
 1|5.44|5.30|5.56|(5.43±0.13)s
-2|11.03|11.21|11.25|(11,63±0.11)s
+2|11.03|11.21|11.25|(11,14±0.11)s
 3|16.63|16.64|16.65|(16.64±0.01)s
 4|21.83|22.34|21.82|(22.09±0.26)s
 5|27.80|27.35|27.28|(27.54±0.26)s
@@ -93,40 +93,6 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 ![Grafico di camminata regolare dal pilone 2]({{ "/data/img/fisica/lss/moto/grafico4.png" | absolute_url }})
 
 
-### 5)  Camminata irregolare
-
-| N° Pilone | Cronometro 1 | Cronometro 2 | Cronometro 3 | Tempo Medio |
-|---|:---:|:---:|:---:|:---:|
-0|0|0|0|0s
-1|3.21|3.58|3.94|(3.58±0.36)s
-2|7.45|7.33|6.70|(7.08±0.38)s
-3|11.04|11.10|11.07|(11.07±0.03)s
-4|13.68|14.90|14.61|(14.29±0.61)s
-5|18.65|18.91|18.92|(18.79±0.14)s
-
-### 6) Camminata irregolare con fermata
-
-| N° Pilone | Cronometro 1 | Cronometro 2 | Cronometro 3 | Tempo Medio |
-|---|:---:|:---:|:---:|:---:|
-0|0|0|0|0s
-1|4.39|5.72|4.47|(5.05±0.67)s
-2|13.05|13.92|13.67|(13.48±0.43)s
-3|18.31|18.90|18.87|(18.6±0.29)s
-4|21.03|21.22|21.72|(21.38±0.34)s
-5|30.29|30.21|30.27|(30.25±0.04)s
-
-### 7) Camminata irregolare andata e ritorno
-
-| N° Pilone | Cronometro 1 | Cronometro 2 | Cronometro 3 | Tempo Medio |
-|---|:---:|:---:|:---:|:---:|
-0|0|0|0|0s
-1 ( andata )|5.70|5.76|5.72|(5.73±0.03)s
-2 ( andata )|10.64|10.50|10.44|(10.54±0.10)s
-3 ( andata )|15.70|15.74|15.76|(15.73±0.03)s
-5 ( ritorno )|26.51|26.66|26.88|(26.70±0.18)s
-3 ( ritorno )|38.62|38.49|38.43|(38.52±0.09)s
-2 ( ritorno )|36.34|36.25|34.36|(35.35±0.99)s
-1 ( ritorno )|49.68|49.80|49.95|(49.81±0.14)s
 
 ## Risposte alle domande
 
