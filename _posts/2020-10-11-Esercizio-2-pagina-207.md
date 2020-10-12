@@ -4,7 +4,7 @@ title:  "Frasi tradotte dell' esercizio 2 a pagina 207. Il mio Latino."
 date: 2020-10-09 20:00:00
 categories:  compiti
 materia: latino
-description: "Esercizio 2 pagina 207. Traduzione frasi d' autore. Il mio Latino.Helvetiis erat in animo iter in Santonum fines facere. In bovem Iuppiter se convertit. Gubernator navem convertit ad puppim.Caesar magnis itineribus Lilybaeum pervenit statimque tabernaculum in litore constituit et navem conscendit.Antiqui agros in centuriis, centurias in iugeribus dividunt. Persepolim urbem, caput Persici regni, Perseus condit; Memphim, civitatem Aegypti, aedificat Epaphus, Iovis filius."
+description: "Esercizio 2 pagina 207. Traduzione di complicate frasi d' autore, evidenziando le particolarità della terza declinazione presenti in ogni frase. Il mio Latino. Helvetiis erat in animo..."
 tags: "traduzione, latino, esercizio, 2, 207, Il mio latino, Caesar, Helvetiis, Persepolim, Antiqui, In Bovem"
 ---
 ##### Esercizio 2 pagina 207, il mio Latino, potenziamento.

@@ -333,12 +333,19 @@ button {
   margin: 0.2em 0.2em 0.2em 0.2em;
   transition: 0.3s;
   font-family: Abel;
+  &:hover{
+    cursor: default;
+  }
+  
 }
 .smallbutton.listio {
   background-color: orangered;
   border-radius: 0.4em;
   letter-spacing: 0.3px;
   margin: 0.2em 0.8em 0.2em 0.2em;
+  &:hover{
+    cursor: alias;
+  }
 }
 .alias {
     cursor: alias;
