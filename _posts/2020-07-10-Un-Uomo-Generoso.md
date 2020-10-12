@@ -2,7 +2,7 @@
 layout:  post
 title:  "Un Uomo Generoso"
 date: 2020-07-10 10:00:00
-categories:  compiti
+categories:  versione
 materia: LATINO
 description: "Esercizio 3 pagina 207. Gillias Acragantinus civis, liberalitatis praecordia habebat. Erat enim copiosus et opibus prominebat... "
 tags: latino,versione,esercizio,pagina,compiti,bortolotti,3,207,Un,uomo,generoso,Gillia,Acragantinus,civis,Agrigento,traduzione.
