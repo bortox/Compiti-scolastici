@@ -161,10 +161,19 @@
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
-
+.contornato {
+    box-sizing: border-box;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(42% - (#{$spacing-unit} / 2));
+    width:         calc(42% - (#{$spacing-unit} / 2));
+    margin: 0.2em;
+    display: block;
+    float: right;
 }
 
 @include media-query($on-laptop) {
@@ -354,4 +363,26 @@ button {
     
         cursor: alias;
     }
+}
+.share {
+    font-size:4em;
+    background-color: AliceBlue;
+    transition: 0.7s;
+    &:hover {
+        background-color: Aquamarine;        
+    }
+    &:focus {
+    
+        background-color: Azure;
+    }
+}
+.opch {
+    opacity: 0.74;
+    &:hover {
+        opacity: 1;
+    }
+}
+.border-thin {
+    border-bottom: 2px solid $grey-color-light;
+    text-align: right;
 }

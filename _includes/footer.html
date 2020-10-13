@@ -1,20 +1,17 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <h4 class="border-thin">{{ site.title }}</h4>
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-2">
-        <ul class="contact-list">
-          <li><span style="font-family: Abel">Andrea Bortolotti</li></span>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+      <div class="footer-col  footer-col-1">
+        <h5><span style="text-align:center"><span style="color:darkslateblue">By Andrea Bortolotti </span><br></h5><h6> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="width:25px"><tab><a href="https://github.com/bortox">bortox</a></img><br><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_new.svg" style="width:25px"><tab><a href="https://instagram.com/borto.jpg">borto.jpg</a></h6></a></span>
+    </div>
       <div class="footer-col  footer-col-2">
       {% if page.path == "index.html" %}
         <p> Benvenut@! Qui sopra ci sono gli ultimi compiti e appunti presi da me, il Borto, e puoi anche cercarli cliccando sull' input <i> Fai una ricerca </i>. Puoi cercare una materia, ad esempio scrivendo <i>LATINO</i> oppure cercarli per il loro titolo o la loro descrizione. Buona navigazione!
       {% else %}
       
         <form action="{{ site.baseurl | prepend: site.url }}">
-            <button>🏠 Torna al menù principale </button>
+            <button class="smallbutton listio opch" style="background-color: #46a049">🏠 Torna al menù principale </button>
         </form>
       {% endif %}
         <ul class="social-media-list">

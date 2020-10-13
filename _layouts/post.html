@@ -10,12 +10,29 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-    <div class="onlyprint">
-        <h5><span style="text-align:center"><span style="color:blue"> Andrea Bortolotti </span><br></h5><h6> <a href="https://instagram.com/borto.jpg/">@borto.jpg</a> su instagram <br> mail: <a href="mailto:broto777@zoho.com">broto777@zoho.com</h6></a></span>
-    
-    </div>
-    <br>
     <div class="nottoprint">
+        <div class="contornato">
+            <button id="btn-share" class="share">🗣️</button></div>
+            <script>
+                window.addEventListener('load', function() {
+                    if(!navigator.share){
+                    document.querySelector('.contornato').style.display = 'none';
+                    return;
+                    }
+
+                    document.getElementById('btn-share').addEventListener('click', function() {
+                    navigator.share({
+                        title: '{{ page.title }}',
+                        text:  '{{ page.description | truncatewords: 8 }}',
+                        url: '{{ page.url | relative_url }}',
+                    });
+                  });
+                });
+            </script>
+        <br>
+        </div>
+    </div>
+        <div class="nottoprint">
             <section id="more-work">
             
             {% if page.lss %}
@@ -55,7 +72,7 @@ layout: default
                 {% endfor %}
             </section>
             <hr />
-    </div>
+        </div>
 </div>
 
 <ul>

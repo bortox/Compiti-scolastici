@@ -5,6 +5,7 @@
 
   <body>
     {% include header.html %}
+    
     </div>
     <div id="search-demo-container" class="nottoprint">
       <input type="search" id="search-input" placeholder="🔍 Fai una ricerca ...">
@@ -12,6 +13,7 @@
     </div>
     <div class="page-content">
       <div class="wrapper">
+        {% if page.tema %}{% include custompagewidth.html %}{% else %}{% endif %}
         {{ content }}
       </div>
     </div>
@@ -32,8 +34,7 @@
         exclude: ['Benvenut@']
       })
     </script>
-    <script data-goatcounter="https://bortox.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+    <img src="https://bortox.goatcounter.com/count?p=/test-img">
     <script async src="https://ackee-qls6.onrender.com/tracker.js" data-ackee-server="https://ackee-qls6.onrender.com" data-ackee-domain-id="7a478398-ad6e-4cd0-a3eb-f7c2c29d4573"></script>
   </body>
 
