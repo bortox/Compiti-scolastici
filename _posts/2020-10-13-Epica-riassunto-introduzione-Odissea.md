@@ -73,7 +73,7 @@ Vi sono anche affinità tra il sistema dei personaggi dell' Odissea e quello del
     - Scilla e Cariddi
     - Le Sirene
 
-Sono _Esseri che provocano orrore, meraviglia e stupore grazie a caratteristiche incredibili._ Simbolicamente rappresentano le prove che l' eroe deve superare, sono irreali, ma non abbastanza da non poter essere descritti.
+Sono _Esseri che provocano orrore, meraviglia e stupore grazie a caratteristiche incredibili._ Simbolicamente rappresentano le prove che l' eroe deve superare. Sono irreali, ma non abbastanza da non poter essere descritti.
 
 - Gli aiutanti
 
