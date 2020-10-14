@@ -6,11 +6,11 @@ categories: versione
 materia: LATINO
 description: 'Esercizio 14 pagina 216. Frasi d'' autore semplificate tradotte. Libro Il mio latino In templo sane sacro et religioso... Graeci quondam opibus, imperio, gloria, floruerunt. '
 tags: latino versione esercizio es 14 216 frasi autore
-modified: 2020-10-14T23:19:26+02:00
+modified: 2020-10-14T23:19:52+02:00
 ---
 
 #### Esercizio 14 pagina 216
-<sub> Il mio Latino </sub>
+<sub> Libro Il mio Latino </sub>
 
 1) In templo sane sacro et religioso apud Agrigentinus est ex aere simulacrum Herculis.
 
@@ -24,7 +24,7 @@ modified: 2020-10-14T23:19:26+02:00
 
 > Agesilao Spartano diventò re più di nome che di fatto.
 
-<sub> <i>più di nome che di fatto</i> espressione relativa a questa frase trovata sul vocabolario</sub>
+<sub> <i>più di nome che di fatto</i> espressione relativa a questa frase trovata sul vocabolario.</sub>
 
 4) De summa salute vestra populique romani de vestris coniugibus ac liber, de aris ac focis, de fanis atque templis, de urbis tectis ac sedibus, de imperio ac libertate decernite diligentiter ac fortiter.
 
