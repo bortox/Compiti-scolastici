@@ -5,7 +5,7 @@ date: 2020-10-14 10:00:00
 categories:  appunti
 materia: scienze naturali
 lss: acidi-e-basi
-description: "Osserviamo la solubilizzazione del residuo di carbonato di calcio immesso in acido cloridrico in acqua, dopo definiamo "
+description: "Riflettiamo su cosa possa essere l' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. "
 ---
 <sub style="color:red"> POST IN REVISIONE </sub>
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 
