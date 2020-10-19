@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  Chapter by chapter summary of the book <i>Dinosaurs</i>
-date: 2020-10-15 10:00:00
+date: 2020-10-45 10:00:00
 categories:  compiti
 materia: inglese
 description: This is a chapter by chapter summary of the book Dinosaurs written by Oxford University. It's an online book shipped with B1 Language for Life, a book for the first year of high school used in Italy.
@@ -26,11 +26,12 @@ Her discoveries attracted scientist, who visited her:
 
 |GROUP|DINOSAUR|ADDITIONAL INFORMATION
 |---|---|---|
-Theropods|Megalosaurus|Meat-eating, had small hands; relatively small ( a few  meters [1-4] height )
-Sauropods|Iguanodon|Long neck, vegetarian and quite big ( 5-30m height ). Catched food and attacked the predators with their hands.
+Theropods|Megalosaurus|Meat-eating, had small hands; relatively small ( a few  meters [1-4] length )
+Sauropods|Iguanodon|Long neck, vegetarian and quite big ( 5-30m length ). Catched food and attacked the predators with their hands.
 Ornithiscians|Hylaeosaurus|Claw on their tail and thick skin to defend themselves against predators. Vegetarian with short neck.
 
-## Chapter 2
-![WordCloud Base]({{ "/data/img/inglese/dinosaurs-timeline.webp
+## Chapter 2 & 3
+![Timeline of dinosaurs]({{ "/data/img/inglese/dinosaurs-timeline.webp
 " | absolute_url }})
-The first dinosaurs appearedd
+
+The first dinosaurs appeared about 250 millions of years ago. 
