@@ -6,7 +6,7 @@ categories: versione
 materia: LATINO
 description: 'Esercizio 14 pagina 216. Frasi d'' autore semplificate tradotte. Libro Il mio latino In templo sane sacro et religioso... Graeci quondam opibus, imperio, gloria, floruerunt. '
 tags: latino versione esercizio es 14 216 frasi autore
-modified: 2020-10-14T23:21:10+02:00
+modified: 2020-10-20T09:37:31+02:00
 ---
 
 #### Esercizio 14 pagina 216
@@ -14,11 +14,11 @@ modified: 2020-10-14T23:21:10+02:00
 
 1) In templo sane sacro et religioso apud Agrigentinus est ex aere simulacrum Herculis.
 
-> La statua in bronzo di Ercole si trova certamente nel tempio sacro e religioso nell' Agrigentino.
+> La statua in bronzo di Ercole si trova  nel tempio certamente sacro e religioso presso gli Agrigentini.
 
 2) Graeci quondam opibus, imperio, gloria, floruerunt.
 
-> Un tempo i Greci si distinguevano per potere, gloria e ricchezze.
+> Un tempo i Greci si distinsero per potere, gloria e ricchezze.
 
 3) Lacedaemonius Agesilaus nomine non potestate fuit rex.
 
