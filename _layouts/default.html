@@ -34,8 +34,13 @@
         exclude: ['Benvenut@']
       })
     </script>
-    <img src="https://bortox.goatcounter.com/count?p=/test-img">
-    <script async src="https://ackee-qls6.onrender.com/tracker.js" data-ackee-server="https://ackee-qls6.onrender.com" data-ackee-domain-id="7a478398-ad6e-4cd0-a3eb-f7c2c29d4573"></script>
+    
+    <script>
+    function GoatBlocked() {
+    document.getElementById("goatcounter-text").innerHTML = 'La tua visita a questo sito non sarà inclusa nelle sue statistiche, siccome spesso gli AdBlocker bloccano un po\' tutto: in questo caso GoatCounter, uno strumento OpenSource, che raccoglie le visite degli utenti anonimizzate rispettando pienamente il GDPR, senza avere nemmeno bisogno i mostrare un banner per accettare i cookies ( non ne fa uso, a differenza di Google Analytics ) è stato bloccato dal tuo adBlocker. Non ho nessun problema con ciò, ti ricordo soltanto che questa visita non sarà registrata.';
+    }
+    </script> 
+    <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js" onerror="GoatBlocked();"></script>
   </body>
 
 </html>
