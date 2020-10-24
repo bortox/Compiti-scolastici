@@ -118,7 +118,17 @@
     }
 }
 
-
+.shtroll {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 2.5vmin;
+    font-weight: 400;
+    margin: 1.3em;
+    animation: fadeInDown;
+    animation-duration:0.9s;
+    animation-delay:1.3s;
+    animation-fill-mode: both;
+    display: inline-block;
+}
 
 /**
  * Site footer
