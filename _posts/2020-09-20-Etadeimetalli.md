@@ -178,7 +178,6 @@ Nel XVI e XVII secolo inizia una sorta di rivoluzione della chimica: molte teori
 <div class="nottoprint" markdown="1">
 
 * [Torna all' indice di questo documento](#int)
-* [Torna all' indice del Diario di Bordo sulla combustione]({% link _posts/2020-09-27-IndiceLSSCombustione.md %})
 
 </div>
 

@@ -107,7 +107,6 @@ INNESCO|CIÒ CHE SERVE A FAR PARTIRE LA COMBUSTIONE
 <br><br><br>
 
 * [Torna all' indice di questo documento](#int)
-* [Torna all' indice del Diario di Bordo sulla combustione]({% link _posts/2020-09-27-IndiceLSSCombustione.md %})
 
 
 ---

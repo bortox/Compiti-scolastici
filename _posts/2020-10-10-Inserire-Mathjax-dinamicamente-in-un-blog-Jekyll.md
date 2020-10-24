@@ -5,7 +5,7 @@ date: 2020-10-10 20:17:00
 categories:  tutorial
 math: "yes"
 materia: informatica
-description: "Vuoi formattare in un modo decente espressioni e formule? Aggiungi il CDN con lo script di di Mathjax, impara la sintassi basica, e inserisci le tue espressioni tra $$"
+description: "Vuoi formattare in un modo decente espressioni e formule? Aggiungi il CDN con lo script di Mathjax, impara la sintassi basica, e inserisci le tue espressioni tra $$"
 ---
 
 

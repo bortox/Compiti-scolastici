@@ -4,18 +4,16 @@ layout: default
 <div class="post">
   <header class="post-header">
     <p class="post-meta">{{ page.date | date: "%A, %e %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <div class="shtroll">
+    {% include share.html %}
+    </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
-
+   
   <article class="post-content">
     {{ content }}
   </article>
-    <div class="onlyprint">
-        <h5><span style="text-align:center"><span style="color:blue"> Andrea Bortolotti </span><br></h5><h6> <a href="https://instagram.com/borto.jpg/">@borto.jpg</a> su instagram <br> mail: <a href="mailto:broto777@zoho.com">broto777@zoho.com</h6></a></span>
-    
-    </div>
-    <br>
-    <div class="nottoprint">
+        <div class="nottoprint">
             <section id="more-work">
             
             {% if page.lss %}
@@ -55,7 +53,7 @@ layout: default
                 {% endfor %}
             </section>
             <hr />
-    </div>
-</div>
+        </div>
+        <sub id="goatcounter-text"></sub>
 
-<ul>
+</div>

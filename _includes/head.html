@@ -2,7 +2,7 @@
 
     <meta name="google-site-verification" content="uPvYR6a5fI_ch61-FoChm11ur0HkonsoCySFpaNtL6s" />
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#8A2BE2"/>
     <meta name="robots" content="index, follow, noarchive"/>
@@ -10,8 +10,8 @@
     <meta name="distribution" content="global">
     {% seo %}
     <link rel="preload" as="style" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    {% if page.math == "yes" %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
-    {% if page.plotly == "yes" %}<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>{% else %}{% endif %}
+    {% if page.math %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
+    {% if page.plotly %}<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>{% else %}{% endif %}
     <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="preload" href="{{ "/data/fonts/Abel.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin>
     <link rel="preload" href="{{ "/data/fonts/OpenSans-SemiBold.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin>

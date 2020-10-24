@@ -118,7 +118,17 @@
     }
 }
 
-
+.shtroll {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 2.5vmin;
+    font-weight: 400;
+    margin: 1.3em;
+    animation: fadeInDown;
+    animation-duration:0.9s;
+    animation-delay:1.3s;
+    animation-fill-mode: both;
+    display: inline-block;
+}
 
 /**
  * Site footer
@@ -161,10 +171,19 @@
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
-
+.contornato {
+    box-sizing: border-box;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(42% - (#{$spacing-unit} / 2));
+    width:         calc(42% - (#{$spacing-unit} / 2));
+    margin: 0.2em;
+    display: block;
+    float: right;
 }
 
 @include media-query($on-laptop) {
@@ -354,4 +373,14 @@ button {
     
         cursor: alias;
     }
+}
+.opch {
+    opacity: 0.74;
+    &:hover {
+        opacity: 1;
+    }
+}
+.border-thin {
+    border-bottom: 2px solid $grey-color-light;
+    text-align: right;
 }
