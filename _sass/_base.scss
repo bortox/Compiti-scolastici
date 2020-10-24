@@ -107,21 +107,25 @@ body {
   font-family: "OpenSans";
   src: url("../data/fonts/OpenSans-Regular.ttf");
   font-weight: normal;
+  font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
   src: url("../data/fonts/OpenSans-Bold.ttf");
   font-weight: bold;
+  font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
   src: url("../data/fonts/OpenSans-SemiBold.ttf");
   font-weight: 600;
+  font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
   src: url("../data/fonts/OpenSans-ExtraBold.ttf");
   font-weight: 800;
+  font-display: swap;
 }
 /**
  * Set `margin-bottom` to maintain vertical rhythm
