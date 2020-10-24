@@ -4,34 +4,15 @@ layout: default
 <div class="post">
   <header class="post-header">
     <p class="post-meta">{{ page.date | date: "%A, %e %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="shtroll">
+    {% include share.html %}
+    </div>
+    <h1 class="post-title"><br>{{ page.title }}</h1>
   </header>
-
+   
   <article class="post-content">
     {{ content }}
   </article>
-    <div class="nottoprint">
-        <div class="contornato">
-            <button id="btn-share" class="share">🗣️</button></div>
-            <script>
-                window.addEventListener('load', function() {
-                    if(!navigator.share){
-                    document.getElementById('btn-share').style.display = 'none';
-                    return;
-                    }
-
-                    document.getElementById('btn-share').addEventListener('click', function() {
-                    navigator.share({
-                        title: '{{ page.title }}',
-                        text:  '{{ page.description | truncatewords: 8 }}',
-                        url: '{{ page.url | relative_url }}',
-                    });
-                  });
-                });
-            </script>
-        <br>
-        </div>
-    </div>
         <div class="nottoprint">
             <section id="more-work">
             

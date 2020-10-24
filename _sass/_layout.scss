@@ -364,18 +364,6 @@ button {
         cursor: alias;
     }
 }
-.share {
-    font-size:4em;
-    background-color: AliceBlue;
-    transition: 0.7s;
-    &:hover {
-        background-color: Aquamarine;        
-    }
-    &:focus {
-    
-        background-color: Azure;
-    }
-}
 .opch {
     opacity: 0.74;
     &:hover {
