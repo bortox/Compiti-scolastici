@@ -14,7 +14,7 @@ modified: 2020-10-20T09:38:01+02:00
 
 1) In templo sane sacro et religioso apud Agrigentinus est ex aere simulacrum Herculis.
 
-> La statua in bronzo di Ercole si trova  nel tempio certamente sacro e religioso tra gli Agrigentini.
+> La statua in bronzo di Ercole si trova sicuramente nel tempio sacro e religioso tra gli Agrigentini.
 
 2) Graeci quondam opibus, imperio, gloria, floruerunt.
 
