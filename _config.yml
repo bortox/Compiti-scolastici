@@ -19,6 +19,6 @@ defaults:
     - scope:
         path: ""
       values:
-        image: /data/img/cso.png
+        image: /data/img/LogoSitoWeb.png
 exclude:
   - .jekyll-cache
