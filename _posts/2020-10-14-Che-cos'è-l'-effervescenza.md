@@ -7,11 +7,11 @@ materia: scienze naturali
 lss: acidi-e-basi
 description: "Riflettiamo su cosa possa essere l' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. "
 ---
-<sub style="color:red"> POST IN REVISIONE </sub>
+<sub style="color:red"> ANCORA ALCUNI ARGOMENTI DA REVISIONARE </sub><br>
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 
 
-- L' effervescenza è una trasformazione chimica in cui si libera una sostanza
-- ???
+- L' effervescenza è una trasformazione chimica in cui si libera una sostanza.
+- L' effervescenza è molto simile alla combustione.
 
 Newton, celebre fisico del XII secolo, aveva ipotizzato ciò:
 > C'è una profonda analogia tra ebollizione ed effervescenza. Quando inserisco l' acido, le sue particelle aggrediscono l' altra sostanza da corrodere, ne esce fuori una sorta di colluttazione, si crea movimento delle particelle e la temperatura si innalza. A causa di ciò l' acqua bolle ed evapora.
@@ -20,7 +20,7 @@ Questa ipotesi è ad oggi sbagliata. Inoltre abbiamo osservato che il calore non
 
 Inoltre altre delle nostre ipotesi contenenti la formazione di bollicine sono errate: con l' acido tartarico ciò non è avvenuto. 
 
-L' ipotesi più ragionevole è che durante l' effervescenza si sprigioni un gas, non visibile agli occhi. ( non ho capito perché ) 
+L' ipotesi più ragionevole è che durante l' effervescenza si sprigioni un gas, non visibile agli occhi. ( **non ho capito perché** ) 
 
 Gli acidi si possono dividere in due categorie:
 
@@ -37,7 +37,7 @@ Scoperti nel medioevo | Scoperti in tempi remoti
 Nitrico|Derivato dai nitriti
 Solforico|Derivato dalla combustione dello zolfo.
 Fosforico|Derivato dal fosforo
-Cloridrico|
+Cloridrico|È il principale componente del succo gastrico, quindi sta nel nostro stomaco.
 Muriatico|Acido cloridrico con meno concentrazione, usato per sturare i WC. 
 
 |Organici|Info|

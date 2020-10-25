@@ -19,7 +19,7 @@ modified: 2020-10-20T09:38:01+02:00
 
 2) Verre sottrasse ai Siciliani tutte le loro immagini sacre tranne una statua di legno.
 
-> Verres omnes suas effigies Siculis sacras subtraxit praeter ligneam statuam.
+> Verres Siculis omnes effigies sacras suas subtraxit praeter ligneam statuam.
 
 3) Achille superava in velocità tutti i guerrieri Achei.
 
