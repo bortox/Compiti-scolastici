@@ -1,0 +1,16 @@
+---
+layout:  post
+title:  "Dimostrazione 6 a pagina 866."
+date: 2020-10-25 11:00:00
+categories:  compiti
+materia: geometria
+description: Dato un parallelogramma ABCD, prolunga AB dalla parte di B, di un segmento BE e CD, dalla parte di D, di un segmento DF. DE = EF Dimostra che AC ed EF si incontrano nel loro punto medio.
+tags: matematica,geometria,dimostrazione,dimostra,parallelogramma,triangolo,segmenti,talete,teorema,punto,medio
+---
+
+> Dato un parallelogramma ABCD, prolunga AB dalla parte di B, di un segmento BE e CD, dalla parte di D, di un segmento DF, in modo che DE sia congruente a BF. Dimostra che AC ed EF si incontrano nel loro punto medio.
+
+### Dimostrazione
+
+![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/6-866.jpg" | absolute_url }})
+
