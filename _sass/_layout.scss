@@ -120,14 +120,15 @@
 
 .shtroll {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-size: 2.5vmin;
+    font-size: 2.4vmin;
     font-weight: 400;
-    margin: 1.3em;
+    margin: 0.6vmin;
     animation: fadeInDown;
-    animation-duration:0.9s;
-    animation-delay:1.3s;
+    animation-duration: 1s;
+    animation-delay:2s;
     animation-fill-mode: both;
     display: inline-block;
+    
 }
 
 /**
@@ -366,6 +367,17 @@ button {
   &:hover{
     cursor: alias;
   }
+}
+
+.hoveranim {
+  background-color: darkcyan;
+  transition: 1s;
+  text-shadow: 0px 0px 12px #000;
+  &:hover {
+      text-shadow: 0px 0px 12px darkcyan;
+      font-size: 1.5em;
+      background-color: deepskyblue;
+    }
 }
 .alias {
     cursor: alias;
