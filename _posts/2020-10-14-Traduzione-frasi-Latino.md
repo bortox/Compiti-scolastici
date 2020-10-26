@@ -14,7 +14,7 @@ modified: 2020-10-20T09:38:01+02:00
 
 1) In templo sane sacro et religioso apud Agrigentinus est ex aere simulacrum Herculis.
 
-> La statua in bronzo di Ercole si trova  nel tempio certamente sacro e religioso tra gli Agrigentini.
+> La statua in bronzo di Ercole si trova sicuramente nel tempio sacro e religioso tra gli Agrigentini.
 
 2) Graeci quondam opibus, imperio, gloria, floruerunt.
 
@@ -40,7 +40,7 @@ modified: 2020-10-20T09:38:01+02:00
 
 7) Cato non divitiis cum divite neque factione cum factioso, sed cum strenuo virtute, cum modesto pudore certabat.
 
-> Catone non gareggiava in ricchezza con il ricco, ne in faziosità con i faziosi ma (gareggiava) in virtù con il virtuoso e in modestia col modesto. 
+> Catone non gareggiava né in ricchezza con il ricco, né in faziosità con i faziosi ma (gareggiava) in virtù con il virtuoso e in modestia col modesto. 
 
 8) Omnes de tua virtute integritate, humanitate commemorant.
 
