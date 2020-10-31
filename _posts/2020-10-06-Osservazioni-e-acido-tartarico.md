@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Discussione collettiva: le differenze nella solubilizzazione di sostanze in acido cloridrico e in acqua; esperimenti con l' acido tartarico."
-date: 2020-10-06 10:00:00
+date: 2020-10-02 10:00:00
 categories:  appunti
 lss: acidi-e-basi
 materia: scienze naturali

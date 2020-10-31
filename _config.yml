@@ -1,6 +1,6 @@
 title: Compiti e appunti scolastici
-url: https://bortox.github.io/Compiti-scolastici
-baseurl: https://bortox.github.io/Compiti-scolastici
+#url: https://bortox.github.io/Compiti-scolastici
+#baseurl: https://bortox.github.io/Compiti-scolastici
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

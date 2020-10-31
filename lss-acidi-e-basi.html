@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Incontri nel percorso LSS "Acidi e Basi"</h1>
+<blockquote> Clicca il titolo per aprire un post </blockquote>
+  <ul class="post-list">
+    {% for post in site.posts %}
+        {% if post.lss == 'acidi-e-basi' %}
+            <li>
+                <hr>
+                <button class="smallbutton">{{ post.date | date: "%d / %m / %Y" }}</button>{% if post.lss %}<button class="smallbutton" style="background-color: orangered">LSS {{ post.lss | upcase | replace: "-", " " }}</button>{% else %}{% endif %}<h4><a class="alias" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</h4></a>
+                <span class="post-meta" style="font-family:OpenSans;font-weight:bold;font-size:15px"><font color="darkblue">{{ post.description | escape }}</font></span>
+            </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+</div>

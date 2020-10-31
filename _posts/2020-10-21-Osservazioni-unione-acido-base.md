@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Soluzione acido-base: cosa solubilizza? Osservazioni e riflessioni sull' unione tra acidi e basi"
-date: 2020-10-24 10:00:00
+date: 2020-10-21 10:00:00
 categories:  appunti
 lss: acidi-e-basi
 materia: scienze naturali

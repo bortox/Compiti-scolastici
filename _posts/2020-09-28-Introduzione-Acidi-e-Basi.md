@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Cos' è per te un acido? | LSS Acidi e Basi"
-date: 2020-09-28 10:00:00
+date: 2020-09-25 10:00:00
 categories:  appunti
 materia: scienze naturali
 description: "Diario di Bordo sul percorso LSS riguardante Acidi e Basi. In questa giornata abbiamo discusso riguardo a cos'è per noi un acido e una base."

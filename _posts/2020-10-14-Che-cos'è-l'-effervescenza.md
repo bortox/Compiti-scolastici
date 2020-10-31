@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Che cos'è per te l'effervescenza? Discussione collettiva e classificazione degli acidi"
-date: 2020-10-14 10:00:00
+date: 2020-10-10 10:00:00
 categories:  appunti
 materia: scienze naturali
 lss: acidi-e-basi
