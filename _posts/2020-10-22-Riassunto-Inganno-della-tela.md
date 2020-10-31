@@ -9,6 +9,6 @@ description: Riassunto breve ma accurato del brano. I Proci raccontano a Telemac
 ###### Libro II, vv. 82 - 128  |  Riassunto
 
 
-In questo brano, i Proci narrano a Telemaco l' inganno che Penelope ha compiuto per tre anni al fine di non sposarsi con nessuno di loro. Antinoo, capo dei Proci, svela come era stato architettato. Penelope aveva promesso di sposarsi con qualcuno appena finito di tessere un lenzuolo, ma, grazie ad una serva snitch, i Proci hanno scoperto che, mentre di giorno tesseva, di notte bruciava il telo, per non finirlo mai. Infine Antinoo pone una condizione: finché Penelope non si sposerà loro non aiuteranno Telemaco nella sua impresa.
+In questo brano, i Proci narrano a Telemaco l' inganno che Penelope ha compiuto per tre anni al fine di non sposarsi con nessuno di loro. Antinoo, capo dei Proci, svela come era stato architettato. Penelope aveva promesso di sposarsi con qualcuno appena finito di tessere un lenzuolo, ma, grazie ad una serva snitch, i Proci hanno scoperto che, mentre di giorno tesseva, di notte bruciava il lenzuolo, per non finirlo mai. Infine Antinoo pone una condizione: finché Penelope non si sposerà loro non aiuteranno Telemaco nella sua impresa.
 
 <sub> Nota: potete sostituire snitch con delatrice/informatrice </sub>
