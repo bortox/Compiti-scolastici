@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  Chapter by chapter summary of the book <i>Dinosaurs</i>
-date: 2020-10-45 10:00:00
+date: 2020-10-20 10:00:00
 categories:  compiti
 materia: inglese
 description: This is a chapter by chapter summary of the book Dinosaurs written by Oxford University. It's an online book shipped with B1 Language for Life, a book for the first year of high school used in Italy.

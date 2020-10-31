@@ -3,6 +3,7 @@ url: https://bortox.github.io
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-spaceship
 author: Andrea Bortolotti Bortox
 lang: it_IT
 locale: it_IT
@@ -22,3 +23,6 @@ defaults:
         image: /data/img/LogoSitoWeb.png
 exclude:
   - .jekyll-cache
+jekyll-spaceship:
+  processors:
+    - table-processor

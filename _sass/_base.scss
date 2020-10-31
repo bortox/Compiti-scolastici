@@ -51,7 +51,7 @@ table {
     animation-fill-mode: both;
     animation-duration: 0.3s;
     animation-delay: 2.5s;
-    border: 3px solid black;
+    border: 0.14em groove black;
     border-radius: 1em;
     margin : 0.2em;
     border-collapse: collapse;
@@ -60,6 +60,7 @@ table {
     margin-bottom: 2em;
     font-size: 1em;
     overflow: auto;
+    text-align: center;
     
 }
 table th {
@@ -74,10 +75,8 @@ table th {
 table td,
 table th {
     padding: 6px 13px;
-    border-width: 1px;
+    border-width: 0.12em;
     border-style: solid;
-    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.02),
-		0 10px 10px -5px rgba(0.02, 0.02, 0.02, 0.05);
 }
 /**
  * Basic styling
@@ -238,6 +237,7 @@ ul, ol {
     animation-duration: 0.6s;
     animation-delay: 1.6s;
     margin-left: $spacing-unit;
+    margin-bottom: 0.14em;
 }
 
 li {
@@ -278,7 +278,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
+    color: $grey-color-softdark;
     border-left: 5px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 17px;

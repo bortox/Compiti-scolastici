@@ -7,7 +7,6 @@ materia: scienze naturali
 lss: acidi-e-basi
 description: "Riflettiamo su cosa possa essere l' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. "
 ---
-<sub style="color:red"> ANCORA ALCUNI ARGOMENTI DA REVISIONARE </sub><br>
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 
 
 - L' effervescenza è una trasformazione chimica in cui si libera una sostanza.
@@ -20,7 +19,9 @@ Questa ipotesi è ad oggi sbagliata. Inoltre abbiamo osservato che il calore non
 
 Inoltre altre delle nostre ipotesi contenenti la formazione di bollicine sono errate: con l' acido tartarico ciò non è avvenuto. 
 
-L' ipotesi più ragionevole è che durante l' effervescenza si sprigioni un gas, non visibile agli occhi. ( **non ho capito perché** ) 
+> Per scoprire cos' è l' effervescenza servono strumenti più avanzati, che acquisiremo nei prossimi mesi. Per ora, basandoci sulle nostre osservazioni, possiamo soltanto dire che _l' effervescenza è una trasformazione chimica in cui si libera una sostanza_.
+
+## La classificazione degli acidi
 
 Gli acidi si possono dividere in due categorie:
 
@@ -48,5 +49,4 @@ Muriatico|Acido cloridrico con meno concentrazione, usato per sturare i WC.
 
 > Infine abbiamo ognuno esposto la propria **definizione di Base**. Ecco qui uno **WordCloud** (_Nuvola di Parole_) con tutte le parole più rilevanti dette nelle definizioni di tutti i miei compagni di classe. Le **parole utilizzate più volte** sono **più grandi**.
 
-![WordCloud Base]({{ "/data/img/chimica/lss/acidi-e-basi/WordCloudBase.png
-" | absolute_url }})
+![WordCloud Base]({{ "/data/img/chimica/lss/acidi-e-basi/WordCloudBase.png" | absolute_url }})
