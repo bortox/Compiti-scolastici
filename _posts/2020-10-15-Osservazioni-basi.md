@@ -1,6 +1,6 @@
 ---
 layout:  post
-title: Esperimento sulla solubilizzazione di metalli in basi, discussione collettiva sulle possibili differenze tra acidi e basi.
+title: Esperimento sulla solubilizzazione di metalli in basi, discussione collettiva sulle possibili differenze tra acidi e basi
 date: 2020-10-15 10:00:00
 categories:  appunti
 lss: acidi-e-basi

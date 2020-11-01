@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Percorso LSS Acidi e Basi | Esperimenti sulla solubilizzazione di metalli e polvere di marmo con acido cloridrico, acqua e aceto. "
+title:  "Percorso LSS Acidi e Basi | Esperimenti sulla solubilizzazione di metalli e polvere di marmo con acido cloridrico, acqua e aceto "
 date: 2020-09-28 10:00:00
 categories:  appunti
 materia: scienze naturali
