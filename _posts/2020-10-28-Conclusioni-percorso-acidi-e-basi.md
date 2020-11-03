@@ -1,12 +1,13 @@
 ---
-layout:  post
+layout: post
 title: Cosa succede al residuo nell' unione tra acidi e basi?
-date: 2020-10-28 10:00:00
-categories:  appunti
+date: 2020-10-28T10:00:00+01:00
+categories: appunti
 lss: acidi-e-basi
 materia: scienze naturali
 description: In questa lezione scopriamo cosa succede nell' unione tra acido cloridrico e soda caustica mettendoli sopra una piastra riscaldante. Capiamo il fenomeno della neutralizzazione e come funziona la fenolftaleina.
-tags: lss,chimica,acido,acidi,metallo,acido,base,sale,neutro,neutra
+tags: 'lss,chimica,acido,acidi,metallo,acido,base,sale,neutro,neutra'
+modified: 2020-11-01T16:58:34+01:00
 ---
 
 ---
@@ -19,6 +20,7 @@ tags: lss,chimica,acido,acidi,metallo,acido,base,sale,neutro,neutra
   
   • 25ml Acido cloridrico<br>
   • 25ml Soda caustica<br>
+  • 250ml Acqua distillata<br>
   • 2 Pipette pasteur<br>
   • Becker<br>
   • Piastra riscaldante<br>
@@ -27,9 +29,10 @@ tags: lss,chimica,acido,acidi,metallo,acido,base,sale,neutro,neutra
 
 #### Procedimento
 
+- Inseriamo 250ml di acqua distillata nel becker
 - Inseriamo 25 ml di acido cloridrico nel becker
 - Inseriamo 25 ml di soda caustica nel becker
-- Mettiamo il becker sopra la piastra riscaldante
+- Mettiamo il becker sopra la piastra riscaldante, facciamo bollire la soluzione
 - Osservo il residuo attraverso lo stereomicroscopio
 
 #### Osservazioni
