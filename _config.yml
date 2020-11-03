@@ -5,6 +5,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-spaceship
+  - jekyll-redirect-from
 author: Andrea Bortolotti Bortox
 lang: it_IT
 locale: it_IT

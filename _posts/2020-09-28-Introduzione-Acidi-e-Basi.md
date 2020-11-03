@@ -1,6 +1,7 @@
 ---
 layout:  post
 title:  "Cos' è per te un acido? | LSS Acidi e Basi"
+redirect_from: /appunti/2020/09/28/Esperimenti-solubilizzazione-con-acidi.html
 date: 2020-09-25 10:00:00
 categories:  appunti
 materia: scienze naturali
