@@ -6,13 +6,14 @@
     animation-duration: 1.5s;
     width: 90%;
     max-width: 40em;
-    padding: .3em;
+    padding: .1em;
     margin: .8em auto;
-    border: 1px solid grey;
-    border-radius: 10px;
+    border-radius: 3px;
 }
 #search-input { 
-    margin: 2em auto;
+    margin: 1em auto;
+    margin-left: 2em auto;
+    margin-right: 2em auto;
     border-radius: 12px;
     display: inline-block;
     padding: .6em;
@@ -21,6 +22,11 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    font-weight: 900;
+    transition: 1s;
+    &:focus {
+        color: green;
+    }   
 }
 .site-header {
     border-top: 5px solid $grey-color-dark;
