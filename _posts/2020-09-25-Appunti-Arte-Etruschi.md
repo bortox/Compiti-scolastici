@@ -19,7 +19,7 @@ tags: architettura funeraria civiltà etrusca
 </details>
 <details>
         <summary><b>A tumulo</b> (clicca per espandere)</summary>
-        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/imgarte/etruschi/tombe/tumulomontagnola.jpg" | absolute_url }}'/>
+        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/tumulomontagnola.jpg" | absolute_url }}'/>
         • La struttura della tomba emerge con un tumulo, che poi viene sotterrato.<br>
         • Simile al tholos miceneo<br>
         • Siamo ancora incerti riguardo al pilastro centrale nel tumulo; ci sono pareri discordanti: la nostra prof. pensa che abbia una funzione strutturale, come descritto sul libro, ma alcuni nostri alunni che hanno fatto l' alternanza scuola-lavoro come guide alla montagnola hanno saputo che il pilastro non ha funzione strutturale ( cioè non sorregge il tumulo.<br>
