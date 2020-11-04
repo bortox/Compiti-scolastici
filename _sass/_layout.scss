@@ -6,13 +6,14 @@
     animation-duration: 1.5s;
     width: 90%;
     max-width: 40em;
-    padding: .3em;
-    margin: .8em auto;
-    border: 1px solid grey;
-    border-radius: 10px;
+    padding: .1em;
+    margin: .75em auto;
+    border-radius: 3px;
 }
 #search-input { 
-    margin: 2em auto;
+    margin: 1em auto;
+    margin-left: 2em auto;
+    margin-right: 2em auto;
     border-radius: 12px;
     display: inline-block;
     padding: .6em;
@@ -21,6 +22,11 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    font-weight: 900;
+    transition: 1s;
+    &:focus {
+        color: green;
+    }   
 }
 .site-header {
     border-top: 5px solid $grey-color-dark;
@@ -98,19 +104,6 @@
             }
         }
 
-        .trigger {
-            clear: both;     
-            display: none;
-            transition: 0.2s;
-        }
-
-        &:hover .trigger {
-            display: block;
-            z-index: -1 !important;
-            position: relative;
-            padding-bottom: 0.1em;
-        }
-
         .page-link {
             display: block;
             padding: 5px 10px;
@@ -122,7 +115,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     font-size: 2.4vmin;
     font-weight: 400;
-    margin: 0.6vmin;
+    margin: 0.6vmin auto;
     animation: fadeInDown;
     animation-duration: 1s;
     animation-delay:2s;
@@ -214,7 +207,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/5*2 0;
 }
 
 .page-heading {
@@ -377,7 +370,7 @@ button {
 float: left;
 list-style-type: none;
 overflow: hidden;
-padding: 0.22em;
+padding: 0.16em;
 margin: 0;
 }
 

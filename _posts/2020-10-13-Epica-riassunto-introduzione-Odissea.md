@@ -6,7 +6,7 @@ categories: compiti
 materia: epica
 tema: purtroppo sì
 description: Scrivo il riassunto dell' introduzione all' Odissea alle pagine 223 - 228 del libro Narrami o Musa. È un riassunto di una breve parentesi tecnica sulla struttura, il sistema dei personaggi e le affinità con l' Iliade dell' Odissea. Buona lettura!
-tags: lss moto irregolare tabelle incertezze cronometro secondi discussione
+tags: odissea riassunto introduzione narrami musa titolo trama personaggi autore
 modified: 2020-10-12T12:07:55+02:00
 ---
 

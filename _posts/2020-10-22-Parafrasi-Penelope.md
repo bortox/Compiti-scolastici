@@ -5,6 +5,7 @@ date: 2020-10-22T10:30:00+02:00
 categories: parafrasi
 materia: epica
 description: Mentre si svolge il colloquio tra Atena e Telemaco, i Proci, saziata la voglia di cibo e bevande, ordinano all' aedo Femio di cantare le gesta degli eroi accompagnandosi con la cetra. Femio intona un nostos, il canto dei ritorni luttosi degli dei nel mégaron, la grande sala della reggia. Il racconto di Femio, per lei che si strugge di nostalgia e amore per il marito Odisseo, è intollerabile perché le rinnova il dolore e l' angoscia. La regina chiede quindi all' aedo di scegliere un altro tema per il suo canto, ma Telemaco si opporrà alla sua decisione...
+tags: Parafrasi penelope Odissea Telemaco
 ---
 
 Il rinomato vate cantava tra di loro, mentre essi sedevano ascoltando con attenzione. Narrava il tragico ritorno dei Greci, che Atena Pallade impose loro da Troia.

@@ -9,6 +9,13 @@ GIT
       rainbow (~> 3.0)
 
 GIT
+  remote: https://github.com/jekyll/jekyll-redirect-from.git
+  revision: 18af46357a435b5e6fc764dc19f4c8ac2174de3c
+  specs:
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
+
+GIT
   remote: https://github.com/jekyll/jekyll-seo-tag.git
   revision: 22a160cb32681a4349db7105626ad6aa0b1b2954
   specs:
@@ -96,6 +103,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll!
+  jekyll-redirect-from!
   jekyll-seo-tag!
   jekyll-sitemap!
   jekyll-spaceship!

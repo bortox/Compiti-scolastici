@@ -5,7 +5,7 @@ date: 2020-10-25 10:00:00
 categories:  compiti
 materia: geometria
 description: "Un terreno che ha la forma di parallelogramma viene diviso in due parti. Il triangolo che si forma è isoscele?"
-tags: matematica,geometria,dimostrazione,dimostra,parallelogramma,triangolo
+tags: geometria,dimostrazione,dimostra,parallelogramma,triangolo,isoscele
 ---
 
 > Un terreno che ha la forma di parallelogramma viene diviso in due parti come in figura. Il triangolo che si forma è isoscele? Si può determinare l' ampiezza dell' angolo a?

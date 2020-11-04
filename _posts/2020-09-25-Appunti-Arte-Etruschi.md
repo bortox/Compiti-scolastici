@@ -4,7 +4,7 @@ title:  "La civiltà etrusca: architettura funeraria, tempio e lavorazione dei m
 date: 2020-09-25 20:00:00
 categories:  appunti
 materia: "STORIA DELL' ARTE"
-description: ""
+tags: architettura funeraria civiltà etrusca
 ---
 
 

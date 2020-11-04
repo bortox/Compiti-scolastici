@@ -6,7 +6,7 @@ categories: compiti
 materia: fisica
 lss: moto
 description: ' Ragioniamo riguardo alle proprietà dei grafici del moto, e definiamo le parole distanza, posizione, tempo e intervallo di tempo con una discussione collettiva. Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante il moto. '
-tags: 'lss,distanza,posizione,tempo,intervallo di tempo,contesto, termini, definizioni,fisica,diario,bordo,moto,grafici'
+tags: lss,cinematica,distanza,posizione,tempo,intervallo di tempo,contesto,termini, definizioni,fisica,moto,grafici'
 modified: 2020-10-12T12:07:55+02:00
 ---
 

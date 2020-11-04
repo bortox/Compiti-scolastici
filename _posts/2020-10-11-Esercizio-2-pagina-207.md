@@ -5,7 +5,7 @@ date: 2020-10-09 20:00:00
 categories:  compiti
 materia: latino
 description: "Esercizio 2 pagina 207. Traduzione di complicate frasi d' autore, evidenziando le particolarità della terza declinazione presenti in ogni frase. Il mio Latino. Helvetiis erat in animo..."
-tags: "traduzione, latino, esercizio, 2, 207, Il mio latino, Caesar, Helvetiis, Persepolim, Antiqui, In Bovem"
+tags: traduzione latino esercizio 2 207 Caesar Helvetiis Persepolim Antiqui Bovem
 ---
 ##### Esercizio 2 pagina 207, il mio Latino, potenziamento.
 Analizza e indica la caratteristica di ciascuna delle particolarità della 3a declinazione evidenziate nelle frasi e riportale nella tabella; poi traduci. Qui sotto ci sono le frasi tradotte con elencata e spiegata una particolarità per frase.

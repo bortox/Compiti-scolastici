@@ -3,16 +3,19 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <p class="post-meta">{{ page.date | date: "%A, %e %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    
     <div class="shtroll">
     {% include share.html %}
     </div>
-    <h1 class="post-title">{{ page.title }}</h1>
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
    
-  <article class="post-content">
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
-  </article>
+  </div>
+    </article>
         <div class="nottoprint">
             <section id="more-work">
             

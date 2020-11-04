@@ -5,7 +5,7 @@ date: 2020-10-28 20:00:00
 categories:  compiti
 materia: latino
 description: "Esercizio 23 pagina 220. Traduzione di frasi dal latino all' italiano con l' indicativo perfetto passivo."
-tags: Praesidium ex arce pulsum est, Tota provincia ab hostibus occupata est, Cruenta bella a Romanis contra Italicas gentes gesta sunt.
+tags: pulsum est,occupata est,cruenta bella,tota provincia
 ---
 
 

@@ -5,7 +5,7 @@ date: 2020-10-28 20:00:00
 categories:  compiti
 materia: latino
 description: "Esercizio 27 pagina 220. Traduzione di complicate frasi d' autore dal latino all' italiano contenenti l' indicativo perfetto passivo. Magno labore et per exercitum discitur."
-tags: labore,discitur,cotidie a piis, de prudentia itemque, contra Epicurum, superque, satis, magno,utrimque
+tags: labore,discitur,cotidie a piis,de prudentia itemque,contra Epicurum,superque,satis,magno,utrimque
 ---
 
 ***1)*** Magno labore et per exercitum discitur.

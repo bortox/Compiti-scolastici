@@ -4,7 +4,7 @@ title: Traduzione frasi esercizio 13 pagina 216; il mio Latino.
 categories: compiti
 materia: latino
 description: 'Traduzione delle frasi dell'' esercizio 13 a pagina 216, in cui prima viene scelta l'' alternativa corretta basandosi sulle conoscenze riguardanti i complementi acquisite nelle pagine precedenti, poi si traduce. Populus romanus excellit magnitudine... Homerus narravit...'
-tags: 'traduzione, latino, esercizio, 13, 216, Il mio Populus, romanus, excellit, magnitudine, animi, homerus, narrant, aesopi, fabellae'
+tags: traduzione latino esercizio 13 216 Il mio Latino Populus romanus excellit magnitudine animi homerus
 modified: 2020-10-12T18:32:20+02:00
 ---
 
