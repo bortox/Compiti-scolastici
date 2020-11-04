@@ -6,7 +6,7 @@ categories: appunti
 lss: acidi-e-basi
 materia: scienze naturali
 description: In questa lezione scopriamo cosa succede nell' unione tra acido cloridrico e soda caustica mettendoli sopra una piastra riscaldante. Capiamo il fenomeno della neutralizzazione e come funziona la fenolftaleina.
-tags: 'lss,chimica,acido,acidi,metallo,acido,base,sale,neutro,neutra'
+tags: sale,neutro,neutra,lss,acido,acidi e basi
 modified: 2020-11-01T16:58:34+01:00
 ---
 

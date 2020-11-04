@@ -17,3 +17,4 @@
 <link rel="preload" href="{{ "/data/fonts/Title.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+<meta name="keywords" content="{% if page.materia %}{{ page.materia }}, {% endif %}{% if page.tags %}{{ page.tags | sort | join: ", " }}{% endif %}">

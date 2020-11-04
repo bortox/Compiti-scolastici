@@ -5,6 +5,7 @@ date: 2020-10-22T16:30:00+02:00
 categories: riassunto
 materia: epica
 description: Riassunto breve ma accurato del brano. I Proci raccontano a Telemaco l' inganno della tela che Penelope ha compiuto per non sposarsi con nessuno di loro. L' inganno della Tela è un brano dell' Odissea, probabilmente non scritta da Omero ma retaggio della produzione artistica di vari aedi trasmessa per via orale per secoli.
+tags: riassunto inganno proci Telemaco tela Odissea
 ---
 ###### Libro II, vv. 82 - 128  |  Riassunto
 

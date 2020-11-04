@@ -5,6 +5,7 @@ date: 2020-09-27 10:00:00
 categories:  versione
 materia: LATINO
 description: "Viene tracciato un profilo di Catore il Censore, così chiamato per la sua severità nella difesa del costume romano e dei valori tradizionali. Versione di Il mio Latino pagina 200 esercizio 26."
+tags: Marco Porcio Catone Catonis marcus Sabinorum Severità
 ---
 ## Versione numero 26 pagina 200
 

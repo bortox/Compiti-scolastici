@@ -5,7 +5,7 @@ date: 2020-10-28 20:10:00
 categories:  compiti
 materia: latino
 description: "Frasi tradotte dall' Italiano al Latino.  La moderazione fu raccomandata dagli antichi filosofi. La città fu abbandonata dagli alleati."
-tags: "traduzione, latino, esercizio, 26, 220, Il mio latino, moderazione, antichi filosofi, abbandonata, lungo assedio, conquistata, Cincinnato"
+tags: traduzione, latino, esercizio, 26, 220, Il mio latino, moderazione, antichi filosofi, abbandonata, lungo assedio, conquistata, Cincinnato
 ---
 
 ###### 1) La moderazione fu raccomandata dagli antichi filosofi.

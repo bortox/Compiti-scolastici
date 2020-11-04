@@ -6,6 +6,7 @@ lss: combustione
 categories:  appunti
 materia: scienze naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combustione. Resoconto della prima lezione, in cui forniamo una definizione operativa condivisa di combustione basata sui nostri esperimenti e sulle nostre riflessioni."
+tags: combustione comburente combustibile lss diario di bordo chimica
 ---
 # Introduzione
 <sup><sub>NOTA: IN QUESTA LEZIONE ERO ASSENTE, MA SONO RIUSCITO A RIELABORARE UN DIARIO DI BORDO DAGLI APPUNTI DEI MIEI GENEROSI COMPAGNI **FANTECHI**, **BENVENUTI**, **PINOCHI** e **FANCIULLACCI**.</sub></sup><br><br>

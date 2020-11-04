@@ -6,6 +6,7 @@ lss: combustione
 categories:  appunti
 materia: scienze naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combustione. Resoconto della lezione due con una presentazione riguardante l' Età dei metalli e una breve storia della nascita della chimica."
+tags: lss combustione riduzione metalli ossido piombo circostante metodo scientifico Aristoele Boyle
 ---
 <a name="int"></a>
 

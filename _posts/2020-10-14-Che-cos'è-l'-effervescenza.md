@@ -6,6 +6,7 @@ categories:  appunti
 materia: scienze naturali
 lss: acidi-e-basi
 description: "Riflettiamo su cosa possa essere l' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. "
+tags: lss effervescenza cos'è discussione collettiva acidi minerali organici
 ---
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 
 
