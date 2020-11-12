@@ -1,12 +1,14 @@
 ---
-layout:  post
-title:  "Versione 32 pagina 258 | Attalo III, ultimo re di Pergamo"
-date: 2020-11-11 20:00:00
-categories:  versione
+layout: post
+title: Versione 32 pagina 258 | Attalo III, ultimo re di Pergamo
+date: 2020-11-11T20:00:00+01:00
+categories: versione
 materia: LATINO
-description: "Esercizio 32 pagina 258. Libro il mio Latino. Curiosa figura di monarca assoluto, crudele e nevrotico, il re di Pergamo dapprima semina strage a corte, poi conduce una vita squallida.... In Asia Attalus, Pergami rex... "
+description: Esercizio 32 pagina 258. Libro il mio Latino. Curiosa figura di monarca assoluto, crudele e nevrotico, il re di Pergamo dapprima semina strage a corte, poi conduce una vita squallida.... In Asia Attalus, Pergami rex... 
 tags: Attalo, III, ultimo, Pergamo, Attalus, Asia, floridum, regnum, latino, versione
+modified: 2020-11-12T01:37:13+01:00
 ---
+
 ## Traduzione
 
 In Asia Attalo, re di Pergamo, dopo che aveva ereditato un florido regno dallo zio paterno Eumene, (lo) deturpava con omicidi degli amici e torture dei parenti, poiché attribuiva la morte ora della veneranda madre, ora della sposa Berenice ai sortilegi di quelli. Dopo il delirio funesto e violento indossò una veste squallida, lasciò crescere barba e capelli nel modo dei colpevoli, non si presentò in pubblico e non al popolo, né organizzò i lieti banchetti né ebbe qualche sintomo di uomo sano. Poiché abbandonò il governo del regno, zappava gli orti, seminava le erbe, mischiava il veleno con (le erbe) innocue e inviava tutte quelle erbe impregnate di veleno agli amici come un eccezionale regalo. Successivamente si dedicò all' arte della lavorazione del bronzo e decise di costruire un sepolcro per la madre; ma, mentre era dedito all' opera contrasse una malattia a causa del calore del sole e improvvisamente morì. Per testamento del re Attalo il popolo romano viene istituito erede.
@@ -14,22 +16,39 @@ In Asia Attalo, re di Pergamo, dopo che aveva ereditato un florido regno dallo z
 ### Paradigmi
 
 accipio, accipis, accepi, acceptum, accipere = ereditare
+
 foedo, foedas, foedavi, foedatum, foedare = deturpare
+
 tribuo, tribuis, tribui, tributum, tribuere = tributare
+
 sumo, sumis, sumpsi, sumptum, sumere = desumere
+
 submitto, submittis, submisi, submissum, submittere = lasciare crescere
+
 ostendo, ostendis, ostendi, ostentum, ostendere = mostrare
+
 curo, curas, curavi, curatum, curare = organizzare
+
 habeo, habes, habui, habitum, habere = avere
+
 omitto, omittis, omisi, omissum, omittere = deporre
+
 fodio, fodis, fodi, fossum, fodere = zappare
+
 sero, seris, serui, sertum, serere = seminare
+
 permisceo, permisces, permiscui, permixtum, permiscere = mescolare
+
 mitto, mittis, misi, missum, mittere = inviare
+
 trado, tradis, tradidi, traditum, tradere = dedicare
+
 instituo, instituis, institui, institutum, instituere = decidere
+
 facio, facis, feci, factum, facere = costruire
+
 decedo, decedis, decessi, decessum, decedere = morire
+
 instituo, instituis, institui, institutum, instituere = stabilire
 
 ### Analisi del Periodo con schema ad albero
