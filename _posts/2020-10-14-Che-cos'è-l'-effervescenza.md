@@ -1,13 +1,15 @@
 ---
-layout:  post
-title:  "Che cos'è per te l'effervescenza? Discussione collettiva e classificazione degli acidi"
-date: 2020-10-10 10:00:00
-categories:  appunti
+layout: post
+title: 'Che cos''è per te l''effervescenza? Discussione collettiva e classificazione degli acidi'
+date: 2020-10-10T10:00:00+02:00
+categories: appunti
 materia: scienze naturali
 lss: acidi-e-basi
-description: "Riflettiamo su cosa possa essere l' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. "
+description: 'Riflettiamo su cosa possa essere l'' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. '
 tags: lss effervescenza cos'è discussione collettiva acidi minerali organici
+modified: 2020-11-06T17:34:30+01:00
 ---
+
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 
 
 - L' effervescenza è una trasformazione chimica in cui si libera una sostanza.
@@ -26,7 +28,7 @@ Inoltre altre delle nostre ipotesi contenenti la formazione di bollicine sono er
 
 Gli acidi si possono dividere in due categorie:
 
-|Minerali|Info|
+|Minerali|Organici|
 |---|---|
 Si ricavano dai minerali tramite processi chimici | Si ricavano da organismi decomposti.
 Sono aggressivi|Sono poco aggressivi
