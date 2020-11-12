@@ -1,10 +1,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src='/Compiti-scolastici/favicon-128x128.png'/>
-      <square150x150logo src='/Compiti-scolastici/favicon-270x270.png'/>
-      <wide310x150logo src='/Compiti-scolastici/favicon-558x270.png'/>
-      <square310x310logo src='/Compiti-scolastici/favicon-558x558.png'/>
+      <square70x70logo src='/Compiti-scolastici/data/favicon/favicon-128x128.png'/>
+      <square150x150logo src='/Compiti-scolastici/data/favicon/favicon-270x270.png'/>
+      <wide310x150logo src='/Compiti-scolastici/data/favicon/favicon-558x270.png'/>
+      <square310x310logo src='/Compiti-scolastici/data/favicon/favicon-558x558.png'/>
       <TileColor/>
     </tile>
   </msapplication>
