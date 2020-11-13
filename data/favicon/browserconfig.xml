@@ -1,11 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
-  <msapplication>
-    <tile>
-      <square70x70logo src='/Compiti-scolastici/data/favicon/favicon-128x128.png'/>
-      <square150x150logo src='/Compiti-scolastici/data/favicon/favicon-270x270.png'/>
-      <wide310x150logo src='/Compiti-scolastici/data/favicon/favicon-558x270.png'/>
-      <square310x310logo src='/Compiti-scolastici/data/favicon/favicon-558x558.png'/>
-      <TileColor/>
-    </tile>
-  </msapplication>
+    <msapplication>
+        <tile>
+            <square70x70logo src="/data/favicon/ms-icon-70x70.png"/>
+            <square150x150logo src="/data/favicon/ms-icon-150x150.png"/>
+            <square310x310logo src="/data/favicon/ms-icon-310x310.png"/>
+            <TileColor>#ffffff</TileColor>
+        </tile>
+    </msapplication>
 </browserconfig>

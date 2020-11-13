@@ -1,36 +1,35 @@
 {% seo %}
 <!-- FAVICON DEL SITO -->
-<!-- Classic -->
-<link rel="shortcut icon" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon.ico">
-<link rel="icon" sizes="48x48 32x32 16x16" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon.ico">
-<link rel="icon" sizes="16x16" type="image/png" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-16x16.png">
-<link rel="icon" sizes="32x32" type="image/png" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-32x32.png">
-<link rel="icon" sizes="64x64" type="image/png" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-64x64.png">
-<link rel="icon" sizes="144x144" type="image/png" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-144x144.png">
-<!-- Safari -->
-<link rel="apple-touch-icon" sizes="57x57" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-57x57.png">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-76x76.png">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-120x120.png">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-152x152.png">
-<link rel="apple-touch-icon" sizes="167x167" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-167x167.png">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-180x180.png">
-<!-- Chrome -->
-<link rel="icon" sizes="192x192" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-192x192.png">
-<link rel="icon" sizes="96x96" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-96x96.png">
-<link rel="icon" sizes="48x48" href="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-48x48.png">
-<link rel="manifest" href="{{ "/data/favicon" | prepend: site.baseurl }}/manifest.webmanifest">
-<!-- IE -->
+<link rel="apple-touch-icon" sizes="57x57" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ '/data/favicon/' | prepend: site.baseurl }}android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/data/favicon/' | prepend: site.baseurl }}favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ '/data/favicon/' | prepend: site.baseurl }}favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/data/favicon/' | prepend: site.baseurl }}favicon-16x16.png">
+<link rel="manifest" href="{{ '/data/favicon/' | prepend: site.baseurl }}manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ "/data/favicon" | prepend: site.baseurl }}/favicon-144x144.png">
-<meta name='msapplication-config' content="{{ "/data/favicon" | prepend: site.baseurl }}/browserconfig.xml">
+<meta name="msapplication-TileImage" content="{{ '/data/favicon/' | prepend: site.baseurl }}ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 <!-- FINE FAVICON DEL SITO -->
 <meta name="google-site-verification" content="uPvYR6a5fI_ch61-FoChm11ur0HkonsoCySFpaNtL6s" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="theme-color" content="#8A2BE2"/>
-<meta name="robots" content="index, follow, noarchive"/>
+<meta name="robots" content="index, follow"/>
 <meta name="revisit-after" content="6 days">
+{% if page.materia %}<meta name="topic" content="{{ page.materia }}">{% endif %}
+<meta name="author" content='Andrea Bortolotti, broto777@zoho.com'>
+<meta name="reply-to" content='broto777@zoho.com'>
+<meta name='coverage' content='Worldwide'>
+<meta name='HandheldFriendly' content="True">
 <meta name="distribution" content="global">
 <link rel="preload" as="style" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 {% if page.math %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
