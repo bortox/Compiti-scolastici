@@ -17,8 +17,56 @@ layout: default
   </div>
     </article>
         <div class="nottoprint">
+            <button class="smallbutton listio" disabled style="cursor:default; background-color:rgba(58,60,89, 0.40)">{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
+            🕰️ PUBBLICATO: 
+            {% case d %}
+            {% when '1' %}Primo di
+            {% when '2' %}Due
+            {% when '3' %}Tre
+            {% when '4' %}Quattro
+            {% when '5' %}Cinque
+            {% when '6' %}Sei
+            {% when '7' %}Sette
+            {% when '8' %}Otto
+            {% when '9' %}Nove
+            {% when '10' %}Dieci
+            {% when '11' %}Undici
+            {% when '12' %}Dodici
+            {% when '13' %}Tredici
+            {% when '14' %}Quattordici
+            {% when '15' %}Quindici
+            {% when '16' %}Sedici
+            {% when '17' %}Diciassette
+            {% when '18' %}Diciotto
+            {% when '19' %}Diciannove
+            {% when '20' %}Venti
+            {% when '21' %}Ventuno
+            {% when '22' %}Ventidue
+            {% when '23' %}Ventitre
+            {% when '24' %}Ventiquattro
+            {% when '25' %}Venticinque
+            {% when '26' %}Ventisei
+            {% when '27' %}Ventisette
+            {% when '28' %}Ventotto
+            {% when '29' %}Ventinove
+            {% when '30' %}Trenta
+            {% when '31' %}Trentuno
+            {% endcase %}
+            {% case m %}
+            {% when '1' %}Gennaio
+            {% when '2' %}Febbraio
+            {% when '3' %}Marzo
+            {% when '4' %}Aprile
+            {% when '5' %}Maggio
+            {% when '6' %}Giugno
+            {% when '7' %}Luglio
+            {% when '8' %}Agosto
+            {% when '9' %}Settembre
+            {% when '10' %}Ottobre
+            {% when '11' %}Novembre
+            {% when '12' %}Dicembre
+            {% endcase %}</button>
             <section id="more-work">
-            
             {% if page.lss %}
                 <hr/><h4><span style="font-size:1.3em;color:#483D8B"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h4></span><br>
                 {% assign lsspagina = page.lss | downcase %}
