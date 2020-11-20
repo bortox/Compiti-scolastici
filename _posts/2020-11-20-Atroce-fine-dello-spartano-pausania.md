@@ -22,22 +22,39 @@ Pausanias Lacedaemonius magnus homo, sed varius in omni genere vitae fuit: nam u
 ## Paradigmi
 
 sum, es, fui, esse = essere
+
 eluceo, eluces, eluxi, elucere = distinguersi 
+
 obruo, obruis, obrui, obrutum, obruere = seppellire
+
 gero, geris, gessi, gestum, gerere = compiere
+
 depello, depellis, depuli, depulsum, depellere = respingere
+
 expugno, expugnas, expugnavi, expugnatum, expugnare = espugnare
+
 concoquo, concoquis, concoxi, concoctum, concoquere = tramare
+
 cupio, cupis, cupii, cupitum, cupere = bramare
+
 redigo, redigis, redegi, redactum, redigere = raccogliere
+
 cado, cadis, cecidi, cadere = cadere
+
 revoco, revocas, revocavi, revocatum, revocare = richiamare
+
 intro, intras, intravi, intratum, intrare = insinuarsi
+
 obstruo, obstruis, obstruxi, obstructum, obstruere = sbarrare
+
 profugio, profugis, profugi, profugere = rifugiarsi
+
 demolio, demolis, demolivi, demolitum, demolire = demolire
+
 efflo, efflas, efflavi, efflatum, efflare = esalare
+
 colligo, colligis, collegi, collectum, colligere = ottenere
+
 maculo, maculas, maculavi, maculatum, maculare = disonorare
 
 ## Analisi del periodo con schemi ad albero
