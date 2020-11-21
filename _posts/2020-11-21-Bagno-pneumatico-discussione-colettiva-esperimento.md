@@ -9,15 +9,17 @@ description: Discutiamo ed eseguiamo l' esperimento del bagno pneumatico, per in
 tags: discussione collettiva bagno pneumatico pallone palloncino becco bunsen fenomenologico induttivo
 ---
 
-## Discussione collettiva sulle possibilità di risalire agli 0,56 g di sostanza persa durante la calcinazione
+> Come risaliamo agli 0.56 grammi di sostanza persa?
+
+**Quercioli**: Per recuperare la sostanza potrei ad esempio eseguire l' esperimento in un abiente chiuso, come ad esempio un distillatore: nel distillatore posso raccogliere le sostanze presenti nell' aria dopo che si sono condensate.
 
 **Fantechi**: prendiamo una specie di palloncino e lo mettiamo sopra alla sostanza, perché dopo l' esperimento si abbia in qualche modo "isolato " la sostanza mancante, per poi lavorarci.
 
-**Bovagnet**: estrarre il gas con una siringa.
+**Bovagnet**: Potremmo provare ad estrarre il gas generato con una siringa, per poi analizzarlo.
 
-#### Visioniamo il video della prof "Bagno pneumatico" presente su YouTube
+##### Visioniamo il video della prof "Bagno pneumatico" presente su YouTube
 
-###### Innanzitutto, **osserviamo** lo strumento utilizzato.
+> Innanzitutto, **osserviamo** lo strumento utilizzato.
 
 Notiamo inizialmente un **becco Bunsen**. Sopra di esso c'è un **pallone**, sorretto da **reticella** su treppiedi. 
 
@@ -35,9 +37,7 @@ Dopo **pochi secondi** iniziano ad emergere bollicine nel cilindro.
 
 Il reverendo **Hales**, nel 1700, ha utilizzato lo **stesso metodo** con lo **stesso genere di strumentazione** per **risalire all' invisibile**. 
 
-Questo metodo è stato chiamato ***bagno pneumatico***, ed era già stato utilizzato per esperimenti con altre sostanze.
-
-#### 
+Questo metodo è stato chiamato ***bagno pneumatico***, ed era già stato utilizzato per esperimenti con altre sostanze. 
 
 Si passa da un metodo **fenomenologico induttivo** ( dall' osservazione vengono costruiti dei concetti ) ad un metodo **oltre l' apparenza**, siccome **apparentemente** con la **calcinazione** non è **successo niente**, in questo caso lo scienziato deve **andare oltre l' apparenza** fenomenologica, **teorizzare ipotesi** ed **eseguire esperimenti** per **provare la veridicità delle ipotesi**.
 
