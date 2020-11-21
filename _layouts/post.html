@@ -17,7 +17,8 @@ layout: default
   </div>
     </article>
         <div class="nottoprint">
-            <button class="smallbutton listio" disabled style="cursor:default; background-color:rgba(58,60,89, 0.40)">{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
+            <div style="text-align:center">
+            <button class="smallbutton listio date" disabled>{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
             🕰️ PUBBLICATO: 
             {% case d %}
             {% when '1' %}Primo di
@@ -65,9 +66,11 @@ layout: default
             {% when '10' %}Ottobre
             {% when '11' %}Novembre
             {% when '12' %}Dicembre
-            {% endcase %}</button>
-            <section id="more-work">
+            {% endcase %}</button></div>
+            <hr>
+            <div style="display: inline-block"><form>{% if page.previous.url %}<button class="smallbutton navitem" formaction='{{ page.previous.url | absolute_url }}'><b><span style="color:DarkSlateBlue"> Precedente: ❰❰ </span></b>{{ page.previous.title | truncate: 60 }}</button>{% endif %}<button class="smallbutton navitem" formaction='{{ "/random.html" | absolute_url }}'> <img src="{{ "/data/img/loghi/dado.svg" | absolute_url }}"><br>Scelta <span style="color:DarkSlateBlue">casuale</span></button>{% if page.next.url %}<button class="smallbutton navitem" formaction='{{ page.next.url | absolute_url }}'> <b><span style="color:DarkSlateBlue"> Successivo: ❱❱</b></span> {{ page.next.title | truncate: 60 }}</button>{% endif %}</form></div>
             {% if page.lss %}
+            <section id="more-work">
                 <hr/><h4><span style="font-size:1.3em;color:#483D8B"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h4></span><br>
                 {% assign lsspagina = page.lss | downcase %}
                 {% for post in site.posts %}
@@ -80,9 +83,10 @@ layout: default
                         {% endif %}
                     {% endif %}
                 {% endfor %}
+            </section>
             {% else %}
             {% endif %}
-            </section>
+            
             <hr />
             <section id="more-work">
                 <h4><span style="font-size:1.3em;color:navy"> Altri post di {{ page.materia | capitalize | replace: "-", " " }}: </h4></span><br>
