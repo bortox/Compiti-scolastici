@@ -4,7 +4,7 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
 ---
 
 <div class="home">
-  <h1 class="page-heading">Compiti fatti</h1>
+  <h1 class="page-heading">Compiti fatti: {{ site.posts | size }}</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
