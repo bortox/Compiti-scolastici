@@ -1,9 +1,4 @@
 User-agent: *
-Disallow: /*.py$
-Disallow: /*.rb$
-Disallow: /*.zip$
-Disallow: /*.yml$
-Disallow: /*.lock$
-Disallow: /*.save$
+Disallow:
 
 Sitemap: https://bortox.github.io/Compiti-scolastici/sitemap.xml
