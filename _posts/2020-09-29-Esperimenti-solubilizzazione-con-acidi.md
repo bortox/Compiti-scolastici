@@ -129,7 +129,7 @@ Ferro in polvere|Resta un residuo sul fondo dopo una debole effervescenza, ma co
 Truciolo di rame|Il liquido diventa giallino, non c'è effervescenza e non succede niente al rame.| Molto tempo?
 Zinco in polvere|Si solubilizza velocemente con tanta effervescenza, poi il liquido diventa trasparente.|Meno di un minuto
 Alluminio|Inizialmente non succede niente per circa 1/2 minuti, poi inizia a spumeggiare, del vapore sale lungo la provetta. Il vapore condensa sulle pareti della provetta e si crea della nebbia.|A scoppio ritardato, circa 4 minuti.
-Ossido di rame|C'è un' intensa effervescenza, poi si solubilizza. La soluzione finale è di un colore verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.
+Ossido di rame|Non c'è affatto effervescenza, la soluzione finale è limpida senza alcun residuo sul fondo. Il colore è verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.
 
 
 ### Riflessioni individuali:<a name="rfi"></a>
