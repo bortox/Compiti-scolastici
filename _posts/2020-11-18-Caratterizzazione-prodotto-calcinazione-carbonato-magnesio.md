@@ -5,20 +5,20 @@ date: 2020-11-18T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
 materia: scienze naturali
-description: Osservazioni sulla Caratterizzazione di carbonato di magnesio e discussione collettiva su come recuperare la sostanza derivata dalla calcificazione invisibile agli occhi. 
-tags: calcificazione acqua acido fenoftaleina tornasole Caratterizzazione 
+description: Osservazioni sulla Caratterizzazione di carbonato di magnesio e discussione collettiva su come recuperare la sostanza derivata dalla calcinazione invisibile agli occhi. 
+tags: calcinazione acqua acido fenoftaleina tornasole Caratterizzazione 
 ---
 
-### Abbiamo osservato il video della Caratterizzazione del risultato della Calcificazione. 
+### Abbiamo osservato il video della Caratterizzazione del risultato della calcinazione. 
 
 > La sostanza derivata è stata saggiata con carbonato di magnesio, acido cloridrico, acqua e indicatori di Ph.
 
 ### Abbiamo elaborato una tabella dalle osservazioni sul video.
 
-|Sostanza aggiunta|Carbonato di magnesio|Residuo dopo calcificazione|
+|Sostanza aggiunta|Carbonato di magnesio|Residuo dopo calcinazione|
 |---|---|---|
 Acqua|Non si solubilizza, diventa opaca ||
-Acido cloridrico|Effervescenza moderata|Nessuna effervescenza, si solubilizza
+Acido cloridrico|Effervescenza intensa|Nessuna effervescenza, si solubilizza
 Fenoftaleina|Incolore|Colore fucsia
 Cartina da Tornasole|Colore <span style="color:DarkKhaki">giallastro</span>, ph neutro | Colore <span style="color:MediumBlue">blu</span>, ph basico
 

@@ -7,6 +7,8 @@ lss: nascita-del-concetto-di-gas
 materia: scienze naturali
 description: Osservazioni ed esperimenti con una soluzione composta da più acidi; cosa solubilizzerà?
 tags: discussione collettiva,lss,aria,presenza,mercurio,esperimenti,pressione
+redirect_from: /appunti/2020/10/08/Osservazioni-esperimenti-presenza-aria
+
 ---
 
 ---
