@@ -1,4 +1,4 @@
-dd---
+---
 layout: post
 title: Versione l'occhio del padrone | Traduzione con paradigmi
 date: 2020-11-20 20:00
