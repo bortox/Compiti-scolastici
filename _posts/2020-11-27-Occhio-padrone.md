@@ -1,4 +1,4 @@
----
+dd---
 layout: post
 title: Versione l'occhio del padrone | Traduzione con paradigmi
 date: 2020-11-20 20:00
@@ -9,7 +9,7 @@ tags: Occhio Padrone 274 versione latino tradotta
 ---
 ## Traduzione
 
-Il cervo, sfuggendo l' incombente morte nei boschi, accecato dal timore si diresse nella casa di campagna e si rifugiò in un bovile. In quel luogo i buoi lo interrogarono: " Perché, 'o infelice, 
+Il cervo, sfuggendo l' incombente morte da parte dei cacciatori[^1] nei boschi, accecato dal timore si diresse nella casa di campagna e si rifugiò in un bovile. In quel luogo i buoi lo interrogarono: " Perché, 'o infelice, 
 dopo che ti trassi in salvo dalle mani dei cacciatori, ti consegni alla casa degli uomini. E il cervo supplice rispose: " Perdonatemi per il mio tono: quando mi sarà data occasione, di nascosto mi precipiterò fuori e fuggirò."  Per lungo tempo egli si nascose tra i buoi; spesso il bifolco diede loro il fieno e non vide il cervo, anche gli altri campagnoli vennero e non lo videro tra i suoi capi di bestiame. Allora il felice cervo mostrò grandi riconoscenze, poiché in una circostanza avversa essi avevano offerto a lui ospitalità. Ma uno tra i buoi gli disse: " Noi senza dubbio ti desideriamo incolume, ma se sarà venuto colui che possiede cento occhi, la tua vita sarà in grande pericolo. Poco dopo il padrone arrivò, entrò nella stalla, mentre li passò in rassegna ad uno ad uno, vide le alte corna del cervo. Immediatamente convocò i servi e li uccise per la loro negligenza, successivamente
 portò via la preda con sé.
 
@@ -23,7 +23,7 @@ Cervus, instantem necem venatorum in nemoribus effugiens ("sfuggendo"), caecus t
 
 ## Paradigmi
 
-neco, necas, necavi, necatum, |necare
+neco, necas, necavi, necatum, necare
 
 peto, petis, petii, petitum, petere
 
@@ -81,6 +81,6 @@ neco, necas, necavi, necatum, necare
 
 tollo, tollis, sustuli, sublatum, tollere
 
-
+[^1]: Questo è un genitivo soggettivo, che indica il soggetto dell' azione che si descrive, quindi possiamo tradurlo nel senso di "morte per mano dei cacciatori"
 
 
