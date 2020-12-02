@@ -5,7 +5,7 @@ date: 2020-11-14T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
 materia: scienze naturali
-description: Osservazioni ed esperimenti con una soluzione composta da più acidi; cosa solubilizzerà?
+description: Discussione collettiva riguardante l' esperimento della calcinazione, cosa succede al carbonato di magnesio? LSS sulla nascita dei gas.
 tags: discussione collettiva,lss,aria,presenza,mercurio,esperimenti,pressione
 modified: 2020-11-18T13:27:37+01:00
 redirect_from: /appunti/2020/11/14/Calcificazione-trasformazione-chimica

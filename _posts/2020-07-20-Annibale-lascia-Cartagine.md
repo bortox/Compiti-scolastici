@@ -7,6 +7,7 @@ materia: LATINO
 description: "Esercizio 29 pagina 221. Hannibal ab Italia in patriam revocatus est et bellum gessit adversus P.
 Scipionem."
 tags: latino,versione,esercizio,pagina,compiti,bortolotti,221,Quia,iam,patriae, facultates,exhaustae,sunt,cupivit
+redirect_from: /compiti/2020/07/20/Annibale-lascia-Cartagine
 ---
 #### Esercizio 29 pagina 221
 <sub> Il mio Latino </sub>

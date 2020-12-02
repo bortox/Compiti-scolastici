@@ -8,7 +8,7 @@ description: This is a chapter by chapter summary of the book Dinosaurs written 
 ---
 ## Chapter 1
 
-Mary Anning was a researcher that spent her life finding dinosaurs bones in Lyme Regis.
+**Mary Anning** was a researcher who spent her life finding dinosaurs bones in Lyme Regis.
 
 The best way to find dinosaur fossils for Mary was by climbing over a cliff and searching for strange rocks after storms. 
 
@@ -18,11 +18,11 @@ She found some _Ichthyosaurs_ and a _Pterosaur_.
 
 Her discoveries attracted scientist, who visited her:
 
-- William Buckland, a clever and strange scientist, discovered a Megalosaurus and talk about that with Mary. 
+- **William Buckland**, a clever and strange scientist, discovered a Megalosaurus and talk about that with Mary. 
 
-- Gideon Mantell, a doctor in Lewes, found a Iguanodon and a Hyleosaurus, and visited mary. 
+- **Gideon Mantell**, a doctor in Lewes, found a Iguanodon and a Hyleosaurus, and visited mary. 
 
-**Richard Owen**, another scientist, wrote the book _Dinosauria_ about the recent discoveries of the past and he was the one who had given the name _dinosaurs_ to these strange animals of the past and he classified dinosaurs in three big groups that are **used still today**:
+**Richard Owen**, another scientist, wrote the book _Dinosauria_ about the recent discoveries of the past and he was the one who had given the name _dinosaurs_ to these strange animals of the past and he classified dinosaurs in three big groups that are **still used today**:
 
 |GROUP|DINOSAUR|ADDITIONAL INFORMATION
 |---|---|---|
