@@ -41,6 +41,10 @@ LXXXV
 
 ---
 
+## Risposte alle domande
+
+---
+
 > 1) Nel suo discorso, Mario si sta rivolgendo ai Quiriti. Con l’aiuto del web e di un dizionario latino, sapreste spiegare questa parola? A chi sta parlando Mario?
 
 Abbiamo cercato il nome _Quiris_ sul Dizionario Latino Olivetti, e la sua prima traduzione è: Quirite, cittadino romano
