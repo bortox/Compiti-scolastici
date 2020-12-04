@@ -103,7 +103,7 @@ populares? Rileggete rapidamente i testi e selezionate le frasi che vi sembrano 
 |---|---|---|
 30|Questi sono i miei ritratti, questa è la mia nobiltà: non mi è stata lasciata in eredità come la loro, ma l'ho conquistata a prezzo di innumerevoli fatiche e pericoli.|
 13|Ora, Quiriti, mettete a confronto me, uomo nuovo, con la superbia di questa gente. Ciò che costoro sono soliti udire o leggere, io in parte l'ho visto con i miei occhi, in parte l'ho fatto personalmente. Ciò che essi hanno imparato sui libri, io l'ho imparato con il servizio effettivo.|
-5|Ora, Quiriti, mettete a confronto me, uomo nuovo, con la superbia di questa gente. Ciò che costoro sono soliti udire o leggere, io in parte l'ho visto con i miei occhi, in parte l'ho fatto personalmente. Ciò che essi hanno imparato sui libri, io l'ho imparato con il servizio effettivo.|
+5|Comprendo, Quiriti, che gli occhi di tutti sono rivolti a me, che i giusti e gli onesti mi sostengono, perché i miei successi tornano a vantaggio della repubblica, che la nobiltà, invece, è pronta ad attaccarmi.|
 
 
 
