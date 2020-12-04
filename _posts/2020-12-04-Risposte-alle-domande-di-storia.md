@@ -4,7 +4,7 @@ title:  "Risposte alle domande di storia"
 date: 2020-12-04 10:00:00
 categories:  compiti
 materia: STORIA
-description: "Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su questo testo"
+description: "Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su un testo di Sallustio, Bellum Iugurthinium."
 tags: Agnoletti lavoro di gruppo
 ---
 Andrea, Simone, Lorenzo, Giulia
