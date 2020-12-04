@@ -13,50 +13,51 @@ LXXXV 5 «Comprendo, Quiriti, che gli occhi di tutti sono rivolti a me, che i gi
 
 [...] 21 E anche quando parlano dinanzi a voi o in Senato, in quasi tutti i discorsi esaltano i loro antenati: credono di nobilitare sé stessi ricordando le imprese di quelli. 22 Ma è proprio il contrario: quanto più fu gloriosa la vita dei loro antenati, tanto più è vergognosa la loro indolenza. 23 E non può essere che così: la gloria degli antenati è come una luce che splende sui discendenti e non lascia nell'ombra né i loro vizi né le loro virtù. 24 Confesso, Quiriti, che per me questa luce non splende. Ma ho un privilegio che mi fa molto più onore: posso parlare di imprese che io stesso ho compiuto. [...] 29 Io non posso, per conquistare la vostra fiducia, vantare ritratti o trionfi o consolati dei miei antenati, ma se necessario, posso mostrare lance, stendardi, falere, altre decorazioni militari, e infine le cicatrici che mi attraversano il petto. 30 Questi sono i miei ritratti, questa è la mia nobiltà: non mi è stata lasciata in eredità come la loro, ma l'ho conquistata a prezzo di innumerevoli fatiche e pericoli. 31 Le mie parole non sono forbite, ma non me ne curo. La virtù parla da sola. Gli orpelli servono a loro, che debbono ammantare di belle parole le loro azioni vergognose.
 
-> 1. Nel suo discorso, Mario si sta rivolgendo ai Quiriti. Con l’aiuto del web e di un dizionario latino, sapreste spiegare questa parola? A chi sta parlando Mario?
+---
+
+> 1) Nel suo discorso, Mario si sta rivolgendo ai Quiriti. Con l’aiuto del web e di un dizionario latino, sapreste spiegare questa parola? A chi sta parlando Mario?
 
 Abbiamo cercato il nome _Quiris_ sul Dizionario Latino Olivetti, e la sua prima traduzione è: Quirite, cittadino romano
 
 Inoltre abbiamo trovato la stessa definizione sull' enciclopedia Treccani.
 
-> 2. Mario afferma che l’aristocrazia romana era molto contrariata per il fatto che lui avesse
+---
+
+> 2) Mario afferma che l’aristocrazia romana era molto contrariata per il fatto che lui avesse
 ottenuto il comando della guerra contro Giugurta. Facendo riferimento anche alle vostre
 conoscenze, illustrate perché la nobiltà provava tali sentimenti verso Mario.
 
 Visto che Mario aveva esercitato per diversi anni la carica di console, che apparteneva al partito dei _populares_, in contrasto con quello degli _optimates_ di cui faceva parte la nobiltà, ed era un homo novus, era considerato un pericolo dai nobili.
 
-> 3. Nelle parole di Mario si legge un’idea contraria alla tradizione della repubblica romana, che si basava su ordini ai quali si apparteneva per nascita. Di quale idea si tratta?
+---
 
+> 3) Nelle parole di Mario si legge un’idea contraria alla tradizione della repubblica romana, che si basava su ordini ai quali si apparteneva per nascita. Di quale idea si tratta?
 
-> 15 Io ritengo che la natura sia unica e comune a tutti: è il valore che crea la vera
-nobiltà. [...] 
+_[...] Io ritengo che la natura sia unica e comune a tutti: è il valore che crea la vera
+nobiltà.[...]_
 
 L' idea di Mario, sopracitata , considera la nobiltà prodotto del valore dimostrato da un individuo e non della sua discendenza.
 
 
-> 4. Mario “confessa” che su di lui non splende la luce degli antenati. Perché afferma questo?
+> 4) Mario “confessa” che su di lui non splende la luce degli antenati. Perché afferma questo?
 
 Essendo Mario un homo novus, non aveva antenati di cui narrare le imprese nobili, quindi definì la propria nobiltà con imprese eroiche.
 
-> 5. Sallustio contrappone la figura di Mario alla nobilitas: quale giudizio sulla classe dirigente romana lo storico intende trasmettere?
+> 5) Sallustio contrappone la figura di Mario alla nobilitas: quale giudizio sulla classe dirigente romana lo storico intende trasmettere?
 
 Sallustio cerca di mettere in cattiva luce la nobiltà romana, sancendo un giudizio severo sui nobili, facendo intendere che non meritano di esserlo solo grazie alle imprese degli antenati:
 
->  credono di nobilitare sé stessi ricordando le imprese di quelli.
+_credono di nobilitare sé stessi ricordando le imprese di quelli._
 
->   quanto più fu gloriosa la vita dei loro antenati, tanto più è vergognosa la loro
-indolenza.
+_quanto più fu gloriosa la vita dei loro antenati, tanto più è vergognosa la loro indolenza._
 
->  questa è la mia nobiltà: non mi è stata
-lasciata in eredità come la loro
+_questa è la mia nobiltà: non mi è stata lasciata in eredità come la loro_
 
->  qualcuno della cerchia dei nobili, un uomo certo di antico lignaggio e ricco di ritratti di
-antenati, ma privo di esperienza militare
+_qualcuno della cerchia dei nobili, un uomo certo di antico lignaggio e ricco di ritratti di antenati, ma privo di esperienza militare_
 
->  Sono invidiosi della mia carica
+_Sono invidiosi della mia carica_
 
->   mettete a confronto me, uomo
-nuovo, con la superbia di questa gente.
+_mettete a confronto me, uomo nuovo, con la superbia di questa gente._
 
 
 
