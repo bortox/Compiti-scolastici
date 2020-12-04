@@ -7,10 +7,14 @@ materia: STORIA
 description: "Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su un testo di Sallustio, Bellum Iugurthinium."
 tags: Agnoletti lavoro di gruppo
 ---
-Andrea, Simone, Lorenzo, Giulia
+###### Andrea, Simone, Lorenzo, Giulia
+_Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su un testo di Sallustio, Bellum Iugurthinium._
+
 ### Testo originale
 
-LXXXV **5** «Comprendo, Quiriti, che gli occhi di tutti sono rivolti a me, che i giusti e gli onesti mi sostengono, perché i miei successi tornano a vantaggio della repubblica, che la nobiltà, invece, è pronta ad attaccarmi. [...]
+LXXXV
+
+**5** «Comprendo, Quiriti, che gli occhi di tutti sono rivolti a me, che i giusti e gli onesti mi sostengono, perché i miei successi tornano a vantaggio della repubblica, che la nobiltà, invece, è pronta ad attaccarmi. [...]
 
 **10** Voi mi avete incaricato di condurre la guerra contro Giugurta, provocando grave scontento nella nobiltà. Vi prego di riflettere bene e di vedere se non sia meglio cambiare parere destinando a questo incarico, o ad un altro simile, qualcuno della cerchia dei nobili, un uomo certo di antico lignaggio e ricco di ritratti di antenati, ma privo di esperienza militare [...]
 
@@ -60,10 +64,13 @@ nobiltà.[...]_
 
 L' idea di Mario, sopracitata , considera la nobiltà prodotto del valore dimostrato da un individuo e non della sua discendenza.
 
+---
 
 > 4) Mario “confessa” che su di lui non splende la luce degli antenati. Perché afferma questo?
 
 Essendo Mario un homo novus, non aveva antenati di cui narrare le imprese nobili, quindi definì la propria nobiltà con imprese eroiche.
+
+---
 
 > 5) Sallustio contrappone la figura di Mario alla nobilitas: quale giudizio sulla classe dirigente romana lo storico intende trasmettere?
 
@@ -81,22 +88,18 @@ _Sono invidiosi della mia carica_
 
 _mettete a confronto me, uomo nuovo, con la superbia di questa gente._
 
-
-
+---
 
 > Dai brani proposti emergono aspetti che caratterizzano Mario come homo novus e leader dei
 populares? Rileggete rapidamente i testi e selezionate le frasi che vi sembrano più  significative in tal senso.
 
-|Verso|Frase|
-|---|---|
-|30|Questi sono i miei ritratti, questa è la mia nobiltà: non mi è stata lasciata in eredità come la loro, ma l'ho conquistata a prezzo di innumerevoli fatiche e pericoli.|
-|13|Ora, Quiriti, mettete a confronto me, uomo nuovo, con la superbia di questa gente. Ciò che costoro sono soliti udire o leggere, io in parte l'ho visto con i miei occhi, in parte l'ho fatto personalmente. Ciò che essi hanno imparato sui libri, io l'ho imparato con il servizio effettivo.|
-|5|Comprendo, Quiriti, che gli occhi di tutti sono rivolti a me, che i giusti e gli onesti
-mi sostengono, perché i miei successi tornano a vantaggio della repubblica, che la nobiltà,
-invece, è pronta ad attaccarmi.|
+**Ecco le frasi che ci sono sembrate più significative nel caratterizzare Mario come homo novus e leader dei populares**
 
-
-
+| Verso | Frase
+|---|---|---|
+30|Questi sono i miei ritratti, questa è la mia nobiltà: non mi è stata lasciata in eredità come la loro, ma l'ho conquistata a prezzo di innumerevoli fatiche e pericoli.|
+13|Ora, Quiriti, mettete a confronto me, uomo nuovo, con la superbia di questa gente. Ciò che costoro sono soliti udire o leggere, io in parte l'ho visto con i miei occhi, in parte l'ho fatto personalmente. Ciò che essi hanno imparato sui libri, io l'ho imparato con il servizio effettivo.|
+5|Ora, Quiriti, mettete a confronto me, uomo nuovo, con la superbia di questa gente. Ciò che costoro sono soliti udire o leggere, io in parte l'ho visto con i miei occhi, in parte l'ho fatto personalmente. Ciò che essi hanno imparato sui libri, io l'ho imparato con il servizio effettivo.|
 
 
 
