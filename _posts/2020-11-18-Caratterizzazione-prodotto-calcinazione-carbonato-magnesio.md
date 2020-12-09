@@ -19,8 +19,11 @@ tags: calcinazione acqua acido fenoftaleina tornasole Caratterizzazione
 |---|---|---|
 Acqua|Non si solubilizza, diventa opaca ||
 Acido cloridrico|Effervescenza intensa|Nessuna effervescenza, si solubilizza
+Soda caustica|Nessuna effervescenza||
 Fenoftaleina|Incolore|Colore fucsia
 Cartina da Tornasole|Colore <span style="color:DarkKhaki">giallastro</span>, ph neutro | Colore <span style="color:MediumBlue">blu</span>, ph basico
+
+
 
 ### Come potresti recuperare la sostanza derivata dagli 0.56g di Carbonato di Magnesio persi lungo il percorso?
 

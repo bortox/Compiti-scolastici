@@ -6,7 +6,7 @@ categories: appunti
 lss: nascita-del-concetto-di-gas
 materia: scienze naturali
 description: Discutiamo ed eseguiamo l' esperimento del bagno pneumatico, per indagare su dove sono finiti gli 0.56g di carbonato di magnesio.
-tags: discussione collettiva bagno pneumatico pallone palloncino becco bunsen fenomenologico induttivo
+tags: discussione collettiva bagno pneumatico palloncino becco bunsen fenomenologico induttivo
 ---
 
 > Come risaliamo agli 0.56 grammi di sostanza persa?
@@ -21,13 +21,13 @@ tags: discussione collettiva bagno pneumatico pallone palloncino becco bunsen fe
 
 > Innanzitutto, **osserviamo** lo strumento utilizzato.
 
-Notiamo inizialmente un **becco Bunsen**. Sopra di esso c'è un **pallone**, sorretto da **reticella** su treppiedi. 
+Notiamo inizialmente un **becco Bunsen**. Sopra di esso c'è un **palloncino**, sorretto da **reticella** su treppiedi. 
 
-Il  pallone è in posizione eretta grazie alla base metallica. 
+Il  palloncino è in posizione eretta grazie alla base metallica. 
 
-Dentro il pallone è presente **carbonato di magnesio**.
+Dentro il palloncino è presente **carbonato di magnesio**.
 
-Sopra il pallone c'è un tappo forato, che fa sfociare l' aria in un **tubicino di gomma**.
+Sopra il palloncino c'è un tappo forato, che fa sfociare l' aria in un **tubicino di gomma**.
 
 Il tubicino di gomma arriva **sotto il cilindro**. 
 
@@ -45,7 +45,7 @@ Questo è **ciò che abbiamo fatto** prima di eseguire l' esperimento, infatti B
 
 Con la costruzione del **bagno pneumatico** si inizia ad **interrogare la natura, oltre il visibile**. **Hales** ha già in mente che si sia liberato qualcosa di **invisibile**, e vuole **provarlo con questo esperimento**. 
 
-Blake scopre ed identifica il **primo tipo di aria**.
+Blake scopre ed identifica il **primo tipo di aria**, nel **1755**.
 
 ### Domanda:
 > Come potremmo capire che tipo di aria è contenuto nel cilindro?

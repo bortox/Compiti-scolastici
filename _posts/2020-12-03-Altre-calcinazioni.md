@@ -8,7 +8,7 @@ materia: scienze naturali
 description: Proviamo ad eseguire altre calcinazioni, con carbonato di rame e ne saggiamo il prodotto.
 tags: aria fissa chimica lss
 ---
-ALTRE CALCINAZIONI
+> Oltre alla calcinazione del carbonato di magnesio se ne possono eseguire altre, ma la calcinazione ha bisogno di alte temperature: mentre il carbonato di calcio ha bisogno di 800C° per calcinare, il carbonato di magnesio ha bisogno di "solo" 350 C°, ed è quindi più facile e veloce da eseguire.
 
 ## Carbonato di rame
 
@@ -57,15 +57,17 @@ Nel palloncino rimane una polvere grigio-marrone scura, quasi nera.
 
 ### Alcune spiegazioni
 
-Il prodotto della calcinazione del carbonato di calcio è chiamato calce viva, ed è usato per rivestire le case. La calce viva è di natura basica: l' abbiamo scoperto saggiandola con cartina da Tornasole.
+Il **prodotto** della **calcinazione** del **carbonato di calcio** è chiamato **calce viva**, ed è usato per **rivestire le case**. La **calce viva** è di **natura basica**: l' abbiamo scoperto **saggiandola** con **cartina da Tornasole**.
 
-Quando la sostanza viene messa in acqua, diventa calce spenta, cioè una miscela satura. 
+Quando la **calce viva** viene messa **in acqua**, diventa **calce spenta**, cioè una **miscela satura**. 
 
-Chiamiamo magnesia la calce spenta ma con il magnesio.
+Chiamiamo **magnesia** la **calce spenta** ma **con il magnesio**.
 
-La calce viva (cioè l’acqua di calce) mescolata con l’aria fissa fa ottenere il carbonato di calcio.
+La **calce viva** (cioè l’acqua di calce) mescolata **con** l’**aria fissa** fa ottenere il **carbonato di calcio**.
 
-Il carbonato di calcio è insolubile nell' acqua, per questo quando si fa l’esperimento per caratterizzare l’aria, l’acqua precipita. Ciò ci fa capire che l calcinazione è una trasformazione chimica reversibile in più passaggi. ( ricontrollare meglio)
+Il **carbonato di calcio** è **insolubile** nell' acqua, per questo quando si fa l’**esperimento per caratterizzare l’aria**, **precipita nell' acqua**. 
+
+Ciò ci fa capire che la calcinazione è una trasformazione chimica reversibile in più passaggi. --> frase non capita
 
 
 Grazie ad una domanda di Ballini abbiamo reintrodotto il ragionamento spiegato in questa lezione: precipita una polverina bianca quando fai gorgogliare all' interno della calce - sostanza basica - aria fissa il tutto diventa un miscuglio eterogeneo lattiginoso che ricorda il carbonato di calcio nell' acqua. Da ciò abbiamo dedotto che la calce viva mescolata con l' aria fissa possa produrre carbonato di calcio, ossia calce spenta.

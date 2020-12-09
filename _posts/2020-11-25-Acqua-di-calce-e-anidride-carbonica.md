@@ -58,8 +58,12 @@ Abbiamo recuperato circa 85 ml di aria per la prima prova, ma per ogni prova ese
 
     - Con l' aria normale la candelina non si spenge, mentre invece buttandoci l' aria derivata dal bagno pneumatico la candelina si spenge.
 
+### Introduzione dell' acqua di calce
+
+- L' acqua di calce è una soluzione limpida, incolore e trasparente, ancora non so niente sulla sua acidità e la sua origine.
 
 #### Seconda prova
+
 <details>
   <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
   
@@ -74,8 +78,6 @@ Abbiamo recuperato circa 85 ml di aria per la prima prova, ma per ogni prova ese
   • 1gr carbonato di magnesio<br>
 
 </details>
-* __note__:
-    - Utilizzerò l' acqua di calce, una soluzione limpida, incolore e trasparente. Ancora non so niente sulla sua acidità, la inserirò in una provetta.
 * __procedimento__:
     - Collego attraverso un tubicino il pallone contenente carbonato di calcio con la provetta contenente solo acqua di calce.
     - Piazzo il pallone contenente carbonato di calcio sopra una reticella sorretta da un treppiedi, posizionato sopra ad un becco Bunsen.
@@ -116,9 +118,23 @@ Abbiamo recuperato circa 85 ml di aria per la prima prova, ma per ogni prova ese
 - Dalla trasformazione chimica precedente è uscito qualcosa di invisibile
 - Non esiste un solo tipo di aria, ma esistono più arie con effetti diversi.
 - Potremmo provare l' aria liberata con un phMetro
-- L' aria liberata è aria fissa
+- Siccome **l' aria liberata** produce gli **stessi effetti** di quella **prodotta dal nostro respiro**, che sappiamo essere composta principalmente da **CO2**, allora chiameremo l' **aria derivata dalla calcinazione** **aria fissa.**
 
-La provetta contenente solo acqua di calce, aggiunta la fenoftaleina, diventa rosa, ma appena si inizia la calcinazione e si inserisce l' aria della calcinazione in acqua, la provetta si schiarisce. Questo ci indica che l' aria espulsa ha caratteristiche acide, siccome la soluzione si è scolorita. Probabilmente il carbonato di magnesio si libera dalla componente acida, che si mescola con l' aria espulsa.
+### Acidità dell' aria fissa e dell' acqua di calce; conosciamo meglio queste due sostanze.
+
+Per iniziare, l' acqua di calce è il prodotto della calcinazione mescolato con acqua.
+
+La provetta contenente solo acqua di calce, aggiunta la fenoftaleina, diventa rosa. 
+
+Da qui intuiamo che l' acqua di calce è basica, quindi il prodotto della calcinazione è basico.
+
+Da questo fatto possiamo dedurre che sia uscita la parte acida dalla sostanza calcinata. Eseguiamo una riprova a conferma della nostra intuizione:
+
+- Eseguiamo una calcinazione come quelle precedenti.
+
+Appena si inizia la calcinazione e si inserisce l' aria della calcinazione in acqua, la provetta si schiarisce, e diventa trasparente. Questo ci indica che l' aria espulsa ha caratteristiche acide, siccome la fenoftaleina si scolorisce in presenza di acidi.
+
+Dunque il carbonato di magnesio si libera dalla componente acida, che si mescola con l' aria espulsa.
 
 
 
