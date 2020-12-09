@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Versione 36 pagina 281 | Filippo e Alessandro
-date: 2020-11-20 20:00
+title: Versione 43 pagina 284 | La Metamorfosi di Dafne
+date: 2020-12-03 20:00
 categories: versione
 materia: LATINO
-description: "Il confronto tra Alessandro Magno e il padre Filippo fa risaltare l' eccezionalità del primo, sia nelle virtù, sia nei difetti"
-tags: Philippus Alexander versione
+description: "Versione tradotta da Il mio Latino. Daphne dulcis venustaque nympha erat, Penei fluminis filia. "
+tags: Daphne venustaque versione
 ---
 ## Testo latino originale
 
