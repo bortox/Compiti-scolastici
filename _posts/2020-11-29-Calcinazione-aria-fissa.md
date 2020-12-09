@@ -25,7 +25,7 @@ Dunque quando si soffia l' anidride carbonica sulla candela, essa tende a deposi
 
 Prendendo un cilindro con l' aria fissa raccolta, messo a testa in giù, rigirandolo l' aria fissa ci mette un po' ad uscire dal cilindro.
 
-Riguardo al concetto del metodo ipotetico-deduttivo abbiamo detto che quando svolgiamo l’esperimento  , ne deve essere controllato il risultato. Inoltre l' esperimento deve essere ripetibile, cosicché siano ridotti al minimo i risultati dovuti a fattori variabili casuali, perché così si possa 
+Riguardo al concetto del metodo ipotetico-deduttivo abbiamo detto che quando svolgiamo l’esperimento  , ne deve essere controllato il risultato. Inoltre l' esperimento deve essere ripetibile, cosicché siano ridotti al minimo i risultati errati dovuti a fattori variabili casualmente.
 
 #### Etimologia del nome "Calcinazione"
 
