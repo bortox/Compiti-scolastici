@@ -42,4 +42,3 @@ Nel prossimo percorso verificheremo anche l' importanza della calcinazione con i
 Il gas formato, si trovava, per forza di cose, all' interno della sostanza, ad esempio dentro il carbonato di calcio.
 
 >Per confrontare le analogie tra l' effervescenza con acidi e la calcinazione abbiamo dunque deciso di confrontarne i risultati: nelle prossime lezioni analizzeremo le differenze tra i gas prodotti da calcinazione ed effervescenza.
-

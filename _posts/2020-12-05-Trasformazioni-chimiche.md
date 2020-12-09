@@ -7,7 +7,6 @@ lss: nascita-del-concetto-di-gas
 materia: scienze naturali
 description: Iniziamo con una discussione collettiva, ragionando sulle domande di Leonardo e Viola, poi eseguiamo un ripasso generale di tutte le trasformazioni chimiche con Azzurra e Niccolò. 
 tags: aria fissa chimica lss
-mermaid: presente
 ---
 Appello di tutti gli alunni.
 
@@ -59,6 +58,7 @@ graph TD
   N --> Z
   H[Carbonato di Calcio] -->Q[Calcinazione]
   Q[Calcinazione] -->I[Calce viva]
+  I --> | Aggiunta di Aria Fissa | H
   Q --> Z
   I -->| Inserimento in H20| R[Calce Spenta]
 @endmermaid
@@ -79,8 +79,6 @@ Pietro:
 
 Prof:
 > Una sostanza per liberare CO2 deve contenere ossigeno e carbonio, altrimenti non si può generare dal nulla la CO2. Capiremo ciò meglio studiando Lavoisier in futuro. 
-
-Grazie ad una domanda di Ballini abbiamo reintrodotto il ragionamento spiegato nelle lezioni precedenti: precipita una polverina bianca quando fai gorgogliare all' interno della calce - sostanza basica - aria fissa il tutto diventa un miscuglio eterogeneo lattiginoso che ricorda il carbonato di calcio nell' acqua. Da ciò abbiamo dedotto che la calce viva mescolata con l' aria fissa possa produrre carbonato di calcio, ossia calce spenta.
 
 @startmermaid
 graph TD
