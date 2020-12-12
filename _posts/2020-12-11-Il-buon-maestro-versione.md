@@ -35,7 +35,7 @@ Ha una conversazione onesta e virtuosa, infatti raramente castigherà i suoi all
 
 > Magister firmus minime iracundus est, nec tamen errorum dissimulator, simplex in docendo ("nell'insegnare"), patiens laboris, adsiduus neque immodicus. 
 
-Il maestro è integerrimo e il meno possibile collerico, e nondimeno è dissimulatore degli errori altrui, è paziente nell' insegnare del lavoro, tenace ma non senza ritegno
+Il maestro è integerrimo e il meno possibile collerico, e nondimeno è dissimulatore degli errori altrui, è chiaro nell' insegnare, resistente alla fatica, tenace ma non senza ritegno
 
 > Discipulorum quaestionibus libenter respondet et in eorum dictionum laudibus nec malignus nec effusus ("eccessivamente prodigo"), quia illud taedium laboris, hoc nimiam securitatem parit. 
 
