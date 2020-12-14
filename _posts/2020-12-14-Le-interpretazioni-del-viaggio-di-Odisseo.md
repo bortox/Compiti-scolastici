@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Interpretazioni del viaggio di Odisseo
-date: 2020-12-14 20:00
+date: 2020-12-14T20:00:00+01:00
 categories: compiti
 materia: epica
 description: Interpretazioni possibili del viaggio di Odisseo, ad esempio come portolano di antiche rotte. Sintesi dell' elenco presente a pagina 317 del libro Narrami o Musa.
