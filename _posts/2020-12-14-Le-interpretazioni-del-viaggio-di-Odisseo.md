@@ -12,11 +12,11 @@ tags: portolano memoria percorso viaggio odisseo nostos
 
 ## Un percorso reale: il racconto come portolano di antiche rotte
 
-Il poema omerico sarebbe un portolano, quindi nel viaggio dell' eroe Odisseo si celano informazioni e consigli sulla navigazione. Inoltre si suppone che i mostri siano stati ideati con lo scopo di dissuadere i navigatori dal percorrere rotte Fenicie.
+Secondo questa teoria il poema omerico sarebbe un portolano, quindi nel viaggio dell' eroe Odisseo si celano informazioni e consigli sulla navigazione. Inoltre si suppone che i mostri siano stati ideati con lo scopo di dissuadere i navigatori dal percorrere rotte Fenicie.
 
 ## Il viaggio come memoria e trasfigurazione delle vicende storiche
 
-Si può anche interpretare l' odissea come una trasfigurazione della storia degli Acheo-Micenei: il nostos di Ulisse conserva la traccia di tre importanti momenti:
+Si può anche interpretare l' Odissea come una trasfigurazione della storia degli Acheo-Micenei: il nostos di Ulisse conserva la traccia di tre importanti momenti:
 
 - L' espansione comerciale e militare verso l' oriente
 - La diaspora e le migrazioni in seguito all' invasione dei dori
