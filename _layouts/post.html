@@ -16,7 +16,6 @@ layout: default
     {{ content }}
   </div>
     </article>
-        <div class="nottoprint">
             <div style="text-align:center">
             <button class="smallbutton listio date" disabled>{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
             🕰️ PUBBLICATO: 
@@ -67,6 +66,7 @@ layout: default
             {% when '11' %}Novembre
             {% when '12' %}Dicembre
             {% endcase %}</button></div>
+        <div class="nottoprint">
             <div style="text-align:center;margin-top:3em">
             <a target="_blank" rel="noopener" class="smallbutton" style="background-color:Cornsilk;color:DarkSlateBlue;border-radius:.5em" href="https://github.com/bortox/Compiti-scolastici/edit/master/{{ page.path }}">
             <i class="icon icon-pencil2"></i> ✍️ Proponi una modifica al testo di questa pagina (GitHub)</a>
@@ -114,5 +114,10 @@ layout: default
             <hr />
         </div>
         <sub id="goatcounter-text"></sub>
+        
+</div>
+<div class="profview"><hr>
+<p> Questo è il mio sito web personale contenente i i compiti scolastici e gli appunti presi da me, <span style="color:darkslateblue">Andrea Bortolotti</span>, durante il liceo.  Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! L' ho creato per essere più ordinato e per non perderli. </p>
 
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" /></a></p><hr>
 </div>

@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 #search-demo-container {
     animation: bounceIn;
     animation-duration: 1.5s;
@@ -452,4 +453,9 @@ transform: scale(1.15);
     margin: 0 auto;
     padding-left: 2vw;
     padding-right: 2vw;
+}
+.profview {
+    display: none;
+    margin: 3em;
+    margin-top:4.2em;
 }
