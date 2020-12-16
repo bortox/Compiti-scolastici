@@ -45,7 +45,7 @@ Questo è **ciò che abbiamo fatto** prima di eseguire l' esperimento, infatti B
 
 Con la costruzione del **bagno pneumatico** si inizia ad **interrogare la natura, oltre il visibile**. **Hales** ha già in mente che si sia liberato qualcosa di **invisibile**, e vuole **provarlo con questo esperimento**. 
 
-Blake scopre ed identifica il **primo tipo di aria**, nel **1755**.
+Black scopre ed identifica il **primo tipo di aria**, nel **1755**.
 
 ### Domanda:
 > Come potremmo capire che tipo di aria è contenuto nel cilindro?

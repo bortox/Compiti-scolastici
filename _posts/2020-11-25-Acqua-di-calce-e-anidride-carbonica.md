@@ -110,7 +110,7 @@ Abbiamo recuperato circa 85 ml di aria per la prima prova, ma per ogni prova ese
 * __riflessioni__:
     - Il prodotto della calcinazione può quindi essere anidride carbonica. 
     
-> Quella fatta ora è una ricostruzione dell' esperimento di Blake, il quale dal momento che Hales aveva raccolto l' invisibile, decise di studiarlo. Blake osservò che questo gas prodotto dalla calcinazione non può far avvenire una calcinazione come l' aria, nota che piccoli animaletti muoiono in un ambiente saturo di questo gas. Non è l' aria atmosferica che tutti conosciamo, ma un' aria divesa, che sta fissata all' interno.
+> Quella fatta ora è una ricostruzione dell' esperimento di Black, il quale dal momento che Hales aveva raccolto l' invisibile, decise di studiarlo. Black osservò che questo gas prodotto dalla calcinazione non può far avvenire una calcinazione come l' aria, nota che piccoli animaletti muoiono in un ambiente saturo di questo gas. Non è l' aria atmosferica che tutti conosciamo, ma un' aria divesa, che sta fissata all' interno. Inoltre notò che l' aria fissa forma un precipitato con l' acqua di calce.
 
 ###### Che cosa abbiamo notato - conclusioni
 
