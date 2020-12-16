@@ -22,7 +22,7 @@ Egli non ha vizi né li tollera.
 
 > Non austeritas eius tristis est, non dissoluta comitas, quia inde odium, hinc contemptio venit.
 
-La severità di lui non è triste, la sua cortesia non è sregolata, avversione, poiché da ciò nasce l' odio, da ciò (nasce) il disprezzo.
+La severità di lui non è triste, la sua cortesia non è sregolata, poiché da ciò nasce l' odio, da ciò (nasce) il disprezzo.
 
 > Multus ei de honesto ac bono sermo est, nam rare suos discipulos castigabit, si ("se") eos saepe monuerit.
 
