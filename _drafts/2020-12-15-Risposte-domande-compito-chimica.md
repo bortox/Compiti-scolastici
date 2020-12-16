@@ -8,9 +8,9 @@ La calcinazione è una trasformazione chimica che si ottiene quando una sostanza
 
 Per dimostrare che sia avvenuta una trasformazione chimica, dobbiamo dimostrare un cambiamento di natura della sostanza soggetta a calcinazione. L' abbiamo fatto, anche in diversi casi:
 
-- Saggiando il risultato della calcinazione carbonato di rame con la cartina da Tornasole scopriamo che esso è basico, poi, mescolandolo con acido cloridrico, notiamo che ne esce una miscela limpida e verde, proprio come l' ossido di rame. Quindi il risultato della calcinazione non può essere altro che l' ossido di rame, di un colore nero.
+- Saggiando il risultato della calcinazione  del carbonato di rame con la cartina da Tornasole scopriamo che esso è basico. Abbiamo già notato una trasformazione chimica: la sostanza è diventata basica.
 
-- Testando l' acqua di calce con la fenoftaleina, abbiamo una sostanza di colore rosa, quindi basica. Facendo fluire attraverso un tubicino di plastica l' aria derivata dalla calcinazione, la miscela si scolorisce, segno che abbiamo inserito una sostanza acida dentro di essa. Siccome quella sostanza proviene dalla calcinazione, allora cambia la natura della sostanza siccome la parte acida si divide da essa.
+- Saggiando l' acqua di calce con la fenoftaleina, abbiamo una sostanza di colore rosa, quindi basica. Facendo fluire attraverso un tubicino di plastica l' aria derivata dalla calcinazione, la miscela si scolorisce, segno che abbiamo inserito una sostanza acida dentro di essa. Siccome quella sostanza proviene dalla calcinazione, allora cambia la natura della sostanza siccome la parte acida si divide da essa.
 
 ## Quali sono le ipotesi che si possono formulare sull' effervescenza che si sviluppa in alcune reazioni chimiche?
 
@@ -24,15 +24,16 @@ Quindi si può formulare che l' effervescenza produca aria fissa con le sostanze
 
 ## L' aria fissa conferisce all' acqua proprietà acide? Come si può dimostrare? 
 
-Già risposto nelle domande sopra
+Già risposto nella domanda riguardante la possibilità di trasformazione chimica durante la calcinazione in ambiente aperto.
 
 ## Quale trasformazione chimica si realizza quando l' aria fissa gorgoglia nell' acqua di calce?
 
-Si sviluppa effervescenza, l' acqua di calce diventa acida poiché abbiamo scoperto che l' aria fissa è acida.
+Quando metto l' aria fissa nell' acqua di calce, essa precipita. Questo fenomeno accade perché l' acqua di calce è calce spenta, ovvero il risultato della calcinazione di carbonato di calcio. Aggiungendo l' aria fissa all' acqua di calce, ottengo il carbonato di calcio, quindi questa è una trasformazione chimica reversibile.
+
 
 ## Sulla base delle esperienze che hai fatto in questo percorso e in quello su acidi e basi, quali sono le differenze tra soda e soda caustica?
 
-Abbiamo scoperto che la soda è più acida della soda caustica, infatti aggiungendo aria fissa alla soda si ottiene soda caustica. [ da rielaborare ]
+Abbiamo scoperto che la soda è più acida della soda caustica, infatti aggiungendo aria fissa alla soda si ottiene soda caustica.
 
 ## Qual'è la caratteristica del bagno pneumatico che lo ha reso tanto importante per i chimici del 700?
 
@@ -40,7 +41,7 @@ Il bagno pneumatico riesce a recuperare l' invisibile che è andato perso durant
 
 ## Hales afferma che l' aria è _chimicamente attiva_. Spiega il perché di questa affermazione.
 
-L' aria è chimicamente attiva secondo Hales 
+L' aria è chimicamente attiva secondo Hales siccome partecipa attivamente alle reazioni chimiche. 
 
 ## Rispetto al Rinascimento, la rivoluzione scientifica '700 trasforma lo scienziato da soggetto passivo in soggetto attivo. Spiega cosa s' intende per _interrogazione della natura_
 
@@ -64,5 +65,5 @@ Il **cilindro** è immerso nell' acqua di una **bacinella**. Il tubicino di gomm
 
 Abbiamo discusso principalmente su tre calcinazioni: quella del carbonato di **Magnesio**, quella del carbonato di **Rame** e quella del carbonato di **Calcio**.
 
-Dalla calcinazione di carbonato di magnesio si ricava magnesia e aria fissa. Chiamiamo **magnesia** la **calce spenta** ma **con il magnesio**. Invece dalla calcinazione del carbonato di rame si ricava aria fissa e **ossido di rame**. Invece, dalla calcinazione di carbonato di calcio, si ottiene **calce viva** e aria fissa.
+Dalla calcinazione di carbonato di magnesio si ricava magnesia e aria fissa. Invece dalla calcinazione del carbonato di rame si ricava aria fissa e **ossido di rame**. Invece, dalla calcinazione di carbonato di calcio, si ottiene **calce viva** e aria fissa.
 

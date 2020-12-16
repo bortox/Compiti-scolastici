@@ -1,0 +1,26 @@
+# > nome: Nome dello strumento utilizzato
+# > descrizione: Una breve descrizione dello strumento
+# >  weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+- nome: Simple-Jekyll-Search
+  descrizione: Simple-Jekyll-Search è un tema bello e pratico per Jekyll, con una pratica funzionalità di ricerca. Posso dunque affermare che la base dell intero sito è la seguente repo di Christian Fei.
+  nome_autore: Christian Fei
+  link_fonte: https://github.com/christian-fei/Simple-Jekyll-Search/
+  
+- nome: Menù di condivisione
+  descrizione: Sopra il titolo di un post, i pulsanti per condividerlo via Email, Facebook, Whatsapp e Twitter
+  nome_autore: Craig Buckler
+  link_fonte: https://codepen.io/craigbuckler/pen/oNNjKbX
+
+- nome: Funzionalità post casuale
+  descrizione: In fondo alla pagina, il bottone Scelta casuale contenente un emoji di dado ti porterà ad una pagina a caso.
+  nome_autore: Juda Ronén
+  link_fonte: https://github.com/rwmpelstilzchen/static-random-post/blob/master/jekyll.html
+
+- nome: Icone di Instagram e Github in fondo alla pagina
+  descrizione: Le icone che collegano ai miei profili di Instagram e Github.
+  nome_autore: Pubblico dominio
+  link_fonte: https://commons.wikimedia.org/

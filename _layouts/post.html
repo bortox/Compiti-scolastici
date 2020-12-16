@@ -72,7 +72,7 @@ layout: default
             <i class="icon icon-pencil2"></i> ✍️ Proponi una modifica al testo di questa pagina (GitHub)</a>
           </div>
             <hr>
-            <div style="display: block"><form>{% if page.previous.url %}<button class="smallbutton navitem" formaction='{{ page.previous.url | absolute_url }}'><b><span style="color:DarkSlateBlue"> Precedente: ❰❰ </span></b>{{ page.previous.title | truncate: 50 }}</button>{% endif %}<button class="smallbutton navitem" formaction='{{ "/random.html" | absolute_url }}'> <img src="{{ "/data/img/loghi/dado.svg" | absolute_url }}"><br>Scelta <span style="color:DarkSlateBlue">casuale</span></button>{% if page.next.url %}<button class="smallbutton navitem" formaction='{{ page.next.url | absolute_url }}'> <b><span style="color:DarkSlateBlue"> Successivo: ❱❱</b></span> {{ page.next.title | truncate: 50 }}</button>{% else %}<button class="smallbutton navitem" formaction='{{ site.baseurl | prepend: site.url }}'> <b><span style="color:DarkSlateBlue"> Torna alla home</b></span></button>{% endif %}</form></div>
+            <div style="min-height:inherit">{% if page.previous.url %}<button class="smallbutton navitem" onClick="window.open('{{ page.previous.url | absolute_url }}');"><b><span style="color:DarkSlateBlue"> Precedente: ❰❰ </span></b>{{ page.previous.title | truncate: 50 }}</button>{% endif %}<button class="smallbutton navitem" onClick="window.open('{{ "/random.html" | absolute_url }}');"> <img src="{{ "/data/img/loghi/dado.svg" | absolute_url }}"><br>Scelta <span style="color:DarkSlateBlue">casuale</span></button>{% if page.next.url %}<button class="smallbutton navitem"  onClick="window.open('{{ page.next.url | absolute_url }}');"> <b><span style="color:DarkSlateBlue"> Successivo: ❱❱</b></span> {{ page.next.title | truncate: 50 }}</button>{% else %}<button class="smallbutton navitem" onClick="window.open('{{ site.baseurl | prepend: site.url }}');"> <b><span style="color:DarkSlateBlue"> Torna alla home</b></span></button>{% endif %}</div>
             {% if page.lss %}
             <section id="more-work">
                 <hr/><h4><span style="font-size:1.3em;color:#483D8B"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h4></span><br>
@@ -90,8 +90,6 @@ layout: default
             </section>
             {% else %}
             {% endif %}
-            
-            <hr />
             <section id="more-work">
                 <h4><span style="font-size:1.3em;color:navy"> Altri post di {{ page.materia | capitalize | replace: "-", " " }}: </h4></span><br>
                 {% assign materiapagina = page.materia | downcase %}

@@ -435,6 +435,7 @@ transform: scale(1.15);
 }
 .smallbutton.navitem {
   color: deepskyblue;
+  border: 0.05em solid darkgrey;
   background-color: azure;
   position: relative;
   margin: 0.25rem;
@@ -458,4 +459,14 @@ transform: scale(1.15);
     display: none;
     margin: 3em;
     margin-top:4.2em;
+}
+.calmlink {
+    background-color: mediumslateblue;
+    color: snow!important;
+    text-decoration: none;
+    padding: .3em;
+    margin: .15em;
+}
+.calmlink img {
+    display: inline !important;
 }
