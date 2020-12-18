@@ -51,9 +51,7 @@ table {
     animation-fill-mode: both;
     animation-duration: 0.3s;
     animation-delay: 2.5s;
-    border: 0.14em groove black;
-    border-radius: 1em;
-    margin : 0.2em;
+    margin : 0.2em auto;
     border-collapse: collapse;
     display: block;
     width: 100%;
@@ -67,16 +65,17 @@ table th {
     letter-spacing: .1em;
     text-transform: uppercase;
     color: darken(darkblue, 20%);
-    border: 4px ridge darkblue;
-    border-radius: 5px;
+    border: 0.17em ridge darkblue !important;
+    border-bottom: 0.2em solid darken(red, 40%) !important;
     font-weight: 700;
     font-style: bold;
 }
 table td,
 table th {
     padding: 6px 13px;
-    border-width: 0.12em;
+    border-width: 0.13em;
     border-style: solid;
+    border-color: lightslategray;
 }
 /**
  * Basic styling

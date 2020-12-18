@@ -31,9 +31,9 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: d268e356f8e5b4ec68325cff09686f372d77f245
+  revision: ca03e7ab8fe956815138ca1978108d7158da3bd5
   specs:
-    jekyll (4.1.1)
+    jekyll (4.2.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -90,7 +90,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
-    rouge (3.25.0)
+    rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
