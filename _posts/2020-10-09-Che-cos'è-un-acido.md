@@ -1,7 +1,6 @@
 ---
 layout:  post
-title:  "Che cos'è per te un acido?
-Osservazioni e definizione condivisa"
+title:  "Che cos'è per te un acido? Osservazioni e definizione condivisa"
 date: 2020-10-08 10:00:00
 categories:  appunti
 materia: scienze naturali
@@ -9,6 +8,7 @@ lss: acidi-e-basi
 description: "Osserviamo la solubilizzazione del residuo di carbonato di calcio immesso in acido cloridrico in acqua, dopo definiamo "
 tags: lss acidi e basi che cos'è un acido discussione collettiva
 ---
+
 La scorsa lezione "_Abbiamo deciso di provare a far bollire l’ acido con il carbonato di calcio solubilizzato, raccogliere il residuo e provare a far solubilizzare il residuo in acqua, per vedere se è restato così com’ era, e se si solubilizzerà o no immergendolo in acqua._"
 
 
