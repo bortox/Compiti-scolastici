@@ -1,3 +1,5 @@
 .git/
 .jekyll-cache/
 _site/
+.idea/
+.ztr-directory/
