@@ -67,7 +67,7 @@ layout: default
             {% when '12' %}Dicembre
             {% endcase %}</button></div>
 	    <div style="text-align:center;margin-bottom:2em;margin-top:3em">
-	    <a class="calmlink" style="background-color:DarkSlateBlue;color:Cornsilk;border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Ho trovato un errore nella pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo dire che ho trovato un errore sul tuo sito web e vorrei comunicarlo...' | url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A{{ 'Link relativo pagina web: ' }}{{ page.url | url_encode }}"> Trovato un errore? ✉️</a>
+	    <a class="calmlink" style="border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Ho trovato un errore nella pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo dire che ho trovato un errore sul tuo sito web e vorrei comunicarlo...' | url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A{{ 'Link relativo pagina web: ' }}{{ page.url | url_encode }}"> Trovato un errore? ✉️</a>
 	  </div>
           <div class="nottoprint">
             {% if page.lss %}
