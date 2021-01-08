@@ -66,10 +66,10 @@ layout: default
             {% when '11' %}Novembre
             {% when '12' %}Dicembre
             {% endcase %}</button></div>
-        <div class="nottoprint">
-            <div style="text-align:center;margin-bottom:2em;margin-top:3em">
-            <a class="calmlink" style="background-color:DarkSlateBlue;color:Cornsilk;border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Ho trovato un errore nella pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo dire che ho trovato un errore sul tuo sito web e vorrei comunicarlo...' | url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A{{ 'Link relativo pagina web: ' }}{{ page.url | url_encode }}"> Trovato un errore? ✉️</a>
-          </div>
+	    <div style="text-align:center;margin-bottom:2em;margin-top:3em">
+	    <a class="calmlink" style="background-color:DarkSlateBlue;color:Cornsilk;border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Ho trovato un errore nella pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo dire che ho trovato un errore sul tuo sito web e vorrei comunicarlo...' | url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A{{ 'Link relativo pagina web: ' }}{{ page.url | url_encode }}"> Trovato un errore? ✉️</a>
+	  </div>
+          <div class="nottoprint">
             {% if page.lss %}
             <section id="more-work">
                 <hr/><h4><span style="font-size:1.3em;color:#483D8B"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h4></span><br>
@@ -107,13 +107,11 @@ layout: default
                     {% endif %}
                 {% endfor %}
             </section>
-            <hr />
         </div>
-        <sub id="goatcounter-text"></sub>
         
 </div>
 <div class="profview"><hr>
-<p> Questo è il mio sito web personale contenente i i compiti scolastici e gli appunti presi da me, <span style="color:darkslateblue">Andrea Bortolotti</span>, durante il liceo.  Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! L' ho creato per essere più ordinato e per non perderli. </p>
+<p> Questo è il mio sito web personale contenente i i compiti scolastici e gli appunti presi da me, <span style="color:darkslateblue">Andrea Bortolotti</span>, durante il liceo.  Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! L' ho creato per essere più ordinato e per non perdere nulla. </p>
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" /></a></p><hr>
 </div>

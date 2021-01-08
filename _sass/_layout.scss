@@ -461,12 +461,38 @@ transform: scale(1.15);
     margin-top:4.2em;
 }
 .calmlink {
-    background-color: mediumslateblue;
+    background-color: rgba(123, 104, 238,0.65);
     color: snow!important;
     text-decoration: none;
-    padding: .3em;
+    padding: .45em;
+    border-radius:25px;
     margin: .15em;
+    transition:0.2s;
+    &:hover {
+    	background-color: rgba(123, 104, 238,1);
+    }
 }
 .calmlink img {
     display: inline !important;
+}
+.smalltext {
+	text-align:justify;
+	padding-left:0.7em;
+	padding-right:0.7em;
+	padding-bottom:0.1em;
+	opacity:0.4;
+	transition:0.4s;
+	&:hover {
+		opacity:1;
+	}
+}
+.textbold {
+	font-weight:500;
+	font-size: 1em;
+	color: LightSlateGray;
+	transition:1s;
+	&:hover {
+		font-weight:700;
+		color: DarkSlateGray;
+	}
 }
