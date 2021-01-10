@@ -11,7 +11,7 @@
     margin: .75em auto;
     border-radius: 3px;
 }
-#search-input { 
+#search-input {
     margin: 1em auto;
     margin-left: 2em auto;
     margin-right: 2em auto;
@@ -27,7 +27,7 @@
     transition: 1s;
     &:focus {
         color: green;
-    }   
+    }
 }
 .site-header {
     border-top: 5px solid $grey-color-dark;
@@ -461,7 +461,7 @@ transform: scale(1.15);
     margin-top:4.2em;
 }
 .calmlink {
-    background-color: rgba(123, 104, 238,0.65);
+    background-color: #350066;
     color: snow !important;
     text-decoration: none;
     padding: .45em;
@@ -469,7 +469,8 @@ transform: scale(1.15);
     margin: .15em;
     transition:0.75s;
     &:hover {
-    	background-color: rgba(123, 104, 238,1);
+    	background-color: #e6ccff;
+    	color: #28004d !important;
     	text-decoration: none;
     }
 }
