@@ -43,14 +43,14 @@ svg {
 
     animation: fadeIn;
     animation-duration: 0.3s;
-    animation-delay: 2.3s;
+    animation-delay: 0.2s;
     animation-fill-mode: both;
 }
 table {
     animation: fadeIn;
     animation-fill-mode: both;
     animation-duration: 0.3s;
-    animation-delay: 2.5s;
+    animation-delay: 0.3s;
     margin : 0.2em auto;
     border-collapse: collapse;
     display: block;
@@ -59,7 +59,7 @@ table {
     font-size: 1em;
     overflow: auto;
     text-align: center;
-    
+    font-family: OpenSans
 }
 table th {
     letter-spacing: .1em;
@@ -69,6 +69,7 @@ table th {
     border-bottom: 0.2em solid darken(red, 40%) !important;
     font-weight: 700;
     font-style: bold;
+    font-family: OpenSans;
 }
 table td,
 table th {
@@ -103,25 +104,25 @@ body {
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-Regular.ttf");
+  src: url("../data/fonts/Nunito-Regular.ttf");
   font-weight: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-Bold.ttf");
+  src: url("../data/fonts/Nunito-Bold.ttf");
   font-weight: bold;
   font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-SemiBold.ttf");
+  src: url("../data/fonts/Nunito-SemiBold.ttf");
   font-weight: 600;
   font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-ExtraBold.ttf");
+  src: url("../data/fonts/Nunito-ExtraBold.ttf");
   font-weight: 800;
   font-display: swap;
 }
@@ -138,7 +139,7 @@ p {
     animation: fadeIn;
     animation-fill-mode: both;
     animation-duration: 1s;
-    animation-delay: 2.4s; 
+    animation-delay: 2s;
 }
 @keyframes mymove {
     from {background-color: red;}
@@ -146,8 +147,9 @@ p {
 }
 h1 {
     font-family: "Title";
-    background: purple;
+    background: linear-gradient(230deg,BlueViolet,DarkOrchid);
     margin:0.2em;
+    border-radius:.1em;
     margin-bottom: 0.4em;
     padding-bottom: 0.2em;
     padding:0.3em;
@@ -159,7 +161,7 @@ h2 {
     font-family: "Title";
     animation: fadeInDown;
     animation-duration:0.9s;
-    animation-delay:1.3s;
+    animation-delay:0.9s;
     animation-fill-mode: both;
     font-size: 2.4em;
 }
@@ -169,7 +171,7 @@ h3 {
     animation: fadeInDown;
     animation-duration: 0.8s;
     animation-fill-mode: both;
-    animation-delay: 1.6s;
+    animation-delay: 1.1s;
 }
 h4 {
     font-family: "Title";
@@ -177,7 +179,7 @@ h4 {
     animation: fadeInDown;
     animation-duration: 0.7s;
     animation-fill-mode: both;
-    animation-delay: 1.9s;
+    animation-delay: 1.3s;
 }
 h5 {
     font-family: "Title";
@@ -185,7 +187,7 @@ h5 {
     animation: fadeInDown;
     animation-duration: 0.6s;
     animation-fill-mode: both;
-    animation-delay: 2.2s;
+    animation-delay: 1.5s;
 }
 h6 {
     font-family: "Title";
@@ -193,7 +195,7 @@ h6 {
     animation: fadeInDown;
     animation-fill-mode: both;
     animation-duration: 0.5s;
-    animation-delay:2.5s;
+    animation-delay: 1.7s;
 }
 
 /**
@@ -203,10 +205,6 @@ img {
     margin: 0.63em;
     max-width: 100%;
     vertical-align: middle;
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 1s;
-    animation-delay: 5s;
 }
 .shortanimation {
     animation: none;
@@ -234,7 +232,7 @@ ul, ol {
     animation: backInLeft;
     animation-fill-mode: both;
     animation-duration: 0.6s;
-    animation-delay: 1.6s;
+    animation-delay: 0.5s;
     margin-left: $spacing-unit;
     margin-bottom: 0.14em;
 }
@@ -334,7 +332,7 @@ code {
     animation: fadeIn;
     animation-fill-mode: both;
     animation-duration: 0.9s;
-    animation-delay: 4s;
+    animation-delay: 1.5s;
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
@@ -374,7 +372,7 @@ pre {
     animation: fadeIn;
     animation-fill-mode: both;
     animation-duration: 0.9s;
-    animation-delay: 3s;
+    animation-delay: 2s;
     border-top: 7px dotted darkcyan;
     padding-bottom: 1.6em;
     padding-left: 1.6em;

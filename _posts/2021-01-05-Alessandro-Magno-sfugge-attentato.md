@@ -9,7 +9,7 @@ tags: latino versione alessandro magno attentato 30
 ---
 ### Versione 30 pagina 300
 
-<button class="smallbutton listio">Ottima qualità: tradotta con il nonno </button>
+<button class="smallbutton listio opch">Ottima qualità: tradotta con il nonno </button>
 
 La seguente versione è stata tratta dal libro _Il mio Latino_
 

@@ -9,7 +9,7 @@
     
     </div>
     <div id="search-demo-container" class="nottoprint">
-      <input type="search" id="search-input" placeholder="🔍 Scrivi per eseguire una ricerca ...">
+      <input type="search" id="search-input" placeholder="🔍 Scrivi qui per eseguire una ricerca ...">
       <ul id="results-container"></ul>
     </div>
     <div class="page-content">
@@ -28,19 +28,13 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<br><li><form action="{url}?query={query}"><button class="smallbutton listio">{materia}</button><a href="{url}?query={query}" title="{description}" class="alias">{title}</a></form></li>',
-        noResultsText: '🤔 Nessun risultato trovato',
+        searchResultTemplate: '<div class="card"><a class="scarslink calmlink" href="{url}?query={query}">{materia}</a><br><a href="{url}?query={query}" title="{description}" class="alias opch">{title}</a></div>',
+        noResultsText: ' Nessun risultato trovato :(',
         limit: 50,
         fuzzy: false,
         exclude: ['Benvenut@']
       })
     </script>
-    
-    <script>
-    function GoatBlocked() {
-    document.getElementById("goatcounter-text").innerHTML = 'La tua visita a questo sito non sarà inclusa nelle sue statistiche, siccome spesso gli AdBlocker bloccano un po\' tutto: in questo caso GoatCounter, uno strumento OpenSource, che raccoglie le visite degli utenti anonimizzate rispettando pienamente il GDPR, senza avere nemmeno bisogno i mostrare un banner per accettare i cookies ( non ne fa uso, a differenza di Google Analytics ) è stato bloccato dal tuo adBlocker. Non ho nessun problema con ciò, ti ricordo soltanto che questa visita non sarà registrata.';
-    }
-    </script> 
-    <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js" onerror="GoatBlocked();"></script>
+    <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   </body>
 </html>
