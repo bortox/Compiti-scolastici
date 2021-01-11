@@ -357,7 +357,7 @@ button {
 
 .cardshare a {
     text-decoration: none;
-    padding: 0.7em;
+    padding: 0.55em;
     word-wrap: break-word;
     color: #fff;
     border-radius: 1.5em;
@@ -522,8 +522,8 @@ p {
     font-family: "Cantarell", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     font-weight: 600;
     animation: fadeIn;
-    animation-duration: 1s;
-    animation-delay:3s;
+    animation-duration: 0.3s;
+    animation-delay:1s;
     animation-fill-mode: both;
 }
 .card {
