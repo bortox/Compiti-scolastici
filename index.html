@@ -10,7 +10,7 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
         <hr>
         <button class="smallbutton">{{ post.materia | capitalize }}</button>{% if post.lss %}<button class="smallbutton" style="background-color: orangered">LSS {{ post.lss | upcase | replace: "-", " " }}</button>{% else %}{% endif %}{% assign categorypost = post.categories[0] | downcase %}{% if categorypost == 'appunti' %}<button class="smallbutton" style="background-color: #8A2BE2">{% else %}<button class="smallbutton" style="background-color: darkslategray">{% endif %}{{ post.categories[0] }}</button>
         <h4><a class="alias" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        <span class="post-meta" style="font-family:OpenSans;font-weight:bold;font-size:15px"><font color="darkblue">{{ post.description | escape }}</font></span>
+        <span class="post-meta" style="font-family:OpenSans;font-weight:900;font-size:15px">{{ post.description | escape }}</span>
     </li>
     {% endfor %}
   </ul>

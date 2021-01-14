@@ -589,8 +589,7 @@ button {
     }
     .site-title {
         color: darken(#c904bc,3%) !important;
-        text-shadow: 1px 1px 3px #c904bc;
-        letter-spacing: 0.03em;
+        letter-spacing: 0.01em;
     }
     ::selection {
       background: Indigo;
@@ -599,8 +598,9 @@ button {
         color: lighten(Indigo, 23%);
     }
     h1 {
-        background: linear-gradient(230deg, Indigo 10%,darken(MidnightBlue,5%) 70%);
-        color: lighten(Indigo, 28%);
+        background: linear-gradient(230deg, Indigo -10%,darken(MidnightBlue,5%) 70%);
+        color: $grey-color-softlight;
+
     }
     blockquote {
         border-left: 5px solid darken(Indigo, 15%);
