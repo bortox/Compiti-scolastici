@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-    <div class="shtroll">
+    <div class="shtroll nottoprint">
     {% include share.html %}
     </div>
   <header class="post-header">
@@ -73,15 +73,15 @@ layout: default
           <div class="nottoprint">
             {% if page.lss %}
             <section id="more-work">
-                <hr/><h4><span style="font-size:1.3em;color:#483D8B"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h4></span><br>
+                <h3 class="calmlinknoanim"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h3><br>
                 {% assign lsspagina = page.lss | downcase %}
                 {% for post in site.posts %}
                     {% assign lsso = post.lss | downcase %}
                     {% if lsso == lsspagina %}
                         {% if post.url != page.url %}
-                        <h5><a href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span><span style="color:royalblue"> {{ post.title | escape }} </span></a></h5></li>
+                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape }} </a></h5></li>
                         {% else %}
-                        <h5><a href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
+                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
                         {% endif %}
                         
                     {% endif %}
@@ -90,7 +90,8 @@ layout: default
             {% else %}
             {% endif %}
             <section id="more-work">
-                <h4><span style="font-size:1.3em;color:navy"> Altri post di {{ page.materia | capitalize | replace: "-", " " }}: </h4></span><br>
+                <h3 class="calmlinknoanim"> Altri post di {{ page.materia | capitalize | replace: "-", " " }}: </h3>
+                <div>
                 {% assign materiapagina = page.materia | downcase %}
                 {% assign i = 0 %}
                 {% for post in site.posts %}
@@ -98,15 +99,16 @@ layout: default
                     {% if materia == materiapagina %}
                         {% assign i = i | plus:1 %}
                         {% if post.url != page.url %}
-                        <h5><a href="{{ post.url | relative_url }}">☛ {{ post.title | escape }}</a></h5></li>
+                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}">☛ {{ post.title | escape }}</a></h5></li>
                         {% else %}
-                        <h5><a href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
+                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
                         {% endif %}
                     {% endif %}
                     {% if i == 5 %}
                         {% break %}
                     {% endif %}
                 {% endfor %}
+                </div>
             </section>
         </div>
         

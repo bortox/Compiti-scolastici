@@ -82,7 +82,6 @@ table th {
  * Basic styling
  */
 body {
-    font-family: Open Sans;
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 400;
@@ -140,6 +139,7 @@ p {
     animation-fill-mode: both;
     animation-duration: 1s;
     animation-delay: 2s;
+    font-size: 1.05em;
 }
 @keyframes mymove {
     from {background-color: red;}
@@ -203,8 +203,10 @@ h6 {
  */
 img {
     margin: 0.63em;
+    border-radius: 0.3em;
     max-width: 100%;
     vertical-align: middle;
+    margin: 0.2em;
 }
 .shortanimation {
     animation: none;
@@ -401,7 +403,9 @@ pre {
     }
 }
 
-
+::selection {
+  background: Gold; /* WebKit/Blink Browsers */
+}
 
 /**
  * Clearfix

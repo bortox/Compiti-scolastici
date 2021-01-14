@@ -18,10 +18,12 @@ $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 25%);
+$grey-color-softlight: lighten($grey-color, 15%);
 $grey-color-softdark: darken($grey-color, 5%);
 $grey-color-mid:   darken($grey-color, 15%);
 $grey-color-dark:  darken($grey-color, 25%);
+$grey-color-darkplus:  darken($grey-color, 38%);
 
 $on-palm:          600px;
 $on-laptop:        800px;

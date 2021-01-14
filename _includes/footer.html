@@ -14,7 +14,8 @@
                 </img><br><img alt="Instagram logo" src="{{ "/data/img/loghi/instagram.svg" | absolute_url }}" style="width:25px">
                 <a href="https://instagram.com/borto.jpg" style="color:rosybrown">borto.jpg</a></img><br>
                 <img alt="Avatar logo" src="{{ '/data/img/loghi/avatar.svg' | absolute_url }}" style="width:25px">
-                <tab><a href="{{ '/credits.html' | absolute_url }}" style="color:rosybrown">Crediti</a></img>
+                <tab><a href="{{ '/credits.html' | absolute_url }}" style="color:rosybrown">Crediti</a></img><br>
+                    <button class="calmlink opch" style="font-size:0.9em;margin:0.5em;padding-left:0.8em" onclick="window.print()">Stampa la pagina</button>
             </h6>
         </div>
         
@@ -39,4 +40,14 @@
   
 	
 </footer>
+<script>
+function changeFont() {
+  var fon = document.getElementsByTagName('body')[0];
+  if (fon.className == "crell") {
+    fon.className = 'tnrom';
+  } else {
+    fon.className = 'crell';
+  }
+}
+</script>
 <script type="text/javascript" src="{{ '/js/prof-view.js' | prepend: site.baseurl }}"></script>

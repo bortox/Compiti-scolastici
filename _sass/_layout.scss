@@ -2,7 +2,7 @@
  * Site header
  */
 #search-demo-container {
-    color: red;
+    color: DarkOrchid;
     font-family:OpenSans;
     animation: bounceIn;
     animation-duration: 1.5s;
@@ -12,10 +12,7 @@
     margin-top: 0.5em;
     margin: 0 auto;
     border-radius: 0.5em;
-    background: linear-gradient(230deg,GhostWhite,Snow);
-}
-#search-demo-container a {
-    color: DarkSlateBlue;
+    background: linear-gradient(230deg,rgba(248, 248, 255, 0.2),rgba(255, 250, 250,0.25));
 }
 
 #search-input {
@@ -354,6 +351,13 @@ button {
   }
 }
 
+.crell {
+  font-family: OpenSans;
+}
+.tnrom {
+  font-family: Roboto,'Times New Roman';
+}
+
 
 .cardshare a {
     text-decoration: none;
@@ -366,11 +370,6 @@ button {
     font-size: calc(0.85em + 0.2vw );
     width: 100%;
     height: 90%;
-}
-
-p {
-    font-family: OpenSans;
-    font-size: 1.05em;
 }
 
 .cardshare svg {
@@ -460,6 +459,15 @@ p {
     margin: 3em;
     margin-top:4.2em;
 }
+.calmlinknoanim {
+    background-color: rgba(53, 0, 102,0.8);
+    color: snow !important;
+    text-decoration: none;
+    padding: .45em;
+    border-radius:25px;
+    margin: .15em;
+    font-family: OpenSans;
+}
 .calmlink {
     background-color: rgba(53, 0, 102,0.8);
     color: snow !important;
@@ -499,10 +507,13 @@ p {
 		color: Moccasin;
 	}
 }
+
 #more-work {
 	background :  linear-gradient(35deg, Azure, AliceBlue);
 	border-radius: 5em;
 	padding: 1.5em;
+	margin-bottom: 1em;
+	border: 1px solid $grey-color-mid;
 }
 #results-container {
         padding: 0 auto;
@@ -544,4 +555,122 @@ p {
   text-align: justify !important;
   border-top-right-radius:0.5em !important;
   background-color: rgba ( 0,0,0,0.5) !important;
+}
+
+.license-text {
+    line-height: 2em;
+}
+
+@media (prefers-color-scheme: dark) {
+    #search-input {
+        background: $grey-color-darkplus;
+        color: $grey-color-light;
+        border: none;
+    }
+    #results-container {
+        color: Cornsilk;
+        font-weight: 600;
+    }
+    body {
+        background: $grey-color-darkplus;
+        color: $grey-color-softlight;
+    }
+    a {
+        text-decoration: none !important;
+        color: darken(AliceBlue, 55%);
+        &:hover {
+            text-decoration: underline dotted yellow !important;
+            color: darken(AliceBlue, 45%);
+        }
+        &:visited {
+            color: darken(AliceBlue, 75%);
+        }
+
+    }
+    .site-title {
+        color: darken(#c904bc,3%) !important;
+        text-shadow: 1px 1px 3px #c904bc;
+        letter-spacing: 0.03em;
+    }
+    ::selection {
+      background: Indigo;
+    }
+    h1,h2,h3,h4,h5,h6 {
+        color: lighten(Indigo, 23%);
+    }
+    h1 {
+        background: linear-gradient(230deg, Indigo 10%,darken(MidnightBlue,5%) 70%);
+        color: lighten(Indigo, 28%);
+    }
+    blockquote {
+        border-left: 5px solid darken(Indigo, 15%);
+    }
+    table th {
+        color: $grey-color-light;
+        border: 0.17em ridge $grey-color !important;
+        border-bottom: 0.2em solid $grey-color-mid !important;
+    }
+    table td,
+    table th {
+        border-color: $grey-color-softdark;
+    }
+    details {
+        color: darken(Lavender, 30%);
+        border-left: 5px solid purple;
+        background: darken(Teal, 30%);
+        &:hover {
+            color: darken(Lavender, 27%);
+            border-left: 3px solid violet;
+            border-bottom: 1px solid violet;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 150, 0.3),
+            0 10px 10px -5px rgba(0.02, 0.02, 150, 0.2);
+        }
+    }
+    hr {
+        margin-bottom: 2em;
+        margin-top: 1em;
+        color: Indigo;
+        background-color: Indigo;
+        border-radius: 5em;
+        height: 0.17em;
+    }
+    #more-work {
+        background :  linear-gradient(123deg, DarkSlateBlue -10%,  MidnightBlue 70%);
+        border-radius: 3em;
+        padding: 2em;
+
+    }
+    .otherpostlnk {
+        text-decoration: none !important;
+        color: lighten(DarkOrchid, 30%);
+        &:hover {
+            text-decoration: underline dotted yellow !important;
+            color: lighten(DarkOrchid, 20%);
+        }
+        &:visited {
+            color: lighten(DarkOrchid, 10%);
+        }
+    }
+    pre,
+    code {
+        border: 1px solid $grey-color-dark;
+        border-radius: 3px;
+        background-color: $grey-color-dark;
+
+    }
+    .highlight {
+        background: $grey-color-dark !important;
+    }
+    .card {
+        box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.24);
+        transition: 0.3s;
+        &:hover {
+            box-shadow: inset 0 0px 7px 0 rgba(250, 250, 250, 0.5);
+        }
+    }
+    .textbold::before {
+        font-weight: bold;
+        color: burlywood;
+        content: "Innanzitutto sono contento che tu stia usando il tema scuro nel tuo sistema. L' oscurità è il futuro! "
+    }
 }
