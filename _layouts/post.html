@@ -6,14 +6,12 @@ layout: default
     {% include share.html %}
     </div>
   <header class="post-header">
-    
-
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
-   
-  <div class="post-content" itemprop="articleBody">
+
+ <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
     </article>
@@ -71,8 +69,9 @@ layout: default
 	    <a class="calmlink" style="border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Ho trovato un errore nella pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo dire che ho trovato un errore sul tuo sito web e vorrei comunicarlo...' | url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A{{ 'Link relativo pagina web: ' }}{{ page.url | url_encode }}"> Trovato un errore? ✉️</a>
 	  </div>
           <div class="nottoprint">
-            {% if page.lss %}
+
             <section id="more-work">
+                {% if page.lss %}
                 <h3 class="calmlinknoanim"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h3><br>
                 {% assign lsspagina = page.lss | downcase %}
                 {% for post in site.posts %}
@@ -80,35 +79,29 @@ layout: default
                     {% if lsso == lsspagina %}
                         {% if post.url != page.url %}
                         <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape }} </a></h5></li>
-                        {% else %}
-                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
                         {% endif %}
                         
                     {% endif %}
                 {% endfor %}
-            </section>
             {% else %}
-            {% endif %}
-            <section id="more-work">
-                <h3 class="calmlinknoanim"> Altri post di {{ page.materia | capitalize | replace: "-", " " }}: </h3>
+                {% if site.related_posts.size >= 2 %}
+                <h3 class="calmlinknoanim"> Altri post correlati di <span style="color:Gold">{{ page.materia | capitalize | replace: "-", " " }}</span>: </h3>
                 <div>
-                {% assign materiapagina = page.materia | downcase %}
-                {% assign i = 0 %}
-                {% for post in site.posts %}
-                    {% assign materia = post.materia | downcase %}
-                    {% if materia == materiapagina %}
-                        {% assign i = i | plus:1 %}
-                        {% if post.url != page.url %}
-                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}">☛ {{ post.title | escape }}</a></h5></li>
-                        {% else %}
-                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
-                        {% endif %}
+                    {% assign materia = page.materia | downcase %}
+                <ul>
+
+                {% for related_post in site.related_posts limit: 7 %}
+                    {% assign materiapost = related_post.materia | downcase %}
+                    {% if materia == materiapost %}
+                    <li><h5><a class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title }}</a></h5></li>
                     {% endif %}
-                    {% if i == 5 %}
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
+                    {% endfor %}
+
+                </ul>
                 </div>
+                {% endif %}
+                {% endif %}
+                <h4><a class="calmlinknoanim" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | absolute_url }}">  </a></h4>
             </section>
         </div>
         

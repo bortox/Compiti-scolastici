@@ -6,6 +6,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-spaceship
   - jekyll-redirect-from
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 author: Andrea Bortolotti Bortox
 lang: it_IT
 locale: it_IT
