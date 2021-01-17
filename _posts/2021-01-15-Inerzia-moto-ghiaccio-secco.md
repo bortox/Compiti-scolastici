@@ -9,6 +9,7 @@ description: "Risposte alle domande di Fisica riguardanti il moto di un disco a 
 tags: fisica inerzia lss domande risposte filmato ghiaccio secco velocità
 ---
 ## Domande di Fisica sul filmato _Inerzia e Moto_
+> Completamento del testo evidenziato in **grassetto**
 
 ### Parte uno
 
@@ -24,7 +25,7 @@ tags: fisica inerzia lss domande risposte filmato ghiaccio secco velocità
       Se in queste condizioni si da una piccola spinta al disco, ossia gli si applica una **forza** anche
       poco intensa, si osserva che questo inizia subito a **muoversi** e che il suo movimento è rettilineo.
 
-3. In che modo nel filmato si verifica che il disco si muove in linea retta? C’è però un altro aspetto importante nel movimento del disco in queste condizioni, e cioè che il suo moto oltre ad essere rettilineo avviene a **velocità** costante.
+3. In che modo nel filmato si verifica che il disco si muove in linea retta? **Si posiziona una riga graduata di legno sopra alla tavola e si verifica che il disco a ghiaccio secco, aggiungendo un indicatore sopra di esso, si muove parallelamente alla linea retta.**  C’è però un altro aspetto importante nel movimento del disco in queste condizioni, e cioè che il suo moto oltre ad essere rettilineo avviene a **velocità** costante.
    Per verificarlo si predispone una macchina fotografica, di vecchio tipo, in modo che fissi in un’unica immagine il moto del disco: l’otturatore attraverso cui la luce filtra e impressiona la pellicola all’interno viene mantenuto aperto durante tutto il moto mentre un flash illumina il disco a intervalli di **tempo regolari**.
 
 4. L’immagine che si ottiene riproduce le posizioni in successione attraverso cui il disco è passato un **secondo** dopo l’altro.
@@ -83,12 +84,12 @@ tags: fisica inerzia lss domande risposte filmato ghiaccio secco velocità
     
     2. Se cioè è inizialmente fermo, o come si dice in quiete, **resterà fermo**
     
-    3. Se invece si trova già in moto a velocità costante **allora accelererà**
+    3. Se invece si trova già in moto a velocità costante **allora continuerà a muoversi con la stessa velocità.**
 
 ### Parte due
 
 | Posizione (cm) | Istante di tempo (s) | Intervallo di tempo ΔT (s) | spostamento ΔS (cm) | Velocità (ΔS/ΔT) |
-| -------------- | -------------------- | -------------------------- | ------------------- | ---------------- |
+|----------------|----------------------|----------------------------|---------------------|------------------|
 | 10             | 0                    |                            |                     |                  |
 | 24             | 1                    | 1                          | 14                  | 14cm/s           |
 | 38             | 2                    | 1                          | 14                  | 14cm/s           |
@@ -99,7 +100,7 @@ tags: fisica inerzia lss domande risposte filmato ghiaccio secco velocità
 
 1. La velocità è costante, 14cm/s, come previsto.
 
-2. Il valore nella 5a colonna ci da la velocità, da ciò ricaviamo che la velocità resta costante.
+2. Il valore nella 5a colonna ci da la velocità, da ciò ricaviamo che essa resta costante.
 
 3. Considerando intervalli di tempo di 2 secondi noto che lo spostamento è costante, 28 cm.
 
