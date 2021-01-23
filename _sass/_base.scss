@@ -236,16 +236,8 @@ ul, ol {
     animation-duration: 0.6s;
     animation-delay: 0.5s;
     margin-left: $spacing-unit;
-    margin-bottom: 0.14em;
+    margin-bottom: $spacing-unit/2;
 }
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
-
 
 
 /**

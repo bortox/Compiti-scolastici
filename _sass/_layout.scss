@@ -572,18 +572,18 @@ button {
         font-weight: 600;
     }
     body {
-        background: $grey-color-darkplus;
+        background: $grey-color-darkplusplus;
         color: $grey-color-softlight;
     }
     a {
         text-decoration: none !important;
-        color: darken(AliceBlue, 55%);
+        color: darken(AliceBlue, 52%);
         &:hover {
             text-decoration: underline dotted yellow !important;
             color: darken(AliceBlue, 45%);
         }
         &:visited {
-            color: darken(AliceBlue, 75%);
+            color: darken(Azure, 80%);
         }
 
     }
@@ -659,6 +659,9 @@ button {
         border-radius: 3px;
         background-color: $grey-color-dark;
 
+    }
+    p {
+        color: $grey-color-lighter;    
     }
     .highlight {
         background: $grey-color-dark !important;
