@@ -55,9 +55,12 @@ div.sticky {
   width: 20%;
   margin-left: auto;
   margin-right: 0;
-  padding-right:15px;
   border-top-left-radius: 2em;
   max-width: 100px;
+  animation: fadeInUpBig;
+  animation-duration: 0.8s;
+  animation-delay: 2.6s;
+  animation-fill-mode: both;
 }
 table {
     animation: fadeIn;
