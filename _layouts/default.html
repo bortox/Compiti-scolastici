@@ -3,11 +3,9 @@
 <head>
 {% include head.html %}
 </head>
-    <div class="nottoprint">
   <body>
+
     {% include header.html %}
-    
-    </div>
     <div id="search-demo-container" class="nottoprint">
       <input type="search" id="search-input" placeholder="🔍 Scrivi qui per eseguire una ricerca ...">
       <ul id="results-container"></ul>
@@ -18,6 +16,7 @@
         {{ content }}
       </div>
     </div>
+
     <div class="nottoprint">
     {% include footer.html %}
     </div>
@@ -36,5 +35,14 @@
       })
     </script>
     <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
+    <script>
+    function Sharee() {
+      document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | absolute_url }}";
+      document.getElementById("chclick").alt = "Grazie"
+      shareMenu.share()
+    }
+    </script>
+  <div class="sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | absolute_url }}" style="width:30px"></button></div>
   </body>
 </html>

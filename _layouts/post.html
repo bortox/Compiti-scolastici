@@ -2,9 +2,6 @@
 layout: default
 ---
 <div class="post">
-    <div class="shtroll nottoprint">
-    {% include share.html %}
-    </div>
   <header class="post-header">
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
@@ -101,7 +98,7 @@ layout: default
                 </div>
                 {% endif %}
                 {% endif %}
-                <h4><a class="calmlinknoanim" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | absolute_url }}">  </a></h4>
+                <h4><a class="calmlinknoanim" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | absolute_url }}" alt="dado misterioso">  </a></h4>
             </section>
         </div>
         

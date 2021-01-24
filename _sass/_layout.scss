@@ -293,7 +293,6 @@ button {
     text-transform: uppercase;
     font-weight: 700;
     color: white;
-    background-color: $blue;
     outline: 0;
   }
 }
@@ -302,12 +301,11 @@ button {
   margin: auto;
   padding: auto;
   display: block;
-  transition: 1s;
-  text-shadow: 0px 0px 12px #000;
+  color: black;
   &:hover {
-      text-shadow: 0px 0px 12px darkcyan;
       font-size: 1.5em;
-      background-color: transparent;
+      background-color: transparent !important;
+      color: orangered;
     }
 }
 .troll {
@@ -324,6 +322,7 @@ button {
 }
 .smallbutton {
   background-color: steelblue; 
+  background-color: steelblue;
   border-radius: 0px;
   border: none;
   color: white;
@@ -524,19 +523,6 @@ button {
         margin: 0 auto;
         grid-template-columns: repeat( auto-fit, minmax(12em,1fr));
 }
-.shtroll {
-    display: grid;
-    grid-gap: 0.7em;
-    margin-bottom: calc(1em + 1vh);
-    margin-left: -1em;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    font-family: "Cantarell", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-weight: 600;
-    animation: fadeIn;
-    animation-duration: 0.3s;
-    animation-delay:1s;
-    animation-fill-mode: both;
-}
 .card {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24);
   transition: 0.3s;
@@ -677,5 +663,8 @@ button {
         font-weight: bold;
         color: burlywood;
         content: "Innanzitutto sono contento che tu stia usando il tema scuro nel tuo sistema. L' oscurità è il futuro! "
+    }
+    div.sticky {
+        background-color: DarkSlateBlue;
     }
 }
