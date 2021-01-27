@@ -81,7 +81,7 @@ layout: default
                     {% endif %}
                 {% endfor %}
             {% else %}
-                {% if site.related_posts.size >= 2 %}
+                {% if site.related_posts.size >= 5 %}
                 <h3 class="calmlinknoanim"> Altri post correlati di <span style="color:Gold">{{ page.materia | capitalize | replace: "-", " " }}</span>: </h3>
                 <div>
                     {% assign materia = page.materia | downcase %}
