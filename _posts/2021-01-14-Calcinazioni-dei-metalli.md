@@ -17,7 +17,7 @@ Inizieremo questo percorso osservando le **calcinazioni dei metalli** tali calci
 
 <details>
   <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
-  
+
   • Crogiolo piccolo con tappo<br>
   • Crogiolo medio senza tappo<br>
   • Bilancia<br>
@@ -26,19 +26,20 @@ Inizieremo questo percorso osservando le **calcinazioni dei metalli** tali calci
   • 2 * treppiedi<br>
   • 2 * reticella<br>
   • 2 * becco bunsen<br>
+
 </details>
 
 #### Procedimento:
 
 - Per ogni crogiolo:
-    - Pesare il crogiolo
-    - Inserire la **polvere di rame** dentro esso, misurarne il peso facendo la differenza con il peso del crogiolo.
+  - Pesare il crogiolo
+  - Inserire la **polvere di rame** dentro esso, misurarne il peso facendo la differenza con il peso del crogiolo.
 - Per ogni becco bunsen:
-    - Posare il becco bunsen
-    - Posare il treppiedi
-    - Posare la reticella sotto il treppiedi
-    - Posare il crogiolo sopra la reticella
- - Posare il tappo del crogiolo più piccolo sopra di esso
+  - Posare il becco bunsen
+  - Posare il treppiedi
+  - Posare la reticella sotto il treppiedi
+  - Posare il crogiolo sopra la reticella
+    - Posare il tappo del crogiolo più piccolo sopra di esso
 
 ##### Annotazioni dei nostri dati
 
@@ -54,6 +55,7 @@ Nel nostro caso il peso dei crogioli è stato 36.97g e 16.38g; poi abbiamo aggiu
 ---
 
 ##### Peso
+
 - Nelle calcinazioni osservate nel percorso precedente, il peso era sempre diminuito.
 - In questo caso, il peso è aumentato di 0.21g nel crogiolo medio - _+ 0,55%_ e di 0.10g nel crogiolo piccolo _+0,57%_, quello tappato.
 
@@ -63,14 +65,13 @@ Nel nostro caso il peso dei crogioli è stato 36.97g e 16.38g; poi abbiamo aggiu
 - Il rame è diventato nero, possiamo presupporre che sia **diventato ossido di rame** → faremo la prova in acido cloridrico.
 - L' aumento in percentuale è quasi identico, possiamo presupporre che non ci siano differenze tra calcinazione in ambiente chiuso e aperto rispetto alla quantità di sostanza "guadagnata".
 
-
 ### 2° esperimento:
 
  Nota: gli elementi scritti in <i> corsivo </i> sono stati aggiunti da noi e sono opzionali, abbiamo usato i pallini di piombo e un terzo crogiuolo siccome la polvere di piombo ci stava mettendo troppo tempo a calcinare.
 
 <details>
   <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
-  
+
   • Crogiolo piccolo con tappo<br>
   • 2 * crogioli medi senza tappo <i>+1</i><br>
   • Bilancia<br>
@@ -80,19 +81,20 @@ Nel nostro caso il peso dei crogioli è stato 36.97g e 16.38g; poi abbiamo aggiu
   • 2 * reticelle <i>+1</i><br>
   • 2 * treppiedi <i>+1</i><br>
   • 2 * becco bunsen <i>+1</i><br>
- 
+
 </details>
 
 #### Procedimento:
+
 - Per ogni crogiolo:
-    - Pesare il crogiolo
-    - Aggiungere circa un grammo di polvere di piombo, misurarne il peso facendo la differenza con il peso del crogiolo.
+  - Pesare il crogiolo
+  - Aggiungere circa un grammo di polvere di piombo, misurarne il peso facendo la differenza con il peso del crogiolo.
 - _Posare il tappo del crogiolo piccolo sopra di esso_
 - Per ogni becco bunsen:
-    - Posare il becco bunsen
-    - Posare il treppiedi
-    - Posare la reticella sotto il treppiedi
-    - Posare il crogiolo sopra la reticella
+  - Posare il becco bunsen
+  - Posare il treppiedi
+  - Posare la reticella sotto il treppiedi
+  - Posare il crogiolo sopra la reticella
 
 ##### Annotazioni dei nostri dati
 
@@ -101,20 +103,22 @@ Per prima cosa pesiamo i crogioli ( solo uno di quelli medi e quello piccolo sen
 Ecco qua una tabella per orientarsi meglio che tratta le differenze del peso.
 
 | Tipo crogiolo     | Materiale inserito | Peso lordo crogiolo ( prima calcinazione)                     | Peso lordo crogiolo ( dopo calcinazione ) | Differenza di peso | Aumento in percentuale |
-|-------------------|--------------------|---------------------------------------------------------------|-------------------------------------------|--------------------|------------------------|
+| ----------------- | ------------------ | ------------------------------------------------------------- | ----------------------------------------- | ------------------ | ---------------------- |
 | Piccolo con tappo | Polvere di piombo  | 21.23g                                                        | 19.59g[^1]                                | -1,64g[^1]         | -7,76%[^1]             |
 | Medio senza tappo | Polvere di piombo  | 38.48g                                                        | 38.55g                                    | +0.07g             | +0,18%                 |
 | Medio senza tappo | Pallini di piombo  | Non annotato ( l' abbiamo fatto solo per vedere la reazione ) |                                           |                    |                        |
 
-
-
-
 #### Osservazioni:
+
 ##### Colore
+
 - La polvere di piombo in ambiente aperto è passata dal colore grigio a grigio scuro poi ad un verdognolo ed infine ad un marrone scuro.
+
 - La polvere di piombo in ambiente chiuso è passata dal colore grigio al giallo. 
+
 - Il cambio di colore è **più veloce** e marcato con i **pallini di piombo**.
-##### Peso
+  
+  ##### Peso
 
 Non possiamo osservare granché a causa di errori di calcolo che rendono insensato affidarsi a questi dati, notiamo però che con il crogiolo medio in ambiente aperto il peso è aumentato di nuovo.
 
@@ -127,11 +131,10 @@ Si confermano le precedenti.
 > cu = rame, pb = polvere di piombo
 
 | Info               | Peso Crogiuolo | Peso Materiale | Peso Totale | Peso Prodotto | Aumento di peso |
-|--------------------|----------------|----------------|-------------|---------------|-----------------|
+| ------------------ | -------------- | -------------- | ----------- | ------------- | --------------- |
 | CU ambiente aperto | 36,97g         | 1,43g          | 38,40g      | 38,61g        | +0,21g          |
 | CU ambiente chiuso | 16,38g         | 1,30g          | 17,68g      | 17,78g        | +0,10g          |
 | PB ambiente aperto | 37.33g         | 1.15g          | 38.48g      | 38.50g        | +0,07g          |
 | PB ambiente chiuso | [^1]           | [^1]           | [^1]        | [^1]          | [^1]            |
-
 
 [^1]: I dati non tornano;  si dovrà eseguire di nuovo l' esperimento siccome i risultati sono insensati: il peso risultante è minore di quello dello stesso crogiolo a causa di errori di calcolo.

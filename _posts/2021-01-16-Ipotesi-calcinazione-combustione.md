@@ -15,7 +15,6 @@ La prima ipotesi avanzata è stata quella di **Boyle e Lemery** nel 1673. Second
 
 Questa teoria resistette fino al 1700, quando quella del flogisto fu considerata più convincente.
 
-
 ## Teoria del Flogisto:
 
 La seconda ipotesi, che riscosse molto successo, fu la teoria del **flogisto** avanzata da **Stahl** nel **1697**. Tale teoria sosteneva un’analogia tra combustione e calcinazione dei metalli. Il **flogisto** sarebbe un **principio infiammabile** che p**ermette la combustione delle sostanze**,** contenuto in ogni sostanza**. Secondo questa teoria durante la **combustione** il flogisto **si disperdeva** dalle sostanze bruciate **nell' aria**, manifestandosi come **luce** e **calore** assieme a della cenere. L' **aria** - durante la combustione - **accumulava** del **flogisto** così come l' acqua accumula sale, infatti dopo che la _soluzione_ diventa **satura**, il flogisto non poteva più essere sciolto, e **smettevano** di manifestarsi gli **effetti** della **combustione** causati da esso. Invece, durante la **calcinazione** del metallo, il **flogisto andrebbe via dal metallo** e rimarrebbe la calce metallica. Secondo Stahl all’interno del carbone c’è del flogisto che durante la riduzione dei metalli si unisce con la calce metallica fino ad ottenere il metallo.
