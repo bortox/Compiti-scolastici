@@ -6,18 +6,19 @@
     font-family:OpenSans;
     animation: bounceIn;
     animation-duration: 1.5s;
-    width: 90%;
-    max-width: 40em;
+    width: 95%;
     padding: 0.4em;
     margin-top: 0.5em;
     margin: 0 auto;
-    border-radius: 0.5em;
     background: linear-gradient(230deg,rgba(248, 248, 255, 0.2),rgba(255, 250, 250,0.25));
 }
-
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
 #search-input {
     margin: 0;
-    border-radius: 12px;
+    border-radius: 3px;
     display: inline-block;
     padding: .6em;
     font-family: OpenSans;
@@ -28,26 +29,21 @@
     box-sizing: border-box;
     font-weight: 900;
     transition: 1s;
+    text-align: center;
 }
 .site-header {
     border-top: 5px solid $grey-color-dark;
     min-height: 56px;
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    text-align: center;
 }
 
 .site-title {
     animation: rubberBand;
-    width:85%;
     color: darken(#c904bc,10%);
-    font-family: OpenSans;
-    font-weight: 600;
+    font-family: Abel;
+    font-weight: 200;
     animation-duration: 0.5s;
     font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
 
     &,
     &:visited {
@@ -510,9 +506,13 @@ button {
 #more-work {
 	background :  linear-gradient(35deg, Azure, AliceBlue);
 	border-radius: 5em;
-	padding: 1.5em;
-	margin-bottom: 1em;
+	padding: 1em;
+	margin-bottom: 2em;
 	border: 1px solid $grey-color-mid;
+	#dialshare {
+	    font-size: 1.5em;
+	    text-align: center;
+	}
 }
 #results-container {
         padding: 0 auto;
@@ -522,6 +522,9 @@ button {
         grid-gap: 1em;
         margin: 0 auto;
         grid-template-columns: repeat( auto-fit, minmax(12em,1fr));
+}
+.block {
+    display: inline-block;
 }
 .card {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24);
@@ -575,7 +578,7 @@ button {
     }
     .site-title {
         color: darken(#c904bc,3%) !important;
-        letter-spacing: 0.01em;
+        letter-spacing: 1px;
     }
     ::selection {
       background: Indigo;
@@ -601,42 +604,39 @@ button {
     table th {
         border-color: $grey-color-softdark;
     }
-    details {
-        color: darken(Lavender, 30%);
-        border-left: 5px solid purple;
-        background: darken(Teal, 30%);
+    summary {
+        color: $grey-color-softdark;
+
         &:hover {
-            color: darken(Lavender, 27%);
-            border-left: 3px solid violet;
-            border-bottom: 1px solid violet;
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 150, 0.3),
-            0 10px 10px -5px rgba(0.02, 0.02, 150, 0.2);
+            color: $grey-color-light;
+
         }
     }
-    hr {
-        margin-bottom: 2em;
-        margin-top: 1em;
-        color: Indigo;
-        background-color: Indigo;
-        border-radius: 5em;
-        border: none !important;
-        height: 0.17em;
+    details {
+        color: #54c4f8;
+        border: 1px solid darken(Teal, 70%);
+        background-color: $grey-color-darkplus;
+        &:hover {
+            color: #b6e6fc !important;
+        }
     }
+
     #more-work {
         background :  linear-gradient(123deg, DarkSlateBlue -10%,  MidnightBlue 70%);
         border-radius: 3em;
-        padding: 2em;
 
     }
     .otherpostlnk {
         text-decoration: none !important;
-        color: lighten(DarkOrchid, 30%);
+        color: lighten(DarkOrchid, 45%);
+        font-family: Abel;
+        font-weight: 900;
         &:hover {
             text-decoration: underline dotted yellow !important;
-            color: lighten(DarkOrchid, 20%);
+            color: lighten(DarkOrchid, 35%);
         }
         &:visited {
-            color: lighten(DarkOrchid, 10%);
+            color: lighten(DarkOrchid, 25%);
         }
     }
     pre,

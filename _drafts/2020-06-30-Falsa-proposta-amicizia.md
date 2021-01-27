@@ -21,7 +21,7 @@ Ma la volpe non raggira il gallo, che risponde all' animale ingannatore:
 
 Allora la volpe malvagia:
 
-> Forse ai cani non è ancora 
+> Forse ai cani non è ancora...
 
 [^1]: Sarebbero arrivò e parlò ma non li abbiamo fatti.
 
