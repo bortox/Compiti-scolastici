@@ -42,8 +42,9 @@
     function Sharee() {
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | absolute_url }}";
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | absolute_url }}";
-      document.getElementById("s").style = "background-color:black"
-      shareMenu.share()
+      document.getElementById("chclick").alt = "Grazie";
+      document.getElementById("s").style = "background-color:black";
+      shareMenu.share();
     }
     </script>
   <div class="sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | absolute_url }}" style="width:30px"></button></div>
