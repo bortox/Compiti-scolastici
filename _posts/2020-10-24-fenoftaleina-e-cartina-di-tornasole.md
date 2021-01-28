@@ -18,7 +18,7 @@ tags: fenoftaleina,cartina da tornasole,acidità,pH,lss,chimica,metallo,acido,ba
 Innanzitutto **eseguiremo di nuovo** l' **esperimento per casa**: così chi non l' ha fatto potrà osservare il tutto, e poi potremmo **discuterne insieme**.
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Acido cloridrico<br>
   • Estratto di radicchio<br>

@@ -46,7 +46,7 @@ ALLUMINA|MAGNESIO|ALLUMINIO
 ---
 
 <details>
-  <summary><b>Materiali utilizzati</b> (clicca qui per espandere)</summary>
+  <summary><b>Materiali utilizzati</b></summary>
   🔸 Crogiuolo<br>
   🔸 Becco Bunsen<br>
   🔸 Treppiedi<br>

@@ -27,7 +27,7 @@ redirect_from: /appunti/2020/10/06/Osservazioni-e-acido-tartarico
 </div>
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 2 provette con aceto bianco<br>
   • 2 provette con acqua<br>
@@ -108,7 +108,7 @@ Pezzo di marmo|Depositato sul fondo.|Effervescenza più marcata. Opaco con resid
 ![Foto delle provette]({{ "/data/img/chimica/lss/acidi-e-basi/provetteac.jpg" | absolute_url }})
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 5 provette contenenti acido cloridrico e acqua<br>
   • Alluminio ( carta stagnola )<br>

@@ -16,7 +16,7 @@ modified: 2020-11-01T16:58:34+01:00
 ### Scopriamo cosa succede nell' unione tra **acido cloridrico** e **soda caustica**, mettendoli sopra una piastra riscaldante
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 25ml Acido cloridrico<br>
   • 25ml Soda caustica<br>

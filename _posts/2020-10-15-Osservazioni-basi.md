@@ -13,7 +13,7 @@ tags: lss,chimica,acido,base,potassa caustica,soda caustica,solubilizzazione,pol
 ###### Solubilizzazione di ferro, rame, zinco e ossido di rame - in polvere - e di alluminio in una soluzione composta da acqua e da una base: soda caustica o potassa caustica.
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Soda caustica<br>
   • Potassa caustica<br>

@@ -8,7 +8,7 @@ lss: acidi-e-basi
 description: 'Riflettiamo su cosa possa essere l'' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. '
 tags: lss effervescenza cos'è discussione collettiva acidi minerali organici
 modified: 2020-11-06T17:34:30+01:00
-redirect_from: /appunti/2020/10/14/Che-cos'%C3%A8-l'-effervescenza.html
+redirect_from: /appunti/2020/10/14/Che-cos'%C3%A8-l'-effervescenza
 ---
 
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 

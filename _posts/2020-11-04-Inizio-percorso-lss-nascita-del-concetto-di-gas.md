@@ -24,7 +24,7 @@ Eravamo già avvantaggiati poiché
 ## Esperimenti
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Siringa
 </details>
@@ -42,7 +42,7 @@ Eravamo già avvantaggiati poiché
 ---
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Siringa
 </details>
@@ -58,7 +58,7 @@ Eravamo già avvantaggiati poiché
 ---
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Becher<br>
   • Bacinella<br>
@@ -77,7 +77,7 @@ Eravamo già avvantaggiati poiché
 ---
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Becher<br>
   • Beuta<br>
@@ -99,7 +99,7 @@ Eravamo già avvantaggiati poiché
 ---
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Cilindro<br>
   • Cannuccia<br>
@@ -119,7 +119,7 @@ Eravamo già avvantaggiati poiché
 ---
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Becher<br>
   • Foglio di carta<br>

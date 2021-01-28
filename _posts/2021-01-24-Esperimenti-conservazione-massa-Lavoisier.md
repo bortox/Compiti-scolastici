@@ -12,7 +12,7 @@ tags:  conservazione massa combustione zolfo Lavoisier
 ## Esperimento 1
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
 
   • Candela<br>
   • Accendino<br>
@@ -48,7 +48,7 @@ tags:  conservazione massa combustione zolfo Lavoisier
 > Siccome questo esperimento consiste nella combustione dello zolfo, abbiamo osservato un video e non l' abbiamo eseguito in tempo reale, perché non ci sarebbe riuscito osservare bene dalla cappa aspirante. 
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
 
   • Capsula<br>
   • Polvere di zolfo<br>

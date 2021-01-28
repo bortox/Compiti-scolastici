@@ -35,7 +35,7 @@ Nota: Tutti questi esperimenti sono stati eseguiti nel laboratorio di chimica, s
 
 #### Prima prova
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 1 provetta con acqua di calce<br>
   • 1 siringa<br>
@@ -65,7 +65,7 @@ Abbiamo recuperato circa 85 ml di aria per la prima prova, ma per ogni prova ese
 #### Seconda prova
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 1 provetta con acqua di calce<br>
   • 1 tubicino di plastica<br>
@@ -93,7 +93,7 @@ Abbiamo recuperato circa 85 ml di aria per la prima prova, ma per ogni prova ese
 
 #### Prova di comportamento dell' acqua di calce
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 1 provetta con acqua di calce<br>
   • 1 cannuccia<br>

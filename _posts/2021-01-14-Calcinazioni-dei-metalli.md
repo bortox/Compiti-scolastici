@@ -16,7 +16,7 @@ Inizieremo questo percorso osservando le **calcinazioni dei metalli** tali calci
 ### 1° esperimento :
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
 
   • Crogiolo piccolo con tappo<br>
   • Crogiolo medio senza tappo<br>
@@ -70,7 +70,7 @@ Nel nostro caso il peso dei crogioli è stato 36.97g e 16.38g; poi abbiamo aggiu
  Nota: gli elementi scritti in <i> corsivo </i> sono stati aggiunti da noi e sono opzionali, abbiamo usato i pallini di piombo e un terzo crogiuolo siccome la polvere di piombo ci stava mettendo troppo tempo a calcinare.
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
 
   • Crogiolo piccolo con tappo<br>
   • 2 * crogioli medi senza tappo <i>+1</i><br>

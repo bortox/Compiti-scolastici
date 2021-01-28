@@ -339,6 +339,13 @@ details {
 		cursor: pointer;
 	}
 }
+details[open] summary::after {
+  content: ' (clicca per chiudere)';
+}
+
+details:not([open]) summary::after {
+  content: ' (clicca per aprire)';
+}
 
 
 /**

@@ -16,7 +16,7 @@ redirect_from: /appunti/2020/11/14/Calcificazione-trasformazione-chimica
 #### Abbiamo elaborato una discussione collettiva dalle osservazioni sul video.
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 1 grammo di carbonato di magnesio<br>
   • Capsula petri<br>

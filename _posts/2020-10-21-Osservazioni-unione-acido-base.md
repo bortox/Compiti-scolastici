@@ -12,7 +12,7 @@ tags: solubilizzazione,soda,lss,chimica,acido,acidi,basi,unione
 > **In questa lezione abbiamo provato ad unire acidi e basi, e verificare cosa succede discutendone.**
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 4 provette<br>
   • Acqua distillata<br>

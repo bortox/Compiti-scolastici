@@ -53,7 +53,7 @@ Truciolo di rame|Il liquido diventa giallino, c'è una debolissima effervescenza
 
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Una provetta<br>
   • Acqua distillata<br>

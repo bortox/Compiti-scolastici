@@ -39,7 +39,7 @@ Ossido di rame |Miscela eterogenea di colore nero||
 ### Verifichiamo la solubilizzazione di polvere di marmo in acido cloridrico e aceto
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Acido cloridrico<br>
   • Aceto<br>
@@ -72,7 +72,7 @@ Ossido di rame |Miscela eterogenea di colore nero||
 > L' acido solforico è un acido minerale molto potente, anche di più dell' acido cloridrico, ma abbiamo verificato che solubilizza in un modo singolare, come l' acido tartarico: dopo un' effervescenza rilascia un precipitato che si deposita sul fondo.
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Acido cloridrico<br>
   • Acido solforico<br>

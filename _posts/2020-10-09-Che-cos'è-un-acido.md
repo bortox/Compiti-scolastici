@@ -7,6 +7,9 @@ materia: scienze naturali
 lss: acidi-e-basi
 description: "Osserviamo la solubilizzazione del residuo di carbonato di calcio immesso in acido cloridrico in acqua, dopo definiamo "
 tags: lss acidi e basi che cos'è un acido discussione collettiva
+redirect_from: 
+  - /compiti/2020/10/09/Che-cos'%C3%A8-un-acido
+  - /appunti/2020/10/09/Che-cos'%C3%A8-un-acido
 ---
 
 La scorsa lezione "_Abbiamo deciso di provare a far bollire l’ acido con il carbonato di calcio solubilizzato, raccogliere il residuo e provare a far solubilizzare il residuo in acqua, per vedere se è restato così com’ era, e se si solubilizzerà o no immergendolo in acqua._"
