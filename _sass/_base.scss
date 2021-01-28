@@ -25,23 +25,9 @@ hr {
     text-align: justify
 }
 @media print {
-    .onlyprint {
-       display: block;
-       width: 40%;
-       text-align: center;
-       opacity: 1;
-       margin: auto;
-       color: black;
+   .profview {
+        display: inline-block !important;
    }
-   .nottoprint {
-       display: none;
-    }
-   
-}
-@media screen {
-    .onlyprint {
-    display: none;
-    }
 }
 svg {
 

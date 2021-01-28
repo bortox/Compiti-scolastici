@@ -11,9 +11,9 @@
   link_fonte: https://github.com/christian-fei/Simple-Jekyll-Search/
   
 - nome: Menù di condivisione
-  descrizione: Sopra il titolo di un post, i pulsanti per condividerlo via Email, Facebook, Whatsapp e Twitter
-  nome_autore: Craig Buckler
-  link_fonte: https://codepen.io/craigbuckler/pen/oNNjKbX
+  descrizione: In basso a destra, con numerose opzioni di condivisione. Imita la WebShare API con un gradevole menù come fallback. Gradevole esteticamente, peccato per i molti social che non si usano in Italia ma... if it works don't touch it!
+  nome_autore: Giorgio Garasto
+  link_fonte: https://github.com/Dabolus/share-menu
 
 - nome: Funzionalità post casuale
   descrizione: In fondo alla pagina, il bottone Scelta casuale contenente un emoji di dado ti porterà ad una pagina a caso.

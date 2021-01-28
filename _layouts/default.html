@@ -36,7 +36,6 @@
         exclude: ['Benvenut@']
       })
     </script>
-    <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
     <script>
     function Sharee() {
@@ -47,6 +46,7 @@
       shareMenu.share();
     }
     </script>
-  <div class="sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | absolute_url }}" style="width:30px"></button></div>
+  <div class="nottoprint sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | absolute_url }}" style="width:30px"></button></div>
+  <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   </body>
 </html>
