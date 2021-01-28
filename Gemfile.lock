@@ -51,6 +51,14 @@ GIT
       webrick (~> 1.7)
 
 GIT
+  remote: https://github.com/keithmifsud/jekyll-target-blank.git
+  revision: f6fb51a819a465127dabc9fadfc08f8dacfe8ab4
+  specs:
+    jekyll-target-blank (2.0.0)
+      jekyll (>= 3.0, < 5.0)
+      nokogiri (~> 1.10)
+
+GIT
   remote: https://github.com/toshimaru/jekyll-tagging-related_posts.git
   revision: a374bbeaf12ec2fe73d7c9060a782beadca786c4
   specs:
@@ -123,6 +131,7 @@ DEPENDENCIES
   jekyll-sitemap!
   jekyll-spaceship!
   jekyll-tagging-related_posts!
+  jekyll-target-blank!
 
 BUNDLED WITH
-   2.2.5
+   2.2.7

@@ -8,6 +8,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll/tagging
   - jekyll-tagging-related_posts
+  - jekyll-target-blank
 author: Andrea Bortolotti Bortox
 lang: it_IT
 locale: it_IT
