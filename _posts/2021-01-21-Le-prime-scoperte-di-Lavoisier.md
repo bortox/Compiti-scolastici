@@ -11,7 +11,7 @@ tags:  ricerca Lavoisier chimica moderna
 
 Innanzitutto, prima di vedere cosa ha fatto Lavoisier, **contestualizziamolo** nell' epoca in cui è vissuto e nelle **convinzioni scientifiche** di quel tempo.
 
-Nel XVII secolo si pensava che l’**acqua** fosse un **elemento** e che esso si potesse **trasformarsi** **facilmente** in **altre sostanze**. Questa teoria era supportata da due esperimenti principali: 
+Nel XVII secolo si pensava che l’**acqua** fosse un **elemento** e che esso si potesse **trasformare** **facilmente** in **altre sostanze**. Questa teoria era supportata da due esperimenti principali: 
 
 - Il primo è contenuto in “Esperienze di vegetazione” scritto da Van Elmont.
     > in questo esperimento **Elmont** era andato a piantare un salice in una quantità di terra già pesata e lo annaffio regolarmente con quantità di acqua pesata e notò che il salice cambiò di peso:  da 5 libbre a 165 libbre. Da ciò dedusse che l’**acqua** si era **trasmutata** in **terriccio**.
@@ -22,7 +22,7 @@ Per dimostrare che l’acqua non si trasmutasse in terra col tempo, Lavoisier es
 - Raccolse una grande quantità di acqua piovana.
 - Considerando l' acqua piovana **impura** la distillò ben otto volte, notando che il residuo terroso contiene **sale marino**.
 - Inserì l' acqua depurata in un **pellicano**.
-- **Tarò** il pellicano, ottenendo indirettamente anche il **peso dell' acqua** con una seconda misurazione.
+- **Tarò** il pellicano, ottenendo indirettamente anche il **peso dell' acqua**.
 - **Sigillò** il pellicano.
 - Mantenne a **temperatura costante** il pellicano per **101 giorni**.
 - Osservò i risultati.
