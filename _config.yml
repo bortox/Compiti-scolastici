@@ -9,6 +9,7 @@ plugins:
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - jekyll-target-blank
+  - jekyll-loading-lazy
 author: Andrea Bortolotti Bortox
 lang: it_IT
 locale: it_IT

@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/gildesmarais/jekyll-loading-lazy.git
+  revision: faedf362facd092eda05bf395ebab617ffab54ec
+  specs:
+    jekyll-loading-lazy (0.1.1)
+      jekyll (>= 3.0, < 5.0)
+      nokogiri (>= 1.10, < 2.0)
+
+GIT
   remote: https://github.com/jeffreytse/jekyll-spaceship.git
   revision: 1f8c3293d300ac9680fe4142e300c06d0cd2f057
   specs:
@@ -126,6 +134,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll!
+  jekyll-loading-lazy!
   jekyll-redirect-from!
   jekyll-seo-tag!
   jekyll-sitemap!
