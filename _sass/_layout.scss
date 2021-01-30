@@ -540,7 +540,7 @@ button {
         text-decoration: none !important;
         color: lighten(DarkOrchid, 45%);
         font-weight: 400;
-        font-family: "Abel", "Helvetica Neue", "League Mono Variable", "Roboto", sans-serif;
+        font-family: "Abel", "Helvetica Neue", "League Mono Variable", "Roboto", "Helvetica", sans-serif;
         transition: 0.4s;
         &:hover {
             text-decoration: underline dotted yellow !important;
