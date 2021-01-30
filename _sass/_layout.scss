@@ -460,7 +460,23 @@ button {
 .license-text {
     line-height: 2em;
 }
-
+.otherpostlnk {
+    text-decoration: none !important;
+    color: darken(skyblue, 40%);
+    font-weight: 400;
+    font-family: "Abel", "Helvetica Neue", "League Mono Variable", "Roboto", "Helvetica", sans-serif;
+    transition: 0.4s;
+    &:hover {
+        text-decoration: underline dotted yellow !important;
+        color: darken(DarkOrchid, 15%);
+        font-weight: 900;
+        letter-spacing: 1px;
+        font-size: 1.2em;
+    }
+    &:visited {
+        color: darken(DarkOrchid, 25%);
+    }
+}
 @media (prefers-color-scheme: dark) {
     #search-input {
         background: $grey-color-darkplus;
@@ -486,6 +502,15 @@ button {
             color: darken(Azure, 80%);
         }
 
+    }
+    .otherpostlnk {
+        color: lighten(DarkOrchid, 45%);
+        &:hover {
+            color: lighten(DarkOrchid, 35%);
+        }
+        &:visited {
+            color: lighten(DarkOrchid, 25%);
+        }
     }
     .site-title {
         color: darken(#c904bc,3%) !important;
@@ -536,22 +561,7 @@ button {
         border-radius: 3em;
 
     }
-    .otherpostlnk {
-        text-decoration: none !important;
-        color: lighten(DarkOrchid, 45%);
-        font-weight: 400;
-        font-family: "Abel", "Helvetica Neue", "League Mono Variable", "Roboto", "Helvetica", sans-serif;
-        transition: 0.4s;
-        &:hover {
-            text-decoration: underline dotted yellow !important;
-            color: lighten(DarkOrchid, 35%);
-            font-weight: 700;
-            font-size: 1.2em;
-        }
-        &:visited {
-            color: lighten(DarkOrchid, 25%);
-        }
-    }
+    
     pre,
     code {
         border: 1px solid $grey-color-dark;
