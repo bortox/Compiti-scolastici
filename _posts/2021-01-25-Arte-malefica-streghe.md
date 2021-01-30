@@ -1,12 +1,23 @@
 ---
-layout:  post
-title:  "Arte malefica delle streghe"
-date: 2021-01-25 10:00:00
-categories:  versione
+title: Arte malefica delle streghe | Versione 34 pagina 319
+layout: post
+date: '2021-01-25 10:00:00 +0000'
+categories: versione
 materia: LATINO
-description: "Un personaggio del romanzo Satyricon di Petronio racconta una storia terrificante sulle arti funeste delle streghe."
-tags: streghe arte versione latino traduzione strigae mulieres faciunt
+description: Un personaggio del romanzo Satyricon di Petronio racconta una storia
+  terrificante sulle arti funeste delle streghe. Strigae sunt maleficae mulieres.
+tags:
+- streghe
+- arte
+- versione
+- latino
+- traduzione
+- strigae
+- mulieres
+- faciunt
+- malefica
 ---
+
 ## Esercizio 34 pagina 319
 
 > Tradotta dal Latino con **solamente** l' ausilio del dizionario cartaceo.
