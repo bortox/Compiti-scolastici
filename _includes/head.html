@@ -1,7 +1,4 @@
 {% seo %}
-<link rel="preload" href="{{ "/data/fonts/Title.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf">
-<link rel="preload" href="{{ "/data/fonts/Nunito-Regular.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf">
-<link rel="preload" href="{{ "/data/fonts/Abel.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf">
 <link rel="preload" as="style" href="{{ "/css/animate.min.css" | prepend: site.baseurl }}">
 <link rel="preload" as="style" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 <link rel="stylesheet" href='{{ "/css/animate.min.css" | prepend: site.baseurl }}'>
@@ -41,3 +38,6 @@
 {% if page.fontawesome %}<script src="https://kit.fontawesome.com/ad6ebe67c4.js" crossorigin="anonymous" async></script>{% else %}{% endif %}
 <script src="{{ site.baseurl }}/js/share-menu.min.js" type="module" async></script>
 <meta name="keywords" content="{% if page.materia %}{{ page.materia }} {% endif %}{% if page.tags %}, {{ page.tags | join: ", " }}{% endif %}">
+<link rel="preload" href="{{ "/data/fonts/Title.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin >
+<link rel="preload" href="{{ "/data/fonts/Nunito-Regular.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin >
+<link rel="preload" as="script" href="{{ "/js/social-icons.min.js" | prepend: site.baseurl }}" crossorigin>
