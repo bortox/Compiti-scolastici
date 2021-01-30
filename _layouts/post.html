@@ -63,7 +63,7 @@ layout: default
             {% when '12' %}Dicembre
             {% endcase %}</button></div>
 	    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em">
-	    <a class="calmlink" style="border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Ho trovato un errore nella pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo dire che ho trovato un errore sul tuo sito web e vorrei comunicarlo...' | url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A{{ 'Link relativo pagina web: ' }}{{ page.url | url_encode }}"> Trovato un errore? ✉️</a>
+	    <a class="calmlink" style="border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Modifica per la pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo proporre una modifica riguardante la pagina « ' | url_encode }}{{ page.title | url_encode }}{{ '»  ...' | url_encode }}%0D%0A%0D%0A"> Proponi una modifica ✉️</a>
 	  </div>
           <div class="nottoprint">
 
@@ -75,26 +75,23 @@ layout: default
                     {% assign lsso = post.lss | downcase %}
                     {% if lsso == lsspagina %}
                         {% if post.url != page.url %}
-                        <h5><a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a></h5></li>
+                        <a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
                         {% endif %}
-                        
                     {% endif %}
-                {% endfor %}
-            {% else %}
+                {% endfor %}   
+                {% else %}
                 {% if site.related_posts.size >= 4 %}
                 <h3 class="calmlinknoanim"> Altri post correlati di <span style="color:Gold">{{ page.materia | capitalize | replace: "-", " " }}</span>: </h3>
-                <div>
+                <div class="page-content">
                     {% assign materia = page.materia | downcase %}
-                <ul>
 
-                {% for related_post in site.related_posts limit: 7 %}
+                {% for related_post in site.related_posts limit: 6 %}
                     {% assign materiapost = related_post.materia | downcase %}
                     {% if materia == materiapost %}
-                    <li><h5><a class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 16 }}</a></h5></li>
+                    <a class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 12 }}</a><hr>
                     {% endif %}
                     {% endfor %}
-
-                </ul></div><hr>
+                </div>
                 {% endif %}
                 {% endif %}
                 <div id="dialshare">
