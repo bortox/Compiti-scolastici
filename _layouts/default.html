@@ -24,7 +24,7 @@
     </div>
     <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
 
-    <script>
+    <script defer async>
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
@@ -37,7 +37,7 @@
       })
     </script>
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
-    <script async>
+    <script defer>
     function Sharee() {
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | absolute_url }}";
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | absolute_url }}";

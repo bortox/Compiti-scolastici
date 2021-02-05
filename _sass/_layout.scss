@@ -1,8 +1,6 @@
 #search-demo-container {
     color: DarkOrchid;
     font-family:OpenSans;
-    animation: bounceIn;
-    animation-duration: 1.5s;
     width: 95%;
     padding: 0.4em;
     margin-top: 0.5em;
@@ -37,10 +35,8 @@
     font-family: "Abel", "Helvetica Neue", "League Mono Variable", "Roboto", sans-serif;
 }
 .site-title {
-    animation: rubberBand;
     color: darken(#c904bc,15%);
     font-weight: 400;
-    animation-duration: 0.5s;
     font-size: calc( 1em + 1vmin );
 
     &,
@@ -253,12 +249,11 @@ button {
   font-size: 0.92em;
   margin: 0.2em 0.2em 0.2em 0.2em;
   transition: 0.3s;
-  
+
 }
 .smallbutton.listio {
   background-color: orangered;
   border-radius: 0.4em;
-  letter-spacing: 0.3px;
   margin: 0.2em 0.8em 0.2em 0.2em;
   &:hover{
     cursor: alias;
@@ -347,7 +342,7 @@ button {
   padding: 0.1rem;
   display: inline-block;
   float: left;
-  width: 30%; 
+  width: 30%;
   height: 8rem;
   overflow: hidden;
   text-align: center;
@@ -465,13 +460,12 @@ button {
     color: darken(skyblue, 40%);
     font-weight: 400;
     font-family: "Abel", "Helvetica Neue", "League Mono Variable", "Roboto", "Helvetica", sans-serif;
-    transition: 0.4s;
+    transition: 0.12s;
     &:hover {
-        text-decoration: underline dotted yellow !important;
-        color: darken(DarkOrchid, 15%);
+        text-decoration: underline solid yellow 3px !important;
         font-weight: 900;
-        letter-spacing: 1px;
-        font-size: 1.2em;
+        letter-spacing: 0.5px;
+        color: black;
     }
     &:visited {
         color: darken(DarkOrchid, 25%);
@@ -499,17 +493,17 @@ button {
             color: darken(AliceBlue, 45%);
         }
         &:visited {
-            color: darken(Azure, 80%);
+            color: darken(Azure, 72%);
         }
 
     }
     .otherpostlnk {
         color: lighten(DarkOrchid, 45%);
-        &:hover {
-            color: lighten(DarkOrchid, 35%);
-        }
         &:visited {
             color: lighten(DarkOrchid, 25%);
+        }
+        &:hover {
+          color: white;
         }
     }
     .site-title {
@@ -528,7 +522,7 @@ button {
 
     }
     blockquote {
-        border-left: 5px solid darken(Indigo, 15%);
+        border-left: 5px solid darken(Indigo, 10%);
     }
     table th {
         color: $grey-color-light;
@@ -561,7 +555,7 @@ button {
         border-radius: 3em;
 
     }
-    
+
     pre,
     code {
         border: 1px solid $grey-color-dark;

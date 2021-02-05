@@ -1,7 +1,5 @@
 {% seo %}
-<link rel="preload" as="style" href="{{ "/css/animate.min.css" | prepend: site.baseurl }}">
 <link rel="preload" as="style" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href='{{ "/css/animate.min.css" | prepend: site.baseurl }}'>
 <link rel="stylesheet" href='{{ "/css/main.css" | prepend: site.baseurl }}'>
 <link rel="apple-touch-icon" sizes="57x57" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-60x60.png">
@@ -20,14 +18,13 @@
 <meta name="msapplication-TileColor" content="#8a2be2">
 <meta name="msapplication-TileImage" content="{{ '/data/favicon/' | prepend: site.baseurl }}ms-icon-144x144.png">
 <meta name="theme-color" content="#8a2be2">
-<!-- FINE FAVICON DEL SITO -->
 <meta name="google-site-verification" content="uPvYR6a5fI_ch61-FoChm11ur0HkonsoCySFpaNtL6s" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="theme-color" content="#8A2BE2"/>
 <meta name="robots" content="index, follow"/>
 <meta name="revisit-after" content="6 days">
-{% if page.materia %}<meta name="topic" content="{{ page.materia }}">{% endif %}
+{% if page.materia %}<meta name="topic" content="{{ page.materia | lower }}">{% endif %}
 <meta name="author" content='Andrea Bortolotti, broto777@zoho.com'>
 <meta name="reply-to" content='broto777@zoho.com'>
 <meta name='coverage' content='Worldwide'>
@@ -36,8 +33,7 @@
 {% if page.math %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
 {% if page.plotly %}<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>{% else %}{% endif %}
 {% if page.fontawesome %}<script src="https://kit.fontawesome.com/ad6ebe67c4.js" crossorigin="anonymous" async></script>{% else %}{% endif %}
-<script src="{{ site.baseurl }}/js/share-menu.min.js" type="module" async></script>
+<script defer src="{{ site.baseurl }}/js/share-menu.min.js" type="module"></script>
 <meta name="keywords" content="{% if page.materia %}{{ page.materia }} {% endif %}{% if page.tags %}, {{ page.tags | join: ", " }}{% endif %}">
 <link rel="preload" href="{{ "/data/fonts/Title.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin >
 <link rel="preload" href="{{ "/data/fonts/Nunito-Regular.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin >
-<link rel="preload" as="script" href="{{ "/js/social-icons.min.js" | prepend: site.baseurl }}" crossorigin>
