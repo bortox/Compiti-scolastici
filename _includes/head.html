@@ -33,7 +33,6 @@
 {% if page.math %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
 {% if page.plotly %}<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>{% else %}{% endif %}
 {% if page.fontawesome %}<script src="https://kit.fontawesome.com/ad6ebe67c4.js" crossorigin="anonymous" async></script>{% else %}{% endif %}
-<script defer src="{{ site.baseurl }}/js/share-menu.min.js" type="module"></script>
 <meta name="keywords" content="{% if page.materia %}{{ page.materia }} {% endif %}{% if page.tags %}, {{ page.tags | join: ", " }}{% endif %}">
 <link rel="preload" href="{{ "/data/fonts/Title.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin >
 <link rel="preload" href="{{ "/data/fonts/Nunito-Regular.ttf" | prepend: site.baseurl }}" as="font" type="font/ttf" crossorigin >

@@ -8,7 +8,7 @@
     {% include header.html %}
     <div class="wrapper">
     <div id="search-demo-container" class="nottoprint">
-      <input type="search" id="search-input" placeholder="🔍 Cerca nel sito...">
+      <input type="search" id="search-input" placeholder="Cerca nel sito..." label="Esegui una ricerca">
       <ul id="results-container"></ul>
     </div>
       </div>
@@ -23,7 +23,6 @@
     {% include footer.html %}
     </div>
     <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
-
     <script defer async>
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
@@ -36,6 +35,7 @@
         exclude: ['Benvenut@']
       })
     </script>
+    <script defer src="{{ site.baseurl }}/js/share-menu.min.js" type="module"></script>
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
     <script defer>
     function Sharee() {
