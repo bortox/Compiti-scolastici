@@ -1,0 +1,90 @@
+---
+title: L' aria attiva nella combustione del fosforo
+layout: post
+lss: nascita-della-chimica-moderna
+materia: scienze-naturali
+category: appunti
+---
+
+## Congetture sull' aria
+### Derivate dalle scorse "_puntate_" del diario di bordo
+Grazie agli esperimenti precedenti, siamo arrivati alla conclusione che l’aria è un **elemento attivo** nella combustione, nella calcinazione e in tutte le trasformazioni chimiche, perciò lo si definisce un **reagente**.
+
+Come visto dagli esperimenti eseguiti le scorse volte,  l’aria **non scompare** magicamente, ma **si lega alla sostanza**.
+
+Con queste basi, Lavoisier formulò una legge: 
+
+>" La somma della massa dei reagenti è uguale alla somma della massa dei prodotti della trasformazione chimica."
+
+## Esperimento 1: la combustione del fosforo
+Lavoisier si interroga sul perché alcune sostanze non continuino la combustione nonostante sia ancora presente l'aria. Un esempio di questo avvenimento inspiegabile è la **combustione del fosforo**.
+
+<details> 
+     <summary> Materiali Utilizzati </summary>
+  • Capsula di agata<br>
+  • Grani di fosforo<br>
+  • Campana di vetro<br>
+  • Acqua<br>
+  • Olio<br>
+  • Imbuto<br>
+  • Lente d' ingrandimento<br>
+  • Bacinella<br>
+</details>
+
+### Procedimento 
+- Inserire la campana di vetro dentro la bacinella
+- Inserire i grani di fosforo nella capsula di agata
+- Collocare la capsula sotto la campana di vetro
+- Inserire l' acqua nella bacinella
+- Aggiungere l' olio con l' imbuto ricurvo
+- Attraverso un imbuto, formare un piccolo strato di olio sulla superficie dell' acqua
+
+#### Ecco una illustrazione del _setup_, prima di iniziare la combustione
+
+![Configurazione iniziale](https://i.imgur.com/iBWSJ4G.png#border)
+
+---
+
+- Con la lente di ingrandimento, concentrare la luce del sole sul fosforo per iniziare la combustione
+
+![Inizio Combustione Lavoisier con lente d' ingrandimento](https://i.imgur.com/ffTY6pJ.png#border)
+
+### Osservazioni
+
+![Cosa succede poco dopo l' inizio della combustione Lavoisier](https://i.imgur.com/IBTphD9.png#border)
+
+
+Come visto in precedenza i vapori bianchi appannano le superfici circostanti. Il livello dell' acqua si abbassa. 
+
+---
+
+![Cosa succede dopo la fine della combustione](https://i.imgur.com/b4ImwxI.png#border)
+
+Quando il fosforo smette di bruciare, i vapori bianchi condensano formando delle gocce di un liquido limpido e il livello dell' acqua si rialza. Il rialzo è di circa 1/5 del volume d' aria che era presente nella campana di vetro a inizio combustione.
+
+---
+
+Da queste illustrazioni che ho fatto ( ero **assente**, purtroppo non ho potuto assistere all' esperimento ) si può dedurre che:
+
+- Non tutti i grani di fosforo si bruciano
+- Il fosforo bruciando emette vapori, che inizialmente appannano le pareti della campana di vetro, poi _trasmutano_  in gocce di un liquido limpido. 
+
+Inoltre, **alzando la campana**, facendo **entrare** altra **aria**, poi **chiudendola**, il processo si **ripete**, ossia: 
+
+- Il fosforo brucia producendo vapori
+- Il volume dell' acqua aumenta di circa 1/5 dell' aria totale
+- Il fosforo smette di bruciare
+
+Queste azioni possono essere ripetute finché resta fosforo da bruciare. 
+### Riflessioni
+
+L' aria viene _assorbita_ e l' acqua prende il suo posto. Il volume dell' aria assorbita consiste in 1/5 della quantità totale di aria presente nella campana di vetro.
+#### Come può Lavoisier constatare che ciò che è avvenuto non sia casuale?
+
+Semplicemente ripete l’esperimento con diverse sostanze, fosforo, metalli, zolfo, e i  risultati sono gli stessi, anche se la quantità cambia, ad esempio durante la combustione di una candela, solo **1/9** dell' aria viene "_assorbito_"
+
+#### Conclusione di Lavoisier ( 1773 )
+Secondo Lavoisier nell' atmosfera esiste un fluido elastico miscelato con l' aria, attivo e partecipe ai processi di calcinazione e combustione, senza il quale non si può eseguire, ad esempio, la calcinazione. 
+
+
+Soltanto verso il 1777 Lavoisier arrivò alla conclusione che l' aria fosse composta da più elementi.
