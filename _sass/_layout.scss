@@ -384,6 +384,18 @@ button {
     	text-decoration: none;
     }
 }
+img[src*="#border"] {
+    border: 0.7em solid white;
+    max-width: calc(800px - (#{$spacing-unit} * 2) - 0.7em);
+    @include media-query($on-laptop) {
+        max-width: calc(800px - (#{$spacing-unit}) - 0.7em);
+    }
+    @include media-query($on-palm) {
+        max-width: calc(100% - (#{$spacing-unit} / 2) - 0.7em);
+    }
+ }
+ 
+
 .calmlink img {
     display: inline !important;
 }
@@ -477,6 +489,7 @@ button {
         color: $grey-color-light;
         border: none;
     }
+    
     #results-container {
         color: Cornsilk;
         font-weight: 600;

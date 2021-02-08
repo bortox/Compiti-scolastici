@@ -14,7 +14,7 @@ layout: default
     </article>
             <div style="text-align:center">
             <button class="smallbutton listio date" disabled>{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
-            🕰️ PUBBLICATO: 
+            🕰️ PUBBLICATO:
             {% case d %}
             {% when '1' %}Primo di
             {% when '2' %}Due
@@ -78,9 +78,9 @@ layout: default
                         <a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
                         {% endif %}
                     {% endif %}
-                {% endfor %}   
+                {% endfor %}
                 {% else %}
-                {% if site.related_posts.size >= 4 %}
+                {% if site.related_posts.size >= 1 %}
                 <h3 class="calmlinknoanim"> Altri post correlati di <span style="color:Gold">{{ page.materia | capitalize | replace: "-", " " }}</span>: </h3>
                 <div class="page-content">
                     {% assign materia = page.materia | downcase %}
@@ -101,7 +101,7 @@ layout: default
                 </div>
             </div>
         </div>
-        
+
 </div>
 <div class="profview"><hr>
 <p> Questo è il mio sito web personale contenente i i compiti scolastici e gli appunti presi da me, <span style="color:darkslateblue">Andrea Bortolotti</span>, durante il liceo.  Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! L' ho creato per essere più ordinato e per non perdere nulla. </p>
