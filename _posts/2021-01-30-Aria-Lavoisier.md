@@ -3,7 +3,11 @@ title: L' aria attiva nella combustione del fosforo
 layout: post
 lss: nascita-della-chimica-moderna
 materia: scienze-naturali
-category: appunti
+tags: aria fosforo attiva combustione lavoisier
+categories: appunti
+materia: scienze-naturali
+date: '2021-01-30 11:00:00'
+description: Lavoisier deduce che l' aria è un reagente durante la combustione, ed esegue la combustione del fosforo per capire cosa alimenta il processo di combustione.
 ---
 
 ## Congetture sull' aria
@@ -12,14 +16,14 @@ Grazie agli esperimenti precedenti, siamo arrivati alla conclusione che l’aria
 
 Come visto dagli esperimenti eseguiti le scorse volte,  l’aria **non scompare** magicamente, ma **si lega alla sostanza**.
 
-Con queste basi, Lavoisier formulò una legge: 
+Con queste basi, Lavoisier formulò una legge:
 
 >" La somma della massa dei reagenti è uguale alla somma della massa dei prodotti della trasformazione chimica."
 
 ## Esperimento 1: la combustione del fosforo
 Lavoisier si interroga sul perché alcune sostanze non continuino la combustione nonostante sia ancora presente l'aria. Un esempio di questo avvenimento inspiegabile è la **combustione del fosforo**.
 
-<details> 
+<details>
      <summary> Materiali Utilizzati </summary>
   • Capsula di agata<br>
   • Grani di fosforo<br>
@@ -31,7 +35,7 @@ Lavoisier si interroga sul perché alcune sostanze non continuino la combustione
   • Bacinella<br>
 </details>
 
-### Procedimento 
+### Procedimento
 - Inserire la campana di vetro dentro la bacinella
 - Inserire i grani di fosforo nella capsula di agata
 - Collocare la capsula sotto la campana di vetro
@@ -54,7 +58,7 @@ Lavoisier si interroga sul perché alcune sostanze non continuino la combustione
 ![Cosa succede poco dopo l' inizio della combustione Lavoisier](https://i.imgur.com/IBTphD9.png#border)
 
 
-Come visto in precedenza i vapori bianchi appannano le superfici circostanti. Il livello dell' acqua si abbassa. 
+Come visto in precedenza i vapori bianchi appannano le superfici circostanti. Il livello dell' acqua si abbassa.
 
 ---
 
@@ -67,15 +71,15 @@ Quando il fosforo smette di bruciare, i vapori bianchi condensano formando delle
 Da queste illustrazioni che ho fatto ( ero **assente**, purtroppo non ho potuto assistere all' esperimento ) si può dedurre che:
 
 - Non tutti i grani di fosforo si bruciano
-- Il fosforo bruciando emette vapori, che inizialmente appannano le pareti della campana di vetro, poi _trasmutano_  in gocce di un liquido limpido. 
+- Il fosforo bruciando emette vapori, che inizialmente appannano le pareti della campana di vetro, poi _trasmutano_  in gocce di un liquido limpido.
 
-Inoltre, **alzando la campana**, facendo **entrare** altra **aria**, poi **chiudendola**, il processo si **ripete**, ossia: 
+Inoltre, **alzando la campana**, facendo **entrare** altra **aria**, poi **chiudendola**, il processo si **ripete**, ossia:
 
 - Il fosforo brucia producendo vapori
 - Il volume dell' acqua aumenta di circa 1/5 dell' aria totale
 - Il fosforo smette di bruciare
 
-Queste azioni possono essere ripetute finché resta fosforo da bruciare. 
+Queste azioni possono essere ripetute finché resta fosforo da bruciare.
 ### Riflessioni
 
 L' aria viene _assorbita_ e l' acqua prende il suo posto. Il volume dell' aria assorbita consiste in 1/5 della quantità totale di aria presente nella campana di vetro.
@@ -84,7 +88,7 @@ L' aria viene _assorbita_ e l' acqua prende il suo posto. Il volume dell' aria a
 Semplicemente ripete l’esperimento con diverse sostanze, fosforo, metalli, zolfo, e i  risultati sono gli stessi, anche se la quantità cambia, ad esempio durante la combustione di una candela, solo **1/9** dell' aria viene "_assorbito_"
 
 #### Conclusione di Lavoisier ( 1773 )
-Secondo Lavoisier nell' atmosfera esiste un fluido elastico miscelato con l' aria, attivo e partecipe ai processi di calcinazione e combustione, senza il quale non si può eseguire, ad esempio, la calcinazione. 
+Secondo Lavoisier nell' atmosfera esiste un fluido elastico miscelato con l' aria, attivo e partecipe ai processi di calcinazione e combustione, senza il quale non si può eseguire, ad esempio, la calcinazione.
 
 
 Soltanto verso il 1777 Lavoisier arrivò alla conclusione che l' aria fosse composta da più elementi.
