@@ -1,13 +1,9 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <h4 class="border-thin">{{ site.title }}</h4>
+    <p class="border-thin" style="font-family:title;letter-spacing:0.3vmin">{{ site.title }}</p>
     <div class="footer-col-wrapper">
         <div class="footer-col  footer-col-1">
-            <h5>
-                <span style="text-align:center">
-                    <span style="color:Thistle">By Andrea Bortolotti </span>
-                    <br>
-            </h5>
+            <h5 style="color:Thistle">Andrea Bortolotti</h5>
             <h6>
                 <img alt="Github logo" src="{{ "/data/img/loghi/github.svg" | absolute_url }}" style="width:25px"><tab>
                 <a href="https://github.com/bortox" style="color:rosybrown">bortox</a>
@@ -18,12 +14,12 @@
                     <button class="calmlink opch" style="font-size:0.9em;margin:0.5em;padding-left:0.8em" onclick="window.print()">Stampa la pagina</button>
             </h6>
         </div>
-        
+
       <div class="footer-col  footer-col-2">
       {% if page.path == "index.html" %}
         <p> Benvenut@! Qui sopra ci sono gli ultimi compiti e appunti presi da me, il Borto, e puoi anche cercarli cliccando sull' input <i> Fai una ricerca </i>. Puoi cercare una materia, ad esempio scrivendo <i>LATINO</i> oppure cercarli per il loro titolo o la loro descrizione. Buona navigazione!
       {% else %}
-      
+
         <form action="{{ site.baseurl | prepend: site.url }}">
             <button class="smallbutton listio opch condensed" style="background-color: #46a049">🏠 Torna al menù principale </button>
         </form>
@@ -31,11 +27,11 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        
+
         <p class="textbold">{{ site.description }}</p>
       </div>
     </div>
-     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">Quest' opera di <span property="cc:attributionName">Andrea Bortolotti</span> è rilasciata con licenza<a class="calmlink block" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/cc.svg' | prepend: site.baseurl }}" alt="Creative Commons License"/><img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/by.svg' | prepend: site.baseurl }}" alt="Attribution"/><img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/nc.svg' | prepend: site.baseurl }}" alt="No commercial" /><img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/nd.svg' | prepend: site.baseurl }}" alt="No derivatives"/></a></p>
+     <hr><p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">Quest' opera di <span property="cc:attributionName">Andrea Bortolotti</span> è rilasciata con licenza<a class="calmlink block" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/cc.svg' | prepend: site.baseurl }}" alt="Creative Commons License"/><img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/by.svg' | prepend: site.baseurl }}" alt="Attribution"/><img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/nc.svg' | prepend: site.baseurl }}" alt="No commercial" /><img style="height:22px!important;margin-left:3px;vertical-align:middle;" src="{{ '/data/img/cc/nd.svg' | prepend: site.baseurl }}" alt="No derivatives"/></a></p>
   </div>
 </footer>
 <script type="text/javascript" src="{{ '/js/prof-view.js' | prepend: site.baseurl }}" defer></script>

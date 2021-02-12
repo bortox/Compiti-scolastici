@@ -4,11 +4,11 @@ title: Un caso di spionaggio durante la guerra tra Serse e le poleis greche
 date: 2021-01-02 20:00
 categories: versione
 materia: LATINO
-description: "La perspicacia di una donna spartana, la sorella del re Leonida, consente ai Greci di interpretare unmessaggio criptato e conoscere in anticipo i piani di Serse."
+description: "La perspicacia di una donna spartana, la sorella del re Leonida, consente ai Greci di interpretare un messaggio criptato e conoscere in anticipo i piani di Serse."
 tags: versione caso spionaggio Serse Leonida
 ---
 
-> La perspicacia di una donna spartana, la sorella del re Leonida, consente ai Greci di interpretare unmessaggio criptato e conoscere in anticipo i piani di Serse.
+> La perspicacia di una donna spartana, la sorella del re Leonida, consente ai Greci di interpretare un messaggio criptato e conoscere in anticipo i piani di Serse.
 
 
 ## Testo Latino

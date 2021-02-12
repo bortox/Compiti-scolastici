@@ -332,6 +332,9 @@ button {
     border-bottom: 2px solid $grey-color-light;
     text-align: right;
     color: Linen;
+    font-size: calc(20px + 6 * ((100vw - 320px) / 680));
+    padding-bottom: .5em;
+    margin-bottom: .3em;
 }
 .smallbutton.navitem {
   color: deepskyblue;
@@ -376,11 +379,11 @@ button {
     padding: .45em;
     border-radius:25px;
     margin: .15em;
-    transition:0.75s;
+    transition:0.56s;
     font-family: OpenSans;
     &:hover {
-    	background-color: #e6ccff;
-    	color: #28004d !important;
+    	background-color: rgba(230, 204, 255,0.95);
+    	color:rgb(25, 0, 80) !important;
     	text-decoration: none;
     }
 }
@@ -394,7 +397,7 @@ img[src*="#border"] {
         max-width: calc(100% - (#{$spacing-unit} / 2) - 0.7em);
     }
  }
- 
+
 
 .calmlink img {
     display: inline !important;
@@ -466,6 +469,7 @@ img[src*="#border"] {
 
 .license-text {
     line-height: 2em;
+    color: rgba(255,255,255,0.6);
 }
 .otherpostlnk {
     text-decoration: none !important;
@@ -489,7 +493,7 @@ img[src*="#border"] {
         color: $grey-color-light;
         border: none;
     }
-    
+
     #results-container {
         color: Cornsilk;
         font-weight: 600;
@@ -588,11 +592,6 @@ img[src*="#border"] {
         &:hover {
             box-shadow: inset 0 0px 7px 0 rgba(250, 250, 250, 0.5);
         }
-    }
-    .textbold::before {
-        font-weight: bold;
-        color: burlywood;
-        content: "Innanzitutto sono contento che tu stia usando il tema scuro nel tuo sistema. L' oscurità è il futuro! "
     }
     div.sticky {
         background-color: DarkSlateBlue;
