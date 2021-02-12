@@ -10,13 +10,25 @@ date: '2021-01-30 11:00:00'
 description: Lavoisier deduce che l' aria è un reagente durante la combustione, ed esegue la combustione del fosforo per capire cosa alimenta il processo di combustione.
 ---
 
+Abbiamo iniziato la nostra lezione con una **domanda** : “ Perchè nella nostra calcinazione in ambiente chiuso la massa aumenta lo stesso “
+Abbiamo semplicemente detto che il nostro crogiolo non era **chiuso ermeticamente** come quello di Lavoisier ma avevamo solo **appoggiato il tappo sopra**. Con questo metodo si **limita** solo l’afflusso di aria, ma non lo si impedisce.
+
 ## Congetture sull' aria
-### Derivate dalle scorse "_puntate_" del diario di bordo
-Grazie agli esperimenti precedenti, siamo arrivati alla conclusione che l’aria è un **elemento attivo** nella combustione, nella calcinazione e in tutte le trasformazioni chimiche, perciò lo si definisce un **reagente**.
+
+Ragionando sugli ultimi esperimenti fatti:
+  - Distillazione
+  - Combustione di zolfo e fosforo
+  - Calcinazione del piombo
+  - candela
+
+siamo arrivati alla conclusione che l’aria è un **elemento attivo** nella combustione, nella calcinazione e in tutte le trasformazioni chimiche, perciò lo si definisce un **reagente**.
 
 Come visto dagli esperimenti eseguiti le scorse volte,  l’aria **non scompare** magicamente, ma **si lega alla sostanza**.
 
-Con queste basi, Lavoisier formulò una legge:
+Infatti è solo un’apparenza il fatto che durante la combustione la massa diminuisca.
+Ciò avviene solamente in ambiente aperto, l' aria si lega al combustibile e si _trasforma_ in una nuova sostanza che "_scompare_" sotto forma di gas. Allora è ovvio che il residuo ( cenere ) pesa di meno. Lavoisier si accorse che in ambiente chiuso - dunque conservando il gas -  la massa totale non varia.
+
+Da queste supposizioni, Lavoisier formulò una la legge della conservazione della massa:
 
 >" La somma della massa dei reagenti è uguale alla somma della massa dei prodotti della trasformazione chimica."
 

@@ -10,6 +10,8 @@ date: '2021-02-03 12:00:00'
 description: Lavosier definisce con il nome Ossigeno l' aria attiva che genera acidi nei processi di combustione e calcinazione.
 ---
 
+Durante la prima parte di questa lezione abbiamo ripetuto e fatto un ripasso riguardo agli esperimenti e scoperte di Lavoisier, chiarendo eventuali dubbi sulla scorsa lezione.
+
 I risultati ottenuti da Lavoisier nei vari esperimenti della quantità d’aria, ovviamente, non sono sempre precisi: ad esempio ottiene un sesto di aria consumata col mercurio, ma lo attribuisce alla fame d’aria della sostanza.
 
 Quindi nel 1773 si arriva finalmente alla conclusione che l’aria non è un elemento, ma che è una miscela di gas.
