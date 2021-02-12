@@ -76,6 +76,8 @@ layout: default
                     {% if lsso == lsspagina %}
                         {% if post.url != page.url %}
                         <a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
+                        {% else %}
+                        <a class="otherpostlnk" href="#"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
                         {% endif %}
                     {% endif %}
                 {% endfor %}
