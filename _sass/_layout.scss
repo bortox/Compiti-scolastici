@@ -487,6 +487,22 @@ img[src*="#border"] {
         color: darken(DarkOrchid, 25%);
     }
 }
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-row-gap: 1em;
+}
+
+dt {
+  grid-column-start: 1;
+  padding-right: 1em;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+dd {
+  grid-column-start: 2;
+}
 @media (prefers-color-scheme: dark) {
     #search-input {
         background: $grey-color-darkplus;
