@@ -30,7 +30,23 @@
 <meta name='coverage' content='Worldwide'>
 <meta name='HandheldFriendly' content="True">
 <meta name="distribution" content="global">
-{% if page.math %}<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% else %}{% endif %}
+{% if page.math %}
+<script>
+MathJax = {
+    
+    tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+    },
+    chtml: {
+        scale:1.25,
+        minScale: .8,
+    },
+};
+</script>
+<script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+{% endif %}
 {% if page.plotly %}<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>{% else %}{% endif %}
 {% if page.fontawesome %}<script src="https://kit.fontawesome.com/ad6ebe67c4.js" crossorigin="anonymous" async></script>{% else %}{% endif %}
 <meta name="keywords" content="{% if page.materia %}{{ page.materia }} {% endif %}{% if page.tags %}, {{ page.tags | join: ", " }}{% endif %}">
