@@ -53,4 +53,4 @@ Muriatico|Acido cloridrico con meno concentrazione, usato per sturare i WC.
 
 > Infine abbiamo ognuno esposto la propria **definizione di Base**. Ecco qui uno **WordCloud** (_Nuvola di Parole_) con tutte le parole più rilevanti dette nelle definizioni di tutti i miei compagni di classe. Le **parole utilizzate più volte** sono **più grandi**.
 
-![WordCloud Base]({{ "/data/img/chimica/lss/acidi-e-basi/WordCloudBase.png" | absolute_url }})
+![WordCloud Base]({{ "/data/img/chimica/lss/acidi-e-basi/WordCloudBase.png" | relative_url }})

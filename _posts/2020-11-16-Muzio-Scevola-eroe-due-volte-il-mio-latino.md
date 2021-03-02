@@ -89,7 +89,7 @@ dimitto, dimittis, dimisi, dimissum, dimittere = congedare
 
 #### Analisi del periodo con schema ad albero<a name="ap"></a>
 
-![Schema visuale analisi del periodo in Latino, Muzio Scevola: eroe due volte]({{ "/data/img/latino/versioni/analisi-periodo/33-pagina-259.png" | absolute_url }})
+![Schema visuale analisi del periodo in Latino, Muzio Scevola: eroe due volte]({{ "/data/img/latino/versioni/analisi-periodo/33-pagina-259.png" | relative_url }})
 
 #### Testo originale in Latino<a name="tlo"></a>
 

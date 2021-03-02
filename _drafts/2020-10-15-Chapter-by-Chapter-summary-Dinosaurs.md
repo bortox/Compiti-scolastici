@@ -49,7 +49,7 @@ Cope found 56 types of dinosaur, while Marsh - winning the bone wars - discovere
 </details>
 
 
-![Timeline of dinosaurs]({{ "/data/img/inglese/dinosaurs-timeline.webp" | absolute_url }})
+![Timeline of dinosaurs]({{ "/data/img/inglese/dinosaurs-timeline.webp" | relative_url }})
 
 
 The first dinosaurs appeared about 250 millions of years ago, and were like small chickens.

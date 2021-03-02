@@ -105,7 +105,7 @@ Pezzo di marmo|Depositato sul fondo.|Effervescenza più marcata. Opaco con resid
 
 ## Solubilizzazione di vari metalli nell' acido cloridrico
 
-![Foto delle provette]({{ "/data/img/chimica/lss/acidi-e-basi/provetteac.jpg" | absolute_url }})
+![Foto delle provette]({{ "/data/img/chimica/lss/acidi-e-basi/provetteac.jpg" | relative_url }})
 
 <details>
   <summary><b>Materiali Utilizzati</b></summary>

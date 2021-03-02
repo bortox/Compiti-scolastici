@@ -9,7 +9,7 @@ lss: acidi-e-basi
 redirect_from: /appunti/2020/09/28/Introduzione-Acidi-e-Basi
 ---
 
-![Word cloud sugli acidi e sulle basi]({{ "data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg" | absolute_url }})
+![Word cloud sugli acidi e sulle basi]({{ "data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg" | relative_url }})
 
 ### Cos'è per te un acido?
 

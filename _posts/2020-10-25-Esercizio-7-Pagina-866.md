@@ -17,5 +17,5 @@ tags: matematica,geometria,dimostrazione,dimostra,parallelogramma,triangolo,segm
 
 ### Dimostrazione
 
-![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/7-866.jpg" | absolute_url }})
+![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/7-866.jpg" | relative_url }})
 

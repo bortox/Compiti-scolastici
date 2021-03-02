@@ -109,7 +109,7 @@ tags: fisica inerzia lss domande risposte filmato ghiaccio secco velocità
 5. In questo moto tra spostamento ed intervallo di tempo c’è una relazione di proporzionalità diretta.
 
 6. Tra posizione e istante di tempo c'è una relazione di proporzionalità diretta, lo possiamo notare dalla linea retta del grafico.
- ![Grafico della proporzionalità diretta tra la posizione e l'istante di tempo nello spostamento di un disco a ghiaccio secco.]({{ "/data/img/fisica/lss/inerzia/velocita-ghiaccio-secco.png" | absolute_url }})
+ ![Grafico della proporzionalità diretta tra la posizione e l'istante di tempo nello spostamento di un disco a ghiaccio secco.]({{ "/data/img/fisica/lss/inerzia/velocita-ghiaccio-secco.png" | relative_url }})
 
 7. Per trovare lo **spostamento** del disco in un **intervallo di tempo** di **8 secondi** si deve **moltiplicare la velocità** per **8 secondi** 14 cm/s x 8 s= **112 cm**.
 

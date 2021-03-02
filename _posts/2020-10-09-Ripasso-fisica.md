@@ -38,7 +38,7 @@ $$S$$ = $$ \frac{F}{\rho} $$
 
 ### Il torchio idraulico
 
-![Immagine torchio idraulico]({{ "/data/img/fisica/appunti/fluidi/torchio_idraulico.svg" | absolute_url }})
+![Immagine torchio idraulico]({{ "/data/img/fisica/appunti/fluidi/torchio_idraulico.svg" | relative_url }})
 
 > Sfrutta una conseguenza del principio di Pascal. Infatti la forza applicata sulla prima superficie crea una pressione $$ x $$.  $$ x $$ si trasmette sulla seconda superficie. Se la seconda superficie è più grande, allora anche la forza che agirà su di essa sarà maggiore, per mantenere il rapporto $$\frac{F_1}{S_1} = \frac{F_2}{S_2}$$
 

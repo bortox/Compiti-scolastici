@@ -50,7 +50,7 @@ Proviamo a ripetere l' esperimento sopracitato con **altri indicatori** ; **Feno
 
 |## Fenolftaleina|## Cartina da tornasole|
 |---|---|
-![Foto Fenolftaleina]({{ "/data/img/chimica/lss/acidi-e-basi/fenoftaleina.jpg" | absolute_url }})|![Foto cartina da tornasole]({{ "/data/img/chimica/lss/acidi-e-basi/cartina_tornasole.jpeg" | absolute_url }})
+![Foto Fenolftaleina]({{ "/data/img/chimica/lss/acidi-e-basi/fenoftaleina.jpg" | relative_url }})|![Foto cartina da tornasole]({{ "/data/img/chimica/lss/acidi-e-basi/cartina_tornasole.jpeg" | relative_url }})
 
 
 

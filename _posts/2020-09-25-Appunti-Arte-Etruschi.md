@@ -14,13 +14,13 @@ tags: architettura funeraria civiltà etrusca
 
 <details>
         <summary><b>A edicola</b></summary>
-        <img alt="Tomba a edicola vicino populonia" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/edicolasancerbone.jpg" | absolute_url }}'/>
+        <img alt="Tomba a edicola vicino populonia" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/edicolasancerbone.jpg" | relative_url }}'/>
         • Costruzione interamente fuori terra, simile ad un' abitazione. Costruita interamente in pietra, piccola e con una sola camera funeraria. Il nome _edicola_ ha origine **latina**: esso deriva da _aedicula_ che significa _tempietto_<br>
         📍 Populonia, Piombino LI
 </details>
 <details>
         <summary><b>A tumulo</b></summary>
-        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/tumulomontagnola.jpg" | absolute_url }}'/>
+        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/tumulomontagnola.jpg" | relative_url }}'/>
         • La struttura della tomba emerge con un tumulo, che poi viene sotterrato.<br>
         • Fatta in modo tale da formare una collinetta, ha un doppio vantaggio: <br>
             • Individuare il luogo di sepoltura<br>
@@ -32,8 +32,8 @@ tags: architettura funeraria civiltà etrusca
 </details>
 <details>
         <summary><b>Ipogea</b></summary>
-        <img alt="Tomba ipogea dei Volumni, Perugia, mappa" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumnimappa.jpg" | absolute_url }}'/>
-        <img alt="Tomba ipogea dei Volumni, Perugia, foto" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumni.jpg" | absolute_url }}'/>
+        <img alt="Tomba ipogea dei Volumni, Perugia, mappa" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumnimappa.jpg" | relative_url }}'/>
+        <img alt="Tomba ipogea dei Volumni, Perugia, foto" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumni.jpg" | relative_url }}'/>
         • Interamente sottoterra oppure a fianco di una parete rocciosa. <br> Si scompone in varie camere funerarie. <br>Solitamente caratterizza il luogo di sepoltura delle famiglie ricche<br><br>
         📍 Perugia, tomba dei Volumni.
 </details>
