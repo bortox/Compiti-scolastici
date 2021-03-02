@@ -4,7 +4,7 @@ title: "Determina perimetro e area di un triangolo dati i vertici. Geometria ana
 categories:  compiti
 materia: matematica
 math: esattamente
-description: Dopo aver rappresentato il triangolo di vertici A(-1,1), B(2,0), C(1,4)determina il suo perimetro e la sua area.
+description: Dopo aver rappresentato il triangolo di vertici A(-1,1), B(2,0), C(1,4) determina il suo perimetro e la sua area.
 tags: geometria analitica triangolo vertici area perimetro determina coefficiente angolare distanza formula area rette equazioni
 ---
 

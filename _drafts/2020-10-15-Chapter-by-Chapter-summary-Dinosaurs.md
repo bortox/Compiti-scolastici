@@ -29,7 +29,7 @@ Her discoveries **attracted scientist**, who visited her:
 
 **Richard Owen**, another scientist, wrote the book _Dinosauria_ about the recent discoveries of the past and he was the one who had given the name _dinosaurs_ to these strange animals of the past and he classified dinosaurs in three big groups that are **still used today**:
 <details markdown='1'>
-<summary>Classification of dinosaurs - click to open</summary>
+<summary>Classification of dinosaurs</summary>
 
 |GROUP|DINOSAUR|ADDITIONAL INFORMATION
 |---|---|---|
@@ -40,7 +40,7 @@ Ornithiscians|Hylaeosaurus|Claw on their tail and thick skin to defend themselve
 </details>
 > Owen had told scientists about dinosaurs and the division of them into groups in London, 1853. He had also written a book about it. The book was read all over the world. Soon scientists and  and, in the 1870, two Americans - Othniel Marsh and Edward Cope - began to find dinosaurs in North America
 <details markdown='1'>
-<summary>The bone wars - click to open</summary>
+<summary>The bone wars</summary>
 
 Marsh and Cope competed to find more bones than each other, they often argued on newspapers and books, this made dinosaur hunting very popular. 
 

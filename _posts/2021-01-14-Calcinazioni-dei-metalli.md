@@ -11,7 +11,9 @@ tags:  calcinazioni metalli chimica lss
 
 Nello scorso percorso LSS _Nascita del Concetto di Gas_ abbiamo osservato varie calcinazioni tra cui il carbonato di magnesio, e il carbonato di rame, e abbiamo discusso riguardo a quella del carbonato di calcio. 
 
-Inizieremo questo percorso osservando le **calcinazioni dei metalli** tali calcinazioni hanno svolto un **ruolo importantissimo** nella **storia dell’umanità** fin da tempi remoti. Discuteremo riguardo a due esperimenti.
+Inizieremo questo percorso osservando le **calcinazioni dei metalli** tali calcinazioni hanno svolto un **ruolo importantissimo** nella **storia dell’umanità** fin da tempi remoti. 
+
+Discuteremo riguardo due esperimenti.
 
 ### 1° esperimento :
 
@@ -138,3 +140,16 @@ Si confermano le precedenti.
 | PB ambiente chiuso | [^1]           | [^1]           | [^1]        | [^1]          | [^1]            |
 
 [^1]: I dati non tornano;  si dovrà eseguire di nuovo l' esperimento siccome i risultati sono insensati: il peso risultante è minore di quello dello stesso crogiolo a causa di errori di calcolo.
+
+## Definizioni e breve storia
+
+Calcinazione
+: Termine usato per molti processi chimici che avvengono ad alte temperature
+
+Calcinazione dei metalli
+: Trasformazione che i metalli subiscono ad alte temperature
+
+Calci metalliche
+: Sostanze ottenute dalla calcinazione dei metalli
+
+Si pensa che la prima calcinazione effettuata sia stata quella del calcare, da cui si ricava la calce. Nell' antichità venivano inoltre calcinati piombo e litargirio per ottenere pigmenti, calce gialla e calce rossa.
