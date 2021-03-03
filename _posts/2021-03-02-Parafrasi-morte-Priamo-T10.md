@@ -2,6 +2,7 @@
 layout: post
 materia: epica
 categories: parafrasi
+description: Parafrasi epica della morte di Priamo, dal libro Narrami o musa, T10.
 title: La morte di Priamo - Parafrasi T10
 tags:
 - parafrasi
