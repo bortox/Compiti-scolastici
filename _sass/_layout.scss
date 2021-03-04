@@ -489,19 +489,20 @@ img[src*="#border"] {
 }
 dl {
   display: grid;
-  grid-template-columns: max-content auto;
   grid-row-gap: 1em;
 }
 
 dt {
   grid-column-start: 1;
-  padding-right: 1em;
+  padding-right: .75em;
   text-transform: capitalize;
   font-weight: bold;
+  grid-template-columns: fit-content(32%);
 }
 
 dd {
   grid-column-start: 2;
+  grid-template-columns: fit-content(68%);
 }
 @media (prefers-color-scheme: dark) {
     #search-input {
