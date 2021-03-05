@@ -76,11 +76,6 @@ libro, libras, libravi, libratum, librare
 
 sum, es, fui, esse
 
-
-## Analisi del periodo
-
-![Errore del server; richiesta non trovata](https://definicion.de/wp-content/uploads/2009/02/error.jpg)
-
 [^1]: il Peneo, torrente della Tessaglia
 [^2]:   Vobis fluminibus est numen--> Dativo di possesso --> A voi fiumi è il potere --> Voi fiumi avete il potere ( di fare ciò ) 
 [^3]: BOTANICA -  libro, la membrana sottile che si trova sotto la corteccia dell'albero

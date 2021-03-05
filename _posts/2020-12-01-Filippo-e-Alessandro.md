@@ -68,7 +68,3 @@ regno, regnas, regnavi, regnatum, regnare
 metuo, metuis, metui, metutum, metuere
 
 dedo, dedis, dedidi, deditum, dedere
-
-## Analisi del periodo
-
-![Errore del server; richiesta non trovata](https://definicion.de/wp-content/uploads/2009/02/error.jpg)

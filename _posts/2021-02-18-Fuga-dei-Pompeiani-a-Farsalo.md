@@ -79,7 +79,3 @@ venio, venis, veni, ventum, venire
 perducto, perductas, perductare
 
 conficio, conficis, confeci, confectum, conficere
-
-# Analisi del periodo
-![Purtroppo la foto non è stata trovata](https://images-na.ssl-images-amazon.com/images/I/41bLP6NzvKL.jpg)
-

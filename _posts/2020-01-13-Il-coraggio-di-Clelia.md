@@ -54,9 +54,3 @@ sum, es, fui, esse
 pono, ponis, posui, positum, ponere
 
 sum, es, fui, esse
-
-
-## Analisi del periodo
-
-![Errore del server; richiesta non trovata](https://definicion.de/wp-content/uploads/2009/02/error.jpg)
-
