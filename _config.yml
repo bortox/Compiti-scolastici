@@ -6,6 +6,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-spaceship
   - jekyll-redirect-from
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+  - jekyll-target-blank
+  - jekyll-loading-lazy
 author: Andrea Bortolotti Bortox
 lang: it_IT
 locale: it_IT
@@ -17,7 +21,7 @@ social:
     - https://github.com/bortox
     - https://instagram.com/borto.jpg
     - https://www.youtube.com/channel/UCHehfwRWUDOcyfeCjOh_fzg
-logo: /data/img/cso.png
+logo: /data/img/LogoSitoWeb.png
 defaults:
     - scope:
         path: ""
@@ -28,3 +32,11 @@ exclude:
 jekyll-spaceship:
   processors:
     - table-processor
+    - mermaid-processor
+  mermaid-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: 'mermaid!'
+      custom: ['@startmermaid', '@endmermaid']

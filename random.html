@@ -1,0 +1,31 @@
+---
+# sauce: https://github.com/rwmpelstilzchen/static-random-post/blob/master/jekyll.html
+layout: null
+sitemap: false
+noindex: true
+---
+
+<html>
+<head>
+  <script>
+    var posts = [];
+    {% for post in site.posts %}
+    posts.push("{{ post.url | relative_url }}");
+    {% endfor %}
+
+    document.write("<meta http-equiv=\"refresh\" content=\"1;url=");
+    document.write(posts[Math.floor(Math.random() * posts.length)]);
+    document.write("\">");
+  </script>
+</head>
+
+<body>
+    <img src="{{ "/data/img/loghi/aereo.svg" | relative_url }}" style="width:100%;height:100%;animation:none">
+  Sto reindirizzando al post
+  <script>
+    document.write("<a href="");
+    document.write(posts[Math.floor(Math.random() * posts.length)]);
+    document.write("\">random post</a>...");
+  </script>
+</body>
+</html>

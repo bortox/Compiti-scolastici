@@ -18,7 +18,7 @@ tags: fenoftaleina,cartina da tornasole,acidità,pH,lss,chimica,metallo,acido,ba
 Innanzitutto **eseguiremo di nuovo** l' **esperimento per casa**: così chi non l' ha fatto potrà osservare il tutto, e poi potremmo **discuterne insieme**.
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Acido cloridrico<br>
   • Estratto di radicchio<br>
@@ -50,7 +50,7 @@ Proviamo a ripetere l' esperimento sopracitato con **altri indicatori** ; **Feno
 
 |## Fenolftaleina|## Cartina da tornasole|
 |---|---|
-![Foto Fenolftaleina]({{ "/data/img/chimica/lss/acidi-e-basi/fenoftaleina.jpg" | absolute_url }})|![Foto cartina da tornasole]({{ "/data/img/chimica/lss/acidi-e-basi/cartina_tornasole.jpeg" | absolute_url }})
+![Foto Fenolftaleina]({{ "/data/img/chimica/lss/acidi-e-basi/fenoftaleina.jpg" | relative_url }})|![Foto cartina da tornasole]({{ "/data/img/chimica/lss/acidi-e-basi/cartina_tornasole.jpeg" | relative_url }})
 
 
 

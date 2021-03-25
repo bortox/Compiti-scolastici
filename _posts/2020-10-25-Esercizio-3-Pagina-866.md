@@ -12,5 +12,5 @@ tags: geometria,dimostrazione,dimostra,parallelogramma,triangolo,isoscele
 
 ### Dimostrazione
 
-![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/3-866.jpg" | absolute_url }})
+![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/3-866.jpg" | relative_url }})
 

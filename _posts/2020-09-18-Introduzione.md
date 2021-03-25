@@ -26,7 +26,7 @@ tags: combustione comburente combustibile lss diario di bordo chimica
 </div>
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Accendino<br>
   • Carta<br>

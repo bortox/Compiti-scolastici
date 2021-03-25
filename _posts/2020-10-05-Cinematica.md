@@ -15,7 +15,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 
 ##### Le medie delle camminate e delle corse fatte dai miei compagni sotto il portico, misurate da 3 cronometri diversi. Sono tutti dei moti regolari.
 
-![Grafici dei moti regolari, dal primo al quarto]({{ "/data/img/fisica/lss/moto/grafici1to4.png" | absolute_url }})
+![Grafici dei moti regolari, dal primo al quarto]({{ "/data/img/fisica/lss/moto/grafici1to4.png" | relative_url }})
 
 <svg display="inline-block" float="left" width="345" height="45">
   <rect x="8" y="5" rx="5" ry="5" width="330" height="30" style="fill:orange;stroke:black;stroke-width:.9;opacity:0.7" />
@@ -49,7 +49,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 4|21.83|22.34|21.82|(22.09±0.26)s
 5|27.80|27.35|27.28|(27.54±0.26)s
 
-![Grafico di camminata regolare]({{ "/data/img/fisica/lss/moto/grafico1.png" | absolute_url }})
+![Grafico di camminata regolare]({{ "/data/img/fisica/lss/moto/grafico1.png" | relative_url }})
 
 
 ### 2) Corsa lenta
@@ -63,7 +63,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 4|11.92|11.34|11.99|(11.66±0.33)s
 5|14.50|14.40|14.63|(14.52±0.12)s
 
-![Grafico di corsa lenta]({{ "/data/img/fisica/lss/moto/grafico2.png" | absolute_url }})
+![Grafico di corsa lenta]({{ "/data/img/fisica/lss/moto/grafico2.png" | relative_url }})
 
 ### 3) Corsa veloce
 
@@ -76,7 +76,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 4|4.23|4.46|4.57|(4.4±0.17)s
 5|5.58|5.64|5.56|(5.6±0.04)s
 
-![Grafico di corsa veloce]({{ "/data/img/fisica/lss/moto/grafico3.png" | absolute_url }})
+![Grafico di corsa veloce]({{ "/data/img/fisica/lss/moto/grafico3.png" | relative_url }})
 
 
 ### 4)  Camminata dal pilone 2
@@ -90,7 +90,7 @@ tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di err
 
 [^1]: Not an Error, non è un errore, non ci sono dati.
 
-![Grafico di camminata regolare dal pilone 2]({{ "/data/img/fisica/lss/moto/grafico4.png" | absolute_url }})
+![Grafico di camminata regolare dal pilone 2]({{ "/data/img/fisica/lss/moto/grafico4.png" | relative_url }})
 
 
 

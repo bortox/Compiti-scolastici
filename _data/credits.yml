@@ -1,0 +1,47 @@
+- nome: Simple-Jekyll-Search
+  descrizione: >-
+    Simple-Jekyll-Search è un tema bello e pratico per Jekyll, con una pratica
+    funzionalità di ricerca. Posso dunque affermare che la base dell intero sito
+    è la seguente repo di Christian Fei. 
+  nome_autore: Christian Fei
+  link_fonte: 'https://github.com/christian-fei/Simple-Jekyll-Search/'
+- nome: Menù di condivisione
+  descrizione: >-
+    In basso a destra, con numerose opzioni di condivisione. Imita la WebShare
+    API con un gradevole menù come fallback. Gradevole esteticamente, peccato
+    per molti social che non si usano in Italia ma... if it works don't touch
+    it!
+  nome_autore: Giorgio Garasto
+  link_fonte: 'https://github.com/Dabolus/share-menu'
+- nome: Funzionalità post casuale
+  descrizione: >-
+    In fondo alla pagina, il bottone Scelta casuale contenente un emoji di dado
+    ti porterà ad una pagina a caso.
+  nome_autore: Juda Ronén
+  link_fonte: >-
+    https://github.com/rwmpelstilzchen/static-random-post/blob/master/jekyll.html
+- nome: Icone presenti nel sito.
+  descrizione: >-
+    Le icone che collegano ai miei profili di Instagram e Github in fondo alla
+    pagina, l' icona di un avatar per collegare a questa pagina e l' icona di un
+    aereo durante il reindirizzamento ad un post random. Icona di condivisione
+    in basso a destra alla pagina, sostituita da un cuore quando il post viene
+    condiviso. Tutte queste icone sono prese da Wikimedia Commons, pubblico
+    dominio.
+  nome_autore: Pubblico dominio
+  link_fonte: 'https://commons.wikimedia.org/'
+- nome: Link in nuova scheda
+  descrizione: >-
+    Questo plugin per Jekyll aggiunge gli attributi rel="noopener noreferrer"  e target="_blank" ad ogni link. Di conseguenza, ogni link sarà aperto in una nuova scheda.
+  nome_autore: Keith Mifsud
+  link_fonte: 'https://github.com/keithmifsud/jekyll-target-blank'
+- nome: Post correlati in fondo alla pagina
+  descrizione: >-
+    Quando uno finisce di leggere un articolo forse vorrà leggerne un altro. Ecco perché in fondo alle pagine di questo sito c'è scritto "Altri post di <nome materia>", con alcuni post consigliati da guardare. I post consigliati non sono casuali, ma sono basati sulle parole chiave (tag) dei post in comune. Ovviamente io sono un nabbone e non so programmare in Ruby, quindi ho preso il plugin di Toshimaru.  
+  nome_autore: Toshimaru
+  link_fonte: 'https://github.com/toshimaru/jekyll-tagging-related_posts'
+- nome: Caricamento immagini
+  descrizione: >-
+    Le immagini sono l' elemento più pesante delle mie pagine, ne rallentano di molto il caricamento. Il "lazy loading", ossia "caricamento pigro", in questo ambito, offre un importante aiuto. Le immagini con l' attributo loading=lazy verranno caricate soltanto quando saranno nella parte di pagina visibile all' utente. Quindi, finché non scorrerai al livello di un' immagine, essa non sarà caricata. 
+  nome_autore: Gil Desmarais
+  link_fonte: 'https://github.com/gildesmarais/jekyll-loading-lazy'

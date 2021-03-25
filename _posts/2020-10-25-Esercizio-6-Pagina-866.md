@@ -12,5 +12,5 @@ tags: pagina 866,parallelogramma,talete
 
 ### Dimostrazione
 
-![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/6-866.jpg" | absolute_url }})
+![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/6-866.jpg" | relative_url }})
 

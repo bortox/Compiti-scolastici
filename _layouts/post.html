@@ -3,22 +3,18 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    
-    <div class="shtroll">
-    {% include share.html %}
-    </div>
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
-   
-  <div class="post-content" itemprop="articleBody">
+ <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
     </article>
-        <div class="nottoprint">
-            <button class="smallbutton listio" disabled style="cursor:default; background-color:rgba(58,60,89, 0.40)">{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
-            🕰️ PUBBLICATO: 
+            <div style="text-align:center">
+            <button class="smallbutton listio date" disabled>{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
+            🕰️ PUBBLICATO:
             {% case d %}
             {% when '1' %}Primo di
             {% when '2' %}Due
@@ -65,46 +61,51 @@ layout: default
             {% when '10' %}Ottobre
             {% when '11' %}Novembre
             {% when '12' %}Dicembre
-            {% endcase %}</button>
-            <section id="more-work">
-            {% if page.lss %}
-                <hr/><h4><span style="font-size:1.3em;color:#483D8B"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h4></span><br>
+            {% endcase %}</button></div>
+	    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em">
+	    <a class="calmlink" style="border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Modifica per la pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo proporre una modifica riguardante la pagina « ' | url_encode }}{{ page.title | url_encode }}{{ '»  ...' | url_encode }}%0D%0A%0D%0A"> Proponi una modifica ✉️</a>
+	  </div>
+          <div class="nottoprint">
+
+            <div id="more-work">
+                {% if page.lss %}
+                <h3 class="calmlinknoanim"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h3><br>
                 {% assign lsspagina = page.lss | downcase %}
                 {% for post in site.posts %}
                     {% assign lsso = post.lss | downcase %}
                     {% if lsso == lsspagina %}
                         {% if post.url != page.url %}
-                        <h5><a href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span><span style="color:royalblue"> {{ post.title | escape }} </span></a></h5></li>
+                        <a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
                         {% else %}
-                        <h5><a href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
+                        <a class="otherpostlnk" href="#"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
                         {% endif %}
                     {% endif %}
                 {% endfor %}
-            {% else %}
-            {% endif %}
-            </section>
-            <hr />
-            <section id="more-work">
-                <h4><span style="font-size:1.3em;color:navy"> Altri post di {{ page.materia | capitalize | replace: "-", " " }}: </h4></span><br>
-                {% assign materiapagina = page.materia | downcase %}
-                {% assign i = 0 %}
-                {% for post in site.posts %}
-                    {% assign materia = post.materia | downcase %}
-                    {% if materia == materiapagina %}
-                        {% assign i = i | plus:1 %}
-                        {% if post.url != page.url %}
-                        <h5><a href="{{ post.url | relative_url }}">☛ {{ post.title | escape }}</a></h5></li>
-                        {% else %}
-                        <h5><a href="{{ post.url | relative_url }}"><span style="color:#00264d">Hai appena letto: </span>{{ post.title | escape }}</a></h5></li>
-                        {% endif %}
-                    {% endif %}
-                    {% if i == 5 %}
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
-            </section>
-            <hr />
-        </div>
-        <sub id="goatcounter-text"></sub>
+                {% else %}
+                {% if site.related_posts.size >= 2 %}
+                <h3 class="calmlinknoanim"> Altri post correlati di <span style="color:Gold">{{ page.materia | capitalize | replace: "-", " " }}</span>: </h3>
+                <div class="page-content">
+                    {% assign materia = page.materia | downcase %}
 
+                {% for related_post in site.related_posts limit: 6 %}
+                    {% assign materiapost = related_post.materia | downcase %}
+                    {% if materia == materiapost %}
+                    <a class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 12 }}</a><hr>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+                {% endif %}
+                <div id="dialshare">
+                    <a class="calmlinknoanim block" onclick="Sharee()"><span style="color:aqua">Condividi</span></a>
+                    <a class="calmlinknoanim block" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
+                    <a class="calmlinknoanim block" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
+                </div>
+            </div>
+        </div>
+
+</div>
+<div class="profview"><hr>
+<p> Questo è il mio sito web personale contenente i i compiti scolastici e gli appunti presi da me, <span style="color:darkslateblue">Andrea Bortolotti</span>, durante il liceo.  Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! L' ho creato per essere più ordinato e per non perdere nulla. </p>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/cc.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/by.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/nc.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/nd.svg' | prepend: site.baseurl }}" /></a></p><hr>
 </div>

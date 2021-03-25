@@ -5,8 +5,8 @@ layout: none
   {% for post in site.posts %}
     {
       "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "materia"  : "{{ post.materia }}",
+      "category" : "{{ post.category | escape }}",
+      "materia"  : "{{ post.materia | capitalize }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",

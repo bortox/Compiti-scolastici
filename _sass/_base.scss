@@ -12,48 +12,40 @@ html {
   scroll-behavior: smooth;
 }
 hr {
-    margin-bottom: 2.3em;
-    margin-top: 1.12em;
-    color: darkblue;
+    color: purple;
+    background-color: purple;
+    border: none !important;
+    opacity: 0.4;
+    height: 2px;
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
 }
 #temadiv {
 
     text-align: justify
 }
 @media print {
-    .onlyprint {
-       display: block;
-       width: 40%;
-       text-align: center;
-       opacity: 1;
-       margin: auto;
-       color: black;
+   .profview {
+        display: inline-block !important;
    }
    .nottoprint {
-       display: none;
-    }
-   
+        display: none !important;
+   }
 }
-@media screen {
-    .onlyprint {
-    display: none;
-    }
-}
-svg {
-
-    animation: fadeIn;
-    animation-duration: 0.3s;
-    animation-delay: 2.3s;
-    animation-fill-mode: both;
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 2;
+  bottom: 0;
+  background-color: Grey;
+  width: 20%;
+  margin-left: auto;
+  margin-right: 0;
+  border-top-left-radius: 2em;
+  max-width: 100px;
 }
 table {
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 0.3s;
-    animation-delay: 2.5s;
-    border: 0.14em groove black;
-    border-radius: 1em;
-    margin : 0.2em;
+    margin : 0.2em auto;
     border-collapse: collapse;
     display: block;
     width: 100%;
@@ -61,28 +53,29 @@ table {
     font-size: 1em;
     overflow: auto;
     text-align: center;
-    
+    font-family: OpenSans
 }
 table th {
     letter-spacing: .1em;
     text-transform: uppercase;
     color: darken(darkblue, 20%);
-    border: 4px ridge darkblue;
-    border-radius: 5px;
+    border: 0.17em ridge darkblue !important;
+    border-bottom: 0.2em solid darken(red, 40%) !important;
     font-weight: 700;
     font-style: bold;
+    font-family: OpenSans;
 }
 table td,
 table th {
     padding: 6px 13px;
-    border-width: 0.12em;
+    border-width: 0.13em;
     border-style: solid;
+    border-color: lightslategray;
 }
 /**
  * Basic styling
  */
 body {
-    font-family: Open Sans;
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 400;
@@ -95,35 +88,10 @@ body {
     font-family: "Title";
     src: url("../data/fonts/Title.ttf");
     font-display: swap;
-    
-}
-@font-face {
-    font-family: "Abel";
-    src: url("../data/fonts/Abel.ttf");
-    font-display: swap;
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-Regular.ttf");
-  font-weight: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-Bold.ttf");
-  font-weight: bold;
-  font-display: swap;
-}
-@font-face {
-  font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-SemiBold.ttf");
-  font-weight: 600;
-  font-display: swap;
-}
-@font-face {
-  font-family: "OpenSans";
-  src: url("../data/fonts/OpenSans-ExtraBold.ttf");
-  font-weight: 800;
+  src: url("../data/fonts/Nunito-Regular.ttf");
   font-display: swap;
 }
 /**
@@ -136,81 +104,50 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 p {
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 1s;
-    animation-delay: 2.4s; 
+    font-size: 1.05em;
+    margin-bottom: $spacing-unit / 5;
 }
-@keyframes mymove {
-    from {background-color: red;}
-    to {background-color: purple;}
-}
+
 h1 {
     font-family: "Title";
-    background: purple;
+    background: linear-gradient(230deg,BlueViolet,DarkOrchid);
     margin:0.2em;
+    border-radius:.1em;
     margin-bottom: 0.4em;
     padding-bottom: 0.2em;
     padding:0.3em;
     color: white;
-    animation: zoomInDown 1s, mymove 3s;
     font-size: 3em;
 }
 h2 {
     font-family: "Title";
-    animation: fadeInDown;
-    animation-duration:0.9s;
-    animation-delay:1.3s;
-    animation-fill-mode: both;
     font-size: 2.4em;
 }
 h3 {
     font-family: "Title";
     font-size: 2em;
-    animation: fadeInDown;
-    animation-duration: 0.8s;
-    animation-fill-mode: both;
-    animation-delay: 1.6s;
 }
 h4 {
     font-family: "Title";
     font-size: 1.76em;
-    animation: fadeInDown;
-    animation-duration: 0.7s;
-    animation-fill-mode: both;
-    animation-delay: 1.9s;
 }
 h5 {
     font-family: "Title";
     font-size: 1.2em;
-    animation: fadeInDown;
-    animation-duration: 0.6s;
-    animation-fill-mode: both;
-    animation-delay: 2.2s;
 }
 h6 {
     font-family: "Title";
     font-size: 1em;
-    animation: fadeInDown;
-    animation-fill-mode: both;
-    animation-duration: 0.5s;
-    animation-delay:2.5s;
 }
 
 /**
  * Images
  */
 img {
-    margin: 0.63em;
+    margin: 0.63em auto;
+    border-radius: 10px;
     max-width: 100%;
     vertical-align: middle;
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 1s;
-    animation-delay: 5s;
-}
-.shortanimation {
-    animation: none;
 }
 
 
@@ -219,7 +156,7 @@ img {
  */
 figure > img {
     display: block;
-    
+
 }
 
 figcaption {
@@ -232,21 +169,10 @@ figcaption {
  * Lists
  */
 ul, ol {
-    animation: backInLeft;
-    animation-fill-mode: both;
-    animation-duration: 0.6s;
-    animation-delay: 1.6s;
     margin-left: $spacing-unit;
-    margin-bottom: 0.14em;
-}
+    margin-bottom: $spacing-unit/2;
 
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
 }
-
 
 
 /**
@@ -294,12 +220,15 @@ summary {
     font-size: 18px;
     letter-spacing: 0.05em;
     color:$grey-color-mid;
-    transition:0.2s;
+    transition:0.6s;
     &:hover {
         color:$grey-color-dark;
     }
-    
-    
+    &:focus {
+        outline: none;
+    }
+
+
 }
 details {
     color:$grey-color-dark;
@@ -307,7 +236,7 @@ details {
     margin: $spacing-unit * 1.5;
     font-size: 16px;
     border-left: 3px solid $grey-color-light;
-    line-height: 1.9em;
+    line-height: 1.7em;
     letter-spacing: 0.005em;
     font-weight:400;
 	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.19),
@@ -315,7 +244,7 @@ details {
 	background: #ffffff;
 	border-radius: 8px;
 	position: relative;
-    transition: 0.5s;
+    transition: 0.4s;
 	&:hover {
         border-radius:9px;
         color: black;
@@ -325,6 +254,13 @@ details {
 		cursor: pointer;
 	}
 }
+details[open] summary::after {
+  content: ' (clicca per chiudere)';
+}
+
+details:not([open]) summary::after {
+  content: ' (clicca per aprire)';
+}
 
 
 /**
@@ -332,10 +268,6 @@ details {
  */
 pre,
 code {
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 0.9s;
-    animation-delay: 4s;
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
@@ -358,29 +290,19 @@ pre {
 }
 
 .footnotes::before {
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 0.9s;
-    animation-delay: 2s;
     font-weight: 700;
     font-size: 16px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+    text-align: center;
     display: block;
     margin-bottom: 1.4em;
+    padding-top: 0.5em;
     content: "Note a pié di pagina:";
 }
 .footnotes {
-    animation: fadeIn;
-    animation-fill-mode: both;
-    animation-duration: 0.9s;
-    animation-delay: 3s;
     border-top: 7px dotted darkcyan;
-    padding-bottom: 1.6em;
-    padding-left: 1.6em;
-    padding-right: 1.6em;
-    margin-top:6em;
+    padding: 1.6em;
+    padding-top: 0 !important;
+    margin-top:2em;
     border-radius:5em;
     border-bottom: 4px dotted dodgerblue;
 }
@@ -404,7 +326,9 @@ pre {
     }
 }
 
-
+::selection {
+  background: Gold; /* WebKit/Blink Browsers */
+}
 
 /**
  * Clearfix

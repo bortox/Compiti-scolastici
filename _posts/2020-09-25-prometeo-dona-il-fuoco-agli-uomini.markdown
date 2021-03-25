@@ -5,6 +5,7 @@ date: 2020-09-25 20:00:00
 categories:  versione
 materia: LATINO
 description: "Per migliorare la vita degli uomini, Prometeo trafuga il fuoco agli dei e lo porta sulla terra. Giove per punizione lo fa incatenare a una rupe del Caucaso, dove ogni notte un' aquila gli divora il fegato. Versione numero 23 pagina 199 del libro Il mio latino"
+redirect_from: /compiti/2020/09/25/prometeo-dona-il-fuoco-agli-uomini
 ---
 
 
@@ -26,4 +27,4 @@ Ercole uccise l' aquila dopo molti anni e liberò Prometeo.
 
 ### Analisi del Periodo ad albero:
 
-![Schema visuale analisi del periodo non trovato]({{ "/data/img/latino/versioni/analisi-periodo/PrometheusIapetiFilius.png" | absolute_url }})
+![Schema visuale analisi del periodo non trovato]({{ "/data/img/latino/versioni/analisi-periodo/PrometheusIapetiFilius.png" | relative_url }})

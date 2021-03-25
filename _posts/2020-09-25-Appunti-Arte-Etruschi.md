@@ -7,30 +7,34 @@ materia: "STORIA DELL' ARTE"
 tags: architettura funeraria civiltà etrusca
 ---
 
+> Ci resta poco o nulla dell' architettura etrusca, poiché i materiali usati erano in stragrande maggioranza deperibili, ossia facilmente degradabili, come **legno**, **mattoni** o **terracotta**
 
 ## Le Tombe
 
 
 <details>
-        <summary><b>A edicola</b> (clicca per espandere)</summary>
-        <img alt="Tomba a edicola vicino populonia" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/edicolasancerbone.jpg" | absolute_url }}'/>
-        • Costruzione interamente fuori terra, simile ad un' abitazione<br>
+        <summary><b>A edicola</b></summary>
+        <img alt="Tomba a edicola vicino populonia" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/edicolasancerbone.jpg" | relative_url }}'/>
+        • Costruzione interamente fuori terra, simile ad un' abitazione. Costruita interamente in pietra, piccola e con una sola camera funeraria. Il nome _edicola_ ha origine **latina**: esso deriva da _aedicula_ che significa _tempietto_<br>
         📍 Populonia, Piombino LI
 </details>
 <details>
-        <summary><b>A tumulo</b> (clicca per espandere)</summary>
-        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/tumulomontagnola.jpg" | absolute_url }}'/>
+        <summary><b>A tumulo</b></summary>
+        <img alt="Tomba a tumulo a Sesto Fiorentino" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/tumulomontagnola.jpg" | relative_url }}'/>
         • La struttura della tomba emerge con un tumulo, che poi viene sotterrato.<br>
+        • Fatta in modo tale da formare una collinetta, ha un doppio vantaggio: <br>
+            • Individuare il luogo di sepoltura<br>
+            • Proteggere la sepoltura<br>
         • Simile al tholos miceneo<br>
-        • Siamo ancora incerti riguardo al pilastro centrale nel tumulo; ci sono pareri discordanti: la nostra prof. pensa che abbia una funzione strutturale, come descritto sul libro, ma alcuni nostri alunni che hanno fatto l' alternanza scuola-lavoro come guide alla montagnola hanno saputo che il pilastro non ha funzione strutturale ( cioè non sorregge il tumulo.<br>
+        • Siamo ancora incerti riguardo al pilastro centrale nel tumulo; ci sono pareri discordanti: la nostra prof. pensa che abbia una funzione strutturale, come descritto sul libro, ma alcuni nostri alunni che hanno fatto l' alternanza scuola-lavoro come guide alla montagnola hanno saputo che il pilastro non ha funzione strutturale ossia che non sorregge il tumulo.<br>
+        • Il termine corretto per chiamare il pilastro centrale è _tamburo_, ed esso sorregge delle _pseudocupole_.<br>
         📍 la Montagnola, Sesto Fiorentino, FI
 </details>
 <details>
-        <summary><b>Ipogea</b> (clicca per espandere)</summary>
-        <img alt="Tomba ipogea dei Volumni, Perugia, mappa" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumnimappa.jpg" | absolute_url }}'/>
-        <img alt="Tomba ipogea dei Volumni, Perugia, foto" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumni.jpg" | absolute_url }}'/>
-        • Interamente sottoterra.<br>
-        <br>
+        <summary><b>Ipogea</b></summary>
+        <img alt="Tomba ipogea dei Volumni, Perugia, mappa" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumnimappa.jpg" | relative_url }}'/>
+        <img alt="Tomba ipogea dei Volumni, Perugia, foto" class="shortanimation" src='{{ "/data/img/arte/etruschi/tombe/ipogeavolumni.jpg" | relative_url }}'/>
+        • Interamente sottoterra oppure a fianco di una parete rocciosa. <br> Si scompone in varie camere funerarie. <br>Solitamente caratterizza il luogo di sepoltura delle famiglie ricche<br><br>
         📍 Perugia, tomba dei Volumni.
 </details>
 
@@ -52,18 +56,35 @@ tags: architettura funeraria civiltà etrusca
 
 ## Il tempio Etrusco
  
-
-#### Differenze con il tempio greco.
+> Abbiamo poche tracce anche di templi Etruschi, per ricostruirli con maggiore precisione abbiamo usufruito di documenti storici romani, come il quarto libro di Vitruvio, **De architectura**, dove ne viene descritta la forma, le proporzioni ed i particolari.
+ 
+### Differenze con il tempio greco.
 
 8 colonne, 4 su due file. Le scale sono presenti solo davanti, le celle sono sempre più di una e non vi è alcun giro delle colonne attorno al tempio.
 
-#### Caratteristiche
+### Caratteristiche
 
+- La pianta è rettangolare
 - Copertura a capanna a doppio spiovente
 - Semplicità della colonna dorica
 - Crepidoma ( scale ) solo frontali 
 - Posto su un podio ( rialzato )
 - Elementi scultorei in terracotta
+
+È diviso in due parti: una posteriore ed una anteriore. La parte posteriore è composta da **tre celle uguali**, coperte, mentre quella anteriore è porticata, con funzione di pronao ( stanza che divide le colonne dalle celle ) . 
+
+##### Le colonne
+- Le colonne sono sempre otto e vengono disposte in due file parallele da quattro.
+
+- Le colonne etrusche sono ispirate a quelle **doriche** arcaiche, ma sono in qualche modo talmente differenti che hanno indotto Vitruvio a classificarle in un ordine a sè; l’**Ordine Tuscanico**
+- Una delle principali differenze è che **non poggiano sullo stilobate**.
+
+- Prodotte in **legno**
+
+- **Prive di scanalature**
+
+- Talvolta **colorate**
+
 
 #### Nuove definizioni
 

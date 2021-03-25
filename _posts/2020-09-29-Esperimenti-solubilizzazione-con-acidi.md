@@ -27,7 +27,7 @@ redirect_from: /appunti/2020/10/06/Osservazioni-e-acido-tartarico
 </div>
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 2 provette con aceto bianco<br>
   • 2 provette con acqua<br>
@@ -105,10 +105,10 @@ Pezzo di marmo|Depositato sul fondo.|Effervescenza più marcata. Opaco con resid
 
 ## Solubilizzazione di vari metalli nell' acido cloridrico
 
-![Foto delle provette]({{ "/data/img/chimica/lss/acidi-e-basi/provetteac.jpg" | absolute_url }})
+![Foto delle provette]({{ "/data/img/chimica/lss/acidi-e-basi/provetteac.jpg" | relative_url }})
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • 5 provette contenenti acido cloridrico e acqua<br>
   • Alluminio ( carta stagnola )<br>
@@ -129,7 +129,7 @@ Ferro in polvere|Resta un residuo sul fondo dopo una debole effervescenza, ma co
 Truciolo di rame|Il liquido diventa giallino, non c'è effervescenza e non succede niente al rame.| Molto tempo?
 Zinco in polvere|Si solubilizza velocemente con tanta effervescenza, poi il liquido diventa trasparente.|Meno di un minuto
 Alluminio|Inizialmente non succede niente per circa 1/2 minuti, poi inizia a spumeggiare, del vapore sale lungo la provetta. Il vapore condensa sulle pareti della provetta e si crea della nebbia.|A scoppio ritardato, circa 4 minuti.
-Ossido di rame|C'è un' intensa effervescenza, poi si solubilizza. La soluzione finale è di un colore verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.
+Ossido di rame|Non c'è affatto effervescenza, la soluzione finale è limpida senza alcun residuo sul fondo. Il colore è verde, nonostante l' ossido di rame in polvere sia nero.|Meno di un minuto.
 
 
 ### Riflessioni individuali:<a name="rfi"></a>

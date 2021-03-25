@@ -8,6 +8,7 @@ lss: acidi-e-basi
 description: 'Riflettiamo su cosa possa essere l'' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. '
 tags: lss effervescenza cos'è discussione collettiva acidi minerali organici
 modified: 2020-11-06T17:34:30+01:00
+redirect_from: /appunti/2020/10/14/Che-cos'%C3%A8-l'-effervescenza
 ---
 
 Abbiamo iniziato la lezione provando, ognuno, a dare una definizione personale di effervescenza. Successivamente abbiamo costruito una discussione collettiva sulla base delle nostre definizioni personali. Sono emerse due principali ipotesi - a grandi linee - 
@@ -52,4 +53,4 @@ Muriatico|Acido cloridrico con meno concentrazione, usato per sturare i WC.
 
 > Infine abbiamo ognuno esposto la propria **definizione di Base**. Ecco qui uno **WordCloud** (_Nuvola di Parole_) con tutte le parole più rilevanti dette nelle definizioni di tutti i miei compagni di classe. Le **parole utilizzate più volte** sono **più grandi**.
 
-![WordCloud Base]({{ "/data/img/chimica/lss/acidi-e-basi/WordCloudBase.png" | absolute_url }})
+![WordCloud Base]({{ "/data/img/chimica/lss/acidi-e-basi/WordCloudBase.png" | relative_url }})

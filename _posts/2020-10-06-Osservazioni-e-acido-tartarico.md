@@ -53,7 +53,7 @@ Truciolo di rame|Il liquido diventa giallino, c'è una debolissima effervescenza
 
 
 <details>
-  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
+  <summary><b>Materiali Utilizzati</b></summary>
   
   • Una provetta<br>
   • Acqua distillata<br>
@@ -73,7 +73,7 @@ Truciolo di rame|Il liquido diventa giallino, c'è una debolissima effervescenza
 - Agitando la provetta si velocizza la solubilizzazione del carbonato di calcio. Dopo circa un minuto si è solubilizzato e la soluzione diventa completamente trasparente. 
 - Dopo aver inserito più volte il carbonato di calcio l' effervescenza continua costante, ma si deposita un residuo sul fondo, e la provetta diventa opaca.
 - Cadono dei piccoli granelli durante l' effervescenza, sembrano fiocchi di neve. L' effervescenza è costante, il residuo sembra del carbonato di calcio agglomerato ed è giallino come l' acido tartarico, non bianco come la polvere di marmo.
-- Il residuo non sembra carbonato di calcio, è molto più fine, i granelli sono molto più piccoli.
+- Il residuo non sembra carbonato di calcio, i granelli sono molto più grossi.
 
 ### Riflessioni
 

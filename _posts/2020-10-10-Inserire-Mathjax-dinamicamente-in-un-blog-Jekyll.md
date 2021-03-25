@@ -2,11 +2,12 @@
 layout:  post
 title:  "Come aggiungere Mathjax ad un sito Jekyll dinamicamente"
 date: 2020-10-10 20:17:00
-categories:  tutorial
+categories:  tutorial appunti
 math: "yes"
 materia: informatica
 description: "Vuoi formattare in un modo decente espressioni e formule? Aggiungi il CDN con lo script di Mathjax, impara la sintassi basica, e inserisci le tue espressioni tra $$"
 tags: Mathjax jekyll liquid aggiungere head front matter cdn
+redirect_from: /appunti/2020/10/10/Inserire-Mathjax-dinamicamente-in-un-blog-Jekyll.html
 ---
 
 
