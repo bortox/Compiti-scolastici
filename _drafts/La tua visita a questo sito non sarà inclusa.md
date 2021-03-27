@@ -1,6 +1,6 @@
 ---
 created: 2020-11-12T10:03:15+01:00
-modified: 2020-11-18T13:36:29+01:00
+modified: 2021-03-25T21:08:32+01:00
 ---
 
 # La tua visita a questo sito non sarà inclusa nelle sue statistiche
@@ -40,3 +40,5 @@ Torniamo al dunque. GoatCounter **anonimizza** i dati anche se è pur sempre uno
 
 Gli AdBlocker utilizzano delle liste di indirizzi ed elementi traccianti al fine di bloccare pubblicità e tracking. GoatCounter è presente - d' altronde è pur sempre uno strumento di tracking - nella EasyList, una lista utilizzata dalla maggioranza degli AdBlock. Dunque, il pezzo di codice che doveva raccogliere le informazioni sulla tua visità è andato in errore, allora in fondo alla pagina è comparso il tipico testo di errore, che hai cliccato per saperne di più; ecco quindi sei arrivat@ in questa pagina, costruita solo per comunicarti un po' di basi sul tracking online.
 >Per saperne di più, puoi seguire **[questo percorso](example.co-m)**
+
+Prova prova
