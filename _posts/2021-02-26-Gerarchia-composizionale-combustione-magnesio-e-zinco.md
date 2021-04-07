@@ -11,7 +11,7 @@ description: Lavosier definisce con il nome Ossigeno l' aria attiva che genera a
 ## Combustione del magnesio
 <details>
   <summary><b>Materiali Utilizzati</b></summary>
-
+  
   • Filo di Magnesio<br>
   • Becco Bunsen<br>
   • Beuta<br>
@@ -21,10 +21,10 @@ description: Lavosier definisce con il nome Ossigeno l' aria attiva che genera a
   • Fenolftaleina<br>
 </details>
 
-### Osservazioni:
+### Osservazioni: 
 
-Il filo di magnesio prende fuoco appena messo sopra al becco Bunsen, e diventa più pesante dopo la combustione.
-Ne viene fuori una polvere bianca. Proviamo a vedere se è acida o basica. Scopriamo che è basica, dopo un test con fenoftaleina.
+Il filo di magnesio prende fuoco appena messo sopra al becco Bunsen, e diventa più pesante dopo la combustione. 
+Ne viene fuori una polvere bianca. Proviamo a vedere se è acida o basica. Scopriamo che è basica, dopo un test con fenoftaleina. 
 
 Infatti, già sapevamo che:
 
@@ -37,20 +37,20 @@ ossigeno|non metalli|acido
 
 <details>
   <summary><b>Materiali Utilizzati</b></summary>
-
+  
   • Acqua<br>
   • Beuta<br>
   • Polvere di Zinco<br>
   • Acido ( ad esempio cloridrico )<br>
   • Palloncino<br>
-  • Accendino<br>
+  • Accendino<br> 
 </details>
 
 ### Procedimento:
 
 - Inserisco la polvere di zinco nel palloncino sgonfio
 - Aggiungo l' acqua nella beuta
-- Aggiungo l' acido nell' acqua della beuta.
+- Aggiungo l' acido nell' acqua della beuta. 
 - Faccio aderire il palloncino alla beuta
 - Aspetto la conclusione dell' effervescenza
 - Avvicino la fiamma dell' accendino al palloncino
@@ -61,25 +61,29 @@ C'è un effervescenza molto intensa e il palloncino si gonfia. Appena avvicino l
 
 ### Riflessioni
 
-Il gas appena visto è l' idrogeno, altamente infiammabile. Fu scoperto da Cavendish nel 1800, non è aria fissa.
+Il gas appena visto è l' idrogeno, altamente infiammabile. Fu scoperto da Cavendish nel 1800, non è aria fissa. 
 
 ---
 
 ## La gerarchia composizionale della materia
 
-La teoria dei quattro elementi inizia a vacillare, si scoprono numerose nuove sostanze e viene ideata la gerarchia composizionale della materia all' inizio del XIX secolo sulla base delle idee di Lavoisier verso la fine del XVIII secolo.
+La teoria dei quattro elementi inizia a vacillare, si scoprono numerose nuove sostanze e viene ideata la gerarchia composizionale della materia all' inizio del XIX secolo sulla base delle idee di Lavoisier verso la fine del XVIII secolo. 
 
 Questa gerarchia è legata ai risultati di Lavoisier nei suoi esperimenti con acidi, basi, sali, calore e metalli.
 
 <img src="{{ "/data/img/chimica/lss/chimica-moderna/gerarchiacomposizionalemateria.png" | relative_url }}">
 
-In una gerarchia delle sostanze, quelle più semplici sono in basso e quelle complesse basate su di esse più in alto. Il tutto è relazionato dalle frecce.
+In una gerarchia delle sostanze, quelle più semplici sono in basso e quelle complesse basate su di esse più in alto. Il tutto è relazionato dalle frecce. 
 
-In questo caso le sostanze più semplici - secondo le teorie di Lavoisier - sono i metalli, i non metalli, ossia alcuni combustibili come zolfo e fosforo e l' ossigeno. Queste sostanze sono state classificate come semplici siccome non si riuscivano ad ottenere da altre, all' epoca. Invece, le calci metalliche e gli acidi erano derivati, rispettivamente, dall' unione dell' ossigeno con metalli e combustibili.
+In questo caso le sostanze più semplici - secondo le teorie di Lavoisier - sono i metalli, i non metalli, ossia alcuni combustibili come zolfo e fosforo e l' ossigeno.
 
----
+Queste sostanze sono state classificate come semplici siccome non si riuscivano ad ottenere da altre, all' epoca.
 
-Inoltre, verso la fine della lezione abbiamo brevemente introdotto la **tabella Lavoisierana degli elementi chimici**, un **precursore** della **tavola periodica**. È costituita da quattro gruppi principali di elementi:
+Invece, le calci metalliche e gli acidi erano derivati, rispettivamente, dall' unione dell' ossigeno con metalli e combustibili. 
+
+## La tabella degli elementi chimici, un' accenno di tavola periodica
+
+Nella scorsa lezione abbiamo soltanto introdotto questa tabella, discuteremo meglio su di essa nelle prossime lezioni. Quella sottostante è la **tabella Lavoisierana degli elementi chimici**, un **precursore** della **tavola periodica**. È costituita da quattro gruppi principali di elementi:
 
 Gruppo|Esempi
 |---|---|
