@@ -3,9 +3,12 @@ layout:  post
 title: "Il Foro, centro della vita politica a Roma"
 categories:  compiti
 materia: storia
-description: Ricerca sul Foro Romano, storia, edifici principali e fori Imperiali. 
+description: Ricerca sul Foro Romano, storia, edifici principali e fori Imperiali.
 tags: foro roma vita politica Palatino Campidoglio Quirinale origini repubblicano imperiali Cesare Iulia gens Augusto Curia Comizio Tempio Basilica Storia Arte Piazza Vitruvio Proporzioni
 ---
+
+* TOC
+{:toc}
 ## Cos' è il Foro
 
 La parola Foro indica un'area che costituiva il cuore della vita pubblica di un centro abitato, perché in essa vi si svolgeva la maggior parte delle attività politiche, amministrative ed economiche. Il Foro si trova all' **incrocio** tra i due assi viari principali di una città, il **Cardo** e il **Decumano**.
