@@ -355,14 +355,8 @@ button {
     cursor: default;
     background-color: rgba(58,60,89, 0.40);
     margin: 0 auto;
-    margin-right: .2em;
     padding-left: 2vw;
     padding-right: 2vw;
-    display: block;
-    &:hover {
-        background-color: rgba(58,60,89, 0.40) !important;
-        color: snow !important;
-    }
 }
 .profview {
     display: none;
@@ -495,7 +489,7 @@ img[src*="#border"] {
 }
 dl {
   display: grid;
-  grid-row-gap: 1em;
+  grid-row-gap: .5em;
 }
 
 dt {
