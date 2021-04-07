@@ -1,5 +1,5 @@
 ---
-title: I Movimenti delle Api | Traduzione pagina 338 es. 5
+title: I Movimenti delle Api | Pagina 348 esercizio 8
 materia: latino
 categories: versione
 tags:
@@ -15,8 +15,9 @@ tags:
 - tradotta
 - traduzione
 layout: post
-description: "Cum apes multae gignuntur, veteres cupiunt progeniem emittere in coloniam. Traduzione versione numero 5 pagina 338 dal Latino."
+description: "Cum apes multae gignuntur, veteres cupiunt progeniem emittere in coloniam. Traduzione versione numero 8 pagina 348, sui movimenti delle api."
 ---
+
 > Quando l' alveare diventa troppo affollato, le api sciamano e, con l' aiuto degli agricoltori, formano una nuova colonia.
 
 - [Traduzione](#traduzione)
