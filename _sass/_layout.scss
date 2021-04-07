@@ -355,8 +355,14 @@ button {
     cursor: default;
     background-color: rgba(58,60,89, 0.40);
     margin: 0 auto;
+    margin-right: .2em;
     padding-left: 2vw;
     padding-right: 2vw;
+    display: block;
+    &:hover {
+        background-color: rgba(58,60,89, 0.40) !important;
+        color: snow !important;
+    }
 }
 .profview {
     display: none;
@@ -494,15 +500,16 @@ dl {
 
 dt {
   grid-column-start: 1;
-  padding-right: .75em;
+  padding-right: .5em;
   text-transform: capitalize;
   font-weight: bold;
-  grid-template-columns: fit-content(32%);
+  word-break: break-word;
+  grid-template-columns: fit-content(20%);
 }
 
 dd {
   grid-column-start: 2;
-  grid-template-columns: fit-content(68%);
+  grid-template-columns: fit-content(80%);
 }
 @media (prefers-color-scheme: dark) {
     #search-input {
