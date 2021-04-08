@@ -106,7 +106,7 @@ Ecco come si declinano gli
 **SINGOLARE**             ||||          **PLURALE**              ||||          
 --------------|-------------|-------------|----------|------------|-------------|----------
 **CASI**      |**maschile** |**femminile**|**neutro**|**maschile**|**femminile**|**neutro**
-**nominativo**|alacre         |alacr<span style="color:red">is</span>       |alacr<span style="color:red">e</span>     |alacr<span style="color:red">es</span>      |alacr<span style="color:red">es</span>       |alacr<span style="color:red">ia</span>    
+**nominativo**|alacris         |alacr<span style="color:red">is</span>       |alacr<span style="color:red">e</span>     |alacr<span style="color:red">es</span>      |alacr<span style="color:red">es</span>       |alacr<span style="color:red">ia</span>    
 **genitivo**  |alacr<span style="color:red">is</span>       |alacr<span style="color:red">is</span>       |alacr<span style="color:red">is</span>    |alacr<span style="color:red">ium</span>     |alacr<span style="color:red">ium</span>      |alacr<span style="color:red">ium</span>   
 **dativo**    |alacr<span style="color:red">i</span>        |alacr<span style="color:red">i</span>        |alacr<span style="color:red">i</span>     |alacr<span style="color:red">ibus</span>    |alacr<span style="color:red">ibus</span>     |alacr<span style="color:red">ibus</span>  
 **accusativo**|alacr<span style="color:red">em</span>       |alacr<span style="color:red">em</span>       |alacr<span style="color:red">e</span>     |alacr<span style="color:red">es</span>      |alacr<span style="color:red">es</span>       |alacr<span style="color:red">ia</span>    

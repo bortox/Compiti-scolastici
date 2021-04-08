@@ -10,7 +10,7 @@ tags: signo dato, milites iam proelium, barbari maioribus, gladiatores, grues ut
 
 **1)** Signo dato, milites iam proelium commissuri erant
 
-> Dato il segnale, i soldati stavano per attaccare battaglia.
+> Dato il segnale, i soldati stavano già per attaccare battaglia.
 
 **2)** Barbari maioribus nostris serviebant; nunc autem Romani barbaris servituri sumus?
 
@@ -55,7 +55,7 @@ efficiunt
 : efficio, efficis, effeci, effectum, efficere
 
 capturus est
-: capto, captas, captavi, captatum, captare
+: capio, capis, cepi, captum, capere
 
 ## Analisi del periodo
 
