@@ -57,7 +57,7 @@ efficiunt
 capturus est
 : capio, capis, cepi, captum, capere
 
-## Analisi del periodo
+## Analisi del periodo con schema ad albero
 
-![Analisi del periodo di Latino, 5 frasi es. 11 pagina 349]({{ "/data/img/latino/versioni/analisi-periodo/11-pagina-349.png" | relative_url }})
+![Analisi del periodo di Latino, 5 frasi es. 11 pagina 349]({{ "/data/img/latino/versioni/analisi-periodo/11-pagina-349.png#border" | relative_url }})
 
