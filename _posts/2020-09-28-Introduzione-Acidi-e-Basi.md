@@ -7,6 +7,7 @@ materia: scienze naturali
 description: "Diario di Bordo sul percorso LSS riguardante Acidi e Basi. In questa giornata abbiamo discusso riguardo a cos'è per noi un acido e una base."
 lss: acidi-e-basi
 redirect_from: /appunti/2020/09/28/Introduzione-Acidi-e-Basi
+tags: acido base definizione collettiva inizio lss
 ---
 
 ![Word cloud sugli acidi e sulle basi]({{ "data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg" | relative_url }})

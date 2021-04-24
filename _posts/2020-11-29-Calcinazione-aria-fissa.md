@@ -6,7 +6,7 @@ categories: appunti
 lss: nascita-del-concetto-di-gas
 materia: scienze naturali
 description: Introduciamo meglio l' aria fissa, ossia l' anidride carbonica prodotta nel processo di calcinazione, di cui scopriremo le prime tracce. Inoltre, dopo una discussione collettiva, definiamo alcune analogie tra effervescenza e calcinazione
-tags: aria fissa chimica lss
+tags: calcinazione aria fissa chimica lss
 ---
 
 Per iniziare, abbiamo ripassato tutto il percorso fatto fino ad ora, per chiarire eventuali dubbi, attraverso delle micro-interrogazioni.

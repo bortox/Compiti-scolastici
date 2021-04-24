@@ -4,7 +4,18 @@ title:  "Frasi tradotte dell' esercizio 11 a pagina 349, da 1 a 5. Il mio Latino
 categories:  compiti
 materia: latino
 description: "Esercizio 11 pagina 349. Traduzione di frasi dal latino all'italiano con il participio futuro. Signo dato, milites iam proelium commissuri erant."
-tags: signo dato, milites iam proelium, barbari maioribus, gladiatores, grues ut in alia, nullus servus, in arena pugnaturi, perungebant, esercizio, frasi, tradotte
+tags: 
+- signo dato
+- milites iam proelium
+- barbari maioribus
+- gladiatores
+- grues ut in alia
+- nullus servus
+- in arena pugnaturi
+- perungebant
+- esercizio
+- frasi
+- tradotte
 ---
 
 

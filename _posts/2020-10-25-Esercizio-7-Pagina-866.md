@@ -6,7 +6,18 @@ categories:  compiti
 materia: geometria
 math: "yes"
 description: Quadrilatero ABCD AB è congruente a BC e B = D. Dimostra che se BD è la bisettrice di B allora ABCD è un rombo.
-tags: matematica,geometria,dimostrazione,dimostra,parallelogramma,triangolo,segmenti,talete,teorema,punto,medio
+tags:
+- matematica
+- geometria
+- dimostrazione
+- dimostra
+- parallelogramma
+- triangolo
+- segmenti
+- talete
+- teorema
+- punto
+- medio
 ---
 
 >In un quadrilatero ABCD $$ AB \cong BC $$ e $$ \hat{B} \cong \hat{D} $$

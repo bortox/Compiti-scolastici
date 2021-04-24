@@ -5,7 +5,7 @@ date: 2020-12-04 10:00:00
 categories:  compiti
 materia: STORIA
 description: "Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su un testo di Sallustio, Bellum Iugurthinium."
-tags: Agnoletti lavoro di gruppo
+tags: Storia Sallustio Risposte Bellum Guerra Iugurthinium Agnoletti lavoro gruppo
 ---
 ###### Andrea, Simone, Lorenzo, Giulia
 _Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su un testo di Sallustio, Bellum Iugurthinium._

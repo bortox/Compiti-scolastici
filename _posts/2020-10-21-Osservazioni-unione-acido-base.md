@@ -6,7 +6,15 @@ categories:  appunti
 lss: acidi-e-basi
 materia: scienze naturali
 description: Verifichiamo cosa succede unendo acidi e basi, con prove di solubilizzazione di sostanze nella soluzione contenente acido cloridrico e soda, per vedere se il risultato dell' unione è un acido o una base.
-tags: solubilizzazione,soda,lss,chimica,acido,acidi,basi,unione
+tags:
+- solubilizzazione
+- soda
+- lss
+- chimica
+- acido
+- acidi
+- basi
+- unione
 ---
 
 > **In questa lezione abbiamo provato ad unire acidi e basi, e verificare cosa succede discutendone.**

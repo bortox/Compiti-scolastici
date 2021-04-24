@@ -4,7 +4,18 @@ title:  "Nozze tra Alessandro e Rossane - Alexander pervenit in regionem..."
 categories:  versione
 materia: latino
 description: "Alessandro e Rossane si sposano in matrimonio. La traduzione dal latino parla delle nozze, con annessi paradigmi."
-tags: Alexander, Rossane, Nozze, pervenit, in regionem, matrimonio, connubio, tradotta, traduzione, latino, frasi
+tags:
+- Alexander
+- Rossane
+- Nozze
+- pervenit
+- in regionem
+- matrimonio
+- connubio
+- tradotta
+- traduzione
+- latino
+- frasi
 ---
 
 ## Le nozze di Alessandro e Rossane - Traduzione della versione

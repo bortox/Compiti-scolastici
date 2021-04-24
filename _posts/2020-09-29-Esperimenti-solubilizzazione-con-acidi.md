@@ -5,7 +5,13 @@ date: 2020-09-28 10:00:00
 categories:  appunti
 materia: scienze naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante Acidi e Basi. Resoconto della seconda lezione, in cui proviamo a far solubilizzare carbonato di calcio in acqua, acido cloridrico e aceto. Successivamente osserviamo la solubilizzazione di metalli in polvere in una soluzione contenente acido cloridrico."
-tags: polvere di marmo, solubilizzazione, metalli, aceto, acido cloridrico, lss
+tags:
+- polvere di marmo
+- solubilizzazione
+- metalli
+- aceto
+- acido cloridrico
+- lss
 lss: acidi-e-basi
 redirect_from: /appunti/2020/10/06/Osservazioni-e-acido-tartarico
 ---

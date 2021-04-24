@@ -5,7 +5,7 @@ date: 2021-02-02 20:00
 categories:  compiti
 materia: STORIA
 description: "Ricerca di Educazione Civica: i luoghi principali della politica italiana, funzioni e palazzi storici."
-tags: Quirinale Parlamento Palazzo Chigi
+tags: Politica Italia Quirinale Parlamento Palazzo Chigi Luoghi Palazzo
 ---
 
 > Ricerca sui luoghi della politica italiana: le due Camere del Parlamento (dove si riuniscono, da quanti membri sono formate); Palazzo Chigi, il Quirinale (chi vi risiede, le funzioni)

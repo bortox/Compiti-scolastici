@@ -6,7 +6,16 @@ categories:  appunti
 lss: acidi-e-basi
 materia: scienze naturali
 description: Abbiamo eseguito un esperimento per verificare la capacità di solubilizzazione delle basi in acqua con diverse sostanze. Successivamente abbiamo discusso insieme per giungere a delle conclusioni, e deciso di fare ulteriori esperimenti per comprovare la differenza tra acidi e basi
-tags: lss,chimica,acido,base,potassa caustica,soda caustica,solubilizzazione,polvere di zinco, alluminio
+tags:
+- lss
+- chimica
+- acido
+- base
+- potassa caustica
+- soda caustica
+- solubilizzazione
+- polvere di zinco
+- alluminio
 ---
 > Dopo aver dato una definizione operativa di acido abbiamo deciso scoprire gli effetti di una base sulle altre sostanze, per darne una definizione operativa.
 

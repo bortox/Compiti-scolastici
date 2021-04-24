@@ -6,8 +6,16 @@ categories:  appunti
 lss: acidi-e-basi
 materia: scienze naturali
 description: Osservazioni ed esperimenti con una soluzione composta da più acidi; cosa solubilizzerà?
-tags: discussione collettiva,unione acidi e basi,lss,chimica,acido,acidi,metallo,acido,base
----
+tags:
+- discussione collettiva
+- unione acidi e basi
+- lss
+- chimica
+- acido
+- acidi
+- metallo
+- acido
+- base
 
 ---
 

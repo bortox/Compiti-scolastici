@@ -6,7 +6,7 @@ categories: appunti
 lss: nascita-della-chimica-moderna
 materia: scienze naturali
 description: "Le prime teorie di Lavoisier: l' aria partecipa attivamente alle reazioni chimiche, l' acqua non si trasmuta in terriccio."
-tags:  ricerca Lavoisier chimica moderna
+tags:  scoperte lavoisier scienza aria acqua terriccio pellicano distillazione
 ---
 
 Innanzitutto, prima di vedere cosa ha fatto Lavoisier, **contestualizziamolo** nell' epoca in cui è vissuto e nelle **convinzioni scientifiche** di quel tempo.

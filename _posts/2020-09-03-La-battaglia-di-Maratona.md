@@ -5,7 +5,17 @@ date: 2020-09-03 10:00:00
 categories:  versione
 materia: LATINO
 description: "Esercizio 32 pagina 203. Darius, Persarum rex, quia Graeciam in suam potestatem redigere cupiebat, classem quingentarum navium comparavit, ad Atticam accessit et copias Marathonam duduxit, Athenienses auxilium a Lacedaemoniis petiverunt, qui tamen copias sero miserunt, quod Apollonis sacra perficere debebant. "
-tags: versione,esercizio,pagina,compiti,bortolotti,179,24,Darius,rex,Marathona.
+tags:
+- versione
+- esercizio
+- pagina
+- compiti
+- bortolotti
+- 179
+- 24
+- Darius
+- rex
+- Marathona.
 redirect_from: /compiti/2020/09/03/La-battaglia-di-Maratona
 ---
 #### Esercizio 24 pagina 179

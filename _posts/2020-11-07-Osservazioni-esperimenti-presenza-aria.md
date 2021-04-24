@@ -6,7 +6,7 @@ categories:  appunti
 lss: nascita-del-concetto-di-gas
 materia: scienze naturali
 description: Dimostriamo la presenza e alcune proprietà dell' aria discutendo su alcuni esperimenti eseguiti nella lezione precedente. LSS sulla nascita dei gas.
-tags: discussione collettiva,lss,aria,presenza,mercurio,esperimenti,pressione
+tags: discussione collettiva lss aria presenza mercurio esperimenti pressione
 redirect_from: /appunti/2020/10/08/Osservazioni-esperimenti-presenza-aria
 
 ---

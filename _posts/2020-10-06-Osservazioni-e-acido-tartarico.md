@@ -6,7 +6,17 @@ categories:  appunti
 lss: acidi-e-basi
 materia: scienze naturali
 description: "Osservazioni sulle differenze tra la solubilizzazione in acqua e in acidi. Ipotesi su come verificare le trasformazioni che subisce una sostanza dopo essere stata inserita nell' acido. Discussioni collettive e esperimenti con l' acido tartarico in granelli. Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante Acidi e Basi. "
-tags: lss,chimica,acido,acidi,cloridrico,tartarico,solubilizzazione,solubilizzare,definizione collettiva,solidi
+tags:
+- lss
+- chimica
+- acido
+- acidi
+- cloridrico
+- tartarico
+- solubilizzazione
+- solubilizzare
+- definizione collettiva
+- solidi
 ---
 
 All' inizio della lezione abbiamo osservato che il sassolino e la polvere di marmo non ci sono più nelle provette contenenti acido cloridrico e aceto dopo circa 3 giorni. Nell' acqua è invece  rimasto un deposito sul fondo. Abbiamo **discusso** riguardo questo dubbio:

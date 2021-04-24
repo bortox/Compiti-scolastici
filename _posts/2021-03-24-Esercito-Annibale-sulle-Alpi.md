@@ -2,7 +2,21 @@
 title: L' esercito di Annibale sulle alpi | Traduzione pagina 333 es. 33 con paradigmi
 materia: latino
 categories: versione
-tags: Hannibalis exercitus, alpium iugis, superatis, Italiam, Annibale, esercito sulle alpi, traduzione, paradigmi, 333, pagina, latino, compiti, descendens, post longum
+tags:
+- Hannibalis exercitus
+- alpium iugis
+- superatis
+- Italiam
+- Annibale
+- esercito sulle alpi
+- traduzione
+- paradigmi
+- 333
+- pagina
+- latino
+- compiti
+- descendens
+- post longum
 layout: post
 description: "Hannibalis exercitus Alpium iugis superatis in Italiam descendens multa pericula invenit. Traduzione versione dal latino a pagina 333."
 ---

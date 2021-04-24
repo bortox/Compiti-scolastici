@@ -5,7 +5,7 @@ date: 2020-10-09 10:00:00
 categories:  appunti
 materia: fisica
 description: "Ripasso dell' unità 7 del nostro libro di Fisica, con tutte le formule, definizioni e formule inverse scritte qui. Ho anche fatto una sessantina di esercizi, ma dato il mio disordine non li pubblicherò qui. Comunque sono fiducioso per la verifica, mi sono tornati tutti tranne uno."
-tags: ripasso fluidi
+tags: ripasso fluidi pressione formula torchio idraulico pascal principio vasi archimede galleggiamento
 math: "yes"
 ---
 # Fisica

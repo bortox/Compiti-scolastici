@@ -6,7 +6,18 @@ categories:  compiti
 materia: fisica
 lss: moto
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante il moto. In questo post sono redatte tabelle e grafici contenenti misurazioni relative a tratti di corsa e camminata, ognuna scritta come media da tre cronometri diversi. Ci sono dei grafici per ogni moto regolare, con barre di errore. "
-tags: post,lss,fisica,diario,bordo,moto,grafici,matplotlib,regolare,barre di errore,media
+tags:
+- post
+- lss
+- fisica
+- diario
+- bordo
+- moto
+- grafici
+- matplotlib
+- regolare
+- barre di errore
+- media
 ---
 <sub> Non avevo carta millimetrata, quindi ho fatto al computer. </sub><br>
 <sub> Non mi è riuscito inserire le barre di errore nel primo grafico, poiché se le inserivo le varie tracce dei quattro moti si dividevano in più grafici.  </sub>

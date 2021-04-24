@@ -5,7 +5,19 @@ date: 2020-08-31 10:00:00
 categories:  versione
 materia: LATINO
 description: "Esercizio 33 pagina 204. Romanum imperium a Romulo exordium habet. Postea Numa Pompilius rex creatur: bellum quidem nullum gerii, sed leges moresque constituit Romanis, qui consuetudine proeliorum iam latrones ac semibarbari putabantur; annum describit in decem menses et infinita Romae sacra ac tempia constituit..."
-tags: latino,versione,esercizio,pagina,compiti,bortolotti,204,Postea,Numa,Pompilius, rex, creatur
+tags:
+- latino
+- versione
+- esercizio
+- pagina
+- compiti
+- bortolotti
+- 204
+- Postea
+- Numa
+- Pompilius
+- rex
+- creatur
 redirect_from: /compiti/2020/08/31/I-Re-di-Roma-e-la-formazione-della-citt%C3%A0-versione
 ---
 #### Esercizio 33 pagina 204

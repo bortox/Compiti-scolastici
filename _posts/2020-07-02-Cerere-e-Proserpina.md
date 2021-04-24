@@ -5,7 +5,21 @@ date: 2020-07-02 10:00:00
 categories:  versione
 materia: LATINO
 description: "Esercizio 32 pagina 203. Ceres, frugum dea, in multis Siciliae urbibus colebatur. iovi filiam gignit, venustam puellam Proserpinam"
-tags: latino,versione,esercizio,pagina,compiti,bortolotti,221,Ceres,igitur,natam,reperit rursusque,natura,florere,incipit.
+tags:
+- latino
+- versione
+- esercizio
+- pagina
+- compiti
+- bortolotti
+- 221
+- Ceres
+- igitur
+- natam
+- reperit rursusque
+- natura
+- florere
+- incipit.
 redirect_from: /compiti/2020/07/02/Cerere-e-Proserpina
 ---
 #### Esercizio 32 pagina 203

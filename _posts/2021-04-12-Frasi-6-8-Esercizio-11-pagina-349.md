@@ -4,7 +4,14 @@ title:  "Frasi tradotte di Latino, Esercizio 11 a pagina 349, 6-8"
 categories:  compiti
 materia: latino
 description: "Traduzione dalle frasi in latino. Multa dico non quia mihi placent. Di semper daturi sunt. Bellum scripturus sum quod."
-tags: esercizio, frasi, tradotte, multa dico, semper daturi sunt, bellum scripturus sum, autore
+tags:
+- esercizio
+- frasi
+- tradotte
+- multa dico
+- semper daturi sunt
+- bellum scripturus sum
+- autore
 ---
 
 [Se stai cercando le **prime cinque frasi**, come _Signo dato, milites iam..._ clicca su questo collegamento per vederne la traduzione]({% post_url 2021-04-06-Esercizio-11-pagina-349 %})

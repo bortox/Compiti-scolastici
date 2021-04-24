@@ -5,7 +5,21 @@ date: 2020-07-14 10:00:00
 categories:  versione
 materia: LATINO
 description: "Esercizio 6 pagina 208. Alexander ad inhumanum supplicium tradit Callisthenem philosophum..."
-tags: latino,versione,esercizio,pagina,compiti,bortolotti,208,quia,ille,conscivit, credebatur,coniurationis,atque, insidiarum
+tags:
+- latino
+- versione
+- esercizio
+- pagina
+- compiti
+- bortolotti
+- 208
+- quia
+- ille
+- conscivit
+- credebatur
+- coniurationis
+- atque
+- insidiarum
 redirect_from: /compiti/2020/07/14/Alessandro-Magno-tra-crudelt%C3%A0-e-magnanimit%C3%A0
 ---
 <sub> È stata tradotta in modo molto letterale </sub> 

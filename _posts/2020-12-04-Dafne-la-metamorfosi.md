@@ -5,7 +5,7 @@ date: 2020-12-03 20:00
 categories: versione
 materia: LATINO
 description: "Versione tradotta da Il mio Latino. Daphne dulcis venustaque nympha erat, Penei fluminis filia. "
-tags: Daphne venustaque versione
+tags: Daphne venustaque versione traduzione tradotta dafne daphne metamorfosi
 ---
 ## Testo latino originale
 
