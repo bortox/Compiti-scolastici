@@ -1,0 +1,121 @@
+---
+
+---
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta name="robots" content="noindex">
+<title>Proponi una modifica</title>
+<style>
+:root { font-size: 16px; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: monospace;
+  text-align: center;
+  background-color: #c058fc;
+  padding: 2.5rem 2rem;
+}
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2.5rem;
+  color: purple;
+}
+
+form {
+  display: inline-block;
+  float: none;
+  max-width: 500px;
+  margin: 0 auto;
+}
+form input {
+  width: 100%;
+}
+form textarea {
+  width: 100%;
+  height: 160px;
+  resize: none;
+}
+form input, form textarea {
+  font-weight: 400;
+  font-size: 1.2rem;
+  font-family: monospace;
+  border-radius: 4px;
+ }
+form label {
+  font-size: 0;
+  opacity: 0;
+  display: none;
+ }
+form input, form textarea {
+  float: left;
+  padding: 0 1.25rem;
+  margin: 0 0 1.25rem;
+  line-height: 54px;
+  border: 2px double purple;
+  color: #000;
+  outline: none;
+  -webkit-appearance: none;
+} 
+form textarea:focus, form textarea:active {
+  color: #000;
+  border-color: #000;
+}
+form input[type="submit"] {
+  float: left;
+  cursor: pointer;
+  margin: 0;
+  border: none;
+  font-weight: bold;
+  width: 100%;
+  color: #fff;
+}
+form input[type="submit"]:hover,
+form input[type="submit"]:focus {
+  opacity: .7;
+}
+.button {
+	font-weight: 200;
+	font-size: 1.2rem;
+	font-family: monospace;
+	border-radius: 4px;
+	cursor: pointer;
+	margin: 0;
+	border: none;
+	font-weight: bold;
+	width: 100%;
+	color: #fff;
+	background: #000;
+	padding: 0.2rem 1rem;
+	margin: 0 0 1.25rem;
+	text-decoration: none;
+}
+input, textarea {
+  background-color: #de9cff !important;
+  color: #27002b !important;
+}
+</style>
+</head>
+<body>
+<h1>Proponi una modifica</h1>
+
+<!-- Formspree -->
+<form role="form" method="POST" action="https://formspree.io/f/mnqlppyp">
+  
+  <label for="f2">Email</label>
+  <input type="email" name="_replyto" placeholder="La tua email *" id="f2" required>
+  <label for="f5">Idea</label>
+  <textarea name="what_change" placeholder="Cosa vorresti cambiare *" id="f5" required></textarea>
+  
+  <label for="f3">La tua proposta</label>
+  <textarea name="how_change" placeholder="Come vorresti cambiarl@ *" id="f3" required="required"></textarea>
+  <input type="text" name="hellowow" style="display:none" />
+  <input type="submit" value="Invia">
+</form>
+
+<br>
+
+<a href="{{ site.baseurl | prepend: site.url }}/" class="button">Chiudi proposta</a>
+
+</body>
+</html>

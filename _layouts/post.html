@@ -63,7 +63,8 @@ layout: default
             {% when '12' %}Dicembre
             {% endcase %}</button></div>
 	    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em">
-	    <a class="calmlink" style="border-radius:.5em;padding-top:0.3em;padding-bottom:0.3em;padding-left:2em;padding-right:2em;opacity:.8" href="mailto:borto@tuta.io?subject={{ 'Modifica per la pagina ' | url_encode }}{{ page.title | url_encode }}&body={{ 'Ciao Borto, ti volevo proporre una modifica riguardante la pagina « ' | url_encode }}{{ page.title | url_encode }}{{ '»  ...' | url_encode }}%0D%0A%0D%0A"> Proponi una modifica ✉️</a>
+		<a class="calmlink" href="{{site.baseurl}}/proponi-modifica.html">Proponi modifica</a>
+	    <a class="calmlink" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
 	  </div>
           <div class="nottoprint">
 
