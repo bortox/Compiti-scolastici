@@ -2,120 +2,127 @@
 
 ---
 <!DOCTYPE html>
-<html lang="it">
+<html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>Proponi una modifica</title>
 <style>
-:root { font-size: 16px; }
-* { margin: 0; padding: 0; box-sizing: border-box; }
-
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: Comfortaa;
+  font-size: 15px;
+}
 body {
-  font-family: monospace;
+  
   text-align: center;
-  background-color: #c058fc;
+  background-color: #412cc9;
   padding: 2.5rem 2rem;
 }
 h1 {
   font-size: 2.5rem;
   margin-bottom: 2.5rem;
-  color: purple;
+  color: white;
+}
+input[type=text], select, textarea, input[type=email] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
 }
 
-form {
+label {
+  padding: 12px 12px 12px 0;
   display: inline-block;
-  float: none;
-  max-width: 500px;
-  margin: 0 auto;
 }
-form input {
-  width: 100%;
-}
-form textarea {
-  width: 100%;
-  height: 160px;
-  resize: none;
-}
-form input, form textarea {
-  font-weight: 400;
-  font-size: 1.2rem;
-  font-family: monospace;
-  border-radius: 4px;
- }
-form label {
-  font-size: 0;
-  opacity: 0;
-  display: none;
- }
-form input, form textarea {
-  float: left;
-  padding: 0 1.25rem;
-  margin: 0 0 1.25rem;
-  line-height: 54px;
-  border: 2px double purple;
-  color: #000;
-  outline: none;
-  -webkit-appearance: none;
-} 
-form textarea:focus, form textarea:active {
-  color: #000;
-  border-color: #000;
-}
-form input[type="submit"] {
-  float: left;
-  cursor: pointer;
-  margin: 0;
+
+input[type=submit],.button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
   border: none;
-  font-weight: bold;
-  width: 100%;
-  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  margin-left: 1em;
 }
-form input[type="submit"]:hover,
-form input[type="submit"]:focus {
-  opacity: .7;
+
+input[type=submit]:hover {
+  background-color: #45a049;
 }
-.button {
-	font-weight: 200;
-	font-size: 1.2rem;
-	font-family: monospace;
-	border-radius: 4px;
-	cursor: pointer;
-	margin: 0;
-	border: none;
-	font-weight: bold;
-	width: 100%;
-	color: #fff;
-	background: #000;
-	padding: 0.2rem 1rem;
-	margin: 0 0 1.25rem;
-	text-decoration: none;
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
 }
-input, textarea {
-  background-color: #de9cff !important;
-  color: #27002b !important;
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  margin: .5em;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
 }
 </style>
 </head>
 <body>
+
 <h1>Proponi una modifica</h1>
-
-<!-- Formspree -->
-<form role="form" method="POST" action="https://formspree.io/f/mnqlppyp">
-  
-  <label for="f2">Email</label>
-  <input type="email" name="_replyto" placeholder="La tua email *" id="f2" required>
-  <label for="f5">Idea</label>
-  <textarea name="what_change" placeholder="Cosa vorresti cambiare *" id="f5" required></textarea>
-  
-  <label for="f3">La tua proposta</label>
-  <textarea name="how_change" placeholder="Come vorresti cambiarl@ *" id="f3" required="required"></textarea>
-  <input type="text" name="hellowow" style="display:none" />
-  <input type="submit" value="Invia">
-</form>
-
-<br>
-
-<a href="{{ site.baseurl | prepend: site.url }}/" class="button">Chiudi proposta</a>
+<div class="container">
+  <form action="https://formspree.io/f/mnqlppyp">
+    <div class="row">
+      <div class="col-25">
+        <label for="fname">Email</label>
+      </div>
+      <div class="col-75">
+        <input type="email" id="fname" name="email" placeholder="La tua email" required>
+      </div>
+    </div>    
+     <div class="row">
+      <div class="col-25">
+        <label for="whattochange">Cosa</label>
+      </div>
+      <div class="col-75">
+        <textarea id="whattochange" name="whattochange" placeholder="Cosa vuoi cambiare?" style="height:80px" required></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="howtochange">Come</label>
+      </div>
+      <div class="col-75">
+        <textarea id="howtochange" name="howtochange" placeholder="In che modo vorresti applicare il cambiamento?" style="height:120px" required></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <input type="submit" value="Invia proposta">
+      <a class="button" style="background-color: #eba134">Chiudi pagina web</a>
+    </div>
+  </form>
+</div>
 
 </body>
 </html>
