@@ -1,28 +1,25 @@
 ---
 layout:  post
-title:  "Ripasso dei fluidi"
+title:  "Ripasso dei fluidi, pressione, leggi di Archimede e Stevino."
 date: 2020-10-09 10:00:00
 categories:  appunti
 materia: fisica
-description: "Ripasso dell' unità 7 del nostro libro di Fisica, con tutte le formule, definizioni e formule inverse scritte qui. Ho anche fatto una sessantina di esercizi, ma dato il mio disordine non li pubblicherò qui. Comunque sono fiducioso per la verifica, mi sono tornati tutti tranne uno."
+description: "Ripasso dell' unità 7 del nostro libro di Fisica, con tutte le formule, definizioni e formule inverse scritte qui."
 tags: ripasso fluidi pressione formula torchio idraulico pascal principio vasi archimede galleggiamento
 math: "yes"
 ---
-# Fisica
 
----
-
-### La pressione
+## La pressione
 
 > Rapporto tra la forza applicata in direzione perpendicolare su una superficie e l' area di tale superficie
 
-#### Formula
+### Formula
 
 $$Pressione$$ = $$ \frac{Forza\text{ } applicata}{Superficie} $$
 
 $$\rho$$ = $$ \frac{F}{S} $$
 
-#### Formule inverse
+### Formule inverse
 
 $$F$$ = $$ {\rho}\cdot{S} $$
 
@@ -30,13 +27,13 @@ $$S$$ = $$ \frac{F}{\rho} $$
 
 ---
 
-### Il principio di Pascal
+## Il principio di Pascal
 
 > La pressione esercitata in un punto qualsiasi di un fluido si trasmette in ogni altro punto del fluido con la stessa intensità, indipendentemente dalla direzione.
 
 ---
 
-### Il torchio idraulico
+## Il torchio idraulico
 
 ![Immagine torchio idraulico]({{ "/data/img/fisica/appunti/fluidi/torchio_idraulico.svg" | relative_url }})
 
@@ -44,15 +41,15 @@ $$S$$ = $$ \frac{F}{\rho} $$
 
 ---
 
-### La legge di Stevino
+## La legge di Stevino
 
-#### Formula
+### Formula
 
 $$Pressione$$ = $$ {Profondità}\cdot{\text{Accelerazione di gravità}}\cdot{\text{Densità del fluido}} $$
 
 $$\rho$$ = $$ {h}\cdot{g}\cdot{d_{fluido}} $$
 
-#### Formule inverse
+### Formule inverse
 
 $$d_{fluido}$$ = $$ {\rho}\div{g}\div{h} $$
 
@@ -63,34 +60,34 @@ $$g$$ = $$ {\rho}\div{h}\div{d_{fluido}} $$
 
 ---
 
-### I vasi comunicanti
+## I vasi comunicanti
 
-#### Stesso fluido
+### Stesso fluido
 
-##### Formula derivata dalla legge di Stevino semplificata, siccome $$g$$ e $$p$$ sono uguali nei vasi comunicanti con uno stesso fluido.
+#### Formula derivata dalla legge di Stevino semplificata, siccome $$g$$ e $$p$$ sono uguali nei vasi comunicanti con uno stesso fluido.
 
 $${h_1}={h_2}$$
 
-#### Fluidi diversi non mescolabili
+### Fluidi diversi non mescolabili
 
-##### Formula derivata dalla legge di Stevino semplificata, siccome $$g$$ è uguale nei vasi comunicanti con uno stesso fluido.
+#### Formula derivata dalla legge di Stevino semplificata, siccome $$g$$ è uguale nei vasi comunicanti con uno stesso fluido.
 
 $$\frac{H_1}{H_2} = \frac{P_1}{P_2}$$
 
 ---
 
-### Il principio di Archimede
+## Il principio di Archimede
 
 > Un corpo immerso in un fluido riceve una spinta diretta verso l' alto uguale al volume del fluido spostato.
 
-#### Formula
+### Formula
 
 $$ S_{pinta} A_{rchimede} = D_{ensità fluido} \cdot V_{olume corpo}*{g} $$
 
 
 $$S_A = D_{fluido} \cdot V_{corpo}*{g}$$
 
-#### Formule inverse
+### Formule inverse
 
 $$D_{fluido} = S_A \div V_{corpo} \div {g}$$
 
@@ -100,7 +97,7 @@ $$g = S_A \div V_{corpo} \div D_{fluido} $$
 
 ---
 
-### Volume immerso nel galleggiamento.
+## Volume immerso nel galleggiamento.
 
 > La condizione di galleggiamento, derivata dalla spinta di Archimede, è $$\rho_{corpo} < \rho_{fluido} $$.
 
