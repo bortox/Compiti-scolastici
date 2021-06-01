@@ -34,4 +34,4 @@ In **1875** Stoker published what became his **first novel**, **The Primrose  Pa
 
 Abraham  became very rich because he published some novels and stories that he wrote.
 
-His **most sucessfull** novel is **Dracula**, Bram **wrote it in seven years** and he published it in **1897**. The **inspiration** to write Dracula went from the **meeting** with **Armin Vamery** , a **hungarian teacher** , that he **told** to Abraham the **story** of **Vlad Tepes Dracul**, a **romanian prince**.
+His **most sucessfull** novel is **Dracula**, Bram **wrote it in seven years** and he published it in **1897**. The **inspiration** to write Dracula went from the **meeting** with **Armin Vamery** , a **hungarian teacher** , who **told** Abraham the **story** of **Vlad Tepes Dracul**, a **romanian prince**.
