@@ -12,70 +12,9 @@ layout: default
     {{ content }}
   </div>
     </article>
-            <div style="text-align:center">
-            <button class="smallbutton listio date" disabled>{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
-            🕰️ PUBBLICATO:
-            {% case d %}
-            {% when '1' %}Primo di
-            {% when '2' %}Due
-            {% when '3' %}Tre
-            {% when '4' %}Quattro
-            {% when '5' %}Cinque
-            {% when '6' %}Sei
-            {% when '7' %}Sette
-            {% when '8' %}Otto
-            {% when '9' %}Nove
-            {% when '10' %}Dieci
-            {% when '11' %}Undici
-            {% when '12' %}Dodici
-            {% when '13' %}Tredici
-            {% when '14' %}Quattordici
-            {% when '15' %}Quindici
-            {% when '16' %}Sedici
-            {% when '17' %}Diciassette
-            {% when '18' %}Diciotto
-            {% when '19' %}Diciannove
-            {% when '20' %}Venti
-            {% when '21' %}Ventuno
-            {% when '22' %}Ventidue
-            {% when '23' %}Ventitre
-            {% when '24' %}Ventiquattro
-            {% when '25' %}Venticinque
-            {% when '26' %}Ventisei
-            {% when '27' %}Ventisette
-            {% when '28' %}Ventotto
-            {% when '29' %}Ventinove
-            {% when '30' %}Trenta
-            {% when '31' %}Trentuno
-            {% endcase %}
-            {% case m %}
-            {% when '1' %}Gennaio
-            {% when '2' %}Febbraio
-            {% when '3' %}Marzo
-            {% when '4' %}Aprile
-            {% when '5' %}Maggio
-            {% when '6' %}Giugno
-            {% when '7' %}Luglio
-            {% when '8' %}Agosto
-            {% when '9' %}Settembre
-            {% when '10' %}Ottobre
-            {% when '11' %}Novembre
-            {% when '12' %}Dicembre
-            {% endcase %}</button></div>
-        <script async>
-        function mostra() {
-            document.getElementById('modifica').style.display = "block";
-            document.getElementById('matita').style.display = "none";
-        }
-        </script>
-	    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em" id="matita">
-            <a class="calmlink" onclick="mostra()">✏️ modifica</a>
-        </div>
-        <div style="text-align:center;margin-bottom:1.5em;margin-top:1em;display:none;" id="modifica">
-            <a class="calmlink" href="{{site.baseurl}}/proponi-modifica.html">Proponi cambiamento</a>
-	        <a class="calmlink" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
-	    </div>
-          <div class="nottoprint">
+    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em" >
+    <a class="calmlink opch" style="background-color:red;font-family:Title" onclick="Sharee()">🚀 condividi</a></div>
+         <div class="nottoprint">
 
             <div id="more-work">
                 {% if page.lss %}
@@ -107,12 +46,73 @@ layout: default
                 {% endif %}
                 {% endif %}
                 <div id="dialshare">
-                    <a class="calmlinknoanim block" onclick="Sharee()"><span style="color:aqua">Condividi</span></a>
                     <a class="calmlinknoanim block" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
                     <a class="calmlinknoanim block" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
                 </div>
             </div>
         </div>
+        <div style="text-align:center;margin-bottom:1.5em;margin-top:1em" id="matita">
+            <a class="smallbutton listio opch trollaro">{% assign m = page.date | date: "%-m" %}{% assign d = page.date | date: "%-d" %}
+                ⏱️ | 
+                {% case d %}
+                {% when '1' %}primo di
+                {% when '2' %}due
+                {% when '3' %}tre
+                {% when '4' %}quattro
+                {% when '5' %}cinque
+                {% when '6' %}sei
+                {% when '7' %}sette
+                {% when '8' %}otto
+                {% when '9' %}nove
+                {% when '10' %}dieci
+                {% when '11' %}undici
+                {% when '12' %}dodici
+                {% when '13' %}tredici
+                {% when '14' %}quattordici
+                {% when '15' %}quindici
+                {% when '16' %}sedici
+                {% when '17' %}diciassette
+                {% when '18' %}diciotto
+                {% when '19' %}diciannove
+                {% when '20' %}venti
+                {% when '21' %}ventuno
+                {% when '22' %}ventidue
+                {% when '23' %}ventitre
+                {% when '24' %}ventiquattro
+                {% when '25' %}venticinque
+                {% when '26' %}ventisei
+                {% when '27' %}ventisette
+                {% when '28' %}ventotto
+                {% when '29' %}ventinove
+                {% when '30' %}trenta
+                {% when '31' %}trentuno
+                {% endcase %}
+                {% case m %}
+                {% when '1' %}Gennaio
+                {% when '2' %}Febbraio
+                {% when '3' %}Marzo
+                {% when '4' %}Aprile
+                {% when '5' %}Maggio
+                {% when '6' %}Giugno
+                {% when '7' %}Luglio
+                {% when '8' %}Agosto
+                {% when '9' %}Settembre
+                {% when '10' %}Ottobre
+                {% when '11' %}Novembre
+                {% when '12' %}Dicembre
+                {% endcase %}</a>
+                <a class="smallbutton listio trollaro" onclick="mostra()">✏️ modifica</a>
+            </div>
+            <div style="text-align:center;margin-bottom:1.5em;margin-top:1em;display:none;" id="modifica">
+                <a class="smallbutton listio trollaro" href="{{site.baseurl}}/proponi-modifica.html">Proponi cambiamento</a>
+                <a class="smallbutton listio trollaro" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
+            </div>
+            <script async>
+                function mostra() {
+                    document.getElementById('modifica').style.display = "block";
+                    document.getElementById('matita').style.display = "none";
+                }
+            </script>
 
 </div>
 <div class="profview"><hr>
