@@ -1,12 +1,65 @@
 ---
-
+layout: none
+title: Segnala un errore
+description: Segnala un errore presente in una versione oppure un testo di Compiti scolastici. 
+tags:
+- errore
+- segnala
+- versione
+- testo
+- form
+- bug
+- contattami
 ---
 <!DOCTYPE html>
-<html>
-<head>
+<html><head>
+{% seo %}
+<link rel="apple-touch-icon" sizes="57x57" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/data/favicon/' | prepend: site.baseurl }}apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ '/data/favicon/' | prepend: site.baseurl }}android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/data/favicon/' | prepend: site.baseurl }}favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ '/data/favicon/' | prepend: site.baseurl }}favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/data/favicon/' | prepend: site.baseurl }}favicon-16x16.png">
+<link rel="manifest" href="{{ '/data/favicon/' | prepend: site.baseurl }}manifest.json">
+<meta name="msapplication-TileColor" content="#8a2be2">
+<meta name="msapplication-TileImage" content="{{ '/data/favicon/' | prepend: site.baseurl }}ms-icon-144x144.png">
+<meta name="theme-color" content="#8a2be2">
+<meta name="google-site-verification" content="uPvYR6a5fI_ch61-FoChm11ur0HkonsoCySFpaNtL6s" />
+<meta name="yandex-verification" content="82061684358e2682" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex">
-<title>Segnalazione di errore</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="theme-color" content="#8A2BE2"/>
+{% if page.noindex %} <meta name="robots" content="noindex, follow"/>{% else %}<meta name="robots" content="index, follow"/>{% endif %}
+<meta name="revisit-after" content="29 days">
+{% if page.materia %}<meta name="topic" content="{{ page.materia | lower }}">{% endif %}
+<meta name="author" content='Andrea Bortolotti, broto777@zoho.com'>
+<meta name="reply-to" content='broto777@zoho.com'>
+<meta name='coverage' content='Worldwide'>
+<meta name='HandheldFriendly' content="True">
+<meta name="distribution" content="global">
+{% if page.math %}
+<script>
+MathJax = {
+    tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+    },
+    chtml: {
+        minScale: .75,
+    },
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+{% endif %}
+{% if page.plotly %}<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>{% else %}{% endif %}
+{% if page.fontawesome %}<script src="https://kit.fontawesome.com/ad6ebe67c4.js" crossorigin="anonymous" async></script>{% else %}{% endif %}
+<meta name="keywords" content="{% if page.materia %}{{ page.materia }} {% endif %}{% if page.tags %}, {{ page.tags | join: ", " }}{% endif %}">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 * {
