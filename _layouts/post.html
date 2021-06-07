@@ -62,10 +62,19 @@ layout: default
             {% when '11' %}Novembre
             {% when '12' %}Dicembre
             {% endcase %}</button></div>
-	    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em">
-		<a class="calmlink" href="{{site.baseurl}}/proponi-modifica.html">Proponi modifica</a>
-	    <a class="calmlink" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
-	  </div>
+        <script async>
+        function mostra() {
+            document.getElementById('modifica').style.display = "block";
+            document.getElementById('matita').style.display = "none";
+        }
+        </script>
+	    <div style="text-align:center;margin-bottom:1.5em;margin-top:1em" id="matita">
+            <a class="calmlink" onclick="mostra()">✏️ modifica</a>
+        </div>
+        <div style="text-align:center;margin-bottom:1.5em;margin-top:1em;display:none;" id="modifica">
+            <a class="calmlink" href="{{site.baseurl}}/proponi-modifica.html">Proponi modifica</a>
+	        <a class="calmlink" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
+	    </div>
           <div class="nottoprint">
 
             <div id="more-work">
