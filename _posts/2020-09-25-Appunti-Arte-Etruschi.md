@@ -3,7 +3,7 @@ layout:  post
 title:  "La civiltà etrusca: architettura funeraria, tempio e lavorazione dei metalli."
 date: 2020-09-25 20:00:00
 categories:  appunti
-materia: "STORIA DELL' ARTE"
+materia: "STORIA DELL'ARTE"
 tags: architettura funeraria civiltà etrusca
 ---
 

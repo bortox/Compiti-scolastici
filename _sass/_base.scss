@@ -86,12 +86,18 @@ body {
 
 @font-face {
     font-family: "Title";
-    src: url("../data/fonts/Title.ttf");
+    src:
+        local('Raleway'),
+        local('Raleway Extra-Bold'),
+        url("../data/fonts/Title.woff2");
     font-display: swap;
+    font-weight: 800;
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../data/fonts/Nunito-Regular.ttf");
+  src: 
+    local('Nunito'),
+    url("../data/fonts/Nunito-Regular.woff2");
   font-display: swap;
 }
 /**
