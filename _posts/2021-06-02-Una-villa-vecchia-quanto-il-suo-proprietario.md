@@ -15,6 +15,9 @@ tags:
 - Quocumque
 - oculos
 - verto
+- versione
+- latino
+- participio
 ---
 
 ## Traduzione versione dal Latino
