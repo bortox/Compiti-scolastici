@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bortox.github.io/Compiti-scolastici/sitemap.xml
