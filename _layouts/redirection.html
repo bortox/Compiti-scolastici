@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="refresh" content="1;url={{ page.indirizza }}"/>
+        <link rel="canonical" href="{{ page.indirizza }}"/>
+        <script type="text/javascript">
+                window.location.href = "{{ page.indirizza }}"
+        </script>
+        <title>Sto arrivando alla destinazione!</title>
+    </head>
+    <body>
+        <img src="{{ "/data/img/loghi/aereo.svg" | relative_url }}" style="width:100%;height:100%;animation:none">
+    Sto reindirizzando al post...
+    Se non funziona, <a href='{{ page.indirizza }}'>clicca qui</a>.
+    </body>
+</html>

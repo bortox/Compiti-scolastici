@@ -2,21 +2,20 @@
 layout: page
 title: Incontri nel percorso LSS Acidi e Basi
 tags: LSS,Acidi,Basi,Laboratorio,Sapere,Scientifico,Agnoletti
-materia: scienze naturali
+materia: scienze-naturali
 ---
-
+<style>@charset "UTF-8";.shadow{color:#fff;text-shadow:1px 1px 3px #000;font-weight:900}.borderblack{text-align:justify!important;margin-bottom:.7em;border-color:#000;border-width:.15em;border-style:solid;padding:1.25em;border-radius:.5em}.do{background-color:#556b2f}.cb{background-color:#6495ed;color:white!important;&:visited,&:hover{color:white!important}}.spacing{letter-spacing:1px}.marginstrange{margin:0;margin-bottom:0.75em!important;margin-left:0.1em!important;margin-right:0.1em!important;margin-top:.5em}.m2{margin-bottom:.6em}.radius{border-radius:.45em}</style>
 <div class="home">
-<blockquote> Clicca il titolo per aprire un post. </blockquote>
-<blockquote> Sono organizzati dal più recente al meno recente</blockquote>
+<blockquote> Clicca il titolo per aprire un post. Sono ordinati dal meno recente al più recente. </blockquote>
   <ul class="post-list">
-    {% for post in site.posts %}
-        {% if post.lss == 'acidi-e-basi' %}
-            <li>
-                <hr>
-                <button class="smallbutton">{{ post.date | date: "%d / %m / %Y" }}</button>{% if post.lss %}<button class="smallbutton" style="background-color: orangered">LSS {{ post.lss | upcase | replace: "-", " " }}</button>{% else %}{% endif %}<h4><a class="alias" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</h4></a>
-                <span class="post-meta" style="font-family:OpenSans;font-weight:900;font-size:15px">{{ post.description | escape }}</span>
-            </li>
-        {% endif %}
+    {% assign apostoli =  site.posts | reverse | where: "lss", "acidi-e-basi" %}
+    {% for post in apostoli %}
+      <div class="card borderblack">
+          <h4><a class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+        <p>{{ post.description | truncatewords: 50 }}</p>
+        <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span> {% if post.materia %}<a class="smallbutton opch cb" href="{{ '/#' | append: post.materia | prepend: site.baseurl }}">{{ post.materia | replace: "-", " " | capitalize }}</a>{% endif %} <span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
+
+      </div>
     {% endfor %}
     </ul>
 </div>
