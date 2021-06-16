@@ -18,17 +18,15 @@ layout: default
 
             <div id="more-work">
                 {% if page.lss %}
-                <h3 class="calmlinknoanim"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h3><br>
+                <h3 class="calmlinknoanim realblock"> LSS {{ page.lss | upcase | replace: "-", " " }}: </h3><br>
                 {% assign lsspagina = page.lss | downcase %}
-                {% for post in site.posts %}
-                    {% assign lsso = post.lss | downcase %}
-                    {% if lsso == lsspagina %}
+                {% assign apostoli =  site.posts | reverse | where: "lss", lsspagina %}
+                {% for post in apostoli %}
                         {% if post.url != page.url %}
                         <a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
                         {% else %}
                         <a class="otherpostlnk" href="#"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
                         {% endif %}
-                    {% endif %}
                 {% endfor %}
                 {% else %}
                 {% if site.related_posts.size >= 2 %}
@@ -46,8 +44,8 @@ layout: default
                 {% endif %}
                 {% endif %}
                 <div id="dialshare">
-                    <a class="calmlinknoanim block" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
-                    <a class="calmlinknoanim block" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
+                    <a class="calmlinknoanim" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
+                    <a class="calmlinknoanim" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
                 </div>
             </div>
         </div>

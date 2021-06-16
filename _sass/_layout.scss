@@ -456,6 +456,11 @@ img[src*="#border"] {
 .block {
     display: inline-block;
 }
+
+.realblock {
+    display: block !important;
+}
+
 .card {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24);
   transition: 0.3s;
