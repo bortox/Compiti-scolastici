@@ -27,12 +27,12 @@ materia:  "LSS,chimica,fisica,borto,bortox,bortolotti"
         {% assign materie = site.posts | group_by: 'lss' | sort: 'name' %}
         <hr>
         {% for lista_post_materia in materie %}
-        <a class="smallbutton listio shadow radius" href="#{{lista_post_materia.name}}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</a>
+        <a class="smallbutton listio shadow radius" href="#{{lista_post_materia.name | default: 'Nessun LSS' }}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</a>
         {% endfor %}
         <hr>
         {% for lista_post_materia in materie %}
-          <a name="{{ lista_post_materia.name }}" materia="{{lista_post_materia.name}}"></a><details class="marginstrange">            
-              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a class="alias" href="#">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
+          <a name="{{ lista_post_materia.name | default: 'Nessun LSS' }}" materia="{{lista_post_materia.name | default: 'Nessun LSS' }}"></a><details class="marginstrange">            
+              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name | default: 'Nessun LSS'}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a class="alias" href="#">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
             <div class="card borderblack">
                 <h4><a class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
               <p>{{ post.description | truncatewords: 21 }}</p>
