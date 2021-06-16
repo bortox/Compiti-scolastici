@@ -1,17 +1,92 @@
 ---
-layout:  default
+layout: none
 materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
 ---
-<div class="home" ></div>
-    <h1 class="page-heading center">Compiti fatti: {{ site.posts | size }}</h1>
-    <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
+<!doctype html>
+<html lang="it">
+<head>
+{% include head.html %}
+<link rel="preload" as="style" href="{{ "/css/index.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href='{{ "/css/index.css" | prepend: site.baseurl }}'>
+<script src='{{ "/js/randomColor.min.js" | prepend: site.baseurl }}'></script>
+</head>
+  <body>
+
+    {% include header.html %}
+    <div class="wrapper">
+    <div id="search-demo-container" class="nottoprint">
+      <input type="search" id="search-input" placeholder="Cerca in tutto il sito..." label="Esegui una ricerca">
+      <ul id="results-container"></ul>
+    </div>
+      </div>
+    <div class="page-content">
+      <div class="wrapper">
+        <header class="post-header">
+          <h1 class="post-title"> Compiti divisi per materia</h1>
+        </header>
+        {% assign materie = site.posts | group_by: 'materia' | sort: 'name' %}
+        {% for lista_post_materia in materie %}
+        <a class="smallbutton listio shadow radius" href="#{{lista_post_materia.name}}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " }}</a>
+        {% endfor %}
         <hr>
-        <button class="smallbutton opch">{{ post.materia | capitalize }}</button>{% if post.lss %}<button class="smallbutton opch" style="background-color: orangered">LSS {{ post.lss | upcase | replace: "-", " " }}</button>{% else %}{% endif %}{% assign categorypost = post.categories[0] | downcase %}{% if categorypost == 'appunti' %}<button class="smallbutton opch" style="background-color: #8A2BE2">{% else %}<button class="smallbutton opch" style="background-color: darkslategray">{% endif %}{{ post.categories[0] }}</button>
-        <h4><a class="alias" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        <span class="post-meta" style="font-family:OpenSans;font-weight:900;font-size:15px">{{ post.description | escape }}</span>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+        {% for lista_post_materia in materie %}
+          <a name="{{ lista_post_materia.name }}" materia="{{lista_post_materia.name}}"></a><details class="marginstrange">            
+              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a class="alias" href="#">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
+            <div class="card borderblack">
+                <h4><a class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+              <p>{{ post.description | truncatewords: 21 }}</p>
+              <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span>{% if post.lss %}<span class="smallbutton opch cb">LSS {{ post.lss | replace: "-", " " | capitalize }}</span>{% endif %}<span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
+            </div>
+            {%- endfor -%}
+          </details>
+          {% endfor %}
+        </div>
+
+    <div class="nottoprint">
+    {% include footer.html %}
+    </div>
+    <script>
+      var materie = [];
+      {% for materia in materie %}
+      materie.push("{{ materia.name }}");
+      {% endfor %}
+      var colors = randomColor ({
+          luminosity: 'dark',
+          count: materie.length,
+        });
+      for (nome in materie) {
+        var items = document.querySelectorAll(`[materia="${materie[nome]}"]`);
+        for(var i = 0; i < items.length; i++){
+          items[i].style.backgroundColor = colors[nome];
+        }
+      }
+      
+    </script>
+    <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
+    <script defer async>
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<div class="card"><a class="scarslink calmlink" href="{url}?query={query}">{materia}</a><br><a href="{url}?query={query}" title="{description}" class="alias">{title}</a></div>',
+        noResultsText: ' Nessun risultato trovato :(',
+        limit: 50,
+        fuzzy: false,
+        exclude: ['Benvenut@']
+      })
+    </script>
+    <script defer src="{{ site.baseurl }}/js/share-menu.min.js" type="module"></script>
+    <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
+    <script defer>
+    function Sharee() {
+      document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
+      document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
+      document.getElementById("chclick").alt = "Grazie";
+      document.getElementById("s").style = "background-color:black";
+      shareMenu.share();
+    }
+    </script>
+  <div class="nottoprint sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | relative_url }}" style="width:30px"></button></div>
+  <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </body>
+</html>
