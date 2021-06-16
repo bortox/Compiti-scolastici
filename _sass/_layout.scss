@@ -379,6 +379,7 @@ button {
     border-radius:25px;
     margin: .15em;
     font-family: OpenSans;
+    display: inline-block;
 }
 .calmlink {
     background-color: rgba(53, 0, 102,0.8);
@@ -458,8 +459,8 @@ img[src*="#border"] {
 .card {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24);
   transition: 0.3s;
-  padding:0.6em;
-  text-align: center;
+  padding:0.45em;
+  text-align: justify;
   line-height: 2em;
   border-radius: 0.2em;
   &:hover {
@@ -470,9 +471,17 @@ img[src*="#border"] {
   padding:0.35em !important;
   border-radius:0.2em !important;
   margin-right:1em !important;
-  text-align: justify !important;
-  border-top-right-radius:0.5em !important;
-  background-color: rgba ( 0,0,0,0.5) !important;
+  text-align: left !important;
+  font-family: Title !important;
+  color:grey !important;
+  transition: 0.2s;
+  &:hover {
+      color: black !important;
+  }
+}
+
+.cbb {
+    color: cornflowerblue !important;
 }
 
 .license-text {
@@ -621,5 +630,12 @@ dd {
     }
     div.sticky {
         background-color: DarkSlateBlue;
+    }
+
+    .scarslink {
+        color:grey !important;
+        &:hover {
+            color: whitesmoke !important;
+        }
     }
 }

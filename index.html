@@ -69,7 +69,7 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<div class="card"><a class="scarslink calmlink" href="{url}?query={query}">{materia}</a><br><a href="{url}?query={query}" title="{description}" class="alias">{title}</a></div>',
+        searchResultTemplate: '<div class="card"><a href="{url}?query={query}" title="{description}" class="alias scarslink">{title}</a><a class="alias scarslink" href="{{ site.baseurl }}/#{materia}" >({materia})</a></div>',
         noResultsText: ' Nessun risultato trovato :(',
         limit: 50,
         fuzzy: false,
