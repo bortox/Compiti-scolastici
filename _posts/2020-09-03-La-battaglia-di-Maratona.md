@@ -3,7 +3,7 @@ layout:  post
 title:  "La Battaglia di Maratona"
 date: 2020-09-03 10:00:00
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Esercizio 32 pagina 203. Darius, Persarum rex, quia Graeciam in suam potestatem redigere cupiebat, classem quingentarum navium comparavit, ad Atticam accessit et copias Marathonam duduxit, Athenienses auxilium a Lacedaemoniis petiverunt, qui tamen copias sero miserunt, quod Apollonis sacra perficere debebant. "
 tags:
 - versione

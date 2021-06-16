@@ -3,7 +3,7 @@ layout: post
 title: Versione 45 pagina 286 | Il buon maestro
 date: 2020-12-11 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "Il maestro esperto non è quello che esagera nelle lodi o nei rimproveri, bensì l' educatore che si propone come esempio di moderazione e saggezza"
 tags: latino versione buon maestro
 ---

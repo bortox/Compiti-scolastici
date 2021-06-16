@@ -3,7 +3,7 @@ layout:  post
 title:  "Alessandro Magno sfugge ad un attentato"
 date: 2021-01-05 10:00:00
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Versione numero 30 pagina 300. Questo testo comprende traduzione accurata dal Latino fatta con mio nonno e paradigmi."
 tags: latino versione alessandro magno attentato 30
 ---

@@ -2,7 +2,7 @@
 layout:  post
 title:  Le Navi di Cesare in difficoltà
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Esercizio 39  a pagina 358. Versione tradotta dal latino su Cesare e le sue navi in difficoltà. "
 tags:
 - latino

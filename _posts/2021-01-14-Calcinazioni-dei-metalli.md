@@ -4,7 +4,7 @@ title: Calcinazioni con metalli, LSS Nascita della Chimica Moderna
 date: 2021-01-14T15:00:00+01:00
 categories: appunti
 lss: nascita-della-chimica-moderna
-materia: scienze naturali
+materia: scienze-naturali
 description: Osserviamo le calcinazioni dei metalli, annotando le differenze con le calcinazioni dei carbonati osservate nel precedente percorso LSS.
 tags:  calcinazioni metalli chimica lss
 ---

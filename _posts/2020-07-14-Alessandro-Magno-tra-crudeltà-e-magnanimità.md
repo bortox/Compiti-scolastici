@@ -3,7 +3,7 @@ layout:  post
 title:  "Alessandro Magno tra crudeltà e magnanimità"
 date: 2020-07-14 10:00:00
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Esercizio 6 pagina 208. Alexander ad inhumanum supplicium tradit Callisthenem philosophum..."
 tags:
 - latino

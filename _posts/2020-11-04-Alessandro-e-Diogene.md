@@ -3,7 +3,7 @@ layout: post
 title: Alessandro e Diogene | Traduzione versione dal Latino
 date: 2020-11-04T20:00:00+01:00
 categories: versione
-materia: LATINO
+materia: latino
 description: 'Il filosofo Diogene, seguace della filosofia cinica, che praticava il disprezzo dei beni materiali, dà ad Alessandro Magno una risposta in tono con la sua scelta di vita. Ne deriva il detto secondo cui Alessandro fa prima a vincere il re persiano Dario che a smuovere Diogene dal suo posto. Versione numero 24 pagina 238 del libro Il mio latino'
 tags: diogene alexandro magno cognomen invicti fuit propter prosperas bellis victorias
 modified: 2020-11-05T21:26:49+01:00

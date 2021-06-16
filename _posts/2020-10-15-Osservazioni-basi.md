@@ -4,7 +4,7 @@ title: Esperimento sulla solubilizzazione di metalli in basi, discussione collet
 date: 2020-10-15 10:00:00
 categories:  appunti
 lss: acidi-e-basi
-materia: scienze naturali
+materia: scienze-naturali
 description: Abbiamo eseguito un esperimento per verificare la capacità di solubilizzazione delle basi in acqua con diverse sostanze. Successivamente abbiamo discusso insieme per giungere a delle conclusioni, e deciso di fare ulteriori esperimenti per comprovare la differenza tra acidi e basi
 tags:
 - lss

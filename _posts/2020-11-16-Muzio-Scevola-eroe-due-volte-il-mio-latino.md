@@ -3,7 +3,7 @@ layout: post
 title: Versione 33 pagina 259 | Muzio Scevola; eroe due volte
 date: 2020-11-16 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "Fallito l' obiettivo di uccidere il re etrusco Porsenna, che assedia Roma, il giovane Muzio guadagna l' ammirazione del nemico per il coraggio con cui punisce se stesso per l' errore commesso. Versione proveniente dal libro Il mio Latino."
 tags: Muzio Scevola Versione Porsena Etruscorum rege obsidebatur fere capiebatur
 ---

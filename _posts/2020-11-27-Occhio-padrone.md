@@ -3,7 +3,7 @@ layout: post
 title: Versione l'occhio del padrone | Traduzione con paradigmi
 date: 2020-11-20 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "La favola di Fedro dimostra che il padrone vede più di altri, quando ci sono in gioco i suoi interessi"
 tags: Occhio Padrone 274 versione latino tradotta
 ---

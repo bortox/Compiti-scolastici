@@ -3,7 +3,7 @@ layout: post
 title: Versione 32 pagina 258 | Attalo III, ultimo re di Pergamo
 date: 2020-11-11T20:00:00+01:00
 categories: versione
-materia: LATINO
+materia: latino
 description: Esercizio 32 pagina 258. Libro il mio Latino. Curiosa figura di monarca assoluto, crudele e nevrotico, il re di Pergamo dapprima semina strage a corte, poi conduce una vita squallida.... In Asia Attalus, Pergami rex... 
 tags: Attalo III ultimo Pergamo Attalus Asia floridum regnum latino versione
 modified: 2020-11-12T01:37:13+01:00

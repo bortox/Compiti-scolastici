@@ -4,7 +4,7 @@ title: Come scoprire se una sostanza è un acido o una base? Gli indicatori di a
 date: 2020-10-24 10:00:00
 categories:  appunti
 lss: acidi-e-basi
-materia: scienze naturali
+materia: scienze-naturali
 description: In questa lezione scopriremo come identificare facilmente l' acidità di una sostanza, quindi anche come distinguere un acido da una base. Introdurremo gli indicatori, cioé sostanze che riescono a comunicarci l' acidità di una sostanza. Inoltre in questo articolo è anche contenuta la descrizione della cartina di tornasole; un indicatore.
 tags:
 - fenoftaleina

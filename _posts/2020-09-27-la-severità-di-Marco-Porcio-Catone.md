@@ -3,7 +3,7 @@ layout:  post
 title:  "La severità di Marco Porcio Catone"
 date: 2020-09-27 10:00:00
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Viene tracciato un profilo di Catore il Censore, così chiamato per la sua severità nella difesa del costume romano e dei valori tradizionali. Versione di Il mio Latino pagina 200 esercizio 26."
 tags: Marco Porcio Catone Catonis marcus Sabinorum Severità
 redirect_from: /compiti/2020/09/27/la-severit%C3%A0-di-Marco-Porcio-Catone

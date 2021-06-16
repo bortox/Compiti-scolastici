@@ -4,7 +4,7 @@ title:  "L' Età dei metalli e una breve storia della Chimica | LSS Combustione"
 date: 2020-09-21 10:00:00
 lss: combustione
 categories:  appunti
-materia: scienze naturali
+materia: scienze-naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combustione. Resoconto della lezione due con una presentazione riguardante l' Età dei metalli e una breve storia della nascita della chimica."
 tags: lss combustione riduzione metalli ossido piombo circostante metodo scientifico Aristoele Boyle
 ---

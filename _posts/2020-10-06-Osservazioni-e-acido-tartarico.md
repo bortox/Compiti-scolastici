@@ -4,7 +4,7 @@ title:  "Discussione collettiva: le differenze nella solubilizzazione di sostanz
 date: 2020-10-02 10:00:00
 categories:  appunti
 lss: acidi-e-basi
-materia: scienze naturali
+materia: scienze-naturali
 description: "Osservazioni sulle differenze tra la solubilizzazione in acqua e in acidi. Ipotesi su come verificare le trasformazioni che subisce una sostanza dopo essere stata inserita nell' acido. Discussioni collettive e esperimenti con l' acido tartarico in granelli. Diario di Bordo sul Laboratorio del Sapere Scientifico riguardante Acidi e Basi. "
 tags:
 - lss

@@ -2,7 +2,7 @@
 layout: post
 title: L' ateniese Ificrate | Versione 9 pagina 324
 categories: versione
-materia: LATINO
+materia: latino
 description: "Il generale greco Ificrate, dopo aver combattuto contro i Persiani, modificò la tecnica di combattimento degli opliti, rendendo l' esercito più rapido ed efficiente"
 tags: versione caso spionaggio Serse Leonida
 ---

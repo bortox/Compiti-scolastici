@@ -3,7 +3,7 @@ layout: post
 title: Un caso di spionaggio durante la guerra tra Serse e le poleis greche
 date: 2021-01-02 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "La perspicacia di una donna spartana, la sorella del re Leonida, consente ai Greci di interpretare un messaggio criptato e conoscere in anticipo i piani di Serse."
 tags: versione caso spionaggio Serse Leonida
 ---

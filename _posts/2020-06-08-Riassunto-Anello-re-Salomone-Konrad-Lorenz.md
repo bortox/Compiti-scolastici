@@ -1,6 +1,6 @@
 ---
 title: Riassunto l' Anello di Re Salomone, Konrad Lorenz
-materia: scienze naturali
+materia: scienze-naturali
 categories: appunti
 tags:
 - konrad

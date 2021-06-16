@@ -3,7 +3,7 @@ layout:  post
 title:  "Luoghi principali della politica italiana"
 date: 2021-02-02 20:00
 categories:  compiti
-materia: STORIA
+materia: storia
 description: "Ricerca di Educazione Civica: i luoghi principali della politica italiana, funzioni e palazzi storici."
 tags: Politica Italia Quirinale Parlamento Palazzo Chigi Luoghi Palazzo
 ---

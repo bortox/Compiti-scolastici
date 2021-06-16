@@ -4,7 +4,7 @@ title: Le prime scoperte scientifiche di Lavoisier
 date: 2021-01-21T15:00:00+01:00
 categories: appunti
 lss: nascita-della-chimica-moderna
-materia: scienze naturali
+materia: scienze-naturali
 description: "Le prime teorie di Lavoisier: l' aria partecipa attivamente alle reazioni chimiche, l' acqua non si trasmuta in terriccio."
 tags:  scoperte lavoisier scienza aria acqua terriccio pellicano distillazione
 ---

@@ -4,7 +4,7 @@ title: Cosa succede al residuo nell' unione tra acidi e basi?
 date: 2020-10-28T10:00:00+01:00
 categories: appunti
 lss: acidi-e-basi
-materia: scienze naturali
+materia: scienze-naturali
 description: In questa lezione scopriamo cosa succede nell' unione tra acido cloridrico e soda caustica mettendoli sopra una piastra riscaldante. Capiamo il fenomeno della neutralizzazione e come funziona la fenolftaleina.
 tags:
 - sale

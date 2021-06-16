@@ -2,7 +2,7 @@
 layout: post
 title: "Fotosintesi clorofilliana e respirazione cellulare"
 categories: appunti
-materia: scienze naturali
+materia: scienze-naturali
 description: 
 tags:
 - fotosintesi

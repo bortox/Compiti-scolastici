@@ -4,7 +4,7 @@ title: 'Inizio del percorso sulla nascita del concetto di gas'
 date: 2020-11-04T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Esperimenti che ci possono dimostrare la presenza dei gas, con becker, acqua e siringhe. In questi esperimenti dimostriamo proprietà come la comprimibilità e la presenza dell' aria.
 tags: concetto gas stantuffo siringa becker acqua aria esperimenti
 ---

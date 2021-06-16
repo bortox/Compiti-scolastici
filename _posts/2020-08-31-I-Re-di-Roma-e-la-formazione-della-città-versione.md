@@ -3,7 +3,7 @@ layout:  post
 title:  "I Re di Roma e la formazione della Città"
 date: 2020-08-31 10:00:00
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Esercizio 33 pagina 204. Romanum imperium a Romulo exordium habet. Postea Numa Pompilius rex creatur: bellum quidem nullum gerii, sed leges moresque constituit Romanis, qui consuetudine proeliorum iam latrones ac semibarbari putabantur; annum describit in decem menses et infinita Romae sacra ac tempia constituit..."
 tags:
 - latino

@@ -4,7 +4,7 @@ title: "Le reazioni chimiche che abbiamo scoperto in questo percorso LSS fino ad
 date: 2020-12-05T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Iniziamo con una discussione collettiva, ragionando sulle domande di Leonardo e Viola, poi eseguiamo un ripasso generale di tutte le trasformazioni chimiche con Azzurra e Niccolò. 
 tags: aria fissa chimica lss
 ---

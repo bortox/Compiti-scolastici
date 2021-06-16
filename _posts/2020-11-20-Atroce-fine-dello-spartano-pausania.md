@@ -3,7 +3,7 @@ layout: post
 title: Versione 9 pagina 263 | Atroce fine dello spartano Pausania
 date: 2020-11-20 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "Versione tradotta dal latino all' italiano. Pausania, reggente di Sparta, comanda le forze alleate dei Greci nella vittoria decisiva di Platea contro i Persiani, ma l' ambizione di potere..."
 tags: Pausania Laecedaemonius magnus homo varius reggente atroce fine spartano
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Il coraggio di Clelia | Versione 35 pagina 302
 date: 2021-01-13 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "  Il valore militare di Clelia che guida le compagne verso la libertà è riconosciuto dal re nemico Porsenna. Versione tradotta da Il mio Latino."
 tags: Porsenna Romani Clelia Vergine
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Traduzione Frasi d'' Autore. Pagina 216 esercizio 14, Il mio Latino'
 date: 2020-10-14T10:00:00+02:00
 categories: versione
-materia: LATINO
+materia: latino
 description: 'Esercizio 14 pagina 216. Frasi d'' autore semplificate tradotte. Libro Il mio latino In templo sane sacro et religioso... Graeci quondam opibus, imperio, gloria, floruerunt. '
 tags: latino versione esercizio es 14 216 frasi autore
 modified: 2020-10-20T09:38:01+02:00

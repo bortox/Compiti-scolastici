@@ -4,7 +4,7 @@ title: Esperimenti sulla conservazione della massa durante la combustione
 date: 2021-01-24T15:00:00+01:00
 categories: appunti
 lss: nascita-della-chimica-moderna
-materia: scienze naturali
+materia: scienze-naturali
 description: "Esperimenti sulla massa, indagini sulla combustione dello zolfo per capire i ragionamenti di Lavoisier, espressioni della legge sulla conservazione della massa."
 tags:  conservazione massa combustione zolfo Lavoisier
 ---

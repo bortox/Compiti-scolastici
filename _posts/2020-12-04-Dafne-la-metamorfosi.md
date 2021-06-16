@@ -3,7 +3,7 @@ layout: post
 title: Versione 43 pagina 284 | La Metamorfosi di Dafne
 date: 2020-12-03 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "Versione tradotta da Il mio Latino. Daphne dulcis venustaque nympha erat, Penei fluminis filia. "
 tags: Daphne venustaque versione traduzione tradotta dafne daphne metamorfosi
 ---

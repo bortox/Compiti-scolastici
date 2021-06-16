@@ -3,7 +3,7 @@ layout: post
 title: Versione 36 pagina 281 | Filippo e Alessandro
 date: 2020-11-20 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "Il confronto tra Alessandro Magno e il padre Filippo fa risaltare l' eccezionalità del primo, sia nelle virtù, sia nei difetti"
 tags: Philippus Alexander versione
 ---

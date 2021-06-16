@@ -2,7 +2,7 @@
 title: Fuga dei Pompeiani a Farsalo
 materia: latino
 categories: versione
-materia: LATINO
+materia: latino
 tags:
 - versione
 - traduzione

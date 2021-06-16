@@ -4,7 +4,7 @@ title: "Scopriamo le proprietà dell' acqua di calce, deducendo in parte ciò ch
 date: 2020-11-25T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Dimostriamo che l' aria derivata dalla calcinazione è differente da quella atmosferica con semplici esperimenti, poi deduciamo analogie tra il nostro respiro e i risultati di un esperimento.
 tags: blake esperimento acqua calce chimica
 ---

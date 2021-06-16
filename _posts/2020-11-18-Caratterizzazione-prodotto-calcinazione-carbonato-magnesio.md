@@ -4,7 +4,7 @@ title: 'Caratterizzazione del prodotto della calcinazione del carbonato di magne
 date: 2020-11-18T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Osservazioni sulla Caratterizzazione di carbonato di magnesio e discussione collettiva su come recuperare la sostanza derivata dalla calcinazione invisibile agli occhi. 
 tags: calcinazione acqua acido fenoftaleina tornasole Caratterizzazione 
 ---

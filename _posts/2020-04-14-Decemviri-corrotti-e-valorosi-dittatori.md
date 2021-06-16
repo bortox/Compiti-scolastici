@@ -2,7 +2,7 @@
 layout:  post
 title:  "Decemviri corrotti e valorosi dittatori | Versione 27 pag 125"
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Vengono qui ricordate alcune figure decisive della storia di Roma, nel bene e nel male."
 tags: Decemviri corrotti valorosi dittatori latino versione traduzione Azzurra
 ---

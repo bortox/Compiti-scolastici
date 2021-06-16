@@ -4,7 +4,7 @@ title: Le ipotesi più rilevanti su calcinazione e combustione tra il XVI e il X
 date: 2021-01-17T15:00:00+01:00
 categories: appunti
 lss: nascita-della-chimica-moderna
-materia: scienze naturali
+materia: scienze-naturali
 description: Le ipotesi più rilevanti sulla calcinazione e la combustione fatte tra il sedicesimo e il diciassettesimo secolo. 
 tags:  flogisto stahl boyle settecento ipotesi
 ---

@@ -4,7 +4,7 @@ title: 'Discussione collettiva sull'' esperimento del bagno pneumatico'
 date: 2020-11-21T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Discutiamo ed eseguiamo l' esperimento del bagno pneumatico, per indagare su dove sono finiti gli 0.56g di carbonato di magnesio.
 tags: discussione collettiva bagno pneumatico palloncino becco bunsen fenomenologico induttivo
 ---

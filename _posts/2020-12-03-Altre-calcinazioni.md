@@ -4,7 +4,7 @@ title: "Altre calcinazioni"
 date: 2020-12-03T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Proviamo ad eseguire altre calcinazioni, con carbonato di rame e ne saggiamo il prodotto.
 tags: aria fissa chimica lss
 ---

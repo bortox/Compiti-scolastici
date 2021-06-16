@@ -2,7 +2,7 @@
 layout:  post
 title:  La maledizione del cavallo
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Esercizio 28 a pagina 374. Fama est Gneum Seium habuisse equum natum Argis. Traduzione della maledizione del cavallo, dal Latino."
 tags:
 - latino

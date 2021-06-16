@@ -3,7 +3,7 @@ layout: post
 title: 'Che cos''è per te l''effervescenza? Discussione collettiva e classificazione degli acidi'
 date: 2020-10-10T10:00:00+02:00
 categories: appunti
-materia: scienze naturali
+materia: scienze-naturali
 lss: acidi-e-basi
 description: 'Riflettiamo su cosa possa essere l'' effervescenza provocata dagli acidi con una discussione collettiva, poi classifichiamo i tipi di acidi. '
 tags: lss effervescenza cos'è discussione collettiva acidi minerali organici

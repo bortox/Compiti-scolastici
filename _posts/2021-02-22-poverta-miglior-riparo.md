@@ -2,7 +2,7 @@
 title: La povertà è il miglior riparo
 materia: latino
 categories: versione
-materia: LATINO
+materia: latino
 tags:
 - versione
 - traduzione

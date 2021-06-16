@@ -3,7 +3,7 @@ layout: post
 title: Versione 44 pagina 285 | Pompeo sconfigge Mitridate
 date: 2020-12-18 20:00
 categories: versione
-materia: LATINO
+materia: latino
 description: "Dopo il felice esito dello scontro con i pirati del Mediterraneo, Pompeo riceve l' incarico della guerra contro Mitridate, re del Ponto. Versione proveniente dal libro Il mio Latino."
 tags: Pompeo Mitridate sconfigge traduzione latino
 ---

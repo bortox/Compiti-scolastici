@@ -3,7 +3,7 @@ layout:  post
 title:  "Cerere e Proserpina"
 date: 2020-07-02 10:00:00
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Esercizio 32 pagina 203. Ceres, frugum dea, in multis Siciliae urbibus colebatur. iovi filiam gignit, venustam puellam Proserpinam"
 tags:
 - latino

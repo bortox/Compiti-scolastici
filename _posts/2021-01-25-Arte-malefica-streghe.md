@@ -3,7 +3,7 @@ title: Arte malefica delle streghe | Versione 34 pagina 319
 layout: post
 date: '2021-01-25 10:00:00 +0000'
 categories: versione
-materia: LATINO
+materia: latino
 description: Un personaggio del romanzo Satyricon di Petronio racconta una storia
   terrificante sulle arti funeste delle streghe. Strigae sunt maleficae mulieres.
 tags:

@@ -2,7 +2,7 @@
 layout:  post
 title:  La pazienza di Socrate - Versione 22 pag. 372
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Versione tradotta di Latino sulla Pazienza di Socrate. Esercizio 22 a pagina 372."
 tags:
 - pazienza

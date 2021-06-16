@@ -4,7 +4,7 @@ title: 'Calcinazione: discussione collettiva sull'' avvenuta trasformazione chim
 date: 2020-11-14T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Discussione collettiva riguardante l' esperimento della calcinazione, cosa succede al carbonato di magnesio? LSS sulla nascita dei gas.
 tags: calcinazione nascita gas trasformazione chimica
 modified: 2020-11-18T13:27:37+01:00

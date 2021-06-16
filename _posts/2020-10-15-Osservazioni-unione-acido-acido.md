@@ -4,7 +4,7 @@ title: Esperimento e discussione collettiva sull' unione tra acidi
 date: 2020-10-17 10:00:00
 categories:  appunti
 lss: acidi-e-basi
-materia: scienze naturali
+materia: scienze-naturali
 description: Osservazioni ed esperimenti con una soluzione composta da più acidi; cosa solubilizzerà?
 tags:
 - discussione collettiva

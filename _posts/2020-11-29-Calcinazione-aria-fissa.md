@@ -4,7 +4,7 @@ title: "Riflessioni su effervescenza e calcinazione ed aria fissa. Ripasso gener
 date: 2020-11-29T10:00:00+01:00
 categories: appunti
 lss: nascita-del-concetto-di-gas
-materia: scienze naturali
+materia: scienze-naturali
 description: Introduciamo meglio l' aria fissa, ossia l' anidride carbonica prodotta nel processo di calcinazione, di cui scopriremo le prime tracce. Inoltre, dopo una discussione collettiva, definiamo alcune analogie tra effervescenza e calcinazione
 tags: calcinazione aria fissa chimica lss
 ---

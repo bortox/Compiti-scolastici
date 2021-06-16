@@ -2,7 +2,7 @@
 layout:  post
 title:  Una villa vecchia quanto il suo proprietario - 30 pag. 376
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Il filosofo Seneca racconta sagge riflessioni sulla vecchiaia, riflettendo sulla sua villa, vecchia quanto lui."
 tags:
 - Una

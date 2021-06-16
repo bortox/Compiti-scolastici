@@ -3,7 +3,7 @@ layout:  post
 title:  "Risposte alle domande di storia"
 date: 2020-12-04 10:00:00
 categories:  compiti
-materia: STORIA
+materia: storia
 description: "Rispondiamo in un lavoro di gruppo alle domande che ci ha assegnato il professore su un testo di Sallustio, Bellum Iugurthinium."
 tags: Storia Sallustio Risposte Bellum Guerra Iugurthinium Agnoletti lavoro gruppo
 ---

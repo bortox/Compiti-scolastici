@@ -4,7 +4,7 @@ title:  "Percorso LSS Combustione | Introduzione"
 date: 2020-09-18 10:00:00
 lss: combustione
 categories:  appunti
-materia: scienze naturali
+materia: scienze-naturali
 description: "Diario di Bordo sul Laboratorio del Sapere Scientifico sulla Combustione. Resoconto della prima lezione, in cui forniamo una definizione operativa condivisa di combustione basata sui nostri esperimenti e sulle nostre riflessioni."
 tags: combustione comburente combustibile lss diario di bordo chimica
 ---

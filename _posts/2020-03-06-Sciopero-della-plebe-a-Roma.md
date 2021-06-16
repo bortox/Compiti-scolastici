@@ -2,7 +2,7 @@
 layout:  post
 title:  "Sciopero della Plebe a Roma | Versione 28 pagina 126"
 categories:  versione
-materia: LATINO
+materia: latino
 description: "Dopo che i plebei, stanchi di essere sfruttati, si sono ribellati astenendosi dai loro compiti e allontanandosi dalla città, i patrizi sono costretti a scendere a patti."
 tags: plebe versione sciopero roma Azzurra
 ---

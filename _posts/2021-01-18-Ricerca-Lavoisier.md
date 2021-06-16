@@ -4,7 +4,7 @@ title: Vita di Lavoisier
 date: 2021-01-19T15:00:00+01:00
 categories: appunti
 lss: nascita-della-chimica-moderna
-materia: scienze naturali
+materia: scienze-naturali
 description: Ricerca su Lavoisier, il fondatore della chimica moderna.
 tags:  ricerca Lavoisier chimica moderna
 ---

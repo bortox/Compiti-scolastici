@@ -3,7 +3,7 @@ layout:  post
 title:  "Che cos'è per te un acido? Osservazioni e definizione condivisa"
 date: 2020-10-08 10:00:00
 categories:  appunti
-materia: scienze naturali
+materia: scienze-naturali
 lss: acidi-e-basi
 description: "Osserviamo la solubilizzazione del residuo di carbonato di calcio immesso in acido cloridrico in acqua, dopo definiamo "
 tags: lss acidi e basi che cos'è un acido discussione collettiva
