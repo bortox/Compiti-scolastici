@@ -49,3 +49,49 @@ Socrates, vir divinae sapientiae et vitae frugi, semper virtutis exempla praebui
 ## Analisi del periodo
 
 ![Schema visuale analisi del periodo la pazienza di Socrate]({{ "/data/img/latino/versioni/analisi-periodo/22-pagina-372.png" | relative_url }})
+
+## Lista dei paradigmi
+
+praebeo, praebes, praebui, praebitum, praebere
+
+sum, es, fui, esse
+
+duco, ducis, duxi, ductum, ducere
+
+depingo, depingis, depinxi, depictum, depingere
+
+iubeo, iubes, iussi, iussum, iubere
+
+indico, indicas, indicavi, indicatum, indicare
+
+sum, es, fui, esse
+
+dico, dicis, dixi, dictum, dicere
+
+superbio, superbis, superbire
+
+sum, es, fui, esse
+
+tolero, toleras, toleravi, toleratum, tolerare
+
+consto, constas, constiti, constare
+
+sum, es, fui, esse
+
+sum, es, fui, esse
+
+expello, expellis, expuli, expulsum, expellere
+
+interrogo, interrogas, interrogavi, interrogatum, interrogare
+
+domo, domas, domui, domitum, domare
+
+exigo, exigis, exegi, exactum, exigere
+
+sum, es, fui, esse
+
+respondeo, respondes, respondi, responsum, respondere
+
+tolero, toleras, toleravi, toleratum, tolerare
+
+vinco, vincis, vici, victum, vincere
