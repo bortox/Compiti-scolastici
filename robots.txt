@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bortox.github.io/Compiti-scolastici/sitemap.xml
+Sitemap: https://bortox.it/Compiti-scolastici/sitemap.xml

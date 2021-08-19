@@ -96,4 +96,4 @@ Anche Lavoisier esegue questo esperimento, e si accorge che il peso del prodotto
 
 > Nulla si crea, nulla si distrugge, tutto si trasforma.
 
-[^1]: [Ecco come funziona la fenolftaleina, un indicatore di acidità](https://bortox.github.io/Compiti-scolastici/appunti/2020/10/24/fenoftaleina-e-cartina-di-tornasole.html)
+[^1]: [Ecco come funziona la fenolftaleina, un indicatore di acidità](https://bortox.it/Compiti-scolastici/appunti/2020/10/24/fenoftaleina-e-cartina-di-tornasole.html)
