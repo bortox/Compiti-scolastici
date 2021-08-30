@@ -19,7 +19,7 @@ tags:
 
 ## Uno strano oracolo spinge Batto a fondare Cirene - Traduzione dal libro Il mio Latino
 
-Il padre di Batto, Grino, re dell’isola di Tra, dopo che era giunto all’oracolo di Delfi, a supplicare il dio per l’onta del giovane figlio ancora muto, ricevette il responso, che richiedeva suo figlio, Batto, dirigersi in Africa e fondare la città di Cirene, là era destinato ad acquisire l'uso della parola.
+Il padre di Batto, Grino, re dell’isola di Tera, dopo che era giunto all’oracolo di Delfi, a supplicare il dio per l’onta del giovane figlio ancora muto, ricevette il responso, che richiedeva suo figlio, Batto, dirigersi in Africa e fondare la città di Cirene, là era destinato ad acquisire l'uso della parola.
 
 In realtà il responso appariva come una beffa, poiché per gli abitanti di Tera, isola di grande isolamento (vaste aree spopolate), il dio comandava affinché inviassero coloni in Africa, una regione tanto vasta.
 
