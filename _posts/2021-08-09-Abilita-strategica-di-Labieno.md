@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Abilità Stragegica di Labieno - Versione 23 pagina 372"
+title:  "Abilità Strategica di Labieno - Versione 23 pagina 372"
 categories:  compiti
 materia: latino
 description: "Traduzione dal latino della versione sulle doti strategiche del luogotenente Labieno. Treviri in Labienum, Caesaris legatum. "
