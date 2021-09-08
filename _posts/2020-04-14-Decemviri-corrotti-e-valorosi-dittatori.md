@@ -15,16 +15,16 @@ tags: Decemviri corrotti valorosi dittatori latino versione traduzione Azzurra
 
 A Roma i decemviri mantengono il potere, poiché devono scrivere le leggi.
 Ma uno dei decemviri, Appio Claudio, cerca di corrompere la figlia di Virginio, un uomo rispettabile e valoroso, il quale otteneva una grande gloria contro i Latini sul monte Algido.
-Il padre allora, poiché la pudicizia della fanciulla era messa alla prova a causa dello stupro da parte del decemviro, estrae la spada, uccide la figlia davanti al popolo e così la mantiene casta.
+Il padre allora, poiché la pudicizia della fanciulla viene messa alla prova a causa dello stupro da parte del decemviro, estrae la spada, uccide la figlia davanti al popolo e così la mantiene casta.
 In seguito scatena una sommossa fra il popolo e le milizie: il diritto di governare è sottratto ai decemviri ed Appio Claudio è condannato.
 I popoli confinanti però muovevano guerra contro i Romani, poiché dopo i decemviri il comando non era ancora affidato a nessun’altro: si ribellavano specialmente contro i Romani Veio e Fidene, ed occupavano Roma.
-Allora d’altra parte veniva istituita una dittatura dai Romani e veniva affidata a L. Quinzio Cincinnato: Cincinnato vince la guerra, prende e annienta i Fidenati, respinge le milizie dell’altro popolo e le sbaraglia in combattimento.
+Allora d’altra parte viene istituita una dittatura dai Romani e viene affidata a L. Quinzio Cincinnato: Cincinnato vince la guerra, prende e annienta i Fidenati, respinge le milizie dell’altro popolo e le sbaraglia in combattimento.
 Ma dopo venti anni i Romani devono combattere nuovamente contro Veio: a quel tempo esercitava la dittatura Furio Camillo. 
-Veio, l’antica e lussureggiante città dei Tusci, veniva espugnata da Camillo e veniva interamente distrutta.
+Veio, l’antica e lussureggiante città dei Tusci, viene espugnata da Camillo e viene interamente distrutta.
 
 ## Testo originale
 
-Decemviri Romae imperium obtinent quia leges scribere debent. At unus ex decemviris, Appius Claudius, filiam Virgini, honesti ac strenui viri qui contra Latinos in monte algido magnam gloriam obtinebat, corrumpere optat. Pater tun, quia stupro a decemviro puellae pudicitia pertemptatur, ferrum extrahit, filiam coram populo occidit et sic castam servat. Deinde tumultum inter populum copiasque movet: tollitur decemviris imperium appis Claudius damnatur. Finitimi populi autem Romanis bellum movebant, quod post decemviros adhuc nulli alii imperium committebatur. veii ac Fidenae praecipue rebellabant contro romas et Romam obsidebant. tunc autem a Romanis dictatura instituitur et L. Quintio Cincinnato committitur; Cincinnatus bellum vincit, Fidenas capit et excidit, alterius populi copias arcet ac fundit. Sed post anno viginti contra Veios denuo pugnare debent Romani: dictaturam exercebat tunc Furius Camillus. A Camillo Veii, antiquum et opimum Tuscorum oppidum, expugnatur atque funditus deletur.
+Decemviri Romae imperium obtinent quia leges scribere debent. At unus ex decemviris, Appius Claudius, filiam Virgini, honesti ac strenui viri qui contra Latinos in monte algido magnam gloriam obtinebat, corrumpere optat. Pater tun, quia stupro a decemviro puellae pudicitia pertemptatur, ferrum extrahit, filiam coram populo occidit et sic castam servat. Deinde tumultum inter populum copiasque movet: tollitur decemviris imperium appis Claudius damnatur. Finitimi populi autem Romanis bellum movebant, quod post decemviros adhuc nulli alii imperium committebatur. Veii ac Fidenae praecipue rebellabant contro romas et Romam obsidebant. Tunc autem a Romanis dictatura instituitur et L. Quintio Cincinnato committitur; Cincinnatus bellum vincit, Fidenas capit et excidit, alterius populi copias arcet ac fundit. Sed post anno viginti contra Veios denuo pugnare debent Romani: dictaturam exercebat tunc Furius Camillus. A Camillo Veii, antiquum et opimum Tuscorum oppidum, expugnatur atque funditus deletur.
 
 ## Paradigmi
 
