@@ -17,7 +17,7 @@ tags:
 
 Traduzione, analisi dei participi e trasformazione dei participi con funzione finale in subordinate attraverso _ut+congiuntivo_.
 
-#### 3) Nostri, fines hostium populantes, repente absumpti sunt.
+#### 1) Nostri, fines hostium populantes, repente absumpti sunt.
 
 > I nostri, mentre devastano i confini dei nemici, vengono improvvisamente catturati.
 
@@ -47,7 +47,7 @@ Il participio **extollens** ha valore **finale**/**modale**.
 
 Trasformo il participio in una subordinata attraverso l'uso del congiuntivo: _Claudium principem veneno interfecit Agrippina,ut extolleret (affinché innalzasse) filium suum Neronem ad summum fastigium_
 
-#### 5)Patres, Furii Camilli oratione audita, Volscos et alias nationes subactas in civitatem recuperunt.
+#### 5) Patres, Furii Camilli oratione audita, Volscos et alias nationes subactas in civitatem recuperunt.
 
 I padri coscritti, ascoltato il discorso di Furio Camillo, accolsero nella cittadinanza i Volsci ed altri popoli sottomessi.
 
