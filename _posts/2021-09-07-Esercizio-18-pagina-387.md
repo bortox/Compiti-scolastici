@@ -1,12 +1,12 @@
 ---
 layout:  post
-title:  "Esercizio 18 a pagina 384, traduzione di frasi, il mio latino"
+title:  "Esercizio 18 a pagina 387, traduzione di frasi, il mio latino"
 categories:  compiti
 materia: latino
 description: "Traduzione delle frasi dal latino e scelta del tempo del congiuntivo appropriato."
 tags:
 - 18
-- 384
+- 387
 - esercizio
 - traduzione
 - Frasi

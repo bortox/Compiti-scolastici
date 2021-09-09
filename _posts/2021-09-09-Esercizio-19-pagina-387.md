@@ -1,12 +1,12 @@
 ---
 layout:  post
-title:  "Esercizio 19 a pagina 384, traduzione di alcune frasi dal latino"
+title:  "Esercizio 19 a pagina 387, traduzione di alcune frasi dal latino"
 categories:  compiti
 materia: latino
-description: "Frasi da tradurre, esercizio 19 pagina 384, nel libro il mio latino, tradotte in italiano."
+description: "Frasi da tradurre, esercizio 19 pagina 387, nel libro il mio latino, tradotte in italiano."
 tags:
 - frasi
-- 384
+- 387
 - 19
 - tradurre
 - Traduzione

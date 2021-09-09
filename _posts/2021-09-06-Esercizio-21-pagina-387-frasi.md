@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Esercizio 21 a pagina 384, traduzione ed analisi delle frasi, il mio latino"
+title:  "Esercizio 21 a pagina 387, traduzione ed analisi delle frasi, il mio latino"
 categories:  compiti
 materia: latino
 description: "Traduzione delle frasi dal latino a pagina 348 ed analisi dei participi dell'esercizio 21."
@@ -12,7 +12,7 @@ tags:
 - fines
 - participio
 - latino
-- 384
+- 387
 ---
 
 Traduzione, analisi dei participi e trasformazione dei participi con funzione finale in subordinate attraverso _ut+congiuntivo_.
