@@ -5,6 +5,8 @@ categories:  compiti
 materia: latino
 description: "Traduzione delle frasi dal latino e scelta del tempo del congiuntivo appropriato."
 tags:
+- 18
+- 384
 - esercizio
 - traduzione
 - Frasi
