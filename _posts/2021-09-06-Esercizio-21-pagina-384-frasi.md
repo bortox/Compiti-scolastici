@@ -6,11 +6,13 @@ materia: latino
 description: "Traduzione delle frasi dal latino a pagina 348 ed analisi dei participi dell'esercizio 21."
 tags:
 - esercizio
+- 21
 - traduzione
 - nostri
 - fines
 - participio
 - latino
+- 384
 ---
 
 Traduzione, analisi dei participi e trasformazione dei participi con funzione finale in subordinate attraverso _ut+congiuntivo_.
@@ -41,7 +43,7 @@ Posso trasformare il participio in una subordinata finale attraverso il tempo co
 
 > Il principe Claudio assassinò Agrippina con il veleno, innalzando verso il potere suo figlio Nerone.
 
-Il participio **constituentes** ha valore **finale**/**modale**.
+Il participio **extollens** ha valore **finale**/**modale**.
 
 Trasformo il participio in una subordinata attraverso l'uso del congiuntivo: _Claudium principem veneno interfecit Agrippina,ut extolleret (affinché innalzasse) filium suum Neronem ad summum fastigium_
 
