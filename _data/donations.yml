@@ -1,0 +1,11 @@
+- nome: PayPal
+  icon: <i class="fab fa-paypal"></i>
+  descrizione: >-
+    La <b>soluzione più semplice e veloce</b>. Puoi fare una donazione una-tantum ed è usato da tutti. 
+  link_fonte: 'https://paypal.me/bort0x'
+- nome: LiberaPay
+  descrizione: >-
+    Organizzazione no-profit con sede in Francia. Non prende commissioni e per ora supporta soltanto pagamenti ricorrenti, anche se può essere impostato il rinnovo su richiesta. 
+    Ehi, puoi anche donare €0,01 a settimana come gesto simbolico!
+    I pagamenti sono però processati tramite PayPal ed è necessario creare un account.
+  link_fonte: 'https://liberapay.com/Compiti-scolastici'
