@@ -65,8 +65,29 @@ fontawesome: yes
       border: .25em dotted rgba(0,180,25,0.3);
       padding: 1.75em
     }
+    .address {
+        font-size: 14px;
+        font-family: monospace;
+        word-wrap: break-word;
+    }
     textarea {
-      word-wrap:break-word
+      word-wrap:break-word;
+      background: #8a2be2;
+      color: darken(#8a2be2, 20%);
+      font-weight: bold;
+      width: 100% !important;
+      border: none !important;
+    }
+    .nomargin {
+        margin: 0 !important;
+        border-radius: 0 !important;
+        background-color: #8a2be2 !important;
+        text-transform: none !important;
+        width: 100% !important;
+    }
+    .div-address {
+        width: 100% !important;
+        text-align: center !important;
     }
 </style>
     <div class="post">
@@ -102,9 +123,22 @@ fontawesome: yes
              <p class="textbold"><b>Se non</b> sai cosa sono, oppure non <b>hai mai usato criptovalute</b> e vuoi donare, <b>usa <i class="fab fa-paypal"></i> <i class="fab fa-cc-visa"></i>  PayPal o Liberapay  <i class="fab fa-cc-visa"></i> <i class="fab fa-paypal"></i> e semplificati la vita</b></p>
              
             </div>
+            <script>
+                function copy(id,id2) {
+                    x=document.getElementsByClassName("text-address");  // Find the elements
+                    for(var i = 0; i < x.length; i++){
+                        x[i].innerText="Indirizzo nel QRCode:";    // Change the content
+                    }
+                    let text_to_change = document.getElementById(id2);
+                    text_to_change.innerHTML = 'Indirizzo copiato negli appunti'
+                    let textarea = document.getElementById(id);
+                    textarea.select();
+                    document.execCommand("copy");
+                }
+            </script>
              {% for credit in site.data.crypto %}
                 <div class="card">
-                    <h4><a href="{{credit.link_fonte}}" class="calmlinknoanim realblock"><i class="fas fa-cubes"></i> <span style="color:orangered"> {{credit.sigla}}</span>{% if credit.icon %}  {{ credit.icon }}{% endif %} </h4></a>
+                    <h4><a href="#" onclick="copy('address-{{credit.sigla}}','address-copied-{{credit.sigla}}');return false;" class="calmlinknoanim realblock"><i class="fas fa-cubes"></i> <span style="color:orangered"> {{credit.sigla}}</span>{% if credit.icon %}  {{ credit.icon }}{% endif %} </h4></a>
                     <h5><span style="color:DeepSkyBlue">{{credit.nome}}</span></h5>
                     <p><i class="fas fa-align-left"></i> Descrizione: {{credit.descrizione}}</p>
                     <div id="qrcode-{{credit.sigla}}"></div>
@@ -118,6 +152,10 @@ fontawesome: yes
                             correctLevel : QRCode.CorrectLevel.H
                         });
                     </script>
+                    <div class="div-address"><p id="address-copied-{{credit.sigla}}" class="text-address">Indirizzo {{credit.sigla}} nel QRCode:</p>
+                    <textarea id='address-{{credit.sigla}}' class="address">{{credit.address}}</textarea>
+                    <button class="smallbutton shadow radius nomargin" onclick="copy('address-{{credit.sigla}}','address-copied-{{credit.sigla}}')">Copia indirizzo negli appunti</button></div>
+                    
                 </div>
             {% endfor %}
                 <div class="card">
