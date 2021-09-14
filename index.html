@@ -80,6 +80,11 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
     <script defer>
     function Sharee() {
+      window.goatcounter.count({
+          path : 'share'
+          title: 'Share menu',
+          event: true,
+      })
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
       document.getElementById("chclick").alt = "Grazie";

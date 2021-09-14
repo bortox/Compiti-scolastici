@@ -108,6 +108,11 @@ layout: default
             </div>
             <script async>
                 function mostra() {
+                    window.goatcounter.count({
+                        path : 'edit'
+                        title: 'Bottone modifica post',
+                        event: true,
+                    })
                     document.getElementById('modifica').style.display = "block";
                     document.getElementById('matita').style.display = "none";
                 }
