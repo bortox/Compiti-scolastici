@@ -2,17 +2,35 @@
 <details style="width:90%;margin-left:1%;margin-right:5%">
     <summary>Configurazione pagina: seleziona la larghezza del testo ( clicca qui ) </summary>
 <p> Per stampare il testo con una sola colonna occupata, prosegui qui </p>
+<script>
+function ChangeBodyWidth(width) {
+    document.body.style.width = width;
+    window.goatcounter.count({
+          path : 'cambia_larghezza',
+          title: 'Cambia larghezza testo',
+          event: true,
+    });
+}
+function Stampa() {
+    window.print()
+    window.goatcounter.count({
+          path : 'stampa',
+          title: 'Stampa',
+          event: true,
+    });
+}
+</script>
 <sup> Non preoccuparti se il formato sembra strano - soprattutto sugli smartphone o sugli schermi larghi - appena stamperai seguendo le istruzioni sottostanti il formato sarà completamente normale, senza parole che escono dai margini. <br><b>Ora seleziona la larghezza del testo desiderata. 50% corrisponde ad una colonna.</b> </sup><br>
-<button  class="smallbutton" onClick = "document.body.style.width = '100%';">100%</button>
-<button  class="smallbutton" onClick = "document.body.style.width = '90%';">90%</button>
-<button  class="smallbutton" onClick = "document.body.style.width = '80%';">80%</button>
-<button  class="smallbutton" onClick = "document.body.style.width = '70%';">75%</button>
-<button  class="smallbutton" onClick = "document.body.style.width = '50%';">50%</button>
+<button  class="smallbutton" onClick = "ChangeBodyWidth('100%')">100%</button>
+<button  class="smallbutton" onClick = "ChangeBodyWidth('90%')">90%</button>
+<button  class="smallbutton" onClick = "ChangeBodyWidth('80%')">80%</button>
+<button  class="smallbutton" onClick = "ChangeBodyWidth('75%')">75%</button>
+<button  class="smallbutton" onClick = "ChangeBodyWidth('50%')">50%</button>
 <br><sub> Questa opzione è stata aggiunta per facilitare una correzione dei testi in seguito alla stampa di essi. Ecco come fare:
 <ul>
     <li> <strong>Seleziona la larghezza </strong>della pagina che desideri <strong>premendo uno dei bottoni</strong> soprastanti. </li>
     <li>
-    <button class="smallbutton hoveranim" onclick="window.print()">Clicca qui per stampare la pagina</button> </li>
+    <button class="smallbutton hoveranim" onclick="Stampa()">Clicca qui per stampare la pagina </button> </li>
     <li> Seleziona <b>stampa su file</b> se vuoi salvare il file come <code>.pdf</code>, <b>altrimenti seleziona la tua stampante e stampalo </b></li>
     <li> Ecco fatto! </li>
 

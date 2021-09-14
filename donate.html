@@ -101,17 +101,17 @@ fontawesome: yes
            <li>Per motivarmi a migliorare ancora il sito (ma per questo basta anche una mail o una segnalazione d'errore).</li>
        </ul><hr>
        Comunque non voglio cercare di obbligare nessuno ed essere un money grabber, infatti aggiungo proprio qua accanto un pulsante per
-       <a class="calmlink block" href="javascript:history.back()">tornare alla pagina precedente</a> se non te la senti di donare/non hai soldi o criptovalute extra.<hr>
+       <a data-goatcounter-click="back" data-goatcounter-title="Pagina precedente" class="calmlink block" href="javascript:history.back()">tornare alla pagina precedente</a> se non te la senti di donare/non hai soldi o criptovalute extra.<hr>
     <h2>Come donare?</h2> 
     <ul>
         <li>Attraverso LiberaPay che usa Paypal per il pagamento e le sue commissioni</li>
-        <li>Attraverso una blockchain, criptovalute come SOL per <b>minimizzare le commissioni</b></li>
+        <li>Attraverso una blockchain, criptovalute come ALGO per <b>minimizzare le commissioni</b></li>
     </ul>
     Qua sotto, ci sono tutte le possibilità per effettuare una donazione.
         <div class="cards">
             {% for credit in site.data.donations %}
                 <div class="card">
-                    <h4><a href="{{credit.link_fonte}}" class="calmlinknoanim realblock"><i class="fab fa-cc-visa"></i> <span style="color:orangered">Dona con <b>{{credit.nome}}</b></span>{% if credit.icon %} {{ credit.icon }} {% endif %} </h4></a>
+                    <h4><a data-goatcounter-click="donate_{{credit.nome}}" data-goatcounter-title="Dona con {{credit.nome}}" href="{{credit.link_fonte}}" class="calmlinknoanim realblock"><i class="fab fa-cc-visa"></i> <span style="color:orangered">Dona con <b>{{credit.nome}}</b></span>{% if credit.icon %} {{ credit.icon }} {% endif %} </h4></a>
                     <p><i class="fas fa-align-left"></i> Descrizione: {{credit.descrizione}}</p>
                 </div>
             {% endfor %}
@@ -131,6 +131,11 @@ fontawesome: yes
                     let textarea = document.getElementById(id);
                     textarea.select();
                     document.execCommand("copy");
+                    window.goatcounter.count({
+                        path:  'copy_address',
+                        title: 'Copy cryptocurrency address',
+                        event: true,
+                    });
                 }
             </script>
              {% for credit in site.data.crypto %}
@@ -158,7 +163,7 @@ fontawesome: yes
                 <div class="card">
                     <h5><span style="text-align:center"><span style="color:darkslateblue">By Andrea Bortolotti </span><br></h5><h6> <img src="{{ "/data/img/loghi/github.svg" | relative_url }}" style="width:25px"><tab><a href="https://github.com/bortox">bortox</a></img><br><img src="{{ "/data/img/loghi/instagram.svg" | relative_url }}" style="width:25px"><tab><a href="https://instagram.com/borto.jpg">borto.jpg</a></h6></a></span>
                     <form action="{{ site.baseurl | prepend: site.url }}"><button class="smallbutton listio opch" style="background-color: #46a049">🏠 Torna al menù principale </button></form>
-                    <a href="javascript:history.back()">Torna alla pagina precedente</a>
+                    <a data-goatcounter-click="back" data-goatcounter-title="Pagina precedente" href="javascript:history.back()">Torna alla pagina precedente</a>
                 </div>
         </div>
        

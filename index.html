@@ -27,16 +27,16 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
         {% assign materie = site.posts | group_by: 'materia' | sort: 'name' %}
         <hr>
         {% for lista_post_materia in materie %}
-        <a class="smallbutton listio shadow radius" href="#{{lista_post_materia.name}}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " }}</a>
+        <a data-goatcounter-click="click_materia" data-goatcounter-title="Vai a materia" class="smallbutton listio shadow radius" href="#{{lista_post_materia.name}}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " }}</a>
         {% endfor %}
         <hr>
         {% for lista_post_materia in materie %}
           <a name="{{ lista_post_materia.name }}" materia="{{lista_post_materia.name}}"></a><details class="marginstrange">            
-              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a class="alias" href="#">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
+              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a class="alias" href="#" data-goatcounter-click="up" data-goatcounter-title="Torna su">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
             <div class="card borderblack">
-                <h4><a class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+                <h4><a data-goatcounter-click="click_post" data-goatcounter-title="Apri post" class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
               <p>{{ post.description | truncatewords: 21 }}</p>
-              <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span>{% if post.lss %} <a href="{{ '/lss.html#' | append: post.lss | prepend: site.baseurl }}" class="smallbutton opch cb">LSS {{ post.lss | replace: "-", " " | capitalize }}</a>{% endif %} <span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
+              <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span>{% if post.lss %} <a data-goatcounter-click="click_lss" data-goatcounter-title="Apri percorso LSS" href="{{ '/lss.html#' | append: post.lss | prepend: site.baseurl }}" class="smallbutton opch cb">LSS {{ post.lss | replace: "-", " " | capitalize }}</a>{% endif %} <span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
             </div>
             {%- endfor -%}
           </details>
@@ -80,16 +80,16 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
     <script defer>
     function Sharee() {
-      window.goatcounter.count({
-          path : 'share'
-          title: 'Share menu',
-          event: true,
-      })
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
       document.getElementById("chclick").alt = "Grazie";
       document.getElementById("s").style = "background-color:black";
       shareMenu.share();
+      window.goatcounter.count({
+          path : 'share',
+          title: 'Share menu',
+          event: true,
+      });
     }
     </script>
   <div class="nottoprint sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | relative_url }}" style="width:30px"></button></div>

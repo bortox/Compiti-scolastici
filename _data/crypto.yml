@@ -8,7 +8,7 @@
   descrizione: >-
     NANO è stata progettata per facilitare pagamenti quasi istantanei senza commissioni. Ottima per importi molto piccoli.
   address: "nano_1547fjogucahax1f83jcgors13zmf393ex3fa89ax7kpm4bkkxqczqnh747u"
-- nome: Solana (preferibile)
+- nome: Solana
   sigla: SOL
   descrizione: >-
     Solana è una blockchain decentralizzata costruita per realizzare app scalabili e facili da usare per il mondo. Ha raggiunto 50K transazioni al secondo. Le commissioni sono -per adesso- inferiori ad un millesimo di euro.

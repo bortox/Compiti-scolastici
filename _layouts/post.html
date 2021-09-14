@@ -23,9 +23,9 @@ layout: default
                 {% assign apostoli =  site.posts | reverse | where: "lss", lsspagina %}
                 {% for post in apostoli %}
                         {% if post.url != page.url %}
-                        <a class="otherpostlnk" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
+                        <a class="otherpostlnk" data-goatcounter-click="click_related_lss" data-goatcounter-title="Apri post LSS correlato" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
                         {% else %}
-                        <a class="otherpostlnk" href="#"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
+                        <a class="otherpostlnk" href="#" data-goatcounter-click="up" data-goatcounter-title="Torna su"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
                         {% endif %}
                 {% endfor %}
                 {% else %}
@@ -37,15 +37,15 @@ layout: default
                 {% for related_post in site.related_posts limit: 6 %}
                     {% assign materiapost = related_post.materia | downcase %}
                     {% if materia == materiapost %}
-                    <a class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 12 }}</a><hr>
+                    <a data-goatcounter-click="click_related_post" data-goatcounter-title="Apri post correlato" class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 12 }}</a><hr>
                     {% endif %}
                     {% endfor %}
                 </div>
                 {% endif %}
                 {% endif %}
                 <div id="dialshare">
-                    <a class="calmlinknoanim" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
-                    <a class="calmlinknoanim" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
+                    <a class="calmlinknoanim" data-goatcounter-click="random_post" data-goatcounter-title="Apri post casuale" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
+                    <a class="calmlinknoanim" data-goatcounter-click="home" data-goatcounter-title="Click menu home" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
                 </div>
             </div>
         </div>
@@ -100,26 +100,25 @@ layout: default
                 {% when '12' %}Dicembre
                 {% endcase %}</p>
                 <a class="smallbutton listio trollaro" onclick="mostra()">✏️ modifica</a>
-                <a class="smallbutton listio trollaro" href="{{site.baseurl}}/donate.html">💰 dona</a>
             </div>
             <div style="text-align:center;margin-bottom:1.5em;margin-top:1em;display:none;" id="modifica">
-                <a class="smallbutton listio trollaro" href="{{site.baseurl}}/proponi-modifica.html">Proponi cambiamento</a>
-                <a class="smallbutton listio trollaro" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
+                <a data-goatcounter-click="suggest_change" data-goatcounter-title="Proponi cambiamento" class="smallbutton listio trollaro" href="{{site.baseurl}}/proponi-modifica.html">Proponi cambiamento</a>
+                <a data-goatcounter-click="report_error" data-goatcounter-title="Segnala errore" class="smallbutton listio trollaro" href="{{site.baseurl}}/segnala-errore.html">Segnala errore</a>
             </div>
             <script async>
                 function mostra() {
-                    window.goatcounter.count({
-                        path : 'edit'
-                        title: 'Bottone modifica post',
-                        event: true,
-                    })
                     document.getElementById('modifica').style.display = "block";
                     document.getElementById('matita').style.display = "none";
+                    window.goatcounter.count({
+                        path : 'edit',
+                        title: 'Mostra opzioni modifica post',
+                        event: true,
+                    });
                 }
             </script>
 
 </div>
 <div class="profview"><hr>
 <p> Questo è il mio sito web personale contenente i i compiti scolastici e gli appunti presi da me, <span style="color:darkslateblue">Andrea Bortolotti</span>, durante il liceo.  Ci sono numerose materie, tra cui Fisica, Chimica, Latino, Inglese, Geometria, Storia dell' Arte e tante altre ancora! L' ho creato per essere più ordinato e per non perdere nulla. </p>
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/cc.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/by.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/nc.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/nd.svg' | prepend: site.baseurl }}" /></a></p><hr>
+<a data-goatcounter-click="click_license" data-goatcounter-title="Apri licenza dei contenuti"rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/cc.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/by.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/nc.svg' | prepend: site.baseurl }}" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="{{ '/data/img/cc/nd.svg' | prepend: site.baseurl }}" /></a></p><hr>
 </div>

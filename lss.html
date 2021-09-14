@@ -27,16 +27,16 @@ materia:  "LSS,chimica,fisica,borto,bortox,bortolotti"
         {% assign materie = site.posts | group_by: 'lss' | sort: 'name' %}
         <hr>
         {% for lista_post_materia in materie %}
-        <a class="smallbutton listio shadow radius" href="#{{lista_post_materia.name | default: 'Nessun LSS' }}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</a>
+        <a class="smallbutton listio shadow radius" data-goatcounter-click="click_lss" data-goatcounter-title="Apri percorso LSS" href="#{{lista_post_materia.name | default: 'Nessun LSS' }}" materia="{{lista_post_materia.name}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</a>
         {% endfor %}
         <hr>
         {% for lista_post_materia in materie %}
           <a name="{{ lista_post_materia.name | default: 'Nessun LSS' }}" materia="{{lista_post_materia.name | default: 'Nessun LSS' }}"></a><details class="marginstrange">            
-              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name | default: 'Nessun LSS'}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a class="alias" href="#">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
+              <summary class="m2"><span class="smallbutton cb shadow spacing radius" materia="{{lista_post_materia.name | default: 'Nessun LSS'}}">{{ lista_post_materia.name | capitalize | replace: "-", " " | default: 'Nessun LSS' }}</span> <span class="smallbutton cb radius opch">{{ lista_post_materia.items | size }} pagin{% if lista_post_materia.items.size > 1 %}e{% else %}a{% endif %}</span><a data-goatcounter-click="up" data-goatcounter-title="Torna su"class="alias" href="#">⬆</a><br></summary>{%- for post in lista_post_materia.items -%}
             <div class="card borderblack">
-                <h4><a class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+                <h4><a data-goatcounter-click="click_post" data-goatcounter-title="Apri post" class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
               <p>{{ post.description | truncatewords: 21 }}</p>
-              <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span> {% if post.materia %}<a class="smallbutton opch cb" href="{{ '/#' | append: post.materia | prepend: site.baseurl }}">{{ post.materia | replace: "-", " " | capitalize }}</a> {% endif %}<span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
+              <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span> {% if post.materia %}<a data-goatcounter-click="click_materia" data-goatcounter-title="Vai a materia" class="smallbutton opch cb" href="{{ '/#' | append: post.materia | prepend: site.baseurl }}">{{ post.materia | replace: "-", " " | capitalize }}</a> {% endif %}<span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
             </div>
             {%- endfor -%}
           </details>
@@ -80,16 +80,16 @@ materia:  "LSS,chimica,fisica,borto,bortox,bortolotti"
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
     <script defer>
     function Sharee() {
-      window.goatcounter.count({
-          path : 'share'
-          title: 'Share menu',
-          event: true,
-      })
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
       document.getElementById("chclick").alt = "Grazie";
       document.getElementById("s").style = "background-color:black";
       shareMenu.share();
+      window.goatcounter.count({
+          path : 'share',
+          title: 'Share menu',
+          event: true,
+      });
     }
     </script>
   <div class="nottoprint sticky" id="s"><button class="print" onclick="Sharee()" style="padding:15px;font-size:14px"><img id='chclick' alt="Condividi" src="{{ '/data/img/loghi/share.svg' | relative_url }}" style="width:30px"></button></div>

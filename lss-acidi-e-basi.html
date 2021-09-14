@@ -11,9 +11,9 @@ materia: scienze-naturali
     {% assign apostoli =  site.posts | reverse | where: "lss", "acidi-e-basi" %}
     {% for post in apostoli %}
       <div class="card borderblack">
-          <h4><a class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+          <h4><a data-goatcounter-click="click_post" data-goatcounter-title="Apri post" class="alias" href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
         <p>{{ post.description | truncatewords: 50 }}</p>
-        <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span> {% if post.materia %}<a class="smallbutton opch cb" href="{{ '/#' | append: post.materia | prepend: site.baseurl }}">{{ post.materia | replace: "-", " " | capitalize }}</a>{% endif %} <span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
+        <div class="center"><span class="smallbutton opch do">{{ post.categories[0] | capitalize }}</span> {% if post.materia %}<a data-goatcounter-click="click_materia" data-goatcounter-title="Vai a materia"class="smallbutton opch cb" href="{{ '/#' | append: post.materia | prepend: site.baseurl }}">{{ post.materia | replace: "-", " " | capitalize }}</a>{% endif %} <span class="smallbutton opch">{{ post.date | date: "%d / %m / %Y" }}</span></div>
 
       </div>
     {% endfor %}

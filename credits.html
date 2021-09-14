@@ -67,15 +67,15 @@ fontawesome: yes
         <div class="cards">
             {% for credit in site.data.credits %}
                 <div class="card">
-                    <a href="{{credit.link_fonte}}"><h4><i class="fas fa-link"></i> <span style="color:orangered">{{credit.nome}}</h4></span></a>
+                    <a data-goatcounter-click="open_fonte_crediti" data-goatcounter-title="Progetto Open Source Crediti" href="{{credit.link_fonte}}"><h4><i class="fas fa-link"></i> <span style="color:orangered">{{credit.nome}}</h4></span></a>
                     <h5> Autore: <i class="fas fa-user-tie"></i><span style="color:DeepSkyBlue">   {{credit.nome_autore}}</span></h5>
                     <p><i class="fas fa-align-left"></i> Descrizione: {{credit.descrizione}}</p>
                 </div>
             {% endfor %}
                 <div class="card">
-                    <h5><span style="text-align:center"><span style="color:darkslateblue">By Andrea Bortolotti </span><br></h5><h6> <img src="{{ "/data/img/loghi/github.svg" | relative_url }}" style="width:25px"><tab><a href="https://github.com/bortox">bortox</a></img><br><img src="{{ "/data/img/loghi/instagram.svg" | relative_url }}" style="width:25px"><tab><a href="https://instagram.com/borto.jpg">borto.jpg</a></h6></a></span>
+                    <h5><span style="text-align:center"><span style="color:darkslateblue">By Andrea Bortolotti </span><br></h5><h6> <img src="{{ "/data/img/loghi/github.svg" | relative_url }}" style="width:25px"><tab><a href="https://github.com/bortox" data-goatcounter-click="open_social_gh" data-goatcounter-title="Profilo GitHub">bortox</a></img><br><img src="{{ "/data/img/loghi/instagram.svg" | relative_url }}" style="width:25px"><tab><a data-goatcounter-click="open_social_ig" data-goatcounter-title="Profilo Instagram" href="https://instagram.com/borto.jpg">borto.jpg</a></h6></a></span>
                     <form action="{{ site.baseurl | prepend: site.url }}"><button class="smallbutton listio opch" style="background-color: #46a049">🏠 Torna al menù principale </button></form>
-                    <a href="javascript:history.back()">Torna alla pagina precedente</a>
+                    <a data-goatcounter-click="back" data-goatcounter-title="Pagina precedente"href="javascript:history.back()">Torna alla pagina precedente</a>
                 </div>
         </div>
     </div>
