@@ -48,7 +48,7 @@ fontawesome: yes
     }
     .card {
       box-shadow: 0 4px 8px 0 rgba(0,0,0,0.24);
-      transition: 0.3s;
+      transition: 0.2s;
       padding: 1em;
       border-radius: .8rem;
       text-align; justify;
@@ -60,9 +60,8 @@ fontawesome: yes
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     }
     .card:hover {
-      box-shadow: 0em 1em 1em -1em rgba(0,180,25,0.9);
-      border: .25em dotted rgba(0,180,25,0.3);
-      padding: 1.75em
+      border: .2em double purple;
+      box-shadow: inset 2px 2px blue;
     }
     .address {
         font-size: 14px;
@@ -71,9 +70,9 @@ fontawesome: yes
     }
     textarea {
       word-wrap:break-word;
-      background: #8a2be2;
-      color: darken(#8a2be2, 20%);
-      font-weight: bold;
+      background: rgb(50, 15, 75);
+      color: whitesmoke;
+      font-weight: 500;
       width: 100% !important;
       border: none !important;
     }
@@ -127,8 +126,10 @@ fontawesome: yes
                     let text_to_change = document.getElementById(id2);
                     text_to_change.innerHTML = 'Indirizzo copiato negli appunti'
                     let textarea = document.getElementById(id);
+                    textarea.disabled = false;
                     textarea.select();
                     document.execCommand("copy");
+                    textarea.disabled = true;
                     window.goatcounter.count({
                         path:  'copy_address',
                         title: 'Copy cryptocurrency address',
@@ -153,7 +154,7 @@ fontawesome: yes
                         });
                     </script>
                     <div class="div-address"><p id="address-copied-{{credit.sigla}}" class="text-address">Indirizzo {{credit.sigla}} nel QRCode:</p>
-                    <textarea id='address-{{credit.sigla}}' class="address">{{credit.address}}</textarea>
+                    <textarea disabled id='address-{{credit.sigla}}' class="address">{{credit.address}}</textarea>
                     <button class="smallbutton shadow radius nomargin" onclick="copy('address-{{credit.sigla}}','address-copied-{{credit.sigla}}')">Copia indirizzo negli appunti</button></div>
                     
                 </div>
