@@ -1,24 +1,18 @@
 ---
-layout:  post
-title:  "Esercizio 31 a pagina 392, traduzione di frasi d'autore dal Latino all'Italiano"
-categories:  compiti
+layout: post
+title: Esercizio 31 a pagina 392, traduzione di frasi d'autore dal Latino all'Italiano
+categories: compiti
 materia: latino
-description: "Complicate frasi d'autore che comprendono il congiuntivo tradotte dall'esercizio 31 a pagina 392 del libro Il mio latino. Precibus rex iuba a servo..."
-tags:
-- frasi
-- autore
-- latino
-- 392
-- 31
-- Precibus
-- Iuba
+description: Complicate frasi d'autore che comprendono il congiuntivo tradotte dall'esercizio 31 a pagina 392 del libro Il mio latino. Precibus rex iuba a servo...
+tags: [frasi, autore, latino, 392, 31, Precibus, Iuba]
+modified: 2021-09-28T12:39:48+02:00
 ---
 
 > Traduci le seguenti frasi d' autore
 
 #### 1) Precibus rex Iuba a servo suo impetravit ut se interficeret, idque obtinuit.
 
-Il re Giuba con le suppliche cercò di ottenere dal suo servo che uccidesse lui stesso, e ci riuscì.
+Il re Giuba con le suppliche cercò di ottenere dal suo servo che uccidesse lui stesso (di farsi ammazzare), e ci riuscì.
 
 #### 2) Ego te et rogo et admoneo ne talis viri tamque nostri necessarii honorem minui per te aut impediri velis
 
