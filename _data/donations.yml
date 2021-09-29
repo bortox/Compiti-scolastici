@@ -1,6 +1,4 @@
-- nome: LiberaPay
+- nome: PayPal
   descrizione: >-
-    Organizzazione no-profit con sede in Francia. Non prende commissioni e per ora supporta soltanto pagamenti ricorrenti, anche se può essere impostato il rinnovo su richiesta. 
-    I pagamenti sono processati tramite PayPal ed è necessario creare un account.
-    Ehi, puoi anche donare €0,01 a settimana come gesto simbolico!
-  link_fonte: 'https://liberapay.com/Compiti-scolastici'
+    la soluzione semplice e sicura per pagare e farsi pagare. 
+  link_fonte: 'https://paypal.me/bort0x'
