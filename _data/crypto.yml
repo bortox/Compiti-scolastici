@@ -6,13 +6,13 @@
 - nome: Nano
   sigla: NANO
   descrizione: >-
-    NANO è stata progettata per facilitare pagamenti quasi istantanei senza commissioni. Ottima per importi molto piccoli.
-  address: "nano_1547fjogucahax1f83jcgors13zmf393ex3fa89ax7kpm4bkkxqczqnh747u"
+    NANO è stata progettata per facilitare pagamenti in pochi secondi senza commissioni. Ottima per importi molto piccoli.
+  address: "nano_1z6jhiwep7bfjxjz4pa9ncocikt8y4p37aq459jkrwae5njyhf5oezo9mq1a"
 - nome: Solana
   sigla: SOL
   descrizione: >-
     Solana è una blockchain costruita per realizzare app scalabili e facili da usare per il mondo. Ha raggiunto 50K transazioni al secondo. Le commissioni sono -per adesso- inferiori ad un millesimo di euro.
-  address: "5jtRXr3edxZAfCxVRB3XT42CBhRiwygeydvo5jG872Tp"
+  address: "5TmF8RstZr2PQd284rwNLjJKE3P4sGM8jbomUKKXf27a"
 - nome: Dogecoin
   sigla: DOGE
   icon: <i class="fas fa-paw"></i>
@@ -23,13 +23,13 @@
   sigla: ALGO
   descrizione: >-
     Algorand è una crypto scalabile carbon neutral. Un obiettivo è quello di stabilire collaborazioni con enti e governi per mostrare le potenzialità delle crypto e della finanza decentralizzata nel mondo reale.
-  address: "T76DUHREDMCZ5DWOVRMQ7HX2EKEA52DDG2ZWLD5VUPSEYO5BCCYR3SUBWI"
+  address: "3D3AJCCFMMB5ZSLGOSLOSFKGC2FNNEHD7YTVVPVPBCQJPS3US6GSY54TUM"
 - nome: Monero
   sigla: XMR
   icon: <i class="fab fa-monero"></i>
   descrizione: >-
     Monero è una criptovaluta decentralizzata e scalabile, offre transazioni private, sicure e non tracciabili.
-  address: "rGeyCsqc6vKXuyTGF39WJxmTRemoV3c97h"
+  address: "46xWpnbDV6VNKf91KFE1duQ46PLWVS7odNK1DiujH7kAgFtJvc2M4WFf5TJPi2m3EyCHMGhtkB5EPUukJQWrihps32zWBnj"
 - nome: Ethereum
   sigla: ETH
   icon: <i class="fab fa-ethereum"></i>
