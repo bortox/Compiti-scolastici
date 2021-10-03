@@ -1,5 +1,5 @@
 ---
-title: "Dimostrazione della formula delle lenti sottili"
+title: "Dimostrazione grafica formula delle lenti sottili"
 layout: post
 tags:
 - Dimostrazione
@@ -49,7 +49,10 @@ $$  \frac{CH}{CF}=\frac{QH'}{QF} \Rightarrow \frac{h_o}{f}=\frac{h_i}{q-f} $$
 
 Del rapporto soprastante appena ricavato dalla similitudine dei triangoli, ottengo che, l'altezza dell'oggetto sta alla distanza focale, come l'altezza dell'immagine sta alla sottrazione tra distanza dell'immagine e distanza focale. Posso semplificarlo in questo modo:
 
-$$ \frac{q-f}{h_o}*\frac{h_o}{f}=\frac{h_i}{q-f}*\frac{q-f}{h_o} \Rightarrow \frac{h_i}{h_o}=\frac{q-f}{f} $$
+$$ \frac{q-f}{h_o}*\frac{h_o}{f}=\frac{h_i}{q-f}*\frac{q-f}{h_o} $$
+
+
+$$ \Rightarrow \frac{h_i}{h_o}=\frac{q-f}{f} $$
 
 ---
 
