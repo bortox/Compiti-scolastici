@@ -21,15 +21,15 @@ tags:
 
 Il padre di Batto, Grino, re dell’isola di Tera, dopo che era giunto all’oracolo di Delfi, a supplicare il dio per l’onta del giovane figlio ancora muto, ricevette il responso, che richiedeva suo figlio, Batto, dirigersi in Africa e fondare la città di Cirene, là era destinato ad acquisire l'uso della parola.
 
-In realtà il responso appariva come una beffa, poiché per gli abitanti di Tera, isola di grande isolamento (vaste aree spopolate), il dio comandava affinché inviassero coloni in Africa, una regione tanto vasta.
+In realtà il responso appariva come una beffa, poiché per gli abitanti di Tera, isola di spopolato territorio (vasta e spopolata) , il dio comandava affinché inviassero coloni in Africa, una regione tanto vasta.
 
-Dunque la cosa fu omessa ma nel frattempo, in quanto arroganti, furono costretti ad ubbidire dal dio con una pestilenza.
+Dunque l'impresa fu ignorata ma nel frattempo, in quanto arroganti, furono (lett. sono) costretti ad ubbidire dal dio con una pestilenza.
 
-Dopo che erano venuti in Africa, cacciati gli autoctoni occuparono il monte Cira, sia per la bellezza del luogo sia per l’abbondanza delle fonti. 
+Dopo che erano venuti in Africa, cacciati gli autoctoni occuparono il monte Cira, sia per la bellezza del luogo sia per l’abbondanza della fonte. 
 
-Qui Batto, condottiero di loro, incominciò per la prima volta a parlare, sciolti i nodi della lingua: quella forza dell’animo, poiché era già la parte realizzata dalle promesse del dio, diede (ai sudditi) la restante speranza affinché fondassero la città.
+In tale luogo, Batto, condottiero di loro, incominciò per la prima volta a parlare, sciolti i nodi della lingua: quella forza dell’animo, poiché una parte realizzata dalle promesse del dio era già (stata) realizzata, diede (ai sudditi) la speranza restante per fondare la città.
 
-Dunque, posti gli accampamenti, Batto fondò la città di Cirene, ottenuto il nome dagli oracoli. 
+Dunque, posto l'accampamento, Batto fondò la città di Cirene, nome riconosciuto dagli oracoli. 
 
 ## Testo Latino
 
