@@ -23,11 +23,11 @@ Labieno, dedotta l'intenzione dei nemici, sperando di poter attaccare battaglia 
 
 Si trovava tra Labieno e Treviri un fiume, che né lui aveva in animo di attraversare, né considerava che i nemici avessero intenzione di attraversarlo. Frattanto tra i Galli era cresciuta quotidianamente la speranza di aiuti.
 
-In seguito Labieno disse pubblicamente in consiglio che le ricchezze sue e del suo esercito non erano chiamate in una situazione di pericolo ed il giorno successivo, all'alba, era intenzionato a muovere l'accampamento ed a far ritornare le sue legioni.
+In seguito Labieno disse pubblicamente in consiglio che le sorti sue e del suo esercito non erano chiamate in una situazione di pericolo ed il giorno successivo, all'alba, era intenzionato a muovere l'accampamento ed a far ritornare le sue legioni.
 
-Tali parole vengono riferite ai nemici. Dunque Labieno all'alba con un grande frastuono comanda di muovere gli accampamenti, simulando una grande paura dei soldati: con questi metodi rende la partenza molto simile ad una ritirata. 
+Tali parole vengono riferite ai nemici. Dunque Labieno all'alba comanda che l'accampamento sia spostato con un grande frastuono, simulando una grande paura dei soldati: con questi metodi rese la partenza molto simile ad una ritirata. 
 
-In questo modo i Galli sono ingannati: considerando inutile aspettare gli aiuti, non indugiano ad attaccare battaglia in un luogo sfavorevole.
+In questo modo i Galli sono ingannati e, considerando inutile aspettare gli aiuti, non indugiano ad attaccare battaglia in un luogo sfavorevole.
 
 ## Testo Latino Originale
 
