@@ -19,7 +19,7 @@ tags:
 
 ## Traduzione dal Latino
 
-Questo fu di grande impedimento alla battaglia per i Galli,(ossia) che i loro scudi, trafissi da un colpo dei dardi e contemporaneamente ostacolati, e né (li) estraevano né combattevano abbastanza convenientemente con la mano sinistra bloccata.
+Questo fu di grande impedimento alla battaglia per i Galli,(ossia) che né estraevano i loro scudi, trafissi da un colpo dei dardi e contemporaneamente ostacolati, e né combattevano abbastanza convenientemente con la mano sinistra bloccata.
 
 Ma loro avevano tanto coraggio (il coraggio era tanto a loro) che preferirono sfilarsi gli scudi dalla mano e combattere a corpo sguarnito: dunque, stanchi per le ferite, incominciano a rinunciare ed a ritirarsi verso il monte limitrofo.
 
