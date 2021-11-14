@@ -36,7 +36,7 @@ Galileo sta descrivendo l'equivalente di un'alba sui monti terrestri, sui monti 
 
 > Di più: anche gran copia di piccole macchie nerastre, del tutto separate dalla parte oscura, cospargono quasi tutta la **plaga già illuminata dal Sole**,eccettuata soltanto quella parte che è cosparsa di macchie grandi e antiche. Notammo pure che le suddette piccole macchie concordano, tutte e sempre, in questo: nell'avere **la parte nerastra volta al luogo del Sole**; nella parte opposta al Sole invece sono coronate da contorni lucentissimi, quasi montagne accese. Uno spettacolo simile abbiamo sulla Terra verso il sorgere del Sole quando vediamo le valli non ancora illuminate e splendenti i monti che le circondano dalla parte opposta al Sole: e come le ombre delle cavità terrestri dimano in mano che il Sole si innalza si fanno più piccole, così anche queste macchie Lunari, al crescere della parte luminosa, perdono le tenebre.
 
-Ovviamente Galileo nota anche che, nella parte luminosa, che volge verso il Sole, ci sono delle macchie scure, le ombre dei monti rivolti al sole.
+Ovviamente Galileo nota anche che, nella parte luminosa, che volge verso il Sole, ci sono delle macchie scure, le ombre dei monti rivolti al Sole.
 
 ![Il terminatore che divide la luna in due parti uguali, esattamente cinque giorni dopo il plenilunio.]({{ "/data/img/fisica/appunti/galileo/luna/osservazione-luna-galileo.jpg" | relative_url }})
 
