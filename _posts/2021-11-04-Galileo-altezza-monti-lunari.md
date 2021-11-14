@@ -1,14 +1,14 @@
 ---
 layout:  post
 title:  "Come Galileo calcola l'altezza dei monti lunari?"
-categories:  compiti
-materia: latino
+categories:  appunti
+materia: fisica
 description: "Galileo scopre la presenza di montagne sulla Luna e ne calcola l'altezza attraverso le osservazioni con il suo telescopio."
 tags:
 - Galileo
 - montagne
 - Luna
-- monti 
+- monte
 - calcolo
 - telescopio
 - astronomia
@@ -48,7 +48,7 @@ Esattamente a cinque giorni dal plenilunio la linea del confine tra luce ed ombr
 ![Disegno esemplificativo dell'altezza dei monti lunari]({{ "/data/img/fisica/appunti/galileo/luna/galileo-calcolo-monti-lunari.png" | relative_url }})
 
 
-Osservando il disegno soprastante, per calcolare l'altezza del monte DA basta utilizzare il **teorema di Pitagora** sul triangolo $$ D\hat{C}E$$ rispetto ai lati CE e CD per calcolare il segmento ED, ossia il **raggio lunare AE sommato all'altezza del monte DA**. Infine, per trovare DA bisogna poi sottrarre AE ad ED.
+Osservando il disegno soprastante, per calcolare l'altezza del monte DA basta utilizzare il **teorema di Pitagora** sul triangolo $$ D\hat{C}E$$ rispetto ai lati CE e CD per calcolare il segmento ED, ossia il **raggio lunare AE sommato all'altezza del monte DA**, dove D è la cima illuminata del monte. Infine, per trovare DA bisogna poi sottrarre AE ad ED.
 
 Le informazioni necessarie sono dunque due:
 
@@ -88,10 +88,10 @@ $ 1mi = 1.851km \Rightarrow 4mi = 7.404km $
 
 Galileo ci mostra che le tutte vette illuminate dal Sole, cinque giorni dopo il plenilunio (condizione necessaria per l'identità tra terminatore e diametro lunare) distanti 1/20 dal terminatore, misurano circa ($4.9mi*1.851km/mi$) 9.7km di altezza. 
 
-Il diametro terrestre assunto da Galileo, ($7000mi\*1.851mi/km$) 12957km era lievemente superiore al reale, 12720km, mentre quello lunare ($12720km\*\frac{7}{2}$) 3702km, lievemente inferiore al reale di 3476km. 
+Il diametro terrestre assunto da Galileo, ($7000mi\*1.851mi/km$) 12957km era lievemente superiore al reale, 12720km, mentre quello lunare ($12957km\*\frac{7}{2}$) 3702km, lievemente inferiore al reale di 3476km. 
 
 Possiamo calcolare le incertezze percentuali su questi rapporti, per calcolare l'inesattezza della misura galileiana, ma ignoreremmo un'incertezza mastodontica: quella dovuta all'**osservazione della distanza dei monti dal terminatore**. 
 
 Ad oggi sappiamo che il monte Hyugens, vetta più alta sulla Luna, misura 5.5km di altezza. 
 
-Dunque la misura di Galileo è sbagliata, anche se il **ragionamento costruito per ricavarla è corretto**, e, con dati corretti e misurazioni precise, può essere usato da chiunque per calcolare l'altezza di oggetti su un corpo di forma tendente ad una sfera.
+Dunque la misura di Galileo è sbagliata, anche se il **ragionamento costruito per ricavarla è corretto**, e, con dati corretti e misurazioni precise, può essere usato da chiunque per calcolare l'altezza di oggetti su un corpo di forma sferica.
