@@ -23,6 +23,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="theme-color" content="#8A2BE2"/>
+{% if page.layout == 'post' %}<link rel="stylesheet" type="text/css" href="{{ "/css/toastify.min.css" | prepend: site.baseurl }}">{% endif %}
 {% if page.noindex %} <meta name="robots" content="noindex, follow"/>{% else %}<meta name="robots" content="index, follow"/>{% endif %}
 <meta name="revisit-after" content="6 days">
 {% if page.materia %}<meta name="topic" content="{{ page.materia | lower }}">{% endif %}
