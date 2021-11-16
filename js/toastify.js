@@ -15,7 +15,7 @@
 //# sourceMappingURL=/sm/265124336bc4a1705913e27dc3cd5eaf4a21aee7b511502d84ec7fcd8581ebf2.map
 
 Toastify({
-    text: '<a data-goatcounter-click="forum" class="cbb" href="https://forum.bortox.it/">Visita il forum di Compiti Scolastici (forum.bortox.it)</a>',
+    text: '<a data-goatcounter-click="forum" class="toast-text" href="https://forum.bortox.it/">Visita il forum di Compiti Scolastici (forum.bortox.it)</a>',
     escapeMarkup: false,
     duration: 3000,
     newWindow: true,
