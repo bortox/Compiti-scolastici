@@ -15,6 +15,8 @@ tags:
 - terminatore
 - dimostrazione
 - calcolo
+- stelle
+- eliocentrico
 math: yes
 ---
 Come ha fatto Galileo nel 1609 a calcolare l'altezza delle vette dei monti lunari, come il Monte Pitone?
