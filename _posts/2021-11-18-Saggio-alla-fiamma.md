@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Saggio alla fiamma di alcuni sali"
+title:  "Saggio alla fiamma, cloruri di Sodio, Calcio, Bario, Litio, Potassio e Stronzio"
 date: 2021-11-18 10:00
 categories:  appunti
 materia: scienze-naturali
