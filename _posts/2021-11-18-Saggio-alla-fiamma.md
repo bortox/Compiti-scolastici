@@ -155,8 +155,6 @@ Possiamo provare ad intuire che se gli elettroni ricevono più energia, allora e
 
 In ogni caso dopo questa discussione non sappiamo ancora perché la quantità di energia ricevuta dagli elettroni appartenenti ad atomi di differenti solfati varia, ma solo la correlazione tra energia, colore ed orbite saltate dall'elettrone, per spiegare il tutto ipotizzo che avremo bisogno di un diverso modello atomico.
 
-Infatti Bohr con un'equazione t 
-
 > Il modello di Bohr è in grado di spiegare le radiazioni emesse dall'atomo di Idrogeno, un atomo molto semplice, con un solo elettrone, ma non riesce a giustificare lo spettro a righe degli altri elementi.
 
 * Citazione da _Dalla struttura atomica all'elettrochimica_, II edizione
