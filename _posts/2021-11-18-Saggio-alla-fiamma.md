@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Saggio alla fiamma, cloruri di Sodio, Calcio, Bario, Litio, Potassio e Stronzio"
+title:  "Saggio alla fiamma di cloruri, il modello atomico di Bohr"
 date: 2021-11-18 10:00
 categories:  appunti
 materia: scienze-naturali
@@ -108,7 +108,7 @@ Dunque quando si parla di **spettro a righe** si intende la gamma dei colori, os
 
 Bohr calcola con un' equazione le distanze delle orbite, e la conseguente generazione di colori, spiegata sotto. Tali distanze, dunque i colori prodotti,combaciano perfettamente solo con I'idrogeno, con nessun altro atomo.
 
-Tale modello, sebbene contenga più di un errore concettuale, essendo una sorta di ibrido tra la fisica tradizionale e quella quantistica, viene ancora utilizzato per la **chimica semplice**, infatti funziona perfettamente per gli argomenti spiegati sul libro di biologia, ma noi, _per passione della scienza_, compiremo un excursus storico su tutti i modelli atomici.
+Tale modello, sebbene contenga più di un errore concettuale, essendo una sorta di **ibrido** tra la fisica tradizionale e quella quantistica, viene ancora utilizzato per la **chimica semplice**, infatti funziona perfettamente per gli argomenti spiegati sul libro di biologia, ma noi, _per passione della scienza_, compiremo un excursus storico su tutti i modelli atomici.
 
 ## Proviamo ad effettuare una spiegazione
 
@@ -147,11 +147,11 @@ Infatti l'equazione $E=h*\nu$, in cui l'energia è pari alla costante di Planck 
 
 La frequenza viene misurata in Hertz (Hz), ossia numero di oscillazioni dell'onda al secondo.
 
-Nello spettro del visibile, visibile appunto all'occhio umano, le lunghezze d'onda maggiori (~700nm) - dunque onde di frequenza maggiore - formano il rosso, mentre le minori - onde di frequenza minore - il blu (~400nm).
+Nello spettro del visibile, visibile appunto all'occhio umano, le lunghezze d'onda maggiori (~700nm) - dunque onde di frequenza ed energia minori - formano il rosso, mentre le minori (~400nm) - onde di frequenza ed energia maggiori - il blu.
 
 ![Spettro della luce visibile]({{ "/data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg" | relative_url }})
 
-Possiamo provare ad intuire che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, una luce rossa. 
+Ne consegue che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, emetteranno una luce rossa. 
 
 In ogni caso dopo questa discussione non sappiamo ancora perché la quantità di energia ricevuta dagli elettroni appartenenti ad atomi di differenti solfati varia, ma solo la correlazione tra energia, colore ed orbite saltate dall'elettrone, per spiegare il tutto ipotizzo che avremo bisogno di un diverso modello atomico.
 
