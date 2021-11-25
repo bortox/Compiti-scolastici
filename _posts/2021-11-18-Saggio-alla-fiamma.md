@@ -20,9 +20,10 @@ tags:
 - stronzio
 - laboratorio
 - osservazione
+math: yes
 ---
 
-In questa lezione di laboratorio viene trattato il **saggio alla fiamma**. Si tratta di un metodo di riconoscimento dei sali, nei cloruri funziona particolarmente bene.
+In questa lezione di laboratorio viene trattato il **saggio alla fiamma**. Si tratta di un metodo di riconoscimento dei sali che per i cloruri funziona particolarmente bene.
 
 Cloruro di **Sodio** (Na), **Bario** (Ba), **Calcio** (Ca), **Potassio** (K), **Litio** (Li) ed infine **Stronzio** (Sr) sono stati utilizzati in questo esperimento.
 
@@ -48,7 +49,7 @@ All'apparenza tali cloruri si presentano come delle comuni polveri bianche.
 * Collegare il becco Bunsen ad un tubo del gas metano
 * (Se presente) Girare la valvola per permettere il flusso del gas
 * Accendere il becco Bunsen con l'accendino
-* Diluire l'acido cloridrico con l'acqua distillata già immessa nella beuta almeno al 90%.
+* Diluire l'acido cloridrico con l'acqua distillata già immessa nella beuta almeno al 90%
 * Ripulire la bacchetta di vetro con il filo metallico da eventuali residui
 
 #### Per ogni cloruro analizzato
@@ -64,9 +65,7 @@ Attenzione: Non permettere alla fiamma di toccare il vetro della bacchetta, potr
 
 * Intingere il filo metallico nella beuta contenente acido cloridrico
 * Inserire il filo metallico nella fiamma del becco Bunsen
-
-
-* Ripetere il procedimento finché le fiamme non si colorano più di verde primaverile.
+* Ripetere il procedimento finché le fiamme non si colorano più di verde primaverile
 
 ## Osservazioni
 
@@ -82,7 +81,7 @@ Per ogni cloruro abbiamo eseguito la procedura di analisi, ed annotato eventuali
 |---|---|---|
 Sodio|Arancione|---
 Bario|Arancione|Secondo gli altri del gruppo, fiamma di colore giallo-verde
-Calcio|Rosso intenso|Secondo la prof ci sono anche piccole fiamme gialle. Ricorda la bandiera del partito comunista
+Calcio|Rosso intenso|Secondo la prof ci sono anche piccole fiamme gialle.
 Potassio|Un tocco di viola|---
 Litio|Rosso carminio|Ricorda un colore magenta
 Stronzio|Rosso intenso.|---
@@ -102,9 +101,58 @@ Stronzio|Rosso scarlatto|Non persistente, ossia la fiamma colorata non dura a lu
 
 ## Chi effettuò il saggio alla fiamma con considerevoli risultati?
 
-Quello che abbiamo fatto oggi lo ha fatto **Niels Bohr** all'inizio del XX secolo, esaminando gli spettri di emissione (ossia la luce prodotta) delle sostanze. 
+Quello che abbiamo fatto oggi lo ha fatto **Niels Bohr** all'inizio del XX secolo, esaminando gli spettri di emissione a righe (ossia la luce prodotta in stato incandescente) delle sostanze. 
 Dunque quando si parla di **spettro** si intende la gamma dei colori, ossia le varie onde emesse da un corpo se riscaldato.
 
 Bohr concepì il suo **modello di atomo** basandosi anche sul saggio alla fiamma dei cloruri. 
 
 Tale modello, sebbene contenga un errore concettuale, viene ancora utilizzato per la **chimica semplice**, infatti funziona perfettamente per gli argomenti spiegati sul libro di biologia, ma noi, _per passione della scienza_, compiremo un excursus storico su tutti i modelli atomici.
+
+## Proviamo ad effettuare una spiegazione
+
+Avviso: in questa spiegazione viene usata la fisica quantistica. È un argomento introdotto da poco, ho cercato di riportare il contenuto del libro ed applicarlo a questo esperimento in un modo semplice da comprendere, nonostante ciò la difficolta di comprensione del testo da qui in poi aumenterà notevolmente.
+
+Possiamo provare a spiegare la colorazione della fiamma attraverso il modello atomico di Bohr, successore del modello di Rutherford. Come esso ha
+
+- Un nucleo composto da neutroni e protoni
+- Orbite di elettroni attorno al nucleo
+
+Innanzitutto, Bohr, per questo modello utilizza i fondamenti della fisica quantistica, considerando anche le due nature della luce: **ondulatoria** e **corpuscolare**.
+
+Considerandone la natura ondulatoria, le onde di energia (luce) hanno frequenza e lunghezza d'onda inversamente proporzionali: $ c = \lambda * \nu$.
+Considerandone la natura corpuscolare, una volta che la luce interagisce con la materia, arrivano tanti pacchetti di fotoni, che eccitano la materia fornendo quantità $x*n$ di energia, con $n$ che rappresenta numero di pacchetti di energia ricevuti. Quando questi pacchetti sono hanno una frequenza maggiore alla frequenza di limite, vengono liberati elettroni, che si tramutano in luce
+
+
+Ogni elemento gassoso oppure reso gassoso ha uno spettro di emissione a righe, che fornisce dati su quali onde emette se, ad esempio, viene portato ad incandenscenza attraverso la fiamma del becco Bunsen.
+
+Attraverso **calcoli quantistici**, Rutherford deduce che l'elettrone normalmente viaggia su un'orbita, attorno al nucleo.
+
+Questa orbita viene detta **stazionaria**. Se l'elettrone ottiene energia - ad esempio sottoforma di calore - per dissiparla, esso cambia orbita, ed inizia ad orbitare in un'orbita più lontana ed ampia della precedente.
+
+Le orbite sono **quantizzate**, ossia l'elettrone riesce solo una volta accumulata almeno una **quantità d'energia $x$** a cambiare orbita, un po'come l'altezza necessaria con cui alzare la gamba al fine salire un **gradino delle scale**; se è minore, non è possibile oltrepassare il gradino. 
+
+Se alzo più il piede, riesco a salire più gradini alla volta, così come un elettrone riesce a **scalare più di un'orbita** data una maggiore quantità di energia.
+
+![Modello Bohr fotoni elettroni]({{ "/data/img/chimica/percorsi/modelli-atomi/bohr-fotoni-elettroni-orbite.svg" | relative_url }})
+
+Per continuare su un'orbita più ampia di quella stazionaria, però, è necessario un dispendio costante d'energia: quando l'elettrone esaurisce l'energia ricavata sottoforma di calore, torna nell'orbita stazionaria, rilasciando, **per ogni orbita scalata l'energia come fotone**, ossia sottoforma di _luce_.
+
+Conosciamo l'equazione dell'effetto fotoelettrico scoperto da Einstein, in particolare la natura ondulatoria della luce, quando eccita delle particelle di metallo e ne provoca la ionizzazione.
+
+Infatti l'equazione $E=h*\nu$, in cui l'energia è pari alla costante di Planck per la frequenza, ossia il numero di oscillazioni dell'onda al secondo **dimostra** una relazione di **diretta proporzionalità** tra frequenza ed energia.
+
+![Misurazione frequenza in Hertz]({{ "/data/img/chimica/percorsi/modelli-atomi/frequenza-onde.gif" | relative_url }})
+
+La frequenza viene misurata in Hertz (Hz), ossia numero di oscillazioni dell'onda al secondo.
+
+Nello spettro del visibile, visibile appunto all'occhio umano, le frequenze maggiori (~700nm) formano il blu, mentre le minori il rosso (~400nm).
+
+![Spettro della luce visibile]({{ "/data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg" | relative_url }})
+
+Possiamo provare ad intuire che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, una luce rossa. 
+
+In ogni caso dopo questa discussione non sappiamo ancora perché la quantità di energia ricevuta dagli elettroni appartenenti ad atomi di differenti solfati varia, ma solo la correlazione tra energia, colore ed orbite saltate dall'elettrone, per spiegare il tutto ipotizzo che avremo bisogno di un diverso modello atomico.
+
+> Il modello di Bohr è in grado di spiegare le radiazioni emesse dall'atomo di Idrogeno, un atomo molto semplice, con un solo elettrone, ma non riesce a giustificare lo spettro a righe degli altri elementi.
+
+* Citazione da _Dalla struttura atomica all'elettrochimica_, II edizione
