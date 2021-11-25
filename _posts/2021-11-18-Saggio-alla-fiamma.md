@@ -101,12 +101,14 @@ Stronzio|Rosso scarlatto|Non persistente, ossia la fiamma colorata non dura a lu
 
 ## Chi effettuò il saggio alla fiamma con considerevoli risultati?
 
-Quello che abbiamo fatto oggi lo ha fatto **Niels Bohr** all'inizio del XX secolo, esaminando gli spettri di emissione a righe (ossia la luce prodotta in stato incandescente) delle sostanze. 
-Dunque quando si parla di **spettro** si intende la gamma dei colori, ossia le varie onde emesse da un corpo se riscaldato.
+Quello che abbiamo fatto oggi lo ha fatto **Niels Bohr** all'inizio del XX secolo, esaminando lo spettro di emissione a righe (ossia la luce prodotta in stato incandescente) dell'idrogeno. Infatti Bohr concepì il suo **modello di atomo** basandosi sul saggio alla fiamma dell'idrogeno ed utilizzando **calcoli quantistici**.
 
-Bohr concepì il suo **modello di atomo** basandosi anche sul saggio alla fiamma dei cloruri. 
+Dunque quando si parla di **spettro a righe** si intende la gamma dei colori, ossia le varie onde emesse da un corpo se portato all'incandescenza.
 
-Tale modello, sebbene contenga un errore concettuale, viene ancora utilizzato per la **chimica semplice**, infatti funziona perfettamente per gli argomenti spiegati sul libro di biologia, ma noi, _per passione della scienza_, compiremo un excursus storico su tutti i modelli atomici.
+
+Bohr calcola con un' equazione le distanze delle orbite, e la conseguente generazione di colori, spiegata sotto. Tali distanze, dunque i colori prodotti,combaciano perfettamente solo con I'idrogeno, con nessun altro atomo.
+
+Tale modello, sebbene contenga più di un errore concettuale, essendo una sorta di ibrido tra la fisica tradizionale e quella quantistica, viene ancora utilizzato per la **chimica semplice**, infatti funziona perfettamente per gli argomenti spiegati sul libro di biologia, ma noi, _per passione della scienza_, compiremo un excursus storico su tutti i modelli atomici.
 
 ## Proviamo ad effettuare una spiegazione
 
@@ -119,7 +121,7 @@ Possiamo provare a spiegare la colorazione della fiamma attraverso il modello at
 
 Innanzitutto, Bohr, per questo modello utilizza i fondamenti della fisica quantistica, considerando anche le due nature della luce: **ondulatoria** e **corpuscolare**.
 
-Considerandone la natura ondulatoria, le onde di energia (luce) hanno frequenza e lunghezza d'onda inversamente proporzionali: $ c = \lambda * \nu$.
+Considerandone la natura ondulatoria, le onde di energia (luce) hanno frequenza e lunghezza d'onda **inversamente proporzionali**: $ c = \lambda * \nu$.
 Considerandone la natura corpuscolare, una volta che la luce interagisce con la materia, arrivano tanti pacchetti di fotoni, che eccitano la materia fornendo quantità $x*n$ di energia, con $n$ che rappresenta numero di pacchetti di energia ricevuti. Quando questi pacchetti sono hanno una frequenza maggiore alla frequenza di limite, vengono liberati elettroni, che si tramutano in luce
 
 
@@ -145,13 +147,15 @@ Infatti l'equazione $E=h*\nu$, in cui l'energia è pari alla costante di Planck 
 
 La frequenza viene misurata in Hertz (Hz), ossia numero di oscillazioni dell'onda al secondo.
 
-Nello spettro del visibile, visibile appunto all'occhio umano, le frequenze maggiori (~700nm) formano il blu, mentre le minori il rosso (~400nm).
+Nello spettro del visibile, visibile appunto all'occhio umano, le lunghezze d'onda maggiori (~700nm) - dunque onde di frequenza maggiore - formano il rosso, mentre le minori - onde di frequenza minore - il blu (~400nm).
 
 ![Spettro della luce visibile]({{ "/data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg" | relative_url }})
 
 Possiamo provare ad intuire che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, una luce rossa. 
 
 In ogni caso dopo questa discussione non sappiamo ancora perché la quantità di energia ricevuta dagli elettroni appartenenti ad atomi di differenti solfati varia, ma solo la correlazione tra energia, colore ed orbite saltate dall'elettrone, per spiegare il tutto ipotizzo che avremo bisogno di un diverso modello atomico.
+
+Infatti Bohr con un'equazione t 
 
 > Il modello di Bohr è in grado di spiegare le radiazioni emesse dall'atomo di Idrogeno, un atomo molto semplice, con un solo elettrone, ma non riesce a giustificare lo spettro a righe degli altri elementi.
 
