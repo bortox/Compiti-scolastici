@@ -24,7 +24,8 @@ Nello stesso tempo per ordine di Cesare la terza schiera , la quale era stata in
 >"Difendete attentamente l' accampamento. Io in persona rinforzerò il presidio dell' accampamento."
 
 
-Successivamente ritornò in tenda. Cacciati i Pompeiani nel vallo dopo la fuga, i soldati di Cesare, sebbene sfiniti dal gran caldo ( infatti la cosa si era protratta fino al mezzogiorno ), tuttavia obbedirono all' ordine, preparati ad ogni fatica: lo stesso accampamento era protetto con impegno dalle coorti. In realtà in breve tempo i Pompeiani  sfiancati per le ferite e i più si rifugariono fra i monti vicini.
+Successivamente ritornò in tenda. Cacciati i Pompeiani nel vallo dopo la fuga, i soldati di Cesare, sebbene sfiniti dal gran caldo ( infatti la cosa si era protratta fino al mezzogiorno ), tuttavia obbedirono all' ordine, preparati ad ogni fatica: lo stesso accampamento era protetto con impegno dalle coorti. In realtà in breve tempo i Pompeiani, sfiancati per le ferite, perlopiù si rifugiarono fra i monti vicini.
+
 ## Testo Latino
 Eodem tempore Caesaris iussu tertia acies, quae ("la quale", nom.) ad illud tempus quieta fuerat, in aversum exercitum procucurrit. Ita, postquam recentes atque integri milites defessis successerant, impetum Pompeiani non sustinuerunt atque universi terga verterunt. A Caesaris militibus - ut ("come") Caesar ipse praesenserat - primum Pompei equitatus pulsus est, ab iisdem caedes sagittariorum ac funditorum editae sunt, ab iisdem acies Pompeiana, a sinistra parte circumdata, initium fugae fecit. Sed Pompeius, ut equitatum suum pulsum vidit, acie excessit protinusque in castra equo venit et centurionibus suis clara voce dixit: 
 
