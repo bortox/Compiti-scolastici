@@ -24,4 +24,19 @@
   </div>
   </div>
 <script data-goatcounter="https://bortox.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<!-- Matomo -->
+<script defer async>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//vps.bortox.it/matomo/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
 <meta http-equiv="refresh" content="5;URL='{{ site.baseurl | prepend: site.url }}/'" /></body></html>
