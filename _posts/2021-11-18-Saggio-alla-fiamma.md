@@ -121,7 +121,7 @@ Possiamo provare a spiegare la colorazione della fiamma attraverso il modello at
 
 Innanzitutto, Bohr, per questo modello utilizza i fondamenti della fisica quantistica, considerando anche le due nature della luce: **ondulatoria** e **corpuscolare**.
 
-Considerandone la natura ondulatoria, le onde di energia (luce) hanno frequenza e lunghezza d'onda **inversamente proporzionali**: $ c = \lambda * \nu$.
+Considerandone la natura ondulatoria, le onde di energia (luce) hanno frequenza e lunghezza d'onda **inversamente proporzionali**: $ c = \lambda * \ni$.
 Considerandone la natura corpuscolare, una volta che la luce interagisce con la materia, arrivano tanti pacchetti di fotoni, che eccitano la materia fornendo quantità $x*n$ di energia, con $n$ che rappresenta numero di pacchetti di energia ricevuti. Quando questi pacchetti sono hanno una frequenza maggiore alla frequenza di limite, vengono liberati elettroni, che si tramutano in luce
 
 
@@ -141,7 +141,7 @@ Per continuare su un'orbita più ampia di quella stazionaria, però, è necessar
 
 Conosciamo l'equazione dell'effetto fotoelettrico scoperto da Einstein, in particolare la natura ondulatoria della luce, quando eccita delle particelle di metallo e ne provoca la ionizzazione.
 
-Infatti l'equazione $E=h*\nu$, in cui l'energia è pari alla costante di Planck per la frequenza, ossia il numero di oscillazioni dell'onda al secondo **dimostra** una relazione di **diretta proporzionalità** tra frequenza ed energia.
+Infatti l'equazione $E=h*\ni$, in cui l'energia è pari alla costante di Planck per la frequenza, ossia il numero di oscillazioni dell'onda al secondo **dimostra** una relazione di **diretta proporzionalità** tra frequenza ed energia.
 
 ![Misurazione frequenza in Hertz]({{ "/data/img/chimica/percorsi/modelli-atomi/frequenza-onde.gif" | relative_url }})
 
