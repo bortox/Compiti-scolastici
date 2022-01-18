@@ -13,6 +13,9 @@ pipeline:
     commands:
       - bundle install
       - bundle exec jekyll build
+    when:
+      branch: [master]
+      event: [push]
   rebuild-cache:
     image: drillster/drone-volume-cache
     rebuild: true
