@@ -1,11 +1,4 @@
 pipeline:
-  restore-cache:
-    image: drillster/drone-volume-cache
-    restore: true
-    mount:
-      - /drone/.bundle
-    volumes:
-      - jekyll-blog-cache:/cache
   build:
     image: ruby
     environment:
@@ -16,13 +9,6 @@ pipeline:
     when:
       branch: [master]
       event: [push]
-  rebuild-cache:
-    image: drillster/drone-volume-cache
-    rebuild: true
-    mount:
-      - /drone/.bundle
-    volumes:
-      - jekyll-blog-cache:/cache
   deploy:
     image: drillster/drone-rsync
     hosts: [ "test.bortox.it" ]
