@@ -1,10 +1,40 @@
-
 pipeline:
+  restore-cache:
+    image: drillster/drone-volume-cache
+    restore: true
+    mount:
+      - /drone/.bundle
+    volumes:
+      - jekyll-blog-cache:/cache
   build:
     image: ruby
+    environment:
+      - BUNDLE_PATH=/drone/.bundle
     commands:
-      - gem install bundler
       - bundle install
       - bundle exec jekyll build
+  rebuild-cache:
+    image: drillster/drone-volume-cache
+    rebuild: true
+    mount:
+      - /drone/.bundle
+    volumes:
+      - jekyll-blog-cache:/cache
+#  deploy:
+#    image: drillster/drone-rsync
+#    hosts: [ "lafl-server.florian-latifi.at" ]
+#    user: blog
+#    source: _site
+#    target: /var/www/blog/
+#    recursive: true
+#    delete: true
+#    secrets: [ plugin_key ]
+#  notify:
+#    image: drillster/drone-email
+#    host: lafl-server.florian-latifi.at
+#    port: 25
+#    from: Drone <drone@lafl-server.florian-latifi.at>
+#    when:
+#      status: [ failure, success ]
 
-branch: master
+branches: master
