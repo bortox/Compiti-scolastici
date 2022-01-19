@@ -13,8 +13,8 @@ pipeline:
     image: drillster/drone-rsync
     hosts: [ "test.bortox.it" ]
     user: my_webapp
-    source: _site
-    target: /var/www/my_webapp/www
+    source: _site/
+    target: /var/www/my_webapp/www/Compiti-scolastici/
     recursive: true
     delete: true
     secrets: [ PLUGIN_KEY ]
