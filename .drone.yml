@@ -12,7 +12,7 @@ pipeline:
       - BUNDLE_PATH=/drone/.bundle
     commands:
       - bundle install
-      - bundle exec jekyll build
+      - bundle exec jekyll build --destination Compiti-scolastici/
     when:
       branch: [master]
       event: [push]
@@ -27,8 +27,8 @@ pipeline:
     image: drillster/drone-rsync
     hosts: [ "test.bortox.it" ]
     user: my_webapp
-    source: _site/
-    target: /var/www/my_webapp/www/Compiti-scolastici/
+    source: Compiti-scolastici/
+    target: /var/www/my_webapp/www/
     recursive: true
     delete: true
     secrets: [ PLUGIN_KEY ]
