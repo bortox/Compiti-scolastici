@@ -1,6 +1,6 @@
 pipeline:
   build:
-    image: ruby
+    image: ruby:2.7
     environment:
       - BUNDLE_PATH=/drone/.bundle
     commands:
