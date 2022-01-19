@@ -17,7 +17,7 @@ pipeline:
     target: /var/www/my_webapp/www
     recursive: true
     delete: true
-    secrets: [ plugin_key ]
+    secrets: [ PLUGIN_KEY ]
 #  notify:
 #    image: drillster/drone-email
 #    host: lafl-server.florian-latifi.at
