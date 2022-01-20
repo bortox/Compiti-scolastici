@@ -1,0 +1,43 @@
+pipeline:
+  restore-cache:
+    image: drillster/drone-volume-cache
+    restore: true
+    mount:
+      - /drone/.bundle
+    volumes:
+      - jekyll-blog-cache:/cache
+  build:
+    image: ruby:2.7
+    environment:
+      - BUNDLE_PATH=/drone/.bundle
+    commands:
+      - bundle install
+      - bundle exec jekyll build --destination Compiti-scolastici/
+    when:
+      branch: [master]
+      event: [push]
+  rebuild-cache:
+    image: drillster/drone-volume-cache
+    rebuild: true
+    mount:
+      - /drone/.bundle
+    volumes:
+      - jekyll-blog-cache:/cache
+  deploy:
+    image: drillster/drone-rsync
+    hosts: [ "test.bortox.it" ]
+    user: my_webapp
+    source: Compiti-scolastici
+    target: /var/www/my_webapp/www/
+    recursive: true
+    delete: true
+    secrets: [ PLUGIN_KEY ]
+#  notify:
+#    image: drillster/drone-email
+#    host: lafl-server.florian-latifi.at
+#    port: 25
+#    from: Drone <drone@lafl-server.florian-latifi.at>
+#    when:
+#      status: [ failure, success ]
+
+branches: master
