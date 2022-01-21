@@ -14,7 +14,7 @@ pipeline:
       - bundle install
       - bundle exec jekyll build --destination Compiti-scolastici/
     when:
-      branch: [master]
+      branch: [devel]
       event: [push]
   rebuild-cache:
     image: drillster/drone-volume-cache
@@ -40,4 +40,4 @@ pipeline:
 #    when:
 #      status: [ failure, success ]
 
-branches: master
+branches: devel
