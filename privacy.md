@@ -52,13 +52,15 @@ Questo sito utilizza i fornitori di tecnologia pubblicitaria di uso comune. L'el
 
 ## Altri servizi sfruttati nel sito
 
-* Nelle pagine in cui non sono presenti le pubblicità di Google e lo script di Google AdSense, non sono presenti cookie.
+* Nelle pagine in cui non sono presenti le pubblicità di Google e lo script di Google AdSense, è presente solo il cookie _plausible_key di Plausible Analytics.
 
 * Il sito usa Plausible Analytics e Goatcounter per scopi di analisi delle visite, programmi conformi al GDPR che anonimizzano ogni singola visita e non raccolgono dati che possono identificare specifiche persone.
 
     * [Informativa sulla Privacy di Plausible Analytics](https://plausible.io/privacy)
         
         Posizione dei dati: Francoforte, Germania, Europa.
+
+        * [Informazioni Raccolte](https://plausible.io/data-policy)
 
     * [Informativa sulla Privacy di Goatcounter](https://www.goatcounter.com/help/privacy)
         
