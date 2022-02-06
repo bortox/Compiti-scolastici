@@ -14,7 +14,7 @@ tags:
 
 ## Servizi di terze parti sfruttati dal sito
 
-* Nelle pagine in cui non sono presenti le pubblicità di Google e lo script di Google AdSense, è presente solo il cookie _plausible_key di Plausible Analytics.
+* Cookie: Il sito non utilizza cookie sui visitatori.
 
 * Il sito usa Plausible Analytics e Goatcounter per scopi di analisi delle visite, programmi conformi al GDPR che anonimizzano ogni singola visita e non raccolgono dati che possono identificare specifiche persone.
 
@@ -28,8 +28,6 @@ tags:
         
         Posizione dei dati: Francoforte, Germania, Europa.
 
-* Il sito viene servito attraverso il proxy di Cloudflare, per ottenere migliori prestazioni ed esperienza utente nella fruizione dei contenuti, oltre ad una protezione da potenziali attacchi.
+* Il sito viene servito attraverso il **proxy** di Cloudflare, per ottenere migliori prestazioni ed esperienza utente nella fruizione dei contenuti, oltre ad una protezione da potenziali attacchi.
 
     * [Informativa sulla Privacy di Cloudflare](https://www.cloudflare.com/it-it/privacypolicy/)
-
-    Posizione dei dati: USA
