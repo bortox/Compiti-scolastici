@@ -396,6 +396,13 @@ button {
     	text-decoration: none;
     }
 }
+
+.footer-img {
+    max-width: calc(1em + 15px) !important;
+    max-height: calc(1em + 15px) !important;
+    margin-right: .5em;
+}
+
 img[src*="#border"] {
     border: 0.7em solid white;
     max-width: calc(800px - (#{$spacing-unit} * 2) - 0.7em);
