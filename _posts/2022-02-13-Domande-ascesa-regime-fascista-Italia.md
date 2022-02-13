@@ -3,7 +3,7 @@ layout:  post
 title:  Risposte ad alcune domande sull'ascesa del regime fascista in Italia
 categories:  appunti
 materia: storia
-description: "Scilla, innamorata di Minosse, priva il padre, a tradimento, del suo capello fatato. Nisum, Martis filium, sive, ut alii dicunt, Deionis filium. "
+description: "Risposte ad alcune domande sul regime fascista, su squadracce, omicidio Matteotti, elezioni del 1924, patti lateranensi, definizione di stato totalitario..."
 tags:
 - fascismo
 - storia
@@ -77,7 +77,7 @@ A Molinella il bracciante Angelo Gaiani, che dichiarò  pubblicamente di aver vo
 
 Il 30 maggio in Parlamento il deputato socialista Giacomo Matteotti denunciò le intimidazioni fasciste ed i brogli durante le elezioni, ma sarà assassinato dalle squadracce pochi giorni dopo. Il 3 Gennaio 1925 Mussolini si assunse le responsabilità del delitto, con un discorso alla Camera. 
 
-Ma poi, o signori, quali farfalle andiamo a cercare sotto l’arco di Tito? Ebbene, dichiaro qui, al cospetto di questa Assemblea e al cospetto di tutto il popolo italiano, che io assumo, io solo, la responsabilità politica, morale, storica di tutto quanto è avvenuto. [...] Se tutte le violenze sono state il risultato di un determinato clima storico, politico e morale, ebbene a me la responsabilità di questo, perché questo clima storico, politico e morale io l’ho creato con una propaganda che va dall’intervento ad oggi.
+> Ma poi, o signori, quali farfalle andiamo a cercare sotto l’arco di Tito? Ebbene, dichiaro qui, al cospetto di questa Assemblea e al cospetto di tutto il popolo italiano, che io assumo, io solo, la responsabilità politica, morale, storica di tutto quanto è avvenuto. [...] Se tutte le violenze sono state il risultato di un determinato clima storico, politico e morale, ebbene a me la responsabilità di questo, perché questo clima storico, politico e morale io l’ho creato con una propaganda che va dall’intervento ad oggi.
 
 
 ## Cosa s'intende per Stato Totalitario?
