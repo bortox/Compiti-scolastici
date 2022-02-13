@@ -22,15 +22,15 @@ tags:
 
 Questo articolo contiene le risposte ad alcune domande di preparazione su una verifica riguardante l'ascesa al potere del regime fascista in Italia.
 
-## Chi fondò e quando il Partito comunista d'Italia?
+## Chi fondò e quando il Partito Comunista d'Italia?
 
 Il Partito Socialista Italiano (PSI) è stato fondato da Andrea Costa nel 1892 ed era il principale partito contrario alla prima guerra mondiale.
 
 Per via della corrente riformista di sinistra del PSI guidata da A. Bordiga e A. Gramsci, ispirata agli ideali della Rivoluzione Russa,  nel gennaio 1921, durante il 17° congresso del PSI, fu fondato il Partito Comunista Italiano. 
 
-## Chi fondò il Partito socialista unitario?
+## Chi fondò il Partito Socialista Unitario?
 
-Nel 1922 - un anno dopo la prima scissione tra quelle del dopoguerra che formò il PCI - la corrente riformista di Turati viene espulsa dal Partito per la collaborazione data ai partiti borghesi nel risolvere la crisi di Governo del 22’, che aprirà le porte al Fascismo. Turati fonda il PSU.
+Nel 1922 - un anno dopo la prima scissione tra quelle del dopoguerra che formò il PCI - la corrente riformista di Turati viene espulsa dal Partito per la collaborazione data ai partiti borghesi nel risolvere la crisi di Governo del 22’, che aprirà le porte al Fascismo. Turati fonda il Partito Socialista Unitario (PSU).
 
 ## Cosa sono le squadracce? Che metodi utilizzavano? Contro chi li utilizzavano? Da chi venivano appoggiate?
 
@@ -108,7 +108,7 @@ Quelli privi del riconoscimento prefettizio venivano considerati illegali.
 
 Inoltre, gli interventi distruttivi della MVSN erano tenuti contro gli oppositori, che non avevano altra scelta che accettare l’ideologia fascista oppure emigrare.
 
-A partire dall’anno scolastico 1930-1931 venne adottato nelle scuole elementari il Testo Unico di Stato, nelle scuole secondare non fu introdotto, ovviamete i testi erano ugualmente sottoposti a controlli, così come i programmi d’insegnamento. 
+A partire dall’anno scolastico 1930-1931 venne adottato nelle scuole elementari il Testo Unico di Stato, nelle scuole secondare non fu introdotto, ovviamente i testi erano ugualmente sottoposti a controlli, così come i programmi d’insegnamento. 
 
 ![Immagine di un libro di testo scolastico]({{ "/data/img/storia/domande-fascismo/libri-di-testo-scolastici/1.png" | relative_url }})
 ![Immagine di un libro di testo scolastico]({{ "/data/img/storia/domande-fascismo/libri-di-testo-scolastici/2.png" | relative_url }})
@@ -122,11 +122,11 @@ La politica familiare fascista era orientata alla produzione di soldati fedeli a
 
 ## Quando furono firmati i Patti lateranensi?
 
-I Patti Lateranensi sono degli accordi sottoscritti tra il Regno d'Italia e la Santa Sede l'11 febbraio 1929 contenenti un trattato, una convenzione e un concordato. Regolano ancora oggi i rapporti fra Italia e Santa sede, dopo una rivisitazione del concordato nel 1984. Firmatario dei patti lateranensi era il Papa Pio XI. 
+I Patti Lateranensi sono degli accordi sottoscritti tra il Regno d'Italia e la Santa Sede l'11 febbraio 1929 contenenti un trattato, una convenzione e un concordato. Regolano ancora oggi i rapporti fra Italia e Santa sede, dopo una rivisitazione del concordato nel 1984. Firmatari dei patti lateranensi erano Benito Mussolini, Capo del governo primo ministro segretario di Stato e Pietro Gasparri, Cardinale Segretario di Stato. 
 
 ## Chi era il Papa?
 
-Firmatario dei patti lateranensi era il Papa Pio XI. 
+Nel 1929 il Papa era Pio XI, primo sovrano della città-Stato _Città del Vaticano_, creata il 7 Giugno 1929 in seguito ai Patti Lateranensi. 
 
 ## Essi comprendevano un Trattato, una convenzione ed un Concordato. Spiega ciascuno di questi tre punti.
 
