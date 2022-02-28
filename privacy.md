@@ -16,13 +16,15 @@ tags:
 
 * Cookie: Il sito non utilizza cookie sui visitatori.
 
-* Il sito usa Plausible Analytics e Goatcounter per scopi di analisi delle visite, programmi conformi al GDPR che anonimizzano ogni singola visita e non raccolgono dati che possono identificare specifiche persone.
+* Il sito usa Matomo Analytics e Goatcounter per scopi di analisi delle visite, programmi conformi al GDPR che anonimizzano ogni singola visita e non raccolgono dati che possono identificare specifiche persone.
 
-    * [Informativa sulla Privacy di Plausible Analytics](https://plausible.io/privacy)
+    * [Informativa sulla Privacy di Matomo Analytics](https://matomo.org/privacy)
         
         Posizione dei dati: Francoforte, Germania, Europa (Self-Hostato)
 
-        * [Informazioni Raccolte](https://plausible.io/data-policy)
+        Cookie: Disabilitati
+
+        Ip: Anonimizzati
 
     * [Informativa sulla Privacy di Goatcounter](https://www.goatcounter.com/help/privacy)
         

@@ -49,3 +49,16 @@ MathJax = {
 <meta name="keywords" content="{% if page.materia %}{{ page.materia }} {% endif %}{% if page.tags %}, {{ page.tags | join: ", " }}{% endif %}">
 <link rel="preload" href="{{ "/data/fonts/Title.woff2" | prepend: site.baseurl }}" as="font" type="font/woff2" crossorigin >
 <link rel="preload" href="{{ "/data/fonts/Nunito-Regular.woff2" | prepend: site.baseurl }}" as="font" type="font/woff2" crossorigin >
+<!-- Matomo -->
+<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var u="https://stats.bortox.it/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
