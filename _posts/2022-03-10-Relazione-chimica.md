@@ -85,7 +85,7 @@ Iniziare indossando guanti, visore e camice
 * Riempire una vaschetta di plastica con H<sub>2</sub>O
 * Prelevare una pallina di Sodio con le pinzette dal barattolo contenente petrolio in cui era conservata
 * Inserire la pallina di Sodio nella vaschetta
-* Una volta finita la reazione, prendere una cartina da tornasole e la immergo in acqua
+* Una volta finita la reazione, prendere una cartina da tornasole e immergere in acqua
 ### Osservazioni
 
 La cartina di tornasole ottiene colore **blu**, dunque il composto ottenuto è **basico**.
@@ -101,7 +101,7 @@ La reazione dura diversi secondi, nei quali il Sodio produce fumo, frizza e si m
 
 I metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'acqua.
 
-Questo accade, nel caso del sodio, per l'alta differenza di elettronegatività tra esso sia con ossigeno sia idrogeno, che fa sì che l'unico elettrone di valenza del Sodio sia strappato violentemente ad esempio dall'ossigeno. 
+Questo accade, nel caso del sodio, per l'alta differenza di elettronegatività tra esso sia con ossigeno sia con idrogeno, che fa sì che l'unico elettrone di valenza del Sodio sia strappato violentemente, ad esempio dall'ossigeno. 
 
 Primo Levi parla del comportamento singolare del Sodio e delle sue reazioni, sia con l'acqua, sia con l'aria nel suo libro _Il Sistema Periodico_:
 > Il sodio è un metallo degenere: è anzi un metallo solo nel significato chimico della parola, non certo in quello del linguaggio quotidiano. Non è né rigido né elastico, è anzi molle come la cera; non è lucente, o meglio, lo è solo se conservato con attenzioni maniache, poiché altrimenti reagisce in pochi istanti con l’aria ricoprendosi di una brutta cotenna ruvida: con anche maggiore rapidità reagisce con l’acqua, sulla quale galleggia (un metallo che galleggia!) danzando freneticamente e svolgendo idrogeno
@@ -163,20 +163,11 @@ Iniziare indossando guanti, visore e camice
 
 * Prendere l'ossido di Calcio attraverso delle pinzette.
 * Inserire l'ossido di Calcio in un vetrino da orologio ed aggiungere $H_20$ attraverso una pipetta
-* Immergere una cartina da tornasole nella soluzione con Mg ed $H_2O$
+* Immergere una cartina da tornasole nella soluzione con Ca ed $H_2O$
 
 
 ### Osservazioni
 
-Per via della sua brillante luce bianca, quasi accecante, abbiamo intuito l'uso del magnesio in nastri e fuochi d'artificio. 
-
-> Si libera tanta luce che sembra di guardare il Sole!
-
-Dopo alcuni secondi, il magnesio in combustione ha spaccato il vetrino da orologio: non bisogna spostare il Magnesio in combustione su un vetrino da orologio, meglio tenerlo tra le pinze.
-
-Ognuno ha scritto sul proprio quaderno la formula della reazione di combustione (una trasformazione che grazie ad un innesco genera una fiamma che produce luce, calore e fumo, consumando un materiale, talvolta lasciando residuo, in presenza di aria) avvenuta con il Magnesio. 
-
----
 
 Queste sono le formule che abbiamo scritto sulla lavagna.
 
@@ -193,7 +184,7 @@ _ossido di Calcio + aria fissa = carbonato di Calcio_
 $$ CuO + CO_2 \uparrow = CuCO_3 $$
 _ossido rameico + aria fissa = carbonato di Rame_ 
 
-In seguito viene immerso l'appena ottenuto ossido di Calcio in acqua, ottenendo un **idrossido**; l'idrossido di Calcio, anche chiamato "calce spenta" oppure "acqua di calce" $Ca(OH)_2$. Immergendo immergendo una cartina di tornasole nel vetrino, osserviamo che la calce spenta ha natura basica. 
+In seguito viene immerso l'appena ottenuto ossido di Calcio in acqua, ottenendo un **idrossido**; l'idrossido di Calcio, anche chiamato "calce spenta" oppure "acqua di calce" $Ca(OH)_2$. Immergendo suna cartina di tornasole nel vetrino, osserviamo che la calce spenta ha natura basica. 
 
 $$ CaO + H_2O = Ca(OH)_2 $$
 
