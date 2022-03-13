@@ -3,20 +3,17 @@ layout:  post
 title:  Reazioni tra ossidi ed H20 per la formazione di idrossidi
 categories:  appunti
 materia: scienze-naturali
-description: "Risposte ad alcune domande sul regime fascista, su squadracce, omicidio Matteotti, elezioni del 1924, patti lateranensi, definizione di stato totalitario..."
+description: "Reazioni tra metalli alcalini ed alcalino-terrosi con H20 per formare idrossidi. Approfondimento sulla formazione di carbonati."
 tags:
-- fascismo
-- storia
-- omicidio Matteotti
-- patti lateranensi
-- squadracce
-- partito comunista
-- partito socialista
-- marcia su Roma
-- _Leggi Fascistissime_
-- stato totalitario
-- domande
-- risposte
+- reazioni
+- metalli
+- alcalini
+- idrossido
+- ossido
+- esperimento
+- relazione
+- laboratorio
+- ossidazione
 math: yes
 ---
 
@@ -33,7 +30,7 @@ Materia
 : Chimica
 
 Titolo
-: Reazioni di metalli alcalini ed alcalino terrosi ossidati con acqua deionizzata 
+: Reazioni tra metalli alcalini ed alcalino terrosi ossidati ed acqua deionizzata 
 
 ## Indice
 {:.no_toc}
@@ -42,7 +39,7 @@ Titolo
 
 ### Introduzione
 
-Analisi delle reazioni di metalli alcalini e alcalino terrosi con $H_2O$.
+Analizziamo le reazioni di metalli altamente reattivi di I e II gruppo con aria ed acqua deionizzata, al fine di approfondire i concetti di ossidi, idrossidi e carbonati, considerando e commentando le conclusioni tratte da esperimenti compiuti nei percorsi LSS _Acidi e Basi_, _Combustione_ e _Nascita del concetto di Gas_ e _Nascita della chimica moderna_ con le nostre conoscenze attuali su modelli atomici ed interazioni tra atomi.
 
 ### Sostanze utilizzate
 
