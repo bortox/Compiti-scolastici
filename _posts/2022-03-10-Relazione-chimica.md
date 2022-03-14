@@ -83,7 +83,7 @@ Iniziare indossando guanti, visore e camice
 
 ### Osservazioni
 
-La cartina di tornasole ottiene colore **blu**, dunque il composto ottenuto è **basico**.
+La cartina da tornasole ottiene colore **blu**, dunque il composto ottenuto è **basico**.
 
 In seguito ad una breve discussione collettiva, abbiamo concluso che appena **Na**, il sodio metallico, viene afferrato con le pinzette ed estratto dal petrolio, esso diventa $Na_2O$.
 
@@ -193,7 +193,7 @@ _ossido rameico + aria fissa = carbonato di Rame_
 
 Parlando di aria fissa, abbiamo rammentato l'origine di tale termine: la scoperta di Black, che decise di studiare l'invisibile raccolto da Hales per mezzo del bagno pneumatico: piccoli animaletti morivano in un ambiente saturo di questo gas invisibile e non si poteva svolgere una calcinazione in presenza di tale gas, dunque lo chiamò "aria fissa" perché sembrava aria "fissata all'interno".
 
-In seguito viene immerso l'ossido di Calcio in acqua, ottenendo un **idrossido**; l'idrossido di Calcio, anche chiamato "calce spenta" oppure "acqua di calce" $Ca(OH)_2$. Immergendo una cartina di tornasole nel vetrino, osserviamo che la calce spenta ha natura basica. 
+In seguito viene immerso l'ossido di Calcio in acqua, ottenendo un **idrossido**; l'idrossido di Calcio, anche chiamato "calce spenta" oppure "acqua di calce" $Ca(OH)_2$. Immergendo una cartina da tornasole nel vetrino, osserviamo che la calce spenta ha natura basica. 
 
 $$ CaO + H_2O = Ca(OH)_2 $$
 
