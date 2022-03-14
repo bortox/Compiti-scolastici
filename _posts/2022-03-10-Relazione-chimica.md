@@ -17,11 +17,8 @@ tags:
 math: yes
 ---
 
-Nome
+Autore
 : Andrea Bortolotti
-
-Classe
-: III C
 
 Data
 : 11/03/2021 11:15-12:05
