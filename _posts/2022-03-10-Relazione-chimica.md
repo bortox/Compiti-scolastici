@@ -83,7 +83,7 @@ Iniziare indossando guanti, visore e camice
 
 ### Osservazioni
 
-La cartina da tornasole ottiene colore **blu**, dunque il composto ottenuto è **basico**.
+La cartina da tornasole ottiene colore **blu**, dunque il composto ottenuto ha una natura **basica**.
 
 In seguito ad una breve discussione collettiva, abbiamo concluso che appena **Na**, il sodio metallico, viene afferrato con le pinzette ed estratto dal petrolio, esso diventa $Na_2O$.
 
@@ -92,7 +92,7 @@ $$ 4Na + O_2 = 2Na_2O $$
 In seguito dopo aver immerso l'appena ottenuto ossido di sodio in acqua, ottengo un **idrossido**; l'idrossido di sodio $NaOH$.
 $$ Na_2O + H_2O = 2NaOH $$
 
-La reazione dura diversi secondi, nei quali il Sodio produce fumo, frizza e si muove sulla superficie dell'acqua deionizzata, quasi come in una danza.
+La reazione dura diversi secondi, nei quali il Sodio produce vapore acqueo, frizza e si muove sulla superficie dell'acqua deionizzata, quasi come in una danza.
 
 I metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'acqua.
 
@@ -153,7 +153,7 @@ Queste sono le formule che abbiamo scritto sulla lavagna.
 
 $$ 2Mg^{+2} + O^{-2}_2 = 2MgO $$
 
-In seguito viene immerso l'appena ottenuto ossido di Magnesio in acqua, ottenendo un **idrossido**; l'idrossido di Magnesio $Mg(OH)_2$.
+In seguito viene immerso l'appena ottenuto ossido di Magnesio in acqua, ottenendo un **idrossido**; l'idrossido di Magnesio $Mg(OH)_2$. La natura dell'idrossido di Magnesio è basica:dopo aver immerso la cartina da Tornasole essa si è colorata di blu.
 
 $$ MgO + H_2O = Mg(OH)_2 $$
 
@@ -179,7 +179,7 @@ Iniziare indossando guanti, visore e camice
 
 Queste sono le formule che abbiamo scritto sulla lavagna.
 
-$$ 2Ca^{+2} + O^{-2}_2 = 2CaO $$
+$$ Ca^{+2} + O^{-2}_2 = CaO $$
 
 **CaO**, ossido di Calcio, viene anche chiamato "calce viva". La **calce viva** è utilizzata per rivestire le case, ed è il prodotto della calcinazione del carbonato di calcio. Mescolando calce viva con aria fissa ($CO_2$) infatti otteniamo il carbonato di calcio. 
 
