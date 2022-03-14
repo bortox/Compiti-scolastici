@@ -110,7 +110,9 @@ Levi parla di un episodio in cui doveva eseguire la distillazione del Benzene, m
 
 > Presi il pallone ormai vuoto, lo posi sotto il rubinetto ed aprii l’acqua. Si udì un rapido tonfo, dal collo del pallone uscì una vampa diretta verso la finestra che era vicina al lavandino, e le tende di questa presero fuoco.
 
-Dopo aver risolto il problema dell'incendio, Levi scopre su uno dei cocci del pallone stava una macchiolina bianca, basica dopo un test con fenolftaleina, quindi probabilmente idrossido di potassio formato dal poco potassio restante. Infine Primo Levi conclude che
+Dopo aver risolto il problema dell'incendio, Levi scopre su uno dei cocci del pallone una macchiolina bianca, la quale era stata dimostrata basica dopo un test con fenolftaleina, quindi probabilmente si trattava di idrossido di potassio formato da un frammento minuscolo di potassio che non doveva essere presente nel pallone già pulito.
+
+Infine, Primo Levi conclude che:
 
 > occorre diffidare del quasi-uguale (il sodio è quasi uguale al potassio: ma col sodio non sarebbe successo nulla), del praticamente identico, del pressapoco, dell’oppure, di tutti i surrogati e di tutti i rappezzi. Le differenze possono essere piccole, ma portare a conseguenze radicalmente diverse, come gli aghi degli scambi; il mestiere del chimico consiste in buona parte nel guardarsi da queste differenze, nel conoscerle da vicino, nel prevederne gli effetti. Non solo il mestiere del chimico.
 
@@ -183,7 +185,7 @@ $$ 2Ca^{+2} + O^{-2}_2 = 2CaO $$
 
 Parlando di aria fissa, abbiamo rammentato l'origine di tale termine: la scoperta di Black, che decise di studiare l'invisibile raccolto da Hales per mezzo del bagno pneumatico: piccoli animaletti morivano in un ambiente saturo di questo gas invisibile e non si poteva svolgere una calcinazione in presenza di tale gas, dunque lo chiamò "aria fissa" perché sembrava aria "fissata all'interno".
 
-Questo avvenne anche durante la calcinazione del Rame in ossido di Rame: la massa finale aumentava, per l'aggiunta di $CO_2$ aeriforme. Per indicare la natura aeriforme di $CO_2$, aggiungo una freccia verso l'alto nella formula. Nel caso del carbonato di rame ottengo l'ossido di Rame, in questo caso ossido rame**ico** perché il numero di ossidazione del rame utilizzato nella formula è il maggiore tra i due: +1 invece di +2.
+Questo avvenne anche durante la calcinazione del Rame in ossido di Rame: la massa finale aumentava, per l'aggiunta di $CO_2$ aeriforme. Per indicare la natura aeriforme di $CO_2$, aggiungo una freccia verso l'alto nella formula. Nel caso del carbonato di rame ottengo l'ossido di Rame, in questo caso ossido rame**ico** perché il numero di ossidazione del rame utilizzato nella formula è il maggiore tra i due: +2 invece di +1.
 
 $$ CaO + CO_2 \uparrow = CaCO_3 $$
 _ossido di Calcio + aria fissa = carbonato di Calcio_
