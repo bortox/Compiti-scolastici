@@ -83,6 +83,7 @@ Iniziare indossando guanti, visore e camice
 * Prelevare una pallina di Sodio con le pinzette dal barattolo contenente petrolio in cui era conservata
 * Inserire la pallina di Sodio nella vaschetta
 * Una volta finita la reazione, prendere una cartina da tornasole e immergere in acqua
+
 ### Osservazioni
 
 La cartina di tornasole ottiene colore **blu**, dunque il composto ottenuto è **basico**.
@@ -100,10 +101,21 @@ I metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'a
 
 Questo accade, nel caso del sodio, per l'alta differenza di elettronegatività tra esso sia con ossigeno sia con idrogeno, che fa sì che l'unico elettrone di valenza del Sodio sia strappato violentemente, ad esempio dall'ossigeno. 
 
-Primo Levi parla del comportamento singolare del Sodio e delle sue reazioni, sia con l'acqua, sia con l'aria nel suo libro _Il Sistema Periodico_:
+Il sale da cucina, $Na^+$, infatti non ha di questi problemi perché non ha elettroni di valenza che possono essere strappati da altri atomi. 
+
+Primo Levi parla del comportamento singolare del Sodio e delle sue reazioni, sia con l'acqua, sia con l'aria nel suo libro _Il Sistema Periodico, riguardo alle similarità apparenti tra Sodio (Na) e Potassio (K), entrambi metalli alcalini:
+
 > Il sodio è un metallo degenere: è anzi un metallo solo nel significato chimico della parola, non certo in quello del linguaggio quotidiano. Non è né rigido né elastico, è anzi molle come la cera; non è lucente, o meglio, lo è solo se conservato con attenzioni maniache, poiché altrimenti reagisce in pochi istanti con l’aria ricoprendosi di una brutta cotenna ruvida: con anche maggiore rapidità reagisce con l’acqua, sulla quale galleggia (un metallo che galleggia!) danzando freneticamente e svolgendo idrogeno
 
-Il sale da cucina, $Na^+$, infatti non ha di questi problemi perché non ha elettroni di valenza che possono essere strappati da altri atomi. 
+Levi parla di un episodio in cui doveva eseguire la distillazione del Benzene, ma utilizzò il Potassio invece del Sodio, con conseguenze esplosive
+
+> Il potassio, come ho detto, è gemello del sodio, ma reagisce con l’aria e con l’acqua con anche maggiore energia: è noto a tutti (ed era noto anche a me) che a contatto con l’acqua non solo svolge idrogeno, ma anche si infiamma. Perciò trattai il mio mezzo pisello (il grumo di potassio) come una santa reliquia; lo posai su di un pezzo di carta da filtro asciutta, ne feci un involtino, discesi nel cortile dell’Istituto, scavai una minuscola tomba e vi seppellii il piccolo cadavere indemoniato. Ricalcai bene la terra sopra e risalii al mio lavoro.
+
+> Presi il pallone ormai vuoto, lo posi sotto il rubinetto ed aprii l’acqua. Si udì un rapido tonfo, dal collo del pallone uscì una vampa diretta verso la finestra che era vicina al lavandino, e le tende di questa presero fuoco.
+
+Dopo aver risolto il problema dell'incendio, Levi scopre su uno dei cocci del pallone stava una macchiolina bianca, basica dopo un test con fenolftaleina, quindi probabilmente idrossido di potassio formato dal poco potassio restante. Infine Primo Levi conclude che
+
+> occorre diffidare del quasi-uguale (il sodio è quasi uguale al potassio: ma col sodio non sarebbe successo nulla), del praticamente identico, del pressapoco, dell’oppure, di tutti i surrogati e di tutti i rappezzi. Le differenze possono essere piccole, ma portare a conseguenze radicalmente diverse, come gli aghi degli scambi; il mestiere del chimico consiste in buona parte nel guardarsi da queste differenze, nel conoscerle da vicino, nel prevederne gli effetti. Non solo il mestiere del chimico.
 
 ## Procedimento con $$ Mg, O_2 $$ ed $$ H_2O $$
 
@@ -120,7 +132,7 @@ Iniziare indossando guanti, visore e camice
 ### Procedimento
 
 * Prendere il magnesio attraverso delle pinzette.
-* Strofinare una retina di lana di ferro per pulire il nastro di magnesio dallo strato ossidato
+* Strofinare una retina di lana di ferro per pulire il nastro di magnesio dallo strato già ossidato
 * Accendere un becco Bunsen per fornire l'energia per la combustione del nastro di Magnesio
 * Una volta finita la combustione, inserire il Magnesio in un vetrino da orologio ed aggiungere $H_20$ attraverso una pipetta
 * Immergere una cartina da tornasole nella soluzione con Mg ed $H_2O$
@@ -172,7 +184,7 @@ $$ 2Ca^{+2} + O^{-2}_2 = 2CaO $$
 
 **CaO**, ossido di Calcio, viene anche chiamato "calce viva". La **calce viva** è utilizzata per rivestire le case, ed è il prodotto della calcinazione del carbonato di calcio. Mescolando calce viva con aria fissa ($CO_2$) infatti otteniamo il carbonato di calcio. 
 
-Parlando di aria fissa, abbiamo accennato alla scoperta di Black sulle proprietà dell'aria fissa: piccoli animaletti morivano in un ambiente saturo di questo gas.
+Parlando di aria fissa, abbiamo accennato alla scoperta di Black, che decise di studiare l'invisibile raccolto da Hales per mezzo del bagno pneumatico: piccoli animaletti morivano in un ambiente saturo di questo gas, non si poteva svolgere una calcinazione in presenza solo  di tale gas, dunque chiamò tale gas "aria fissa" perché "fissata all'interno".
 
 Questo avvenne anche durante la calcinazione del Rame in ossido di Rame: la massa finale aumentava, per l'aggiunta di $CO_2$ aeriforme. Per indicare la natura aeriforme di $CO_2$, aggiungo una freccia verso l'alto nella formula. Nel caso del carbonato di rame ottengo l'ossido di Rame, in questo caso ossido rame**ico** perché il numero di ossidazione del rame utilizzato nella formula è il maggiore tra i due: +1 invece di +2.
 
