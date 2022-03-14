@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  Reazioni tra ossidi ed H20 per la formazione di idrossidi
+title:  Reazioni tra metalli alcalini ed alcalino terrosi ossidati ed acqua deionizzata per la formazione di idrossidi
 categories:  appunti
 materia: scienze-naturali
 description: "Reazioni tra metalli alcalini ed alcalino-terrosi con H20 per formare idrossidi. Approfondimento sulla formazione di carbonati."
