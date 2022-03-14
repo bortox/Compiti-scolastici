@@ -183,16 +183,17 @@ $$ 2Ca^{+2} + O^{-2}_2 = 2CaO $$
 
 **CaO**, ossido di Calcio, viene anche chiamato "calce viva". La **calce viva** è utilizzata per rivestire le case, ed è il prodotto della calcinazione del carbonato di calcio. Mescolando calce viva con aria fissa ($CO_2$) infatti otteniamo il carbonato di calcio. 
 
-Parlando di aria fissa, abbiamo rammentato l'origine di tale termine: la scoperta di Black, che decise di studiare l'invisibile raccolto da Hales per mezzo del bagno pneumatico: piccoli animaletti morivano in un ambiente saturo di questo gas invisibile e non si poteva svolgere una calcinazione in presenza di tale gas, dunque lo chiamò "aria fissa" perché sembrava aria "fissata all'interno".
+Anche dopo la calcinazione del Rame in ossido di Rame la massa finale aumentava, per via dell'aggiunta di $CO_2$ aeriforme. Per indicare la natura aeriforme di $CO_2$, aggiungo una freccia verso l'alto nella formula. Nel caso del carbonato di rame ottengo l'ossido di Rame, in questo caso ossido rame**ico** perché il numero di ossidazione del rame utilizzato nella formula è il maggiore tra i due: +2 invece di +1.
 
-Questo avvenne anche durante la calcinazione del Rame in ossido di Rame: la massa finale aumentava, per l'aggiunta di $CO_2$ aeriforme. Per indicare la natura aeriforme di $CO_2$, aggiungo una freccia verso l'alto nella formula. Nel caso del carbonato di rame ottengo l'ossido di Rame, in questo caso ossido rame**ico** perché il numero di ossidazione del rame utilizzato nella formula è il maggiore tra i due: +2 invece di +1.
 
 $$ CaO + CO_2 \uparrow = CaCO_3 $$
 _ossido di Calcio + aria fissa = carbonato di Calcio_
 $$ CuO + CO_2 \uparrow = CuCO_3 $$
 _ossido rameico + aria fissa = carbonato di Rame_ 
 
-In seguito viene immerso l'appena ottenuto ossido di Calcio in acqua, ottenendo un **idrossido**; l'idrossido di Calcio, anche chiamato "calce spenta" oppure "acqua di calce" $Ca(OH)_2$. Immergendo suna cartina di tornasole nel vetrino, osserviamo che la calce spenta ha natura basica. 
+Parlando di aria fissa, abbiamo rammentato l'origine di tale termine: la scoperta di Black, che decise di studiare l'invisibile raccolto da Hales per mezzo del bagno pneumatico: piccoli animaletti morivano in un ambiente saturo di questo gas invisibile e non si poteva svolgere una calcinazione in presenza di tale gas, dunque lo chiamò "aria fissa" perché sembrava aria "fissata all'interno".
+
+In seguito viene immerso l'ossido di Calcio in acqua, ottenendo un **idrossido**; l'idrossido di Calcio, anche chiamato "calce spenta" oppure "acqua di calce" $Ca(OH)_2$. Immergendo una cartina di tornasole nel vetrino, osserviamo che la calce spenta ha natura basica. 
 
 $$ CaO + H_2O = Ca(OH)_2 $$
 
