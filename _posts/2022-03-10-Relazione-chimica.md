@@ -96,7 +96,7 @@ La reazione dura diversi secondi, nei quali il Sodio produce vapore acqueo, friz
 
 I metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'acqua.
 
-Questo accade, nel caso del sodio, per trovare una forma più stabile, l'idrossido di sodio, sem
+Questo accade, nel caso del sodio, per trovare una forma chimicamente più stabile, l'idrossido di sodio.
 
 Il sale da cucina, $Na^+Cl^-$, infatti non ha di questi problemi perché si trova nella forma più stabile possibile, in acqua dunque si disgrega soltanto in senso fisico.  
 
