@@ -48,7 +48,7 @@ Analizziamo le reazioni di metalli altamente reattivi di I e II gruppo con aria 
 
 ### Strumenti ed apparati utilizzati
 
-* Pinzetta
+* Pinze
 * Vaschetta di Plastica
 * Vetrino da Orologio
 * Accendino
@@ -83,11 +83,9 @@ Iniziare indossando guanti, visore e camice.
 * Inserire la pallina di Sodio nella vaschetta
 * Una volta finita la reazione, prendere una cartina da tornasole e immergere in acqua
 
-### Osservazioni
+### Osservazioni ed interpretazione
 
 ![Sodio metallico galleggia in acqua]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico-acqua.png" | relative_url}})
-
-La cartina da tornasole inserita nella vaschetta dopo la reazione si colora di **blu**, dunque il composto ottenuto è **basico**.
 
 In seguito ad una breve discussione collettiva, abbiamo concluso che appena **Na**, il sodio metallico, viene afferrato con le pinzette ed estratto dal petrolio, esso diventa $Na_2O$.
 
@@ -96,15 +94,17 @@ $$ 4Na + O_2 = 2Na_2O $$
 In seguito dopo aver immerso l'appena ottenuto ossido di sodio in acqua, ottengo un **idrossido**; l'idrossido di sodio $NaOH$.
 $$ Na_2O + H_2O = 2NaOH $$
 
-La reazione dura diversi secondi, nei quali il Sodio produce fumo, frizza e si muove sulla superficie dell'acqua deionizzata, quasi come in una danza.
+La cartina da tornasole immersa nella vaschetta dopo la reazione ottiene colore **blu**, dunque il composto ottenuto ha una natura **basica**.
 
-I metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'acqua.
+La reazione dura diversi secondi, nei quali il Sodio produce vapore acqueo, frizza e si muove sulla superficie dell'acqua deionizzata, quasi come in una danza. 
+
+Tale reazione libera molta energia (il sodio si muove producendo calore), infatti i metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'acqua.
 
 Questo accade, nel caso del sodio, per l'alta differenza di elettronegatività tra esso sia con ossigeno sia con idrogeno, che fa sì che l'unico elettrone di valenza del Sodio sia strappato violentemente, ad esempio dall'ossigeno. 
 
 Il sale da cucina, $Na^+$, infatti non ha di questi problemi perché non ha elettroni di valenza che possono essere strappati da altri atomi. 
 
-Primo Levi parla del comportamento singolare del Sodio e delle sue reazioni, sia con l'acqua, sia con l'aria nel suo libro _Il Sistema Periodico, riguardo alle similarità apparenti tra Sodio (Na) e Potassio (K), entrambi metalli alcalini:
+Primo Levi parla del comportamento singolare del Sodio e delle sue reazioni, sia con l'acqua, sia con l'aria nel suo libro _Il Sistema Periodico_, riguardo alle similarità apparenti tra Sodio (Na) e Potassio (K), entrambi metalli alcalini:
 
 > Il sodio è un metallo degenere: è anzi un metallo solo nel significato chimico della parola, non certo in quello del linguaggio quotidiano. Non è né rigido né elastico, è anzi molle come la cera; non è lucente, o meglio, lo è solo se conservato con attenzioni maniache, poiché altrimenti reagisce in pochi istanti con l’aria ricoprendosi di una brutta cotenna ruvida: con anche maggiore rapidità reagisce con l’acqua, sulla quale galleggia (un metallo che galleggia!) danzando freneticamente e svolgendo idrogeno
 
@@ -141,7 +141,7 @@ Iniziare indossando guanti, visore e camice.
 * Immergere una cartina da tornasole nella soluzione con Mg ed $H_2O$
 
 
-### Osservazioni
+### Osservazioni ed interpretazione
 
 Per via della sua brillante luce bianca, quasi accecante, abbiamo intuito l'uso del magnesio in nastri e fuochi d'artificio. 
 
@@ -159,7 +159,7 @@ Queste sono le formule che abbiamo scritto sulla lavagna.
 
 $$ 2Mg^{+2} + O^{-2}_2 = 2MgO $$
 
-In seguito viene immerso l'appena ottenuto ossido di Magnesio in acqua, ottenendo un **idrossido**; l'idrossido di Magnesio $Mg(OH)_2$.
+In seguito viene immerso l'appena ottenuto ossido di Magnesio in acqua, ottenendo un **idrossido**; l'idrossido di Magnesio $Mg(OH)_2$. La natura dell'idrossido di Magnesio è basica:dopo aver immerso la cartina da Tornasole essa si è colorata di blu.
 
 $$ MgO + H_2O = Mg(OH)_2 $$
 
@@ -180,12 +180,12 @@ Iniziare indossando guanti, visore e camice.
 * Immergere una cartina da tornasole nella soluzione con Ca ed $H_2O$
 
 
-### Osservazioni
+### Osservazioni ed interpretazione
 
 
 Queste sono le formule che abbiamo scritto sulla lavagna.
 
-$$ 2Ca^{+2} + O^{-2}_2 = 2CaO $$
+$$ 2Ca^{+2} + O^{-2}_2 = CaO $$
 
 **CaO**, ossido di Calcio, viene anche chiamato "calce viva". La **calce viva** è utilizzata per rivestire le case, ed è il prodotto della calcinazione del carbonato di calcio. Mescolando calce viva con aria fissa ($CO_2$) infatti otteniamo il carbonato di calcio. 
 
@@ -208,4 +208,4 @@ $$ CaO + H_2O = Ca(OH)_2 $$
 ## Conclusioni
 
 * Gli idrossidi si formano a partire dagli ossidi inseriti nell'acqua ed hanno una natura basica.
-* I carbonati i formano a partire dall'unione di ossidi di elementi con aria fissa.
+* I carbonati si formano a partire dall'unione di ossidi di elementi con aria fissa.
