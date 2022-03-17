@@ -96,9 +96,9 @@ La reazione dura diversi secondi, nei quali il Sodio produce vapore acqueo, friz
 
 I metalli del I e II gruppo, sono infatti altamente reattivi al contatto con l'acqua.
 
-Questo accade, nel caso del sodio, per l'alta differenza di elettronegatività tra esso sia con ossigeno sia con idrogeno, che fa sì che l'unico elettrone di valenza del Sodio sia strappato violentemente, ad esempio dall'ossigeno. 
+Questo accade, nel caso del sodio, per trovare una forma più stabile, l'idrossido di sodio, sem
 
-Il sale da cucina, $Na^+$, infatti non ha di questi problemi perché non ha elettroni di valenza che possono essere strappati da altri atomi. 
+Il sale da cucina, $Na^+Cl^-$, infatti non ha di questi problemi perché si trova nella forma più stabile possibile, in acqua dunque si disgrega soltanto in senso fisico.  
 
 Primo Levi parla del comportamento singolare del Sodio e delle sue reazioni, sia con l'acqua, sia con l'aria nel suo libro _Il Sistema Periodico, riguardo alle similarità apparenti tra Sodio (Na) e Potassio (K), entrambi metalli alcalini:
 
