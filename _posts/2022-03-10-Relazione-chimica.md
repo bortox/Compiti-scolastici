@@ -66,13 +66,15 @@ Analizziamo le reazioni di metalli altamente reattivi di I e II gruppo con aria 
 
 ## Procedimento con $$ Na, O_2 $$ ed $$ H_2O $$
 
-Iniziare indossando guanti, visore e camice
+Iniziare indossando guanti, visore e camice.
 
 ### Materiali necessari
 
 * Na (Sodio metallico conservato sotto petrolio)
 * Pinze apposite per prelevare Na
 * H<sub>2</sub>O
+
+![Sodio metallico conservato sotto benzina]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico.jpg" | relative_url}})
 
 ### Procedimento
 
@@ -83,7 +85,9 @@ Iniziare indossando guanti, visore e camice
 
 ### Osservazioni
 
-La cartina da tornasole ottiene colore **blu**, dunque il composto ottenuto è **basico**.
+![Sodio metallico galleggia in acqua]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico-acqua.png" | relative_url}})
+
+La cartina da tornasole inserita nella vaschetta dopo la reazione si colora di **blu**, dunque il composto ottenuto è **basico**.
 
 In seguito ad una breve discussione collettiva, abbiamo concluso che appena **Na**, il sodio metallico, viene afferrato con le pinzette ed estratto dal petrolio, esso diventa $Na_2O$.
 
@@ -118,7 +122,7 @@ Infine, Primo Levi conclude che:
 
 ## Procedimento con $$ Mg, O_2 $$ ed $$ H_2O $$
 
-Iniziare indossando guanti, visore e camice
+Iniziare indossando guanti, visore e camice.
 
 ### Materiali necessari
 
@@ -141,6 +145,8 @@ Iniziare indossando guanti, visore e camice
 
 Per via della sua brillante luce bianca, quasi accecante, abbiamo intuito l'uso del magnesio in nastri e fuochi d'artificio. 
 
+![Combustione del Magnesio]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/magnesio-combustione.png" | relative_url}})
+
 > Si libera tanta luce che sembra di guardare il Sole!
 
 Dopo alcuni secondi, il magnesio in combustione ha spaccato il vetrino da orologio: non bisogna spostare il Magnesio in combustione su un vetrino da orologio, meglio tenerlo tra le pinze.
@@ -159,7 +165,7 @@ $$ MgO + H_2O = Mg(OH)_2 $$
 
 ## Procedimento con $$ CaO $$ ed $$ H_2O $$
 
-Iniziare indossando guanti, visore e camice
+Iniziare indossando guanti, visore e camice.
 
 ### Materiali necessari
 
@@ -202,4 +208,4 @@ $$ CaO + H_2O = Ca(OH)_2 $$
 ## Conclusioni
 
 * Gli idrossidi si formano a partire dagli ossidi inseriti nell'acqua ed hanno una natura basica.
-* I carbonati i formano a partire dall'unione di ossidi di elementi con aria fissa
+* I carbonati i formano a partire dall'unione di ossidi di elementi con aria fissa.
