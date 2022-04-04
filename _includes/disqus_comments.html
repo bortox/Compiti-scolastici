@@ -1,0 +1,24 @@
+<div class="nottoprint mc-div" id="cusdis_thread" style="display:none"
+  data-host="https://cusdis.com"
+  data-app-id="5af093c5-8600-4397-b5c5-93bf700e22a1"
+  data-page-id="{{ page.id }}"
+  data-page-url="{{ page.url }}"
+  data-page-title="{{ page.title }}"
+></div>
+<script type="text/javascript">
+  function mostra_commenti(){
+    x = document.getElementById("cusdis_thread")
+    x.style = "display=block;background-color:azure";
+    var comments_script = document.createElement('script');
+    comments_script.type = 'text/javascript';
+    comments_script.async = true;
+    comments_script.src = 'https://cusdis.com/js/cusdis.es.js';
+    document.body.appendChild(comments_script);
+    document.getElementById("mc-div").style.display = "none";
+    x.scrollIntoView({behavior: "smooth", block: "start"});
+  };
+</script>
+<div id="mc-div" class="mc-div">
+  <p style="font-size:0.69em;text-align: justify;">Cliccando il pulsante sottostante sarà aperta la sezione dei commenti, con sfondo azzurro chiaro. Cliccando il bottone "Lascia un Commento", accetti la <a class="external-link" href="https://cusdis.com/privacy-policy">politica sulla privacy</a> di cusdis.</p>
+  <button id="mc" class="card" onclick="mostra_commenti()">Lascia un commento</button>
+</div>
