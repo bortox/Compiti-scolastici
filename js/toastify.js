@@ -19,7 +19,7 @@
 Toastify({
     text: 'Contribuisci',
     duration: 2000,
-    destination: "bortox.it/contribuisci-cs",
+    destination: "https://bortox.it/contribuisci-cs",
     newWindow: true,
     close: true,
     gravity: "bottom", // `top` or `bottom`
