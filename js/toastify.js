@@ -17,9 +17,9 @@
 //# sourceMappingURL=/sm/265124336bc4a1705913e27dc3cd5eaf4a21aee7b511502d84ec7fcd8581ebf2.map
 
 Toastify({
-    text: '➡️ Breve sondaggio per migliorare Compiti Scolastici ',
-    duration: -1,
-    destination: "https://vps.bortox.it/sondaggio/index.php?r=survey/index&sid=962188&lang=it",
+    text: 'Contribuisci',
+    duration: 2000,
+    destination: "bortox.it/contribuisci-cs",
     newWindow: true,
     close: true,
     gravity: "bottom", // `top` or `bottom`
