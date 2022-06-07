@@ -132,4 +132,45 @@ Nel 1929 il Papa era Pio XI, primo sovrano della città-Stato _Città del Vatica
 
 il **Trattato** riconosceva l'indipendenza, la sovranità e i confini  della Santa Sede che fondava lo Stato della Città del Vaticano; allegata ad esso vi era la **Convenzione** finanziaria, che regolava i rapporti finanziari tra Italia e Città del Vaticano, prevedendo inoltre un risarcimento per le conseguenze della fine del potere temporale del Papa. il **Concordato** definiva le specifiche sfere di attività e l’autonomia del Governo dalla Chiesa e viceversa.
 
-Avviso: Ho scritto questo articolo come aiuto per lo studente _ALEXIS_ in seguito alla [seguente domanda](https://domanda.bortox.it/index.php/5/potete-aiutarmi-con-queste-domande-di-storia). Ho colto la palla al balzo per ripassare il ventennio fascista, però, non avendo al momento un libro di testo di III media (col mio vecchio avrei fatto molto più velocemente), ho cercato su Internet informazioni sul regime fascista, Wikipedia è stata molto utile, ma per rispondere a queste domande la tattica migliore è leggere il libro di testo. Se avete qualche domanda od osservazione, potete usare il tasto _Fai una domanda_ presente più in basso nella pagina.
+Avviso: Ho scritto questo articolo come aiuto per lo studente _ALEXIS_ in seguito alla seguente domanda:
+
+
+>Potete aiutarmi con queste domande di storia?
+
+>Ciao, potreste darmi gentilmente una mano con queste 14 domande di storia? **Sono impossibili**! Sul libro non c'è niente e la mia professoressa non ha detto nulla a riguardo! Comunque sono per una verifica. Le domande sono le seguenti:
+
+>1) Chi fondò e quando il Partito comunista d'Italia?
+
+>2) Chi fondò il Partito socialista unitario?
+
+>3) Cosa sono le squadracce? Che metodi utilizzavano? Contro chi li utilizzavano? Da chi venivano appoggiate?
+
+>4) Qual è il titolo del giornale fondato da Mussolini?
+
+>5) Cosa fu e quando avvenne la Marcia di Roma?
+
+>6) Cosa fu e quando venne istituito il Gran Consiglio del Fascismo?
+
+>7) Cos'era la Milizia Volontaria?
+
+>8) Racconta delle elezioni del 1924.
+
+>9) Racconta dell'omicidio Matteotti.
+
+>10) Cosa sono le Leggi Fascistissime? Raccontale in 7 punti.
+
+>11) Cosa s'intende per Stato Totalitario?
+
+>12) Quali furono i campi "fascistizzati" da Mussolini?
+
+>13) Come vennero controllati i imezzi d'informazione?
+
+>14) Racconta della politica familiare del fascismo.
+
+>15) Quando furono firmati i Patti lateranensi?
+
+>16) Chi era il Papa?
+
+>17) Essi comprendevano un Trattato, un accordo e un Concordato. Spiega ciascuno di questi tre punti.
+
+>Vi ringrazio per l'attenzione e se possibilmente riuscite a rispondermi prima di oggi o di lunedì. Inoltre vi ricordo che faccio la terza media, quindi risposte non da quinto anno di liceo ma appunto di terza media...
