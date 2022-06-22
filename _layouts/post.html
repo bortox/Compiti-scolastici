@@ -24,9 +24,9 @@ layout: default
                 {% assign apostoli =  site.posts | reverse | where: "lss", lsspagina %}
                 {% for post in apostoli %}
                         {% if post.url != page.url %}
-                        <a class="otherpostlnk" data-goatcounter-click="click_related_lss" data-goatcounter-title="Apri post LSS correlato" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
+                        <a class="otherpostlnk" rel="prefetch" data-goatcounter-click="click_related_lss" data-goatcounter-title="Apri post LSS correlato" href="{{ post.url | relative_url }}"><span style="color:orangered">➤</span> {{ post.title | escape  }} </a><hr>
                         {% else %}
-                        <a class="otherpostlnk" href="#" data-goatcounter-click="up" data-goatcounter-title="Torna su"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
+                        <a class="otherpostlnk" rel="prefetch" href="#" data-goatcounter-click="up" data-goatcounter-title="Torna su"><span style="color:orangered">➤</span> Stavi leggendo: {{ post.title | escape  }} </a><hr>
                         {% endif %}
                 {% endfor %}
                 {% else %}
@@ -38,7 +38,7 @@ layout: default
                 {% for related_post in site.related_posts limit: 6 %}
                     {% assign materiapost = related_post.materia | downcase %}
                     {% if materia == materiapost %}
-                    <a data-goatcounter-click="click_related_post" data-goatcounter-title="Apri post correlato" class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 12 }}</a><hr>
+                    <a data-goatcounter-click="click_related_post" rel="prefetch" data-goatcounter-title="Apri post correlato" class='otherpostlnk' href="{{ related_post.url | relative_url }}">{{ related_post.title | truncatewords: 12 }}</a><hr>
                     {% endif %}
                     {% endfor %}
                 </div>
@@ -46,7 +46,7 @@ layout: default
                 {% endif %}
                 <div id="dialshare">
                     <a class="calmlinknoanim" data-goatcounter-click="random_post" data-goatcounter-title="Apri post casuale" href="{{ 'random.html' | relative_url }}">Post <span style="color:orangered">casuale</span>  <img src="{{ '/data/img/loghi/dado.svg' | relative_url }}" alt="dado misterioso">  </a>
-                    <a class="calmlinknoanim" data-goatcounter-click="home" data-goatcounter-title="Click menu home" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
+                    <a class="calmlinknoanim" rel="prefetch" data-goatcounter-click="home" data-goatcounter-title="Click menu home" href="{{ site.baseurl }}/"><span style="color:lavender">Home</span></a>
                 </div>
             </div>
         </div>
