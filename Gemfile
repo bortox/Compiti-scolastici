@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'jekyll-tagging', github: "pattex/jekyll-tagging"
 gem "jekyll", github: "jekyll/jekyll"
 gem "jekyll-seo-tag", github: "jekyll/jekyll-seo-tag"
 gem "jekyll-sitemap", github: "jekyll/jekyll-sitemap"
