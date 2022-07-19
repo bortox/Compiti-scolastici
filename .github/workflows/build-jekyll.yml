@@ -1,51 +1,34 @@
-name: Publish to GitHub Pages
+name: Build and Deploy to Github Pages
 
-# Run when new code is pushed to one of the main branches. Also provide a button for manual deploys.
 on:
   push:
-    branches: 
-      - master
-  workflow_dispatch:
+    branches:
+      - master  # Here source code branch is `master`, it could be other branch
 
-# Cancel any runs in progress -- just complete the latest run
-concurrency: 
-  group: github_pages
-  cancel-in-progress: true
-    
 jobs:
-  jekyll:
-    # Grab a Linux runner from the pool
+  build_and_deploy:
     runs-on: ubuntu-latest
-    # Publishing needs to write to the gh-pages branch
-    permissions: 
-      contents: write
     steps:
-    # Jekyll Picture Tag requires libvips libraries for resizing images, which must be installed
-    - name: Install JPT's dependencies
-      run: sudo apt-get install libvips-tools libvips-dev 
+      - uses: actions/checkout@v2
 
-    # Put repository source onto the runner so we can build it
-    - name: Checkout
-      uses: actions/checkout@v2
-    
-    # Install the proper version of Ruby and run bundle install
-    - name: 💎 setup ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.0.2'
-        bundler-cache: true
-    - name: Install Bundler
-      run: bundle install
-    # Build the site
-    - name: Jekyll build
-      run: bundle exec jekyll build
-      env:
-        JEKYLL_ENV: production
-        
-    # Publish built site to Pages
-    - name: 🚀 deploy
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        branch: gh-pages
-        folder: _site
-        force: false
+      # Use GitHub Actions' cache to cache dependencies on servers
+      - uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      # Use GitHub Deploy Action to build and deploy to Github
+      - uses: jeffreytse/jekyll-deploy-action@v0.4.0
+        with:
+          provider: 'github'
+          token: ${{ secrets.GH_TOKEN }} # It's your Personal Access Token(PAT)
+          pre_build_commands: pacman -S --noconfirm libvips imagemagick
+          repository: ''             # Default is current repository
+          branch: 'gh-pages'         # Default is gh-pages for github provider
+          jekyll_src: './'           # Default is root directory
+          jekyll_cfg: '_config.yml'  # Default is _config.yml
+          jekyll_baseurl: ''         # Default is using _config.yml
+          bundler_ver: '>=0'         # Default is latest bundler version
+          cname: ''                  # Default is to not use a cname
+          actor: ''                  # Default is the GITHUB_ACTOR
