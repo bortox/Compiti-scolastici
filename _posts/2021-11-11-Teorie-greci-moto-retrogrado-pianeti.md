@@ -36,7 +36,7 @@ Ovviamente tale conclusione viene derivata utilizzando il logos, ossia un ragion
 
 Tra le prime teorie sul moto delle stelle erranti troviamo quella di Aristotele, IV secolo a.C. , che utilizza il modello di Eudosso, ossia concepisce il cosmo come un insieme di sfere concentriche revolventi attorno alla terra, come gli strati di una cipolla.
 
-{% picture loaded /data/img/fisica/appunti/modelli-geocentrici/aristotele.jpg" | relative_url }} --alt Teoria aristotelica sul movimento delle stelle erranti %}
+{% picture loaded /data/img/fisica/appunti/modelli-geocentrici/aristotele.jpg --alt Teoria aristotelica sul movimento delle stelle erranti %}
 
 
 Questa teoria spiega la caratteristica retrograda del moto dei pianeti, derivata da un sistema molto complesso, che non può essere spiegato brevemente qui, perciò rimando ad un [link del Museo Galileo](https://catalogo.museogalileo.it/multimedia/SistemaEudosso.html) per chi voglia approfondire come la teoria di Eudosso - dunque anche quella di Aristotele - spieghi il moto retrogrado dei pianeti.
@@ -53,7 +53,7 @@ Nella teoria di Ipparco il moto retrogrado viene spiegato in un ambiente geocent
 
 Secondo la Teoria degli Epicicli il pianeta procede con moto uniforme - ossia a velocità costante - su una circonferenza, detta Epiciclo, il cui centro ruota con moto uniforme attorno alla Terra, immobile al centro dell'universo, lungo una circonferenza più ampia, detta deferente. Infatti mentre il pianeta gira sull'epiciclo, il centro dell'epiciclo si sposta girando attorno alla terra.
 
-{% picture loaded /data/img/fisica/appunti/modelli-geocentrici/epicicli-ipparco.png" | relative_url }} --alt Teoria aristotelica sul movimento delle stelle erranti %}
+{% picture loaded /data/img/fisica/appunti/modelli-geocentrici/epicicli-ipparco.png --alt Teoria aristotelica sul movimento delle stelle erranti %}
 
 
 Quando il pianeta compie la metà superiore dell'epiciclo il suo moto concorda con quello sul deferente, dalla Terra sembra che esso acceleri poiché i due moti si sommano, mentre quando esso compie la metà inferiore dell'epiciclo il suo moto si sottrae a quello sul deferente, poiché diretto in senso opposto, dunque ecco spiegato il moto retrogrado, anche se in un'ottica - quella geocentrica - errata, il modello è quasi perfetto.

@@ -26,7 +26,7 @@ La fascia inferiore della facciata presenta una **decorazione a tarsia bicroma**
 
 Sulla sommità della facciata i **semitimpani** laterali ricordano l’opus reticulatum per il loro motivo a intreccio; alla sommità si eleva un **timpano**, ispirato all' arte classica.
 
-{% picture loaded /data/img/arte/romanico/san-miniato/opus-reticulatum.png" | relative_url }} --alt Opus Reticulatum al quale si ispira il motivo dei semitimpani laterali della facciata %}
+{% picture loaded /data/img/arte/romanico/san-miniato/opus-reticulatum.png --alt Opus Reticulatum al quale si ispira il motivo dei semitimpani laterali della facciata %}
 
 
 Le semicolonne con capitelli compositi sono sormontate da cinque **archi a tutto sesto**, in lieve aggetto disegnano idealmente un **portico**, riducendo l’effetto tridimensionale dell’architettura a quello bidimensionale di una decorazione.
@@ -37,7 +37,7 @@ Al centro della facciata vi è una **finestra** a edicola con timpano, sormontat
 
 La ricerca del rigore, motivi geometrici, colori sgargianti e presenza di elementi quali il timpano indicano un' ispirazione classica per tale basilica. 
 
-{% picture loaded /data/img/arte/romanico/san-miniato/pianta.jpg" | relative_url }} --alt Pianta rettangolare di San Miniato al Monte %}
+{% picture loaded /data/img/arte/romanico/san-miniato/pianta.jpg --alt Pianta rettangolare di San Miniato al Monte %}
 
 
 

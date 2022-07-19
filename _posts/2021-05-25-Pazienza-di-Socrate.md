@@ -52,7 +52,7 @@ Ei respondenti praedia eius in tabula non esse depicta, dixit: «Agrorum possess
 
 ## Analisi del periodo
 
-{% picture loaded /data/img/latino/versioni/analisi-periodo/22-pagina-372.png" | relative_url }} --alt Schema visuale analisi del periodo la pazienza di Socrate %}
+{% picture loaded /data/img/latino/versioni/analisi-periodo/22-pagina-372.png --alt Schema visuale analisi del periodo la pazienza di Socrate %}
 
 
 ## Lista dei paradigmi

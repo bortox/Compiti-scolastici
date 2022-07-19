@@ -34,7 +34,7 @@ $$ \frac{1}{p}+\frac{1}{q}=\frac{1}{f} $$
 
 ## Dimostrazione
 
-{% picture loaded data/img/fisica/appunti/lenti/dimostrazione-snell.jpg" | relative_url }} --alt Dimostrazione grafica con disegno %}
+{% picture loaded data/img/fisica/appunti/lenti/dimostrazione-snell.jpg --alt Dimostrazione grafica con disegno %}
 
 
 

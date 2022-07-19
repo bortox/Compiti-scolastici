@@ -26,7 +26,7 @@ tags:
 
 ##### Le medie delle camminate e delle corse fatte dai miei compagni sotto il portico, misurate da 3 cronometri diversi. Sono tutti dei moti regolari.
 
-{% picture loaded /data/img/fisica/lss/moto/grafici1to4.png" | relative_url }} --alt Grafici dei moti regolari, dal primo al quarto %}
+{% picture loaded /data/img/fisica/lss/moto/grafici1to4.png --alt Grafici dei moti regolari, dal primo al quarto %}
 
 
 <svg display="inline-block" float="left" width="345" height="45">
@@ -61,7 +61,7 @@ tags:
 4|21.83|22.34|21.82|(22.09±0.26)s
 5|27.80|27.35|27.28|(27.54±0.26)s
 
-{% picture loaded /data/img/fisica/lss/moto/grafico1.png" | relative_url }} --alt Grafico di camminata regolare %}
+{% picture loaded /data/img/fisica/lss/moto/grafico1.png --alt Grafico di camminata regolare %}
 
 
 
@@ -76,7 +76,7 @@ tags:
 4|11.92|11.34|11.99|(11.66±0.33)s
 5|14.50|14.40|14.63|(14.52±0.12)s
 
-{% picture loaded /data/img/fisica/lss/moto/grafico2.png" | relative_url }} --alt Grafico di corsa lenta %}
+{% picture loaded /data/img/fisica/lss/moto/grafico2.png --alt Grafico di corsa lenta %}
 
 
 ### 3) Corsa veloce
@@ -90,7 +90,7 @@ tags:
 4|4.23|4.46|4.57|(4.4±0.17)s
 5|5.58|5.64|5.56|(5.6±0.04)s
 
-{% picture loaded /data/img/fisica/lss/moto/grafico3.png" | relative_url }} --alt Grafico di corsa veloce %}
+{% picture loaded /data/img/fisica/lss/moto/grafico3.png --alt Grafico di corsa veloce %}
 
 
 
@@ -105,7 +105,7 @@ tags:
 
 [^1]: Not an Error, non è un errore, non ci sono dati.
 
-{% picture loaded /data/img/fisica/lss/moto/grafico4.png" | relative_url }} --alt Grafico di camminata regolare dal pilone 2 %}
+{% picture loaded /data/img/fisica/lss/moto/grafico4.png --alt Grafico di camminata regolare dal pilone 2 %}
 
 
 

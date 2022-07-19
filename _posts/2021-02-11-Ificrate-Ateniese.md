@@ -87,5 +87,5 @@ colo, colis, colui, cultum, colere
 
 ## Analisi del periodo con schema ad albero
 
-{% picture loaded /data/img/latino/versioni/analisi-periodo/Ificrate-Ateniese.png" | relative_url }} --alt Analisi del periodo con schema ad albero %}
+{% picture loaded /data/img/latino/versioni/analisi-periodo/Ificrate-Ateniese.png --alt Analisi del periodo con schema ad albero %}
 

@@ -35,7 +35,7 @@ tags:  conservazione massa combustione zolfo Lavoisier
 
 - Il livello dell' acqua dentro la beuta si alza poco dopo che la candela si spegne.
 
-{% picture loaded /data/img/chimica/lss/chimica-moderna/esperimento1.jpg" | relative_url }} --alt Foto confronto livello dell' acqua %}
+{% picture loaded /data/img/chimica/lss/chimica-moderna/esperimento1.jpg --alt Foto confronto livello dell' acqua %}
 
 
 ### Rflessioni, ipotesi di Tommaso
@@ -78,7 +78,7 @@ tags:  conservazione massa combustione zolfo Lavoisier
 - Inserire il becker grande sopra quello più piccolo, a testa in giù, in modo che l' unica via d' uscita per i vapori della combustione sia l' acqua "colorata" della bacinella.
 
 > Ho disegnato un esempio della configurazione, escludendo il becco bunsen, per orientarsi meglio.
-{% picture loaded /data/img/chimica/lss/chimica-moderna/esperimento2.png" | relative_url }} --alt Schema visuale esperimento combustione zolfo %}
+{% picture loaded /data/img/chimica/lss/chimica-moderna/esperimento2.png --alt Schema visuale esperimento combustione zolfo %}
 
 
 ### Osservazioni

@@ -10,7 +10,7 @@ redirect_from: /appunti/2020/09/28/Introduzione-Acidi-e-Basi
 tags: acido base definizione collettiva inizio lss
 ---
 
-{% picture loaded data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg" | relative_url }} --alt Word cloud sugli acidi e sulle basi %}
+{% picture loaded data/img/chimica/lss/acidi-e-basi/WordCloudAcido.jpg --alt Word cloud sugli acidi e sulle basi %}
 
 
 ### Cos'è per te un acido?

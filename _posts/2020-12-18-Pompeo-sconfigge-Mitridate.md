@@ -73,7 +73,7 @@ cogo, cogis, coegi, coactum, cogere
 
 #### Analisi del periodo con schema ad albero<a name="ap"></a>
 
-{% picture loaded /data/img/latino/versioni/analisi-periodo/44-pagina-285.png" | relative_url }} --alt Schema visuale analisi del periodo Pompeo sconfigge Mitridate bortox %}
+{% picture loaded /data/img/latino/versioni/analisi-periodo/44-pagina-285.png --alt Schema visuale analisi del periodo Pompeo sconfigge Mitridate bortox %}
 
 
 

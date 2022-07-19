@@ -31,7 +31,7 @@ I **gas ideali** sono differenti dai gas reali nelle seguenti peculiarità:
 
 Nonostante ciò, le differenze sono poche, infatti con le opportune correzioni le leggi per gas ideali possono essere _adattate_ in leggi per gas reali, ma questo argomento sarà trattato in future lezioni di fisica.
 
-{% picture loaded data/img/chimica/percorsi/gas/gas-ideali-proprieta.png" | relative_url }} --alt Situazione ideale %}
+{% picture loaded data/img/chimica/percorsi/gas/gas-ideali-proprieta.png --alt Situazione ideale %}
 
 
 ## Dimostrazione sperimentale delle leggi dei gas
@@ -48,7 +48,7 @@ Nel caso qualcuno se lo sia dimenticato, la pressione è il **rapporto** tra la 
 
 Intanto, provando a mantenere lo stesso volume, ossia la stessa grandezza del contenitore, noto che aumentando la temperatura le particelle si velocizzano, dunque causano un maggior numero di urti sul contenitore, ossia una **maggiore pressione**. 
 
-{% picture loaded data/img/chimica/percorsi/gas/volume-gas.gif" | relative_url }} --alt Proporzionalità diretta pressione e volume %}
+{% picture loaded data/img/chimica/percorsi/gas/volume-gas.gif --alt Proporzionalità diretta pressione e volume %}
 
 
 
@@ -65,7 +65,7 @@ Tale relazione fu documentata da Joseph Louis **Gay-Lussac**, nell' anno 1802, e
 
 ## La legge di Boyle o legge isoterma
 
-{% picture loaded data/img/chimica/percorsi/gas/temperatura-gas.gif" | relative_url }} --alt Proporzionalità inversa pressione e volume %}
+{% picture loaded data/img/chimica/percorsi/gas/temperatura-gas.gif --alt Proporzionalità inversa pressione e volume %}
 
 
 Noto anche che se aumento il volume del contenitore, il numero di urti, come previsto, diminuisce, grazie ad uno spazio maggiore dove le particelle possono muoversi. 
@@ -83,7 +83,7 @@ Questa legge fu ipotizzata da Robert Boyle nell'anno 1662. Egli osservò che com
 
 Immaginando qua un recipiente con uno stantuffo mobile, come nell'esempio, possiamo notare che la pressione si mantiene costante, ed ad un aumento di temperatura corrisponde un aumento direttamente proporzionale di volume.
 
-{% picture loaded data/img/chimica/percorsi/gas/pressione-gas.gif" | relative_url }} --alt Legge di Charles o legge isobara dei gas %}
+{% picture loaded data/img/chimica/percorsi/gas/pressione-gas.gif --alt Legge di Charles o legge isobara dei gas %}
 
 
 Questo significa che temperatura e volume, a pari pressione, sono in relazione di proporzionalità diretta.
