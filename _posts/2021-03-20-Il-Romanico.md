@@ -42,13 +42,15 @@ Si tratta di una galleria sopra le navate laterali, in passato riservata solo al
 
 La **volta a crociera** è la prima innovazione che ci viene in mente parlando di Romanico, sostituisce efficacemente volte a botte e capriate in legno. 
 
-![Volta a crociera nello stile Romanico]({{ "/data/img/arte/romanico/volta-a-crociera.jpg" | relative_url }})
+{% picture loaded /data/img/arte/romanico/volta-a-crociera.jpg" | relative_url }} --alt Volta a crociera nello stile Romanico %}
+
 
 Consiste in due volte a botte intersecate, dunque il peso non viene più scaricato su due muri ma su quattro pilastri, i quali sostituiscono le colonne per maggiore solidità, imponenza e sobrietà
 
 Il **contrafforte esterno** è un altro elemento atto ad ottimizzare lo scaricamento del peso prodotto dalla struttura, specialmente le spinte laterali generate dalle volte a crociera. 
 
-![Contrafforte esterno per scaricare peso]({{ "/data/img/arte/romanico/contrafforte.jpg" | relative_url }})
+{% picture loaded /data/img/arte/romanico/contrafforte.jpg" | relative_url }} --alt Contrafforte esterno per scaricare peso %}
+
 
 Le **murature perimetrali** diventano particolarmente **spesse**, per rendere sufficientemente solide le costruzioni.
 

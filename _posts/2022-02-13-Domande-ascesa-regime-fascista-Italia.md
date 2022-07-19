@@ -36,7 +36,8 @@ Nel 1922 - un anno dopo la prima scissione tra quelle del dopoguerra che formò 
 
 Le squadracce erano dei gruppi armati formati dal parito fascista e finanziati da latifondisti ed imprenditori industriali. Utilizzavano metodi violenti per annientare avversari politici, amministrazioni comunali, sindacati, leghe agricole, circoli di cultura, biblioteche e giornali di opposizione. 
 
-![Squadracce hanno vandalizzato la sede della CGL]({{ "/data/img/storia/domande-fascismo/squadracce-cgl.jpg" | relative_url }})
+{% picture loaded /data/img/storia/domande-fascismo/squadracce-cgl.jpg" | relative_url }} --alt Squadracce hanno vandalizzato la sede della CGL %}
+
 
 
 
@@ -110,9 +111,12 @@ Inoltre, gli interventi distruttivi della MVSN erano tenuti contro gli oppositor
 
 A partire dall’anno scolastico 1930-1931 venne adottato nelle scuole elementari il Testo Unico di Stato, nelle scuole secondare non fu introdotto, ovviamente i testi erano ugualmente sottoposti a controlli, così come i programmi d’insegnamento. 
 
-![Immagine di un libro di testo scolastico]({{ "/data/img/storia/domande-fascismo/libri-di-testo-scolastici/1.png" | relative_url }})
-![Immagine di un libro di testo scolastico]({{ "/data/img/storia/domande-fascismo/libri-di-testo-scolastici/2.png" | relative_url }})
-![Immagine di un libro di testo scolastico]({{ "/data/img/storia/domande-fascismo/libri-di-testo-scolastici/3.png" | relative_url }})
+{% picture loaded /data/img/storia/domande-fascismo/libri-di-testo-scolastici/1.png" | relative_url }} --alt Immagine di un libro di testo scolastico %}
+
+{% picture loaded /data/img/storia/domande-fascismo/libri-di-testo-scolastici/2.png" | relative_url }} --alt Immagine di un libro di testo scolastico %}
+
+{% picture loaded /data/img/storia/domande-fascismo/libri-di-testo-scolastici/3.png" | relative_url }} --alt Immagine di un libro di testo scolastico %}
+
 
 Link per approfondire: [Wikipedia](https://it.wikipedia.org/wiki/Censura_fascista#La_censura_sulla_stampa_d'informazione), sulla censura fascista,  [DeaScuola](https://s.deascuola.it/minisiti/carnia/documenti/scuola/scuola_es8.html), sulla censura in campo scolastico.
 

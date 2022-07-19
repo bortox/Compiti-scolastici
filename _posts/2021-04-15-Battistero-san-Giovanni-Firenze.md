@@ -13,7 +13,8 @@ tags:
 - San
 - Giovanni
 ---
-![Facciata e cupola del Battistero di San Giovanni]({{ "/data/img/arte/romanico/battistero/facciata.jpg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/battistero/facciata.jpg --alt Facciata e cupola del Battistero di San Giovanni %}
+
 
 Ricostruito attorno al 1059 su un preesistente edificio dell' VIII secolo, il battistero presenta una semplice **pianta ottagonale** tipica della tradizione architettonica tardo-antica e bizantina. 
 
@@ -29,11 +30,13 @@ La **copertura** è doppia.
 
 Esternamente il tetto è rivestito in lastre di marmo bianco a forma di piramide con base ottagonale. 
 
-![Volta con mosaici del Battistero]({{ "/data/img/arte/romanico/battistero/volta.jpg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/battistero/volta.jpg --alt Volta con mosaici del Battistero %}
+
 
 All' interno vi è un' alta cupola a forma di padiglione a sesto acuto con otto pannelli che nel Duecento sono stati coperti di mosaici.
 
-![Vista interna del battistero, arcatelle a tutto sesto e colonne]({{ "/data/img/arte/romanico/battistero/interno.jpg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/battistero/interno.jpg --alt Vista interna del battistero, arcatelle a tutto sesto e colonne %}
+
 
 La sommità dell' edificio, aperta, è ispirata anch'essa all' arte classica, più precisamente al Pantheon, si conclude con una **lanterna** in marmo bianco sostenuta da otto colonne marmoree. Ognuna delle otto pareti interne è tripartita da colonne con fusto liscio sormontate da capitelli corinzi e compositi decorati. 
 

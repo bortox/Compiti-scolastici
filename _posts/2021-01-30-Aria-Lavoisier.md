@@ -57,24 +57,28 @@ Lavoisier si interroga sul perché alcune sostanze non continuino la combustione
 
 #### Ecco una illustrazione del _setup_, prima di iniziare la combustione
 
-![Configurazione iniziale](https://i.imgur.com/iBWSJ4G.png#border)
+{% picture loaded https://i.imgur.com/iBWSJ4G.png#border --alt Configurazione iniziale %}
+
 
 ---
 
 - Con la lente di ingrandimento, concentrare la luce del sole sul fosforo per iniziare la combustione
 
-![Inizio Combustione Lavoisier con lente d' ingrandimento](https://i.imgur.com/ffTY6pJ.png#border)
+{% picture loaded https://i.imgur.com/ffTY6pJ.png#border --alt Inizio Combustione Lavoisier con lente d' ingrandimento %}
+
 
 ### Osservazioni
 
-![Cosa succede poco dopo l' inizio della combustione Lavoisier](https://i.imgur.com/IBTphD9.png#border)
+{% picture loaded https://i.imgur.com/IBTphD9.png#border --alt Cosa succede poco dopo l' inizio della combustione Lavoisier %}
+
 
 
 Come visto in precedenza i vapori bianchi appannano le superfici circostanti. Il livello dell' acqua si abbassa.
 
 ---
 
-![Cosa succede dopo la fine della combustione](https://i.imgur.com/b4ImwxI.png#border)
+{% picture loaded https://i.imgur.com/b4ImwxI.png#border --alt Cosa succede dopo la fine della combustione %}
+
 
 Quando il fosforo smette di bruciare, i vapori bianchi condensano formando delle gocce di un liquido limpido e il livello dell' acqua si rialza. Il rialzo è di circa 1/5 del volume d' aria che era presente nella campana di vetro a inizio combustione.
 

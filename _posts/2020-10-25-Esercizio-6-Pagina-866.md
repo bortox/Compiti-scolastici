@@ -15,5 +15,6 @@ tags:
 
 ### Dimostrazione
 
-![Foto della dimostrazione eseguita da Andrea Bortolotti]({{ "/data/img/geometria/dimostrazioni/6-866.jpg" | relative_url }})
+{% picture loaded /data/img/geometria/dimostrazioni/6-866.jpg" | relative_url }} --alt Foto della dimostrazione eseguita da Andrea Bortolotti %}
+
 

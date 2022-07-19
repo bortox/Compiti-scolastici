@@ -74,7 +74,8 @@ Iniziare indossando guanti, visore e camice.
 * Pinze apposite per prelevare Na
 * H<sub>2</sub>O
 
-![Sodio metallico conservato sotto benzina]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico.jpg" | relative_url}})
+{% picture loaded /data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico.jpg --alt Sodio metallico conservato sotto benzina %}
+
 
 ### Procedimento
 
@@ -85,7 +86,8 @@ Iniziare indossando guanti, visore e camice.
 
 ### Osservazioni ed interpretazione
 
-![Sodio metallico galleggia in acqua]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico-acqua.png" | relative_url}})
+{% picture loaded /data/img/chimica/percorsi/ossidi-idrossidi/sodio-metallico-acqua.png --alt Sodio metallico galleggia in acqua %}
+
 
 In seguito ad una breve discussione collettiva, abbiamo concluso che appena **Na**, il sodio metallico, viene afferrato con le pinzette ed estratto dal petrolio, esso diventa $Na_2O$.
 
@@ -145,7 +147,8 @@ Iniziare indossando guanti, visore e camice.
 
 Per via della sua brillante luce bianca, quasi accecante, abbiamo intuito l'uso del magnesio in nastri e fuochi d'artificio. 
 
-![Combustione del Magnesio]({{ "/data/img/chimica/percorsi/ossidi-idrossidi/magnesio-combustione.png" | relative_url}})
+{% picture loaded /data/img/chimica/percorsi/ossidi-idrossidi/magnesio-combustione.png --alt Combustione del Magnesio %}
+
 
 > Si libera tanta luce che sembra di guardare il Sole!
 

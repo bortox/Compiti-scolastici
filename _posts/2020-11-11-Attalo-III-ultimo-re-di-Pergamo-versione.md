@@ -53,7 +53,8 @@ instituo, instituis, institui, institutum, instituere = stabilire
 
 ### Analisi del Periodo con schema ad albero
 
-![Schema visuale analisi del periodo in Latino, Attalo III re di Pergamo]({{ "/data/img/latino/versioni/analisi-periodo/32-pagina-258.png" | relative_url }})
+{% picture loaded /data/img/latino/versioni/analisi-periodo/32-pagina-258.png" | relative_url }} --alt Schema visuale analisi del periodo in Latino, Attalo III re di Pergamo %}
+
 
 ###### Testo originale 
 

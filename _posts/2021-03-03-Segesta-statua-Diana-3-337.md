@@ -62,4 +62,5 @@ repono, reponis, reposui, repositum, reponere
 
 ## Analisi del Periodo
 
-![Schema visuale analisi del periodo la statua di Diana ritorna a Segesta]({{ "/data/img/latino/versioni/analisi-periodo/337-3-Segesta.png" | relative_url }})
+{% picture loaded /data/img/latino/versioni/analisi-periodo/337-3-Segesta.png" | relative_url }} --alt Schema visuale analisi del periodo la statua di Diana ritorna a Segesta %}
+

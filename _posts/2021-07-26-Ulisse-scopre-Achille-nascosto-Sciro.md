@@ -95,4 +95,4 @@ promitto, promittis, promisi, promissum, promittere
 
 ## Analisi del Periodo
 
-![Analisi del periodo con schema ad albero: Ulisse scopre Achille nascosto presso Sciro]({{ "/data/img/latino/versioni/analisi-periodo/13-pagina-368.png" | relative_url }})
+{% picture loaded /data/img/latino/versioni/analisi-periodo/13-pagina-368.png" | relative_url }} --alt Analisi del periodo con schema ad albero: Ulisse scopre Achille nascosto presso Sciro %}

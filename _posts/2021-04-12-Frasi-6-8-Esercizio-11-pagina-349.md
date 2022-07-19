@@ -35,7 +35,8 @@ Esercizio 11 a pagina 349 del libro _Il mio Latino_.
 
 ## Analisi del periodo
 
-![frasi dalla 6 alla 8, analisi del periodo]({{ "/data/img/latino/versioni/analisi-periodo/11-pagina-349-2.png#border" | relative_url }})
+{% picture loaded /data/img/latino/versioni/analisi-periodo/11-pagina-349-2.png#border" | relative_url }} --alt frasi dalla 6 alla 8, analisi del periodo %}
+
 
 
 ## Paradigmi

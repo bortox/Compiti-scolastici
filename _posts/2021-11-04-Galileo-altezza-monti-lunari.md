@@ -40,14 +40,16 @@ Galileo sta descrivendo l'equivalente di un'alba sui monti terrestri, sui monti 
 
 Ovviamente Galileo nota anche che, nella parte luminosa, che volge verso il Sole, ci sono delle macchie scure, le ombre dei monti rivolti al Sole.
 
-![Il terminatore che divide la luna in due parti uguali, esattamente cinque giorni dopo il plenilunio.]({{ "/data/img/fisica/appunti/galileo/luna/osservazione-luna-galileo.jpg" | relative_url }})
+{% picture loaded /data/img/fisica/appunti/galileo/luna/osservazione-luna-galileo.jpg" | relative_url }} --alt Il terminatore che divide la luna in due parti uguali, esattamente cinque giorni dopo il plenilunio. %}
+
 
 ## Galileo calcola l'altezza dei monti lunari
 
 
 Esattamente a cinque giorni dal plenilunio la linea del confine tra luce ed ombra - il terminatore - **divide esattamente a metà la Luna**, quindi tale linea misura quanto il diametro lunare. 
 
-![Disegno esemplificativo dell'altezza dei monti lunari]({{ "/data/img/fisica/appunti/galileo/luna/galileo-calcolo-monti-lunari.png" | relative_url }})
+{% picture loaded /data/img/fisica/appunti/galileo/luna/galileo-calcolo-monti-lunari.png" | relative_url }} --alt Disegno esemplificativo dell'altezza dei monti lunari %}
+
 
 
 Osservando il disegno soprastante, per calcolare l'altezza del monte DA basta utilizzare il **teorema di Pitagora** sul triangolo $$ D\hat{C}E$$ rispetto ai lati CE e CD per calcolare il segmento ED, ossia il **raggio lunare AE sommato all'altezza del monte DA**, dove D è la cima illuminata del monte. Infine, per trovare DA bisogna poi sottrarre AE ad ED.

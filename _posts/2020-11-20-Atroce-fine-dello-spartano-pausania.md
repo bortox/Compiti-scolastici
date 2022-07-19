@@ -59,6 +59,7 @@ maculo, maculas, maculavi, maculatum, maculare = disonorare
 
 ## Analisi del periodo con schemi ad albero
 
-![Schema visuale analisi del periodo in Latino, Atroce fine dello spartano Pausania]({{ "/data/img/latino/versioni/analisi-periodo/9-pagina-263.png" | relative_url }})
+{% picture loaded /data/img/latino/versioni/analisi-periodo/9-pagina-263.png" | relative_url }} --alt Schema visuale analisi del periodo in Latino, Atroce fine dello spartano Pausania %}
+
 
 

@@ -102,7 +102,8 @@ COMBUSTIBILE|CIÒ CHE BRUCIA
 COMBURENTE|CIÒ CHE SERVE PER BRUCIARE
 INNESCO|CIÒ CHE SERVE A FAR PARTIRE LA COMBUSTIONE
 
-![Triangolo del fuoco](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Triangolo_del_fuoco.svg/883px-Triangolo_del_fuoco.svg.png)
+{% picture loaded https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Triangolo_del_fuoco.svg/883px-Triangolo_del_fuoco.svg.png --alt Triangolo del fuoco %}
+
 
 
 <br><br><br>

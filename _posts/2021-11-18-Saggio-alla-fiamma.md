@@ -29,7 +29,8 @@ Cloruro di **Sodio** (Na), **Bario** (Ba), **Calcio** (Ca), **Potassio** (K), **
 
 All'apparenza tali cloruri si presentano come delle comuni polveri bianche. 
 
-![Immagine cloruri utilizzati nell'esperimento]({{ "/data/img/chimica/percorsi/modelli-atomi/cloruri-saggio-fiamma.jpg" | relative_url }})
+{% picture loaded /data/img/chimica/percorsi/modelli-atomi/cloruri-saggio-fiamma.jpg" | relative_url }} --alt Immagine cloruri utilizzati nell'esperimento %}
+
 
 <details>
   <summary><b>Materiali Utilizzati</b></summary>
@@ -135,7 +136,8 @@ Le orbite sono **quantizzate**, ossia l'elettrone riesce solo una volta accumula
 
 Se alzo più il piede, riesco a salire più gradini alla volta, così come un elettrone riesce a **scalare più di un'orbita** data una maggiore quantità di energia.
 
-![Modello Bohr fotoni elettroni]({{ "/data/img/chimica/percorsi/modelli-atomi/bohr-fotoni-elettroni-orbite.svg" | relative_url }})
+{% picture loaded /data/img/chimica/percorsi/modelli-atomi/bohr-fotoni-elettroni-orbite.svg" | relative_url }} --alt Modello Bohr fotoni elettroni %}
+
 
 Per continuare su un'orbita più ampia di quella stazionaria, però, è necessario un dispendio costante d'energia: quando l'elettrone esaurisce l'energia ricavata sottoforma di calore, torna nell'orbita stazionaria, rilasciando, **per ogni orbita scalata l'energia come fotone**, ossia sottoforma di _luce_.
 
@@ -143,13 +145,15 @@ Conosciamo l'equazione dell'effetto fotoelettrico scoperto da Einstein, in parti
 
 Infatti l'equazione $E=h*\ni$, in cui l'energia è pari alla costante di Planck per la frequenza, ossia il numero di oscillazioni dell'onda al secondo **dimostra** una relazione di **diretta proporzionalità** tra frequenza ed energia.
 
-![Misurazione frequenza in Hertz]({{ "/data/img/chimica/percorsi/modelli-atomi/frequenza-onde.gif" | relative_url }})
+{% picture loaded /data/img/chimica/percorsi/modelli-atomi/frequenza-onde.gif" | relative_url }} --alt Misurazione frequenza in Hertz %}
+
 
 La frequenza viene misurata in Hertz (Hz), ossia numero di oscillazioni dell'onda al secondo.
 
 Nello spettro del visibile, visibile appunto all'occhio umano, le lunghezze d'onda maggiori (~700nm) - dunque onde di frequenza ed energia minori - formano il rosso, mentre le minori (~400nm) - onde di frequenza ed energia maggiori - il blu.
 
-![Spettro della luce visibile]({{ "/data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg" | relative_url }})
+{% picture loaded /data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg" | relative_url }} --alt Spettro della luce visibile %}
+
 
 Ne consegue che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, emetteranno una luce rossa. 
 

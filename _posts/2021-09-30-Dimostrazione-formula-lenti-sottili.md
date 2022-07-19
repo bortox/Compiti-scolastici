@@ -34,7 +34,8 @@ $$ \frac{1}{p}+\frac{1}{q}=\frac{1}{f} $$
 
 ## Dimostrazione
 
-![Dimostrazione grafica con disegno]({{ "data/img/fisica/appunti/lenti/dimostrazione-snell.jpg" | relative_url }})
+{% picture loaded data/img/fisica/appunti/lenti/dimostrazione-snell.jpg" | relative_url }} --alt Dimostrazione grafica con disegno %}
+
 
 
 Considero i triangoli HCF e FQH', essi sono simili poiché:

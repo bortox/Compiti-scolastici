@@ -13,9 +13,11 @@ tags:
 - pisa
 ---
 
-![Panorama di Piazza dei Miracoli]({{ "/data/img/arte/romanico/piazza-dei-miracoli/panorama.jpeg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/piazza-dei-miracoli/panorama.jpeg --alt Panorama di Piazza dei Miracoli %}
 
-![Pianta di Piazza dei Miracoli]({{ "/data/img/arte/romanico/piazza-dei-miracoli/pianta.jpg" | relative_url}})
+
+{% picture loaded /data/img/arte/romanico/piazza-dei-miracoli/pianta.jpg --alt Pianta di Piazza dei Miracoli %}
+
 
 Il motivo delle arcatelle composite sormontate da arcatelle cieche a tutto sesto diventerà determinante per l' organizzazione urbanistica della piazza attorno al Duomo.
 

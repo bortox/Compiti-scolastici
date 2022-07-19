@@ -20,13 +20,15 @@ tags:
 ---
 
 
-![Facciata della Cattedrale di San Gemignano]({{ "/data/img/arte/romanico/san-gemignano/interno.jpg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/san-gemignano/interno.jpg --alt Facciata della Cattedrale di San Gemignano %}
+
 
 Realizzata a partire dal 1099, consacrata nel 1184, ecco un perfetto esempio dello stile romanico emiliano. 
 
 È stata realizzata a partire da una precedente chiesa del VII secolo e ne mantiene tuttora molte delle caratteristiche architettoniche.
 
-![Planimetria (Pianta) della Cattedrale di San Gemignano]({{ "/data/img/arte/romanico/san-gemignano/pianta.jpg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/san-gemignano/pianta.jpg --alt Planimetria (Pianta) della Cattedrale di San Gemignano %}
+
 
 Priva di **transetto** come Sant' Ambrogio, questa basilica contiene tre **navate** che terminano con **absidi** semicilindriche, quella centrale è larga il doppio delle altre. 
 
@@ -34,7 +36,8 @@ Il **presbiterio**, ampio e rialzato da un _pontile_, consiste in un divisorio s
 
 La copertura lignea in capriate è stata sostituita, nel XIV secolo, da **volte a crociera a sesto acuto**. Otto **pilastri** a fascio dividono la navata centrale in cinque campate, ad ogni pilastro sono affiancate colonne unite da archi, atte a sorreggere il **matroneo**, non praticabile poiché privo di pavimento. Si affaccia sulla navata con delle trifore inquadrate in archi ciechi a tutto sesto. 
 
-![Facciata della Cattedrale di San Gemignano]({{ "/data/img/arte/romanico/san-gemignano/facciata.jpeg" | relative_url}})
+{% picture loaded /data/img/arte/romanico/san-gemignano/facciata.jpeg --alt Facciata della Cattedrale di San Gemignano %}
+
 
 Il portale maggiore, all' entrata, presenta un **protiro** retto da due **leoni stilofori**. Dopo nel corso dei secoli sono stati aggiunti il **rosone** e la **facciata saliente**.
 
