@@ -9,9 +9,6 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Install xmllint
-        run: sudo apt-get install -y libvips-dev libvips-tools
-
       - uses: actions/checkout@v2
 
       # Use GitHub Actions' cache to cache dependencies on servers
@@ -23,10 +20,11 @@ jobs:
             ${{ runner.os }}-gems-
 
       # Use GitHub Deploy Action to build and deploy to Github
-      - uses: jeffreytse/jekyll-deploy-action@v0.1.3
+      - uses: jeffreytse/jekyll-deploy-action@v0.4.0
         with:
           provider: 'github'
           token: ${{ secrets.GH_TOKEN }} # It's your Personal Access Token(PAT)
+          pre_build_commands: apk --update add vips vips-magick
           repository: ''             # Default is current repository
           branch: 'gh-pages'         # Default is gh-pages for github provider
           jekyll_src: './'           # Default is root directory
