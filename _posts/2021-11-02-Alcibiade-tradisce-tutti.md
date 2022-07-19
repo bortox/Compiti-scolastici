@@ -36,4 +36,4 @@ Alcibiades, victis Atheniensibus, non satis tuta eadem loca sibi existimans, pen
 
 ## Analisi del periodo con schema ad albero
 
-{% picture loaded /data/img/latino/versioni/analisi-periodo/13-pagina-403.png --alt Schema visuale dell'analisi del periodo: Alcibiade... tradisce tutti %}
+{% picture loaded /data/img/latino/versioni/analisi-periodo/13-pagina-403.jpg --alt Schema visuale dell'analisi del periodo: Alcibiade... tradisce tutti %}

@@ -136,7 +136,7 @@ Le orbite sono **quantizzate**, ossia l'elettrone riesce solo una volta accumula
 
 Se alzo più il piede, riesco a salire più gradini alla volta, così come un elettrone riesce a **scalare più di un'orbita** data una maggiore quantità di energia.
 
-{% picture loaded /data/img/chimica/percorsi/modelli-atomi/bohr-fotoni-elettroni-orbite.svg --alt Modello Bohr fotoni elettroni %}
+![Modello Bohr fotoni elettroni]({{data/img/chimica/percorsi/modelli-atomi/bohr-fotoni-elettroni-orbite.svg | relative_url }})
 
 
 Per continuare su un'orbita più ampia di quella stazionaria, però, è necessario un dispendio costante d'energia: quando l'elettrone esaurisce l'energia ricavata sottoforma di calore, torna nell'orbita stazionaria, rilasciando, **per ogni orbita scalata l'energia come fotone**, ossia sottoforma di _luce_.
@@ -152,8 +152,7 @@ La frequenza viene misurata in Hertz (Hz), ossia numero di oscillazioni dell'ond
 
 Nello spettro del visibile, visibile appunto all'occhio umano, le lunghezze d'onda maggiori (~700nm) - dunque onde di frequenza ed energia minori - formano il rosso, mentre le minori (~400nm) - onde di frequenza ed energia maggiori - il blu.
 
-{% picture loaded /data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg --alt Spettro della luce visibile %}
-
+![Spettro della luce visibile]({{ /data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg | relative_url }})
 
 Ne consegue che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, emetteranno una luce rossa. 
 

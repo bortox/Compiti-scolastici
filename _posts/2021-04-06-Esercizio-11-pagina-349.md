@@ -70,6 +70,6 @@ capturus est
 
 ## Analisi del periodo con schema ad albero
 
-{% picture loaded /data/img/latino/versioni/analisi-periodo/11-pagina-349.png#border --alt Analisi del periodo di Latino, 5 frasi es. 11 pagina 349 %}
+{% picture loaded /data/img/latino/versioni/analisi-periodo/11-pagina-349.png --alt Analisi del periodo di Latino, 5 frasi es. 11 pagina 349 %}
 
 
