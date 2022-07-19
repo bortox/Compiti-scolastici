@@ -152,7 +152,7 @@ La frequenza viene misurata in Hertz (Hz), ossia numero di oscillazioni dell'ond
 
 Nello spettro del visibile, visibile appunto all'occhio umano, le lunghezze d'onda maggiori (~700nm) - dunque onde di frequenza ed energia minori - formano il rosso, mentre le minori (~400nm) - onde di frequenza ed energia maggiori - il blu.
 
-![Spettro della luce visibile]({{ "/data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg | relative_url" }})
+![Spettro della luce visibile]({{ "/data/img/chimica/percorsi/modelli-atomi/spettro-emissione.svg" | relative_url }})
 
 Ne consegue che se gli elettroni ricevono più energia, allora emetteranno una luce blu, mentre se ne ricevono meno, emetteranno una luce rossa. 
 
