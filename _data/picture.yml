@@ -92,7 +92,7 @@ presets:
         compression: 9
       webp:
         effort: 5
-    formats: [avif, webp, jp2 original]
+    formats: [avif, webp, jp2, original]
     dimension_attributes: true
 
   # This is an example of how you would create a 'multiplier' based srcset; useful when an image
