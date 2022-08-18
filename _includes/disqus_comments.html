@@ -12,21 +12,23 @@
       comments_script.setAttribute('data-dislikes', '1');
       comments_script.setAttribute('data-colorful', '1');
       comments_script.setAttribute('data-color', '8A2BE2');
+      x.style.margin = "1em";
       x.appendChild(comments_script);
     } else {
       var text = document.createElement('p');
-      text.innerHTML = 'Telegram non è sufficientemente sicuro? Per esprimere la tua opinione allora puoi inviarmi una <strong>email</strong> e la <strong>pubblicherò come commento</strong> su questa pagina. È una mail riservata? Se sai cosa vuol dire, criptala con la mia chiave pubblica disponibile nel keyserver di openpgp.org.'
+      text.innerHTML = 'Telegram non è sufficientemente sicuro? Per esprimere la tua opinione allora puoi inviarmi una <strong>email</strong> e la <strong>pubblicherò come commento</strong> su questa pagina.<br>'
       var link = document.createElement('a');
       link.setAttribute('href','mailto:bortox@disroot.org')
       link.innerHTML = "Il mio indirizzo di posta elettronica (bortox@disroot.org)."
       text.appendChild(link)
+      x.style.margin = "2em";
       x.appendChild(text)
     }
     document.getElementById("mc-link").style.display = "none";
   };
 </script>
 <div class="nottoprint cards">
-<div id="mc-div" class="center nottoprint">
+<div id="mc-div" style="margin-bottom: 1em" class="center nottoprint">
   <a href="https://bortox.it/contribuisci-cs/" class="center calmlink" style="font-size:1.3em" >✨ sostieni bortox.it ✨</a>
 </div>
 <div class="nottoprint" style="margin-bottom:1em;display:none" id="tg_comments"></div>
