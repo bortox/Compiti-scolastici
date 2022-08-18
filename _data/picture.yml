@@ -37,6 +37,12 @@ presets:
         800: 80
         1200: 75
         1600: 80
+      jp2:
+        200: 100
+        400: 90
+        800: 80
+        1200: 75
+        1600: 80
 
     widths: [200, 400, 800, 1200, 1600] # Image widths, in pixels.
     noscript: true # add a fallback image inside a <noscript> tag.
@@ -86,7 +92,7 @@ presets:
         compression: 9
       webp:
         effort: 5
-    formats: [avif, webp, original]
+    formats: [avif, webp, jp2 original]
     dimension_attributes: true
 
   # This is an example of how you would create a 'multiplier' based srcset; useful when an image
