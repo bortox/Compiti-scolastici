@@ -8,8 +8,8 @@
     background: linear-gradient(230deg,rgba(248, 248, 255, 0.2),rgba(255, 250, 250,0.25));
 }
 .center {
-    text-align: center;
-    margin: 0 auto;
+    text-align: center !important;
+    margin: 0 auto !important;
 }
 #search-input {
     margin: 0;

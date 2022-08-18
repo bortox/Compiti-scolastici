@@ -1,24 +1,33 @@
 <script type="text/javascript">
   function mostra_commenti(){
     x = document.getElementById("tg_comments")
-    x.scrollIntoView({behavior: "smooth", block: "start"});
-    var comments_script = document.createElement('script');
-    comments_script.type = 'text/javascript';
-    comments_script.async = true;
-    comments_script.src = 'https://comments.app/js/widget.js?3';
-    comments_script.setAttribute('data-comments-app-website', '2quoGpt8');
-    comments_script.setAttribute('data-limit', '15');
-    comments_script.setAttribute('data-dislikes', '1');
-    comments_script.setAttribute('data-colorful', '1');
-    comments_script.setAttribute('data-color', '8A2BE2');
-    document.getElementById("mc-div").style.display = "none";
-    x.appendChild(comments_script);
+    x.style.display = "block";
+    if (confirm("Accetti la Politica sulla Privacy (https://telegram.org/privacy) di Telegram?") == true) {
+      var comments_script = document.createElement('script');
+      comments_script.type = 'text/javascript';
+      comments_script.async = true;
+      comments_script.src = 'https://comments.app/js/widget.js?3';
+      comments_script.setAttribute('data-comments-app-website', '2quoGpt8');
+      comments_script.setAttribute('data-limit', '15');
+      comments_script.setAttribute('data-dislikes', '1');
+      comments_script.setAttribute('data-colorful', '1');
+      comments_script.setAttribute('data-color', '8A2BE2');
+      x.appendChild(comments_script);
+    } else {
+      var text = document.createElement('p');
+      text.innerHTML = 'Telegram non è sufficientemente sicuro? Per esprimere la tua opinione allora puoi inviarmi una <strong>email</strong> e la <strong>pubblicherò come commento</strong> su questa pagina. È una mail riservata? Se sai cosa vuol dire, criptala con la mia chiave pubblica disponibile nel keyserver di openpgp.org.'
+      var link = document.createElement('a');
+      link.setAttribute('href','mailto:bortox@disroot.org')
+      link.innerHTML = "Il mio indirizzo di posta elettronica (bortox@disroot.org)."
+      text.appendChild(link)
+      x.appendChild(text)
+    }
+    document.getElementById("mc-link").style.display = "none";
   };
 </script>
 <div class="nottoprint cards">
-<div id="mc-div" class="nottoprint card">
-  <button id="mc" class="card" onclick="mostra_commenti()">Commenta via Telegram</button>
-  <p style="font-size:0.69em;text-align: justify;">Cliccando il pulsante soprastante potrai commentare questo post con il tuo account Telegram. Cliccando il bottone "Commenta via Telegram", accetti la <a class="external-link" href="https://telegram.org/privacy">politica sulla privacy</a> di Telegram.</p>
+<div id="mc-div" class="center nottoprint">
+  <a href="https://bortox.it/contribuisci-cs/" class="center calmlink" style="font-size:1.3em" >✨ sostieni bortox.it ✨</a>
 </div>
-<div class="nottoprint card" id="tg_comments"></div>
+<div class="nottoprint" style="margin-bottom:1em;display:none" id="tg_comments"></div>
 </div>
