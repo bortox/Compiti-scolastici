@@ -1,24 +1,22 @@
-<div class="nottoprint mc-div" id="cusdis_thread" style="display:none"
-  data-host="https://cusdis.com"
-  data-app-id="5af093c5-8600-4397-b5c5-93bf700e22a1"
-  data-page-id="{{ page.id }}"
-  data-page-url="{{ page.url }}"
-  data-page-title="{{ page.title }}"
-></div>
 <script type="text/javascript">
   function mostra_commenti(){
-    x = document.getElementById("cusdis_thread")
-    x.style = "display=block;background-color:azure";
+    x = document.getElementById("tg_comments")
+    x.scrollIntoView({behavior: "smooth", block: "start"});
     var comments_script = document.createElement('script');
     comments_script.type = 'text/javascript';
     comments_script.async = true;
-    comments_script.src = 'https://cusdis.com/js/cusdis.es.js';
-    document.body.appendChild(comments_script);
+    comments_script.src = 'https://comments.app/js/widget.js?3';
+    comments_script.setAttribute('data-comments-app-website', '2quoGpt8');
+    comments_script.setAttribute('data-limit', '15');
+    comments_script.setAttribute('data-dislikes', '1');
+    comments_script.setAttribute('data-colorful', '1');
+    comments_script.setAttribute('data-color', '8A2BE2');
     document.getElementById("mc-div").style.display = "none";
-    x.scrollIntoView({behavior: "smooth", block: "start"});
+    x.appendChild(comments_script);
   };
 </script>
-<div id="mc-div" class="mc-div">
-  <p style="font-size:0.69em;text-align: justify;">Cliccando il pulsante sottostante sarà aperta la sezione dei commenti, con sfondo azzurro chiaro. Cliccando il bottone "Lascia un Commento", accetti la <a class="external-link" href="https://cusdis.com/privacy-policy">politica sulla privacy</a> di cusdis.</p>
-  <button id="mc" class="card" onclick="mostra_commenti()">Lascia un commento</button>
+<div id="mc-div" class="nottoprint card">
+  <button id="mc" class="card" onclick="mostra_commenti()">Commenta via Telegram</button>
+  <p style="font-size:0.69em;text-align: justify;">Cliccando il pulsante soprastante potrai commentare questo post con il tuo account Telegram. Cliccando il bottone "Commenta via Telegram", accetti la <a class="external-link" href="https://telegram.org/privacy">politica sulla privacy</a> di Telegram.</p>
 </div>
+<div class="nottoprint card" id="tg_comments"></div>
