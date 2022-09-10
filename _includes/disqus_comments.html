@@ -1,16 +1,22 @@
 <script type="text/javascript">
+  var remark_config = {
+    host: 'https://commenti.vps.bortox.it',
+    theme: 'dark',
+    page_title: '{{ page.title }}',
+    locale: 'it',
+    show_email_subscription: false,
+    simple_view: true
+  };
   function mostra_commenti(){
-    x = document.getElementById("isso-thread")
-    x.style.display = "block";
     var comments_script = document.createElement('script');
-    comments_script.src = 'https://commenti.bortox.it/js/embed.min.js';
-    comments_script.setAttribute('data-isso', 'https://commenti.bortox.it');
+    comments_script.innerHTML = '!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);';
     document.body.appendChild(comments_script);
+    document.getElementById("mc-link").innerHTML = '✔️ commenta 💬';
   };
 </script>
 <div class="nottoprint cards">
-<div id="mc-div" style="margin-bottom: 1em" class="center nottoprint">
+<div id="mc-div" style="margin:1em" class="center nottoprint">
   <a href="https://bortox.it/contribuisci-cs/" class="center calmlink" style="font-size:1.3em" >✨ sostieni bortox.it ✨</a>
 </div>
-<div class="nottoprint" style="margin:1em;display:none" id="isso-thread"></div>
+<div class="nottoprint" style="margin:1em" id="remark42"></div>
 </div>
