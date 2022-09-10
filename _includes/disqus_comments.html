@@ -2,13 +2,16 @@
   var remark_config = {
     host: 'https://commenti.vps.bortox.it',
     site_id: 'remark',
-    theme: 'dark',
+    theme: 'light',
     max_shown_comments: 25,
     show_rss_subscription: false,
     page_title: '{{ page.title }}',
     locale: 'it',
     show_email_subscription: false,
     simple_view: true
+  };
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    remark_config['theme'] = 'dark';
   };
   function mostra_commenti(){
     var comments_script = document.createElement('script');
