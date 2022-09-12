@@ -41,6 +41,8 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
             {%- endfor -%}
           </details>
           {% endfor %}
+          <h4> Ultimi commenti:</h4>
+          <div class="remark42__last-comments" data-max="50"></div>
         </div>
 
     <div class="nottoprint">
@@ -78,6 +80,14 @@ materia:  "Compiti,scolastici,bortox,borto,andrea,bortolotti,latino,lss"
     </script>
     <script defer src="{{ site.baseurl }}/js/share-menu.min.js" type="module"></script>
     <share-menu id="shareMenu" title="{{ page.title }}" text="{{ page.description | truncatewords: 20 }}" url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" dialog-title="Condividi ora!"></share-menu>
+    <script>
+    var remark_config = {
+        host: "https://commenti.vps.bortox.it",
+        site_id: "remark",
+        components: ["last-comments"],
+    }
+    </script>  
+    <script async defer>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
     <script defer>
     function Sharee() {
       document.getElementById("chclick").src = "{{ '/data/img/loghi/cuore.svg' | relative_url }}";
