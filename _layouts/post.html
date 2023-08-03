@@ -124,10 +124,15 @@ layout: default
                 const selection = window.getSelection();
                 const selectedText = selection.toString();
                 const url = window.location.href;
-                const textWithUrl = `${selectedText} \nOffrimi un panino: https://bortox.it/contribuisci-cs`;
-            
-                event.clipboardData.setData('text/plain', textWithUrl);
-                event.preventDefault();
+                const textWithUrl = `${selectedText} \n\nSono al quinto anno di liceo e tra sport, vita sociale e studio resta poco tempo per occuparsi di Compiti Scolastici e sfornare spesso nuovi contenuti. Se ti va di aiutarmi, scrivimi una mail a bort0x[chiocciola]tuta.io oppure offrimi un panino: https://bortox.it/contribuisci-cs `;
+                if (window.confirm('Compiti Scolastici è gratuito e lo sarà sempre. Aiutami a mantenerlo così!')) 
+                {
+                    window.location.href='https://bortox.it/contribuisci-cs';
+                } else {
+                    event.clipboardData.setData('text/plain', textWithUrl);
+                    event.preventDefault();
+                }
+                
             });
             </script>
             
